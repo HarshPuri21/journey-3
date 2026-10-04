@@ -1,0 +1,438 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "hiraizumi_l01",
+  "number": 2,
+  "title": "Hiraizumi — 平泉",
+  "goal": "Read a familiar water component in a new name, understand left/right, and describe a quiet visit.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_左",
+    "kanji_右",
+    "kanji_本",
+    "kanji_休"
+  ],
+  "encounterKanji": [
+    "kanji_人",
+    "kanji_公",
+    "kanji_口",
+    "kanji_名",
+    "kanji_園",
+    "kanji_場",
+    "kanji_大",
+    "kanji_寺",
+    "kanji_小",
+    "kanji_巻",
+    "kanji_平",
+    "kanji_店",
+    "kanji_所",
+    "kanji_日",
+    "kanji_有",
+    "kanji_木",
+    "kanji_水",
+    "kanji_泉",
+    "kanji_温",
+    "kanji_町",
+    "kanji_石",
+    "kanji_花",
+    "kanji_行",
+    "kanji_読",
+    "kanji_静",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A Place to Look Carefully",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "平泉",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "ひらいずみ — Hiraizumi"
+        },
+        {
+          "type": "text",
+          "text": "Hiraizumi is known for historic Buddhist sites and gardens, including Chusonji and Motsuji. It is a town in Iwate, and some of its cultural sites form part of a UNESCO World Heritage property. We will not invent a local legend or ask you to memorise dates."
+        },
+        {
+          "type": "text",
+          "text": "**平泉に行きます。**\nひらいずみに いきます。\nI go / will go to Hiraizumi."
+        },
+        {
+          "type": "text",
+          "text": "This is the same destination structure we used across Hokkaido and Aomori. Today a simple visitor map helps us add left/right, and a quiet resting scene helps us add description and reading a book."
+        }
+      ]
+    },
+    {
+      "id": "inside_hiraizumi",
+      "title": "Inside 平泉",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Kanji:** 平 · **Meaning/readings:** flat; level; たいら/ひら; on ヘイ/ビョウ · **Radical and modern parts:** Indexing radical 干, かん. The horizontal/vertical and two upper strokes are useful recognition shapes · **Learning role:** Encounter. A “level surface” is a mnemonic, not a rule for all words containing 平.",
+            "**Kanji:** 泉 · **Meaning/readings:** spring; いずみ; on セン · **Radical and modern parts:** Radical 水, みず. Modern 白-shaped section above 水 · **Learning role:** Reviewed encounter. Water is the useful connection; “white water” is not the character's historical definition."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**平泉 / ひらいずみ**. Hokkaido gave us **温泉 / おんせん**. Here the same 泉 appears with **いずみ** rather than **せん**."
+        },
+        {
+          "type": "text",
+          "text": "A shared kanji does not mean the two words have the same reading or refer to the same kind of site. Hiraizumi's name is not a promise that the visitor scene is a hot-spring visit."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_平",
+            "kanji_泉"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ichi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_mizu"
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c03",
+      "title": "左 and 右: Similar, Not Identical",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**左** — ひだり — left; on サ.\n**右** — みぎ — right; on ウ/ユウ."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 左 · **Indexing radical:** 工, たくみ · **Recognition pieces:** A shared hand-like upper-left shape plus 工",
+            "**Character:** 右 · **Indexing radical:** 口, くち · **Recognition pieces:** A similar upper-left shape plus 口"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Focus on **工 versus 口** when the two characters feel similar. A memory aid can connect the lower pieces to the direction; it does not prove a historical reason why one direction is “work” and the other is “mouth.”"
+        },
+        {
+          "type": "text",
+          "text": "**左** and **右** often appear on maps and signs. Learn the ordinary words ひだり and みぎ before trying to memorise all their on-reading compounds."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c04",
+      "title": "The Reference Object Comes First",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**駅の右に店があります。**\nえきの みぎに みせが あります。\nThere is a shop to the right of the station."
+        },
+        {
+          "type": "text",
+          "text": "**駅の左に寺があります。**\nえきの ひだりに てらが あります。\nThere is a temple to the left of the station."
+        },
+        {
+          "type": "text",
+          "text": "These are **fictional map examples**, not directions to a real Hiraizumi temple. 寺 / てら = temple, an assisted character; お寺 / おてら is a common polite form."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown: 駅の右 = the station's right side; に = position; 店があります = a shop is there. Ask “right of what?” so you do not translate の carelessly or reverse the relation."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c05",
+      "title": "Point to the Correct Place",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**この寺** — この てら — this temple.\n**その店** — その みせ — that shop near the listener.\n**あの駅** — あの えき — that station over there.\n**どの寺** — どの てら — which temple?"
+        },
+        {
+          "type": "text",
+          "text": "**どの寺ですか。**\nどの てらですか。\nWhich temple is it?"
+        },
+        {
+          "type": "text",
+          "text": "**駅の左の寺です。**\nえきの ひだりの てらです。\nIt is the temple to the left of the station."
+        },
+        {
+          "type": "text",
+          "text": "The second の joins **駅の左** to **寺**: the temple on the station's left. This is a connected noun phrase, not a new location verb. It extends the の pattern you already know."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c06",
+      "title": "本: A Familiar Character, a New Study Goal",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**本** — ほん — book; also “origin/base” in other words."
+        },
+        {
+          "type": "text",
+          "text": "You met 本 in **日本 / にほん**. Today we formally study it in a common independent word. 本 is indexed under **木**, き. Notice a 木-like structure with a small lower stroke marking the base/root area. This helps connect its “origin” meaning; the modern “book” word is learned as a word, not guessed from every stroke."
+        },
+        {
+          "type": "text",
+          "text": "**これは本です。**\nこれは ほんです。\nThis is a book."
+        },
+        {
+          "type": "text",
+          "text": "**本を読みます。**\nほんを よみます。\nI read / will read a book."
+        },
+        {
+          "type": "text",
+          "text": "読む / よむ is a core usable word today, while 読 stays an encounter character with reading assistance. Later communication lessons can formally study the full read/write/talk character group."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c07",
+      "title": "休: A Small Pause",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**休む** — やすむ — rest; take a break.\n**休みます** — やすみます — rest / will rest."
+        },
+        {
+          "type": "text",
+          "text": "休 uses **亻**, にんべん, a side form of 人, as its radical. The other component is **木**. A person beside a tree is a useful rest-related memory image and a clear connection between already familiar shapes."
+        },
+        {
+          "type": "text",
+          "text": "**公園で休みます。**\nこうえんで やすみます。\nI rest in the park."
+        },
+        {
+          "type": "text",
+          "text": "Compare **公園にいます** (I am in the park) with **公園で休みます** (I rest in the park). Location of existence uses に; location of the rest action uses で."
+        },
+        {
+          "type": "text",
+          "text": "Hokkaido's reading used 休める. Today's 休む is the verb “rest.” Do not treat やすむ and やすめる as interchangeable forms of the same dictionary word."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c08",
+      "title": "Quiet Is a な-Adjective",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**静か** — しずか — quiet; な-adjective, assisted kanji."
+        },
+        {
+          "type": "text",
+          "text": "**静かな場所** — しずかな ばしょ — a quiet place.\n**この場所は静かです。**\nこの ばしょは しずかです。\nThis place is quiet."
+        },
+        {
+          "type": "text",
+          "text": "The adjective needs **な before a noun**. Compare きれいな町 and 有名な場所, building on Otaru and Noboribetsu."
+        },
+        {
+          "type": "text",
+          "text": "For a polite negative:\n**この場所は静かではありません。**\nこの ばしょは しずかでは ありません。\nThis place is not quiet."
+        },
+        {
+          "type": "text",
+          "text": "**静かじゃありません** is also a common polite spoken negative. This description is different from **人はいません**: one says “not quiet”; the other says “no person is there.”"
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c09",
+      "title": "A Negative Description Is Not Negative Existence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**What you mean:** It is not a temple · **Japanese pattern:** 寺ではありません / てらではありません",
+            "**What you mean:** There is no temple · **Japanese pattern:** 寺はありません / てらはありません",
+            "**What you mean:** It is not quiet · **Japanese pattern:** 静かではありません / しずかではありません",
+            "**What you mean:** There is no person · **Japanese pattern:** 人はいません / ひとはいません"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The extra **では** matters. We are not saying that a temple is alive; we are identifying whether something is a temple."
+        },
+        {
+          "type": "text",
+          "text": "For い-adjectives, reuse the other negative pattern:\n**この石は大きくないです。**\nこの いしは おおきくないです。\nThis stone is not big."
+        },
+        {
+          "type": "text",
+          "text": "Do not attach ではありません directly to the ordinary い-adjective in place of practising its own inflection."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c10",
+      "title": "Connect Two Short Sentences",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**そして** — and then; and, adding related information.\n**でも** — but, introducing contrast."
+        },
+        {
+          "type": "text",
+          "text": "**公園で休みます。そして、本を読みます。**\nこうえんで やすみます。そして、ほんを よみます。\nI rest in the park. Then I read a book."
+        },
+        {
+          "type": "text",
+          "text": "**この場所は小さいです。でも、きれいです。**\nこの ばしょは ちいさいです。でも、きれいです。\nThis place is small. But it is beautiful."
+        },
+        {
+          "type": "text",
+          "text": "The action/place in these sentences is fictional practice. We do not promise that an actual temple allows every activity everywhere."
+        },
+        {
+          "type": "text",
+          "text": "Keep each clause short. You do not need to turn every account into a long sentence. と joined nouns in Aomori; そして/でも connect these complete thoughts in a different way."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c11",
+      "title": "Practice: Map and Description",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Our practice map places a shop right of a station and a temple left of it."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Which sentence identifies the temple? 駅の左に寺があります / 駅の右に寺があります.",
+            "Make **静かです** negative politely.",
+            "Which means “It is not a shop”? 店ではありません / 店はありません.",
+            "Which particle belongs in **公園＿＿休みます**? に / で."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Answers:** 1 駅の左に寺があります. 2 静かではありません or 静かじゃありません. 3 店ではありません; the other says no shop is there. 4 で, because resting is an action."
+        }
+      ]
+    },
+    {
+      "id": "hiraizumi_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Location:** 平泉 — ひらいずみ; 泉 also appears in 温泉 / おんせん.",
+            "**Directions:** 左/ひだり; 右/みぎ; compare 工 and 口 to recognise the shapes.",
+            "**Positions:** 駅の左/右に…; 駅の左の寺.",
+            "**Book/rest:** 本/ほん; 読みます/よみます; 休みます/やすみます.",
+            "**な-adjective:** 静かな場所; 静かです; 静かではありません.",
+            "**Keep separate:** 寺ではありません versus 寺はありません; quietness versus a person's existence.",
+            "**Connections:** そして adds/continues; でも contrasts.",
+            "**Review:** action で; existence に; の chains; この/どの; negative い-adjectives."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Lesson complete. Next location: Hanamaki / 花巻.**"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_左",
+            "kanji_右",
+            "kanji_本",
+            "kanji_休"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_温泉"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_場所"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_この"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_どの"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_平泉"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_静か"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_そして"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_でも"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_花巻"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Hiraizumi complete",
+    "nextText": "Next: Hanamaki",
+    "nextChapter": "iwate/hanamaki"
+  }
+}

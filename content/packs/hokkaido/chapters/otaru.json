@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "otaru",
+ "name": "小樽",
+ "nameEn": "Otaru",
+ "reading": "おたる",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/chitose"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "otaru_l01",
+   "file": "lessons/otaru_l01.json"
+  }
+ ]
+}

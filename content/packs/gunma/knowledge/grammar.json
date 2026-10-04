@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_verb_groups",
+      "title": "The three taught verb groups",
+      "pattern": "Group 1 / Group 2 / irregular する・来る",
+      "explanation": "Learn the group together with each dictionary word. Group 2 drops る before て; Group 1 uses sound families. A final る alone does not determine the group: 帰る/座る are Group 1, 食べる/着る Group 2."
+    },
+    {
+      "id": "grammar_te_u_tsu_ru",
+      "title": "Group 1: う・つ・る → って",
+      "pattern": "会う→会って / 待つ→待って / 帰る→帰って",
+      "explanation": "For taught Group 1 words ending う/つ/る, use って. This rule is distinct from Group 2's remove-る-plus-て pattern."
+    },
+    {
+      "id": "grammar_te_mu_bu_nu",
+      "title": "Group 1: む・ぶ・ぬ → んで",
+      "pattern": "読む→読んで / 遊ぶ→遊んで / 死ぬ→死んで",
+      "explanation": "The explicitly taught sound family gives んで. 住む→住んで connects back to the earlier residence model."
+    },
+    {
+      "id": "grammar_te_group2",
+      "title": "Group 2 connecting form",
+      "pattern": "食べる→食べて / 着る→着て",
+      "explanation": "For identified Group 2 words, remove final る and add て. Do not apply this to every word ending る."
+    },
+    {
+      "id": "grammar_te_irregular",
+      "title": "Irregular する and 来る",
+      "pattern": "する→して / 来る→来て",
+      "explanation": "する gives して; 来るくる gives 来てきて. 勉強する→勉強して keeps the compound's noun part."
+    },
+    {
+      "id": "grammar_te_ku_gu",
+      "title": "Group 1: く→いて; ぐ→いで",
+      "pattern": "書く→書いて / 泳ぐ→泳いで",
+      "explanation": "The voiced ぐ family gives いで. 行く is the separately taught exception 行って."
+    },
+    {
+      "id": "grammar_te_su_iku",
+      "title": "Group 1: す→して; exception 行く",
+      "pattern": "話す→話して / 行く→行って",
+      "explanation": "The す sound family gives して. 行く exceptionally gives 行って, not 行いて; distinguish written 行って and 言って despite shared sound いって."
+    },
+    {
+      "id": "grammar_te_request",
+      "title": "Request an action: Vてください",
+      "pattern": "座ってください / 少し待ってください",
+      "explanation": "Use the connecting te-form followed by ください. This extends the earlier noun request Nをください without conflating the two patterns."
+    },
+    {
+      "id": "grammar_te_sequence",
+      "title": "Simple ordered action sequence",
+      "pattern": "Vて、Vました",
+      "explanation": "The connecting first form links ordered actions; the final polite verb carries the sentence's taught tense. Keep the supplied order and meaning."
+    },
+    {
+      "id": "grammar_noru_vehicle_ni",
+      "title": "Vehicle with 乗る",
+      "pattern": "電車 に 乗ります",
+      "explanation": "The boarded/ridden vehicle takes に in this model; compare transport means で with 行く/帰る."
+    },
+    {
+      "id": "grammar_progress_teiru",
+      "title": "Current activity with Vています",
+      "pattern": "今、駅で本を読んでいます",
+      "explanation": "Connecting form plus います describes current activity for the taught verbs. Nonpast 読みます can express habit; bare person います states existence."
+    },
+    {
+      "id": "grammar_progress_negative_past",
+      "title": "Negative and past activity",
+      "pattern": "Vていません / Vていました / Vていませんでした",
+      "explanation": "These forms extend the taught progress model. Preserve て-form and change the polite います ending. Context distinguishes not-currently-doing from not-yet-completed use."
+    },
+    {
+      "id": "grammar_mada_still",
+      "title": "Still doing an activity",
+      "pattern": "まだ + Vています",
+      "explanation": "Positive ongoing activity with まだ means still doing in the supplied scene. It differs from not-yet completion with a negative."
+    },
+    {
+      "id": "grammar_mada_not_yet_verb",
+      "title": "Not yet completed",
+      "pattern": "まだ + Vていません",
+      "explanation": "In the supplied completion question/answer, this says the action has not yet been completed. Compare short earlier まだです and もう + polite past for already completed action."
+    },
+    {
+      "id": "grammar_continuing_states",
+      "title": "Explicit continuing states",
+      "pattern": "住んでいます / 着ています / 持っています",
+      "explanation": "The supplied verbs describe residing, wearing, and holding/having states in context. Vています does not always translate as a current English -ing action."
+    },
+    {
+      "id": "grammar_adverbial_i",
+      "title": "Adverbial い-adjective form",
+      "pattern": "早い→早く / 遅い→遅く",
+      "explanation": "Remove final い and add く to describe how/when the supplied action occurs. 早く here is early time, while assisted 速い describes speed."
+    }
+  ]
+}

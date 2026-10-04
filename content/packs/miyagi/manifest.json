@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "kind": "packManifest",
+  "packId": "miyagi",
+  "type": "prefecture",
+  "contentVersion": 1,
+  "engineSchemaMin": 1,
+  "title": "宮城",
+  "titleEn": "Miyagi",
+  "cover": "assets/cover.png",
+  "assets": [
+    "assets/cover.png"
+  ],
+  "dependencies": [
+    "hokkaido",
+    "aomori",
+    "iwate"
+  ],
+  "unlock": [
+    {
+      "type": "prefectureComplete",
+      "ref": "iwate"
+    }
+  ],
+  "completion": [
+    {
+      "type": "testPassed",
+      "ref": "miyagi/miyagi_final"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "sendai",
+      "file": "chapters/sendai.json",
+      "map": {
+        "x": 0.15,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "matsushima",
+      "file": "chapters/matsushima.json",
+      "map": {
+        "x": 0.38,
+        "y": 0.4
+      }
+    },
+    {
+      "id": "ishinomaki",
+      "file": "chapters/ishinomaki.json",
+      "map": {
+        "x": 0.62,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "shiroishi",
+      "file": "chapters/shiroishi.json",
+      "map": {
+        "x": 0.85,
+        "y": 0.8
+      }
+    }
+  ],
+  "knowledge": {
+    "kanji": "knowledge/kanji.json",
+    "radicals": "knowledge/radicals.json",
+    "vocabulary": "knowledge/vocabulary.json",
+    "grammar": "knowledge/grammar.json",
+    "sentences": "knowledge/sentences.json"
+  },
+  "questionBank": "tests/questions.json",
+  "reading": {
+    "id": "miyagi_reading",
+    "title": "Miyagi Reading Journey",
+    "file": "reading/miyagi_reading.json",
+    "unlock": [
+      {
+        "type": "chapterComplete",
+        "ref": "miyagi/shiroishi"
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": "miyagi_final",
+      "title": "Miyagi Test",
+      "questionCount": 30,
+      "passRatio": 0.7,
+      "tags": [
+        "miyagi_final"
+      ],
+      "quotas": {
+        "kanji": 5,
+        "radical": 5,
+        "numbers": 5,
+        "vocabulary": 5,
+        "grammar": 5,
+        "reading": 5
+      },
+      "unlock": [
+        {
+          "type": "lessonComplete",
+          "ref": "miyagi/miyagi_reading"
+        }
+      ]
+    }
+  ],
+  "completionCriteria": [
+    "Read the location names as complete words.",
+    "Recognise the assigned core words and their sentence roles.",
+    "Retrieve the taught radicals and modern component distinctions.",
+    "Complete the location lessons and the thirty-sentence reading.",
+    "Pass the thirty-question prefecture assessment at 21/30."
+  ]
+}

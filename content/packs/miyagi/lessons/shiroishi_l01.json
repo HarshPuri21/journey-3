@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "shiroishi_l01",
+  "number": 4,
+  "title": "Shiroishi — 白石",
+  "goal": "Distinguish distance, height and price, and recognise adjective tense.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_近",
+    "kanji_遠",
+    "kanji_高",
+    "kanji_安"
+  ],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_二",
+    "kanji_円",
+    "kanji_千",
+    "kanji_口",
+    "kanji_古",
+    "kanji_山",
+    "kanji_店",
+    "kanji_新",
+    "kanji_本",
+    "kanji_白",
+    "kanji_百",
+    "kanji_石",
+    "kanji_行",
+    "kanji_買",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Reusing Both Characters of a City Name",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Shiroishi is associated with Shiroishi Castle and its castle-town setting. Our shop and map exercises are invented; they do not give real walking distances or admission prices."
+        },
+        {
+          "type": "text",
+          "text": "**白石に行きました。** しろいしに いきました。 — I went to Shiroishi."
+        },
+        {
+          "type": "text",
+          "text": "We can recognise both name characters from earlier lessons. That is the reward of cumulative learning: we spend less effort decoding a familiar shape and more effort expressing a new relationship. The whole place reading still matters even when its components are already known."
+        }
+      ]
+    },
+    {
+      "id": "inside_shiroishi",
+      "title": "Inside 白石",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 白 · **Meaning/readings:** white; しろ; 白い = しろい; ハク · **Radical/components:** 白, しろ; short upper stroke over the enclosed lower section · **Role:** Review from Matsushima.",
+            "**Character:** 石 · **Meaning/readings:** stone; いし; セキ/シャク · **Radical/components:** 石, いし; upper strokes and a lower 口-like section · **Role:** Review from Morioka."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**白石 / しろいし** is a name. **白い石 / しろいいし** is the ordinary phrase “a white stone.” The adjective's extra い matters. Do not omit it in the ordinary description merely because the place name uses 白 directly before 石. Character glosses alone do not establish the name's origin."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_白",
+            "kanji_石"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ishi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_shiro"
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c03",
+      "title": "近: Near",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**近い / ちかい — near; 駅に近い / えきにちかい — near the station.** Radical **辶**, しんにょう, with **斤** inside. 辶 provides a movement/route-related connection; 斤 is associated with historical sound structure. Notice the same 斤 shape that helped identify 新."
+        },
+        {
+          "type": "text",
+          "text": "**この店は駅に近いです。** この みせは えきに ちかいです。 — This shop is near the station."
+        },
+        {
+          "type": "text",
+          "text": "Here 駅に gives the reference point for “near.” It is neither the action-place で nor a time. Ask “near what?” before choosing a particle. 近い is an い-adjective, not an existence verb."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_near_ni"
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c04",
+      "title": "遠: Far",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**遠い / とおい — far; 駅から遠い / えきからとおい — far from the station.** Radical **辶**, しんにょう, with **袁** inside, a historical sound element. Its inner strokes are recognition pieces; we do not require the learner to use 袁 as a standalone word."
+        },
+        {
+          "type": "text",
+          "text": "**あの店は駅から遠いです。** あの みせは えきから とおいです。 — That shop over there is far from the station."
+        },
+        {
+          "type": "text",
+          "text": "Contrast the fictional map: this shop is near the station; the other is far from it. から marks the reference point “from” here, extending its familiar origin use. Being far does not tell us whether the shop is expensive."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_far_kara"
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c05",
+      "title": "高: Height or Price?",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**高い / たかい — high; expensive.** 高 is its own radical, たかい. Its stacked modern shape is building-derived; the several enclosed sections are not three independent 口 words added together."
+        },
+        {
+          "type": "text",
+          "text": "**あの山は高いです。** あの やまは たかいです。 — That mountain is high."
+        },
+        {
+          "type": "text",
+          "text": "**この本は高いです。** この ほんは たかいです。 — This book is expensive."
+        },
+        {
+          "type": "text",
+          "text": "The noun and context select the ordinary English meaning. A mountain has height; a shop book has a price. Do not infer “expensive mountain” in our landscape sentence. We practise both common uses without adding obscure compounds."
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c06",
+      "title": "安: Cheap",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**安い / やすい — cheap; inexpensive.** Radical **宀**, うかんむり, above **女**. These visible components help recognise 安. A remembered picture of a roof and person is a mnemonic, not a rule about people's social roles or the price of houses."
+        },
+        {
+          "type": "text",
+          "text": "**この本は安いです。** この ほんは やすいです。 — This book is inexpensive."
+        },
+        {
+          "type": "text",
+          "text": "**安い本 / やすいほん — an inexpensive book.** 安 has other meanings in compounds, but our word here concerns price. “Cheap” in this lesson does not automatically mean poor quality. The language expresses the price description; further judgments need context."
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c07",
+      "title": "A Price and a Description",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Fictional labels: one book costs **三百円 / さんびゃくえん — 300 yen**; another **千二百円 / せんにひゃくえん — 1,200 yen**."
+        },
+        {
+          "type": "text",
+          "text": "**この本は三百円です。安いです。** この ほんは さんびゃくえんです。やすいです。 — This book is 300 yen. It is inexpensive."
+        },
+        {
+          "type": "text",
+          "text": "**その本は千二百円です。** その ほんは せんにひゃくえんです。 — That book is 1,200 yen."
+        },
+        {
+          "type": "text",
+          "text": "Prices are exact quantities in the exercise; 高い/安い are the speaker's judgments. Keep the earlier sound change 三百 = さんびゃく. We do not claim that these are actual shop prices or a universal cheap/expensive threshold."
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c08",
+      "title": "Four Polite Adjective Descriptions",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Unlike a verb, an ordinary い-adjective carries its own changes before polite です:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Meaning:** is inexpensive · **Taught form:** 安いです · **Reading:** やすいです",
+            "**Meaning:** is not inexpensive · **Taught form:** 安くないです · **Reading:** やすくないです",
+            "**Meaning:** was inexpensive · **Taught form:** 安かったです · **Reading:** やすかったです",
+            "**Meaning:** was not inexpensive · **Taught form:** 安くなかったです · **Reading:** やすくなかったです"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Remove final い, then add くない, かった, or くなかった as appropriate. Do not construct **安いでした**. This formalises the past-description pattern rather than introducing a new plain-style conversation. The same taught pattern applies to 高い, 近い, 遠い, 新しい and 古い."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_i_adjective_past"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_i_adjective_past_negative"
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c09",
+      "title": "Action Tense Is Different",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**安い本を買いました。** やすい ほんを かいました。 — I bought an inexpensive book."
+        },
+        {
+          "type": "text",
+          "text": "**この本は安かったです。** この ほんは やすかったです。 — This book was inexpensive."
+        },
+        {
+          "type": "text",
+          "text": "The first places the completed buying action in the past; the adjective inside the noun phrase is unchanged. The second places the price description in the past. **この店は駅に近くなかったです。** この みせは えきに ちかくなかったです。 — This shop was not near the station."
+        },
+        {
+          "type": "text",
+          "text": "Read the actual ending rather than assume every past account uses ました. We have not yet introduced all tense patterns for な-adjectives and nouns."
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c10",
+      "title": "A Small Decision in a Shop",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**この本はいくらですか。** この ほんは いくらですか。 — How much is this book?"
+        },
+        {
+          "type": "text",
+          "text": "**三百円です。** さんびゃくえんです。 — It is 300 yen."
+        },
+        {
+          "type": "text",
+          "text": "**この本を買います。** この ほんを かいます。 — I will buy this book."
+        },
+        {
+          "type": "text",
+          "text": "Then the narrator reports: **白石で安い本を買いました。** しろいしで やすい ほんを かいました。 — I bought an inexpensive book in Shiroishi."
+        },
+        {
+          "type": "text",
+          "text": "The purchase follows an explicit choice; the story does not introduce a new causal grammar pattern. この still needs the noun 本. A polite question and a simple statement are enough for this scene."
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c11",
+      "title": "Practice: Meaning and Endings",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Translate 白い石 and read 白石. **Answer:** a white stone, しろいいし; Shiroishi, しろいし.",
+            "Read 三百円. **Answer:** さんびゃくえん.",
+            "高い with 山 describes what? **Answer:** height.",
+            "Make 安いです past. **Answer:** 安かったです.",
+            "Make 近いです past negative. **Answer:** 近くなかったです.",
+            "Does “not cheap” always mean “expensive”? **Answer:** No; negating one description is not a complete price classification."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shiroishi_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "近い is ちかい; 遠い is とおい. Use a supplied reference point for distance. 高い can concern height or price; 安い concerns price in our examples. 安いです/安くないです/安かったです/安くなかったです are four taught descriptions. Do not use 安いでした."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I bought an inexpensive book in Shiroishi.” **Model:** 白石で安い本を買いました。 Miyagi's four location lessons are complete. Read its cumulative story and take its test before Akita."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_近",
+            "kanji_遠",
+            "kanji_高",
+            "kanji_安"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_白石"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_近い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_遠い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_高い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_安い"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Shiroishi complete",
+    "nextText": "Next: Miyagi Reading Journey"
+  }
+}

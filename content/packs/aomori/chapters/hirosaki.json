@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "hirosaki",
+  "name": "弘前",
+  "nameEn": "Hirosaki",
+  "reading": "ひろさき",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "aomori/aomori"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "hirosaki_l01",
+      "file": "lessons/hirosaki_l01.json"
+    }
+  ]
+}

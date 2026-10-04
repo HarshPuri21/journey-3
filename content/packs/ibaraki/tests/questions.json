@@ -1,0 +1,2024 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_p05_ibaraki_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 今 meaning now.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ひがし"
+        },
+        {
+          "id": "b",
+          "text": "とし"
+        },
+        {
+          "id": "c",
+          "text": "いま"
+        },
+        {
+          "id": "d",
+          "text": "きょう"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_今"
+      ],
+      "explanation": "今 is the ordinary word いま; 今日 is the whole word きょう."
+    },
+    {
+      "id": "q_p05_ibaraki_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 午前.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "うままえ"
+        },
+        {
+          "id": "b",
+          "text": "なんじ"
+        },
+        {
+          "id": "c",
+          "text": "ごご"
+        },
+        {
+          "id": "d",
+          "text": "ごぜん"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_午前"
+      ],
+      "explanation": "午前 is the AM expression ごぜん."
+    },
+    {
+      "id": "q_p05_ibaraki_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 時間.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しゅう"
+        },
+        {
+          "id": "b",
+          "text": "じかん"
+        },
+        {
+          "id": "c",
+          "text": "じま"
+        },
+        {
+          "id": "d",
+          "text": "ときにち"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_時間"
+      ],
+      "explanation": "時間 is じかん; 間 distinguishes hours of duration from clock-hour labels."
+    },
+    {
+      "id": "q_p05_ibaraki_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 今年 in the taught this-year word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "こんしゅう"
+        },
+        {
+          "id": "b",
+          "text": "いまねん"
+        },
+        {
+          "id": "c",
+          "text": "ことし"
+        },
+        {
+          "id": "d",
+          "text": "らいねん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_今年"
+      ],
+      "explanation": "今年 is learned as the whole word ことし."
+    },
+    {
+      "id": "q_p05_ibaraki_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 毎週.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "まいしゅう"
+        },
+        {
+          "id": "b",
+          "text": "まいとし"
+        },
+        {
+          "id": "c",
+          "text": "まいつき"
+        },
+        {
+          "id": "d",
+          "text": "まいにち"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_毎週"
+      ],
+      "explanation": "毎週 is every week, まいしゅう."
+    },
+    {
+      "id": "q_p05_ibaraki_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 曜日.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ようび"
+        },
+        {
+          "id": "b",
+          "text": "ひよう"
+        },
+        {
+          "id": "c",
+          "text": "げつ"
+        },
+        {
+          "id": "d",
+          "text": "にちかん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_曜日"
+      ],
+      "explanation": "曜日 is ようび, weekday/day of the week."
+    },
+    {
+      "id": "q_p05_ibaraki_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character means east in the studied compass set?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "西"
+        },
+        {
+          "id": "b",
+          "text": "北"
+        },
+        {
+          "id": "c",
+          "text": "東"
+        },
+        {
+          "id": "d",
+          "text": "南"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_東"
+      ],
+      "explanation": "東 is ひがし in the ordinary direction word."
+    },
+    {
+      "id": "q_p05_ibaraki_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 南口.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "きたぐち"
+        },
+        {
+          "id": "b",
+          "text": "みなみぐち"
+        },
+        {
+          "id": "c",
+          "text": "ひがしぐち"
+        },
+        {
+          "id": "d",
+          "text": "にしぐち"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_南口"
+      ],
+      "explanation": "南口 is the south exit, みなみぐち."
+    },
+    {
+      "id": "q_p05_ibaraki_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 待つ.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "たつ"
+        },
+        {
+          "id": "b",
+          "text": "つかう"
+        },
+        {
+          "id": "c",
+          "text": "まつ"
+        },
+        {
+          "id": "d",
+          "text": "つくる"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_待つ"
+      ],
+      "explanation": "待つ is wait, まつ; 立つ is stand."
+    },
+    {
+      "id": "q_p05_ibaraki_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which verb means make?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "待つ"
+        },
+        {
+          "id": "b",
+          "text": "使う"
+        },
+        {
+          "id": "c",
+          "text": "立つ"
+        },
+        {
+          "id": "d",
+          "text": "作る"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_作る"
+      ],
+      "explanation": "作る / つくる is make; 使う is use."
+    },
+    {
+      "id": "q_p05_ibaraki_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is at the top of 茨?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "宀"
+        },
+        {
+          "id": "b",
+          "text": "扌 / 手"
+        },
+        {
+          "id": "c",
+          "text": "艹 / 艸"
+        },
+        {
+          "id": "d",
+          "text": "氵 / 水"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_kusakanmuri",
+        "kanji_茨"
+      ],
+      "explanation": "茨 has the grass radical 艹 above 次-shaped material."
+    },
+    {
+      "id": "q_p05_ibaraki_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "What is 城's left radical?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "土"
+        },
+        {
+          "id": "b",
+          "text": "刀"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "木"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_tsuchi",
+        "kanji_城"
+      ],
+      "explanation": "城 has 土 beside the sound component 成."
+    },
+    {
+      "id": "q_p05_ibaraki_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "What is 戸's indexing radical?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "戸 itself"
+        },
+        {
+          "id": "b",
+          "text": "尸"
+        },
+        {
+          "id": "c",
+          "text": "口"
+        },
+        {
+          "id": "d",
+          "text": "木"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_to",
+        "kanji_戸"
+      ],
+      "explanation": "戸 is the whole single-door-derived radical, not merely 尸."
+    },
+    {
+      "id": "q_p05_ibaraki_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical frames 日 in 間?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "門"
+        },
+        {
+          "id": "b",
+          "text": "广"
+        },
+        {
+          "id": "c",
+          "text": "宀"
+        },
+        {
+          "id": "d",
+          "text": "囗"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_mon",
+        "kanji_間"
+      ],
+      "explanation": "間 is indexed under 門, with 日 inside."
+    },
+    {
+      "id": "q_p05_ibaraki_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical tops 筑 in related 筑波?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "日"
+        },
+        {
+          "id": "b",
+          "text": "雨"
+        },
+        {
+          "id": "c",
+          "text": "竹 / ⺮"
+        },
+        {
+          "id": "d",
+          "text": "艹 / 艸"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_take",
+        "kanji_筑"
+      ],
+      "explanation": "筑 has the bamboo radical; the lower 巩 is recognition material."
+    },
+    {
+      "id": "q_p05_ibaraki_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on 波's left?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "彳"
+        },
+        {
+          "id": "b",
+          "text": "亻 / 人"
+        },
+        {
+          "id": "c",
+          "text": "氵 / 水"
+        },
+        {
+          "id": "d",
+          "text": "扌 / 手"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_sanzui",
+        "kanji_波"
+      ],
+      "explanation": "波 has the water radical 氵 beside 皮."
+    },
+    {
+      "id": "q_p05_ibaraki_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is taught for 東?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "口"
+        },
+        {
+          "id": "b",
+          "text": "田"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "日"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_ki",
+        "kanji_東"
+      ],
+      "explanation": "東 is indexed under 木; a visible inner 日 does not choose its radical."
+    },
+    {
+      "id": "q_p05_ibaraki_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which left radical appears in 嶋 in 鹿嶋?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "山"
+        },
+        {
+          "id": "b",
+          "text": "鳥"
+        },
+        {
+          "id": "c",
+          "text": "鹿"
+        },
+        {
+          "id": "d",
+          "text": "木"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_yama",
+        "kanji_嶋"
+      ],
+      "explanation": "嶋 is indexed under 山; 鳥 is visible on the right."
+    },
+    {
+      "id": "q_p05_ibaraki_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which left radical distinguishes 待 from 休?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵"
+        },
+        {
+          "id": "b",
+          "text": "彳"
+        },
+        {
+          "id": "c",
+          "text": "艹"
+        },
+        {
+          "id": "d",
+          "text": "亻"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_gyouninben",
+        "kanji_待"
+      ],
+      "explanation": "待 has 彳; 休 has 亻."
+    },
+    {
+      "id": "q_p05_ibaraki_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical links 作 and 使?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "辶"
+        },
+        {
+          "id": "b",
+          "text": "彳"
+        },
+        {
+          "id": "c",
+          "text": "扌 / 手"
+        },
+        {
+          "id": "d",
+          "text": "亻 / 人"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "radical_ninben",
+        "kanji_作",
+        "kanji_使"
+      ],
+      "explanation": "Both have the person-side radical 亻."
+    },
+    {
+      "id": "q_p05_ibaraki_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "午前九時 is which time?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "12 noon"
+        },
+        {
+          "id": "b",
+          "text": "9 PM"
+        },
+        {
+          "id": "c",
+          "text": "3 AM"
+        },
+        {
+          "id": "d",
+          "text": "9 AM"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_午前九時"
+      ],
+      "explanation": "午前 supplies AM; 九時 is nine o'clock."
+    },
+    {
+      "id": "q_p05_ibaraki_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "午後三時 is which time?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "3 AM"
+        },
+        {
+          "id": "b",
+          "text": "3 PM"
+        },
+        {
+          "id": "c",
+          "text": "9 PM"
+        },
+        {
+          "id": "d",
+          "text": "12 midnight"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_午後三時"
+      ],
+      "explanation": "午後 supplies PM; 三時 is three o'clock."
+    },
+    {
+      "id": "q_p05_ibaraki_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二時間.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "にじ"
+        },
+        {
+          "id": "b",
+          "text": "にじかん"
+        },
+        {
+          "id": "c",
+          "text": "ふたり"
+        },
+        {
+          "id": "d",
+          "text": "ふたつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_二時間"
+      ],
+      "explanation": "二時間 is two hours, distinct from two o'clock."
+    },
+    {
+      "id": "q_p05_ibaraki_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "A fictional session runs 9:00 to 11:00 on the same morning. Its length is...?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "十一時間"
+        },
+        {
+          "id": "b",
+          "text": "一時間"
+        },
+        {
+          "id": "c",
+          "text": "三時間"
+        },
+        {
+          "id": "d",
+          "text": "二時間"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_hours_duration"
+      ],
+      "explanation": "The same-day interval is two hours."
+    },
+    {
+      "id": "q_p05_ibaraki_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read April, 四月.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よじ"
+        },
+        {
+          "id": "b",
+          "text": "よんがつ"
+        },
+        {
+          "id": "c",
+          "text": "しがつ"
+        },
+        {
+          "id": "d",
+          "text": "よっか"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_四月"
+      ],
+      "explanation": "The calendar-month reading is しがつ."
+    },
+    {
+      "id": "q_p05_ibaraki_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read September, 九月.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ここのか"
+        },
+        {
+          "id": "b",
+          "text": "くじ"
+        },
+        {
+          "id": "c",
+          "text": "きゅうがつ"
+        },
+        {
+          "id": "d",
+          "text": "くがつ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_九月"
+      ],
+      "explanation": "The calendar-month reading is くがつ."
+    },
+    {
+      "id": "q_p05_ibaraki_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 一日 when it means the first day of a month.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ついたち"
+        },
+        {
+          "id": "b",
+          "text": "いちじ"
+        },
+        {
+          "id": "c",
+          "text": "ひとつ"
+        },
+        {
+          "id": "d",
+          "text": "いちにち"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_一日"
+      ],
+      "explanation": "For the first date use ついたち; a whole-day duration can be いちにち."
+    },
+    {
+      "id": "q_p05_ibaraki_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read the calendar date 二十日.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はつか"
+        },
+        {
+          "id": "b",
+          "text": "ふつか"
+        },
+        {
+          "id": "c",
+          "text": "とおか"
+        },
+        {
+          "id": "d",
+          "text": "にじゅうにち"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_二十日"
+      ],
+      "explanation": "The twentieth has the special date reading はつか."
+    },
+    {
+      "id": "q_p05_ibaraki_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read the calendar date 二十四日.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "にじゅうよじ"
+        },
+        {
+          "id": "b",
+          "text": "よっか"
+        },
+        {
+          "id": "c",
+          "text": "にじゅうよんにち"
+        },
+        {
+          "id": "d",
+          "text": "にじゅうよっか"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_二十四日"
+      ],
+      "explanation": "The twenty-fourth retains the special よっか ending."
+    },
+    {
+      "id": "q_p05_ibaraki_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "A fictional plate's single-item price is 六百円. Read it.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ろっぴゃくえん"
+        },
+        {
+          "id": "b",
+          "text": "ろくひゃくえん"
+        },
+        {
+          "id": "c",
+          "text": "ろくじゅうえん"
+        },
+        {
+          "id": "d",
+          "text": "ろくせんえん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "kanji_六",
+        "kanji_百",
+        "kanji_円"
+      ],
+      "explanation": "This cumulative number review uses 六百 / ろっぴゃく."
+    },
+    {
+      "id": "q_p05_ibaraki_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 水戸.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みと"
+        },
+        {
+          "id": "b",
+          "text": "みど"
+        },
+        {
+          "id": "c",
+          "text": "みずと"
+        },
+        {
+          "id": "d",
+          "text": "すいこ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_水戸"
+      ],
+      "explanation": "水戸 is the whole city name みと."
+    },
+    {
+      "id": "q_p05_ibaraki_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is the current official city name in the lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "つくば市"
+        },
+        {
+          "id": "b",
+          "text": "筑波市 as the current official label"
+        },
+        {
+          "id": "c",
+          "text": "筑州市"
+        },
+        {
+          "id": "d",
+          "text": "つくば山 as the current official city label"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_つくば市"
+      ],
+      "explanation": "Keep the modern hiragana つくば市; 筑波 appears in related words."
+    },
+    {
+      "id": "q_p05_ibaraki_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 日立.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "にちりつ"
+        },
+        {
+          "id": "b",
+          "text": "ひだて"
+        },
+        {
+          "id": "c",
+          "text": "ひたち"
+        },
+        {
+          "id": "d",
+          "text": "にちたち"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_日立"
+      ],
+      "explanation": "Learn the full city reading ひたち."
+    },
+    {
+      "id": "q_p05_ibaraki_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which preserves the modern city spelling?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "鹿山町"
+        },
+        {
+          "id": "b",
+          "text": "鹿島市 as this city's official label"
+        },
+        {
+          "id": "c",
+          "text": "鹿嶋市"
+        },
+        {
+          "id": "d",
+          "text": "鹿鳥市"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_鹿嶋市",
+        "vocab_鹿島神宮"
+      ],
+      "explanation": "The Ibaraki city is 鹿嶋市; 鹿島神宮 is a separate official shrine word."
+    },
+    {
+      "id": "q_p05_ibaraki_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 笠間.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "かさま"
+        },
+        {
+          "id": "b",
+          "text": "たけかん"
+        },
+        {
+          "id": "c",
+          "text": "かさん"
+        },
+        {
+          "id": "d",
+          "text": "りつかん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_笠間"
+      ],
+      "explanation": "The place name is かさま."
+    },
+    {
+      "id": "q_p05_ibaraki_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means west exit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "南口"
+        },
+        {
+          "id": "b",
+          "text": "西口"
+        },
+        {
+          "id": "c",
+          "text": "北口"
+        },
+        {
+          "id": "d",
+          "text": "東口"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_西口"
+      ],
+      "explanation": "西口 / にしぐち is the west exit."
+    },
+    {
+      "id": "q_p05_ibaraki_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means use?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "作る"
+        },
+        {
+          "id": "b",
+          "text": "待つ"
+        },
+        {
+          "id": "c",
+          "text": "立つ"
+        },
+        {
+          "id": "d",
+          "text": "使う"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_使う"
+      ],
+      "explanation": "使う / つかう is use; making is 作る."
+    },
+    {
+      "id": "q_p05_ibaraki_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "What does 作文 / さくぶん mean?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A west exit."
+        },
+        {
+          "id": "b",
+          "text": "A composition."
+        },
+        {
+          "id": "c",
+          "text": "A plate-making price."
+        },
+        {
+          "id": "d",
+          "text": "A calendar date."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_作文"
+      ],
+      "explanation": "作文 reuses 作 and 文 as a useful writing noun."
+    },
+    {
+      "id": "q_p05_ibaraki_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which phrase means one more calendar week in the future, next week?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "先週"
+        },
+        {
+          "id": "b",
+          "text": "毎週"
+        },
+        {
+          "id": "c",
+          "text": "今週"
+        },
+        {
+          "id": "d",
+          "text": "来週"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_来週"
+      ],
+      "explanation": "来週 is next week; 先週 is last week."
+    },
+    {
+      "id": "q_p05_ibaraki_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 今朝, this morning.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "けさ"
+        },
+        {
+          "id": "b",
+          "text": "こんげつ"
+        },
+        {
+          "id": "c",
+          "text": "いまあさ"
+        },
+        {
+          "id": "d",
+          "text": "きょう"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_今朝"
+      ],
+      "explanation": "The taught whole word 今朝 is けさ."
+    },
+    {
+      "id": "q_p05_ibaraki_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the clock-time model: 午前九時＿＿会います。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "の"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "と"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_time_ni"
+      ],
+      "explanation": "The time point uses に in this elementary model."
+    },
+    {
+      "id": "q_p05_ibaraki_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught duration sentence, rest for two hours.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "二時間は人です。"
+        },
+        {
+          "id": "b",
+          "text": "二時間に休みます。"
+        },
+        {
+          "id": "c",
+          "text": "二時間休みます。"
+        },
+        {
+          "id": "d",
+          "text": "二時を休みます。"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_hours_duration"
+      ],
+      "explanation": "The duration precedes 休みます without the time-point に."
+    },
+    {
+      "id": "q_p05_ibaraki_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Which asks what weekday, rather than clock time?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "何時ですか。"
+        },
+        {
+          "id": "b",
+          "text": "何曜日ですか。"
+        },
+        {
+          "id": "c",
+          "text": "何人ですか。"
+        },
+        {
+          "id": "d",
+          "text": "何円ですか。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "vocab_何曜日",
+        "grammar_calendar_words"
+      ],
+      "explanation": "何曜日 asks which weekday."
+    },
+    {
+      "id": "q_p05_ibaraki_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In the taught model, complete a waiting activity's place: 駅＿＿待ちます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "と"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_particle_de",
+        "vocab_待つ"
+      ],
+      "explanation": "で gives the place where the waiting activity occurs."
+    },
+    {
+      "id": "q_p05_ibaraki_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the object waited for: 友だち＿＿待ちます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "へ"
+        },
+        {
+          "id": "b",
+          "text": "から"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "を"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_matsu_object_wo"
+      ],
+      "explanation": "待つ takes the awaited person as an object marked を in this model."
+    },
+    {
+      "id": "q_p05_ibaraki_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the invitation to go together.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いっしょに行くましょう。"
+        },
+        {
+          "id": "b",
+          "text": "いっしょに行きませんか。"
+        },
+        {
+          "id": "c",
+          "text": "いっしょに行きませんでした。"
+        },
+        {
+          "id": "d",
+          "text": "いっしょに行きますん。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_invitation_masenka"
+      ],
+      "explanation": "The explicit shared-activity invitation uses the polite stem plus ませんか."
+    },
+    {
+      "id": "q_p05_ibaraki_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the agreement, let's wait.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "待つましょう。"
+        },
+        {
+          "id": "b",
+          "text": "待ちませんでした。"
+        },
+        {
+          "id": "c",
+          "text": "待ちました。"
+        },
+        {
+          "id": "d",
+          "text": "待ちましょう。"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_agreement_mashou"
+      ],
+      "explanation": "待ち is the polite stem; add ましょう."
+    },
+    {
+      "id": "q_p05_ibaraki_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In the stated standing-position model, complete 駅の前＿＿立ちます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "と"
+        },
+        {
+          "id": "c",
+          "text": "から"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_tatsu_position_ni"
+      ],
+      "explanation": "The taught position pattern uses に with 立つ."
+    },
+    {
+      "id": "q_p05_ibaraki_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the past form, made a plate.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "お皿を作りません。"
+        },
+        {
+          "id": "b",
+          "text": "お皿を作りました。"
+        },
+        {
+          "id": "c",
+          "text": "お皿が使いませんでした。"
+        },
+        {
+          "id": "d",
+          "text": "お皿に作るます。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_polite_past",
+        "vocab_作る"
+      ],
+      "explanation": "作りました reports the completed making action."
+    },
+    {
+      "id": "q_p05_ibaraki_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Does 日本語を使いません alone necessarily say the speaker lacks ability?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "No; it says do not/will not use it in context."
+        },
+        {
+          "id": "b",
+          "text": "Yes; it means forgot every kanji."
+        },
+        {
+          "id": "c",
+          "text": "Yes; it means dislikes Japan."
+        },
+        {
+          "id": "d",
+          "text": "Yes; it always means cannot speak."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "grammar_polite_negative",
+        "vocab_使う"
+      ],
+      "explanation": "A polite negative action statement is not an ability construction."
+    },
+    {
+      "id": "q_p05_ibaraki_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R01: When did the friend meeting happen?\n\nPassage IBARAKI-R01:\n今週、水戸に来ました。\n月曜日の午前九時に友だちに会いました。\n駅の前に店があります。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Saturday at noon."
+        },
+        {
+          "id": "b",
+          "text": "Monday at 9 PM."
+        },
+        {
+          "id": "c",
+          "text": "Tuesday at 10 AM."
+        },
+        {
+          "id": "d",
+          "text": "Monday at 9 AM."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r01_s01",
+        "sent_ibaraki_r01_s02",
+        "sent_ibaraki_r01_s03"
+      ],
+      "explanation": "The line supplies 月曜日の午前九時."
+    },
+    {
+      "id": "q_p05_ibaraki_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R02: How long did the narrator rest?\n\nPassage IBARAKI-R02:\n店で一時間休みました。\n水を飲みました。\n午前十時に店を出ました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ten hours."
+        },
+        {
+          "id": "b",
+          "text": "One hour."
+        },
+        {
+          "id": "c",
+          "text": "Two hours."
+        },
+        {
+          "id": "d",
+          "text": "Until midnight, explicitly stated."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r02_s01",
+        "sent_ibaraki_r02_s02",
+        "sent_ibaraki_r02_s03"
+      ],
+      "explanation": "The story says 一時間休みました."
+    },
+    {
+      "id": "q_p05_ibaraki_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R03: How often does the narrator meet the friend?\n\nPassage IBARAKI-R03:\n火曜日につくばに行きました。\n今年、日本語の本を読みます。\n毎週、友だちと会います。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Every week."
+        },
+        {
+          "id": "b",
+          "text": "Every day."
+        },
+        {
+          "id": "c",
+          "text": "Once next year only."
+        },
+        {
+          "id": "d",
+          "text": "Every month."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r03_s01",
+        "sent_ibaraki_r03_s02",
+        "sent_ibaraki_r03_s03"
+      ],
+      "explanation": "毎週 marks every week."
+    },
+    {
+      "id": "q_p05_ibaraki_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R04: What date is planned next month?\n\nPassage IBARAKI-R04:\n来月の二十日に、またつくばに行きます。\n午前十時から十二時まで日本語を読みます。\n二時間読みます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The first."
+        },
+        {
+          "id": "b",
+          "text": "The twentieth."
+        },
+        {
+          "id": "c",
+          "text": "The twenty-fourth."
+        },
+        {
+          "id": "d",
+          "text": "The fourth."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r04_s01",
+        "sent_ibaraki_r04_s02",
+        "sent_ibaraki_r04_s03"
+      ],
+      "explanation": "来月の二十日 states next month's twentieth."
+    },
+    {
+      "id": "q_p05_ibaraki_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R05: Where is the shop on the fictional map?\n\nPassage IBARAKI-R05:\n水曜日に日立に行きました。\nこの地図では、駅の東に店があります。\n駅の南に公園があります。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "North of the station."
+        },
+        {
+          "id": "b",
+          "text": "West of the station."
+        },
+        {
+          "id": "c",
+          "text": "East of the station."
+        },
+        {
+          "id": "d",
+          "text": "South of the station."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r05_s01",
+        "sent_ibaraki_r05_s02",
+        "sent_ibaraki_r05_s03"
+      ],
+      "explanation": "駅の東 identifies the shop's relation to the station."
+    },
+    {
+      "id": "q_p05_ibaraki_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R06: Where was the friend in the first line?\n\nPassage IBARAKI-R06:\n友だちは西口にいます。\n私は東口にいます。\n友だちは東口に来ました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "East exit."
+        },
+        {
+          "id": "b",
+          "text": "Inside the shop."
+        },
+        {
+          "id": "c",
+          "text": "South exit."
+        },
+        {
+          "id": "d",
+          "text": "West exit."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r06_s01",
+        "sent_ibaraki_r06_s02",
+        "sent_ibaraki_r06_s03"
+      ],
+      "explanation": "The first line states 西口; the later line gives an east-exit arrival."
+    },
+    {
+      "id": "q_p05_ibaraki_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R07: What waiting duration is stated?\n\nPassage IBARAKI-R07:\n金曜日に鹿嶋に行きました。\n駅の前で友だちを待ちました。\n十分待ちました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ten hours."
+        },
+        {
+          "id": "b",
+          "text": "Ten minutes."
+        },
+        {
+          "id": "c",
+          "text": "Until 10 PM, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "One minute."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r07_s01",
+        "sent_ibaraki_r07_s02",
+        "sent_ibaraki_r07_s03"
+      ],
+      "explanation": "十分 is the duration, not a clock time."
+    },
+    {
+      "id": "q_p05_ibaraki_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R08: How did the friend respond to the invitation?\n\nPassage IBARAKI-R08:\n「いっしょに店に行きませんか」と言いました。\n友だちは「はい、行きましょう」と言いました。\n午後二時に店に行きました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Said the west exit was closed."
+        },
+        {
+          "id": "b",
+          "text": "Accepted: はい、行きましょう."
+        },
+        {
+          "id": "c",
+          "text": "Refused: no, I will not go."
+        },
+        {
+          "id": "d",
+          "text": "Asked to make a plate."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r08_s01",
+        "sent_ibaraki_r08_s02",
+        "sent_ibaraki_r08_s03"
+      ],
+      "explanation": "The quoted reply accepts the shared action."
+    },
+    {
+      "id": "q_p05_ibaraki_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R09: What did the narrator make?\n\nPassage IBARAKI-R09:\n土曜日に笠間に行きました。\n小さいお皿を作りました。\n二時間作りました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A big house."
+        },
+        {
+          "id": "b",
+          "text": "A small plate."
+        },
+        {
+          "id": "c",
+          "text": "A calendar."
+        },
+        {
+          "id": "d",
+          "text": "A new train."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r09_s01",
+        "sent_ibaraki_r09_s02",
+        "sent_ibaraki_r09_s03"
+      ],
+      "explanation": "小さいお皿 is the stated object made."
+    },
+    {
+      "id": "q_p05_ibaraki_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IBARAKI-R10: Which prefecture is next?\n\nPassage IBARAKI-R10:\n家で、そのお皿を使いました。\n来週、兄に会います。\n次は栃木です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Gunma."
+        },
+        {
+          "id": "b",
+          "text": "Akita."
+        },
+        {
+          "id": "c",
+          "text": "Tochigi."
+        },
+        {
+          "id": "d",
+          "text": "Hokkaido."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "ibaraki",
+        "ibaraki_final"
+      ],
+      "refs": [
+        "sent_ibaraki_r10_s01",
+        "sent_ibaraki_r10_s02",
+        "sent_ibaraki_r10_s03"
+      ],
+      "explanation": "The final line explicitly says 次は栃木です."
+    }
+  ]
+}

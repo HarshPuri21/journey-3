@@ -1,0 +1,901 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_ibaraki_r01_s01",
+      "jp": "{今週|こんしゅう}、{水戸|みと}に{来|き}ました。",
+      "en": "This week I came to Mito.",
+      "tokens": [
+        {
+          "text": "今週",
+          "reading": "こんしゅう",
+          "vocab": "vocab_今週",
+          "gloss": "this week"
+        },
+        {
+          "text": "水戸",
+          "reading": "みと",
+          "vocab": "vocab_水戸",
+          "gloss": "Mito, whole location name"
+        },
+        {
+          "text": "来",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_今",
+        "kanji_戸",
+        "kanji_来",
+        "kanji_水",
+        "kanji_週"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r01_s02",
+      "jp": "{月曜日|げつようび}の{午前九時|ごぜんくじ}に{友|とも}だちに{会|あ}いました。",
+      "en": "I met my friend at 9 AM on Monday.",
+      "tokens": [
+        {
+          "text": "月曜日",
+          "reading": "げつようび",
+          "vocab": "vocab_月曜日",
+          "gloss": "Monday"
+        },
+        {
+          "text": "午前九時",
+          "reading": "ごぜんくじ",
+          "vocab": "vocab_午前九時",
+          "gloss": "nine a.m."
+        },
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_九",
+        "kanji_会",
+        "kanji_前",
+        "kanji_午",
+        "kanji_友",
+        "kanji_日",
+        "kanji_時",
+        "kanji_曜",
+        "kanji_月"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r01_s03",
+      "jp": "{駅|えき}の{前|まえ}に{店|みせ}があります。",
+      "en": "There is a shop in front of the station.",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "前",
+          "reading": "まえ",
+          "vocab": "vocab_前",
+          "gloss": "in front; before"
+        },
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_前",
+        "kanji_店",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r02_s01",
+      "jp": "{店|みせ}で{一時間|いちじかん}{休|やす}みました。",
+      "en": "I rested at the shop for one hour.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "一時間",
+          "reading": "いちじかん",
+          "vocab": "vocab_一時間",
+          "gloss": "one hour"
+        },
+        {
+          "text": "休",
+          "reading": "やす"
+        }
+      ],
+      "kanji": [
+        "kanji_一",
+        "kanji_休",
+        "kanji_店",
+        "kanji_時",
+        "kanji_間"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r02_s02",
+      "jp": "{水|みず}を{飲|の}みました。",
+      "en": "I drank water.",
+      "tokens": [
+        {
+          "text": "水",
+          "reading": "みず",
+          "vocab": "vocab_水",
+          "gloss": "water"
+        },
+        {
+          "text": "飲",
+          "reading": "の"
+        }
+      ],
+      "kanji": [
+        "kanji_水",
+        "kanji_飲"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r02_s03",
+      "jp": "{午前十時|ごぜんじゅうじ}に{店|みせ}を{出|で}ました。",
+      "en": "I left the shop at 10 AM.",
+      "tokens": [
+        {
+          "text": "午前十時",
+          "reading": "ごぜんじゅうじ",
+          "vocab": "vocab_午前十時",
+          "gloss": "ten a.m."
+        },
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "出",
+          "reading": "で"
+        }
+      ],
+      "kanji": [
+        "kanji_出",
+        "kanji_前",
+        "kanji_十",
+        "kanji_午",
+        "kanji_店",
+        "kanji_時"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r03_s01",
+      "jp": "{火曜日|かようび}につくばに{行|い}きました。",
+      "en": "I went to Tsukuba on Tuesday.",
+      "tokens": [
+        {
+          "text": "火曜日",
+          "reading": "かようび",
+          "vocab": "vocab_火曜日",
+          "gloss": "Tuesday"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_日",
+        "kanji_曜",
+        "kanji_火",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r03_s02",
+      "jp": "{今年|ことし}、{日本語|にほんご}の{本|ほん}を{読|よ}みます。",
+      "en": "This year I read/will read Japanese books.",
+      "tokens": [
+        {
+          "text": "今年",
+          "reading": "ことし",
+          "vocab": "vocab_今年",
+          "gloss": "this year, whole word"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "vocab": "vocab_日本語",
+          "gloss": "Japanese language"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "読",
+          "reading": "よ"
+        }
+      ],
+      "kanji": [
+        "kanji_今",
+        "kanji_年",
+        "kanji_日",
+        "kanji_本",
+        "kanji_語",
+        "kanji_読"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r03_s03",
+      "jp": "{毎週|まいしゅう}、{友|とも}だちと{会|あ}います。",
+      "en": "I meet my friend every week.",
+      "tokens": [
+        {
+          "text": "毎週",
+          "reading": "まいしゅう",
+          "vocab": "vocab_毎週",
+          "gloss": "every week"
+        },
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_会",
+        "kanji_友",
+        "kanji_毎",
+        "kanji_週"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r04_s01",
+      "jp": "{来月|らいげつ}の{二十日|はつか}に、またつくばに{行|い}きます。",
+      "en": "On the twentieth of next month I will go to Tsukuba again.",
+      "tokens": [
+        {
+          "text": "来月",
+          "reading": "らいげつ",
+          "vocab": "vocab_来月",
+          "gloss": "next month"
+        },
+        {
+          "text": "二十日",
+          "reading": "はつか",
+          "vocab": "vocab_二十日",
+          "gloss": "the 20th (day of the month)"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_十",
+        "kanji_日",
+        "kanji_月",
+        "kanji_来",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r04_s02",
+      "jp": "{午前十時|ごぜんじゅうじ}から{十二時|じゅうにじ}まで{日本語|にほんご}を{読|よ}みます。",
+      "en": "I will read Japanese from 10 AM until twelve noon.",
+      "tokens": [
+        {
+          "text": "午前十時",
+          "reading": "ごぜんじゅうじ",
+          "vocab": "vocab_午前十時",
+          "gloss": "ten a.m."
+        },
+        {
+          "text": "十二時",
+          "reading": "じゅうにじ",
+          "vocab": "vocab_十二時",
+          "gloss": "twelve o'clock"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "vocab": "vocab_日本語",
+          "gloss": "Japanese language"
+        },
+        {
+          "text": "読",
+          "reading": "よ"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_前",
+        "kanji_十",
+        "kanji_午",
+        "kanji_日",
+        "kanji_時",
+        "kanji_本",
+        "kanji_語",
+        "kanji_読"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r04_s03",
+      "jp": "{二時間|にじかん}{読|よ}みます。",
+      "en": "I will read for two hours.",
+      "tokens": [
+        {
+          "text": "二時間",
+          "reading": "にじかん",
+          "vocab": "vocab_二時間",
+          "gloss": "two hours"
+        },
+        {
+          "text": "読",
+          "reading": "よ"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_時",
+        "kanji_読",
+        "kanji_間"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r05_s01",
+      "jp": "{水曜日|すいようび}に{日立|ひたち}に{行|い}きました。",
+      "en": "I went to Hitachi on Wednesday.",
+      "tokens": [
+        {
+          "text": "水曜日",
+          "reading": "すいようび",
+          "vocab": "vocab_水曜日",
+          "gloss": "Wednesday"
+        },
+        {
+          "text": "日立",
+          "reading": "ひたち",
+          "vocab": "vocab_日立",
+          "gloss": "Hitachi, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_日",
+        "kanji_曜",
+        "kanji_水",
+        "kanji_立",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r05_s02",
+      "jp": "この{地図|ちず}では、{駅|えき}の{東|ひがし}に{店|みせ}があります。",
+      "en": "On this map there is a shop east of the station.",
+      "tokens": [
+        {
+          "text": "地図",
+          "reading": "ちず",
+          "vocab": "vocab_地図",
+          "gloss": "map, assisted"
+        },
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "東",
+          "reading": "ひがし",
+          "vocab": "vocab_東",
+          "gloss": "east"
+        },
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_図",
+        "kanji_地",
+        "kanji_店",
+        "kanji_東",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r05_s03",
+      "jp": "{駅|えき}の{南|みなみ}に{公園|こうえん}があります。",
+      "en": "There is a park south of the station.",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "南",
+          "reading": "みなみ",
+          "vocab": "vocab_南",
+          "gloss": "south"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "vocab": "vocab_公園",
+          "gloss": "park, assisted"
+        }
+      ],
+      "kanji": [
+        "kanji_公",
+        "kanji_南",
+        "kanji_園",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r06_s01",
+      "jp": "{友|とも}だちは{西口|にしぐち}にいます。",
+      "en": "My friend is at the west exit.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "西口",
+          "reading": "にしぐち",
+          "vocab": "vocab_西口",
+          "gloss": "west exit"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_口",
+        "kanji_西"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r06_s02",
+      "jp": "{私|わたし}は{東口|ひがしぐち}にいます。",
+      "en": "I am at the east exit.",
+      "tokens": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "東口",
+          "reading": "ひがしぐち",
+          "vocab": "vocab_東口",
+          "gloss": "east exit"
+        }
+      ],
+      "kanji": [
+        "kanji_口",
+        "kanji_東",
+        "kanji_私"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r06_s03",
+      "jp": "{友|とも}だちは{東口|ひがしぐち}に{来|き}ました。",
+      "en": "My friend came to the east exit.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "東口",
+          "reading": "ひがしぐち",
+          "vocab": "vocab_東口",
+          "gloss": "east exit"
+        },
+        {
+          "text": "来",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_口",
+        "kanji_来",
+        "kanji_東"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r07_s01",
+      "jp": "{金曜日|きんようび}に{鹿嶋|かしま}に{行|い}きました。",
+      "en": "I went to Kashima on Friday.",
+      "tokens": [
+        {
+          "text": "金曜日",
+          "reading": "きんようび",
+          "vocab": "vocab_金曜日",
+          "gloss": "Friday"
+        },
+        {
+          "text": "鹿嶋",
+          "reading": "かしま",
+          "vocab": "vocab_鹿嶋",
+          "gloss": "Kashima, Ibaraki city spelling"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_嶋",
+        "kanji_日",
+        "kanji_曜",
+        "kanji_行",
+        "kanji_金",
+        "kanji_鹿"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r07_s02",
+      "jp": "{駅|えき}の{前|まえ}で{友|とも}だちを{待|ま}ちました。",
+      "en": "I waited for my friend in front of the station.",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "前",
+          "reading": "まえ",
+          "vocab": "vocab_前",
+          "gloss": "in front; before"
+        },
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "待",
+          "reading": "ま"
+        }
+      ],
+      "kanji": [
+        "kanji_前",
+        "kanji_友",
+        "kanji_待",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r07_s03",
+      "jp": "{十分|じゅっぷん}{待|ま}ちました。",
+      "en": "I waited for ten minutes.",
+      "tokens": [
+        {
+          "text": "十分",
+          "reading": "じゅっぷん",
+          "vocab": "vocab_十分",
+          "gloss": "ten minutes, taught variant"
+        },
+        {
+          "text": "待",
+          "reading": "ま"
+        }
+      ],
+      "kanji": [
+        "kanji_分",
+        "kanji_十",
+        "kanji_待"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r08_s01",
+      "jp": "「いっしょに{店|みせ}に{行|い}きませんか」と{言|い}いました。",
+      "en": "I said, “Would you like to go to the shop together?”",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_店",
+        "kanji_行",
+        "kanji_言"
+      ],
+      "grammar": [
+        "grammar_quotation_to"
+      ]
+    },
+    {
+      "id": "sent_ibaraki_r08_s02",
+      "jp": "{友|とも}だちは「はい、{行|い}きましょう」と{言|い}いました。",
+      "en": "My friend said, “Yes, let's go.”",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_行",
+        "kanji_言"
+      ],
+      "grammar": [
+        "grammar_quotation_to"
+      ]
+    },
+    {
+      "id": "sent_ibaraki_r08_s03",
+      "jp": "{午後二時|ごごにじ}に{店|みせ}に{行|い}きました。",
+      "en": "We went to the shop at 2 PM.",
+      "tokens": [
+        {
+          "text": "午後二時",
+          "reading": "ごごにじ",
+          "vocab": "vocab_午後二時",
+          "gloss": "two p.m."
+        },
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_午",
+        "kanji_店",
+        "kanji_後",
+        "kanji_時",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r09_s01",
+      "jp": "{土曜日|どようび}に{笠間|かさま}に{行|い}きました。",
+      "en": "I went to Kasama on Saturday.",
+      "tokens": [
+        {
+          "text": "土曜日",
+          "reading": "どようび",
+          "vocab": "vocab_土曜日",
+          "gloss": "Saturday"
+        },
+        {
+          "text": "笠間",
+          "reading": "かさま",
+          "vocab": "vocab_笠間",
+          "gloss": "Kasama, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_土",
+        "kanji_日",
+        "kanji_曜",
+        "kanji_笠",
+        "kanji_行",
+        "kanji_間"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r09_s02",
+      "jp": "{小|ちい}さいお{皿|さら}を{作|つく}りました。",
+      "en": "I made a small plate.",
+      "tokens": [
+        {
+          "text": "小",
+          "reading": "ちい"
+        },
+        {
+          "text": "皿",
+          "reading": "さら",
+          "vocab": "vocab_皿",
+          "gloss": "plate; dish"
+        },
+        {
+          "text": "作",
+          "reading": "つく"
+        }
+      ],
+      "kanji": [
+        "kanji_作",
+        "kanji_小",
+        "kanji_皿"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r09_s03",
+      "jp": "{二時間|にじかん}{作|つく}りました。",
+      "en": "I spent two hours making it.",
+      "tokens": [
+        {
+          "text": "二時間",
+          "reading": "にじかん",
+          "vocab": "vocab_二時間",
+          "gloss": "two hours"
+        },
+        {
+          "text": "作",
+          "reading": "つく"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_作",
+        "kanji_時",
+        "kanji_間"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r10_s01",
+      "jp": "{家|いえ}で、そのお{皿|さら}を{使|つか}いました。",
+      "en": "At home I used that plate.",
+      "tokens": [
+        {
+          "text": "家",
+          "reading": "いえ",
+          "vocab": "vocab_家",
+          "gloss": "house; home, taught house-identification reading"
+        },
+        {
+          "text": "皿",
+          "reading": "さら",
+          "vocab": "vocab_皿",
+          "gloss": "plate; dish"
+        },
+        {
+          "text": "使",
+          "reading": "つか"
+        }
+      ],
+      "kanji": [
+        "kanji_使",
+        "kanji_家",
+        "kanji_皿"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r10_s02",
+      "jp": "{来週|らいしゅう}、{兄|あに}に{会|あ}います。",
+      "en": "Next week I will meet my older brother.",
+      "tokens": [
+        {
+          "text": "来週",
+          "reading": "らいしゅう",
+          "vocab": "vocab_来週",
+          "gloss": "next week"
+        },
+        {
+          "text": "兄",
+          "reading": "あに",
+          "vocab": "vocab_兄",
+          "gloss": "older brother, assisted preview before formal Utsunomiya study"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_会",
+        "kanji_兄",
+        "kanji_来",
+        "kanji_週"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_ibaraki_r10_s03",
+      "jp": "{次|つぎ}は{栃木|とちぎ}です。",
+      "en": "Next is Tochigi.",
+      "tokens": [
+        {
+          "text": "次",
+          "reading": "つぎ",
+          "vocab": "vocab_次",
+          "gloss": "next"
+        },
+        {
+          "text": "栃木",
+          "reading": "とちぎ",
+          "vocab": "vocab_栃木",
+          "gloss": "Tochigi, assisted next prefecture name"
+        }
+      ],
+      "kanji": [
+        "kanji_木",
+        "kanji_栃",
+        "kanji_次"
+      ],
+      "grammar": []
+    }
+  ]
+}

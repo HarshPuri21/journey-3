@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_形",
+      "word": "形",
+      "reading": "かたち",
+      "meanings": [
+        "shape, assisted orientation word"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_形"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r01_s01",
+        "sent_yamagata_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_天気",
+      "word": "天気",
+      "reading": "てんき",
+      "meanings": [
+        "weather"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_天",
+        "kanji_気"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_雨",
+      "word": "雨",
+      "reading": "あめ",
+      "meanings": [
+        "rain"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_雨"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r01_s02",
+        "sent_yamagata_r03_s01"
+      ]
+    },
+    {
+      "id": "vocab_雪",
+      "word": "雪",
+      "reading": "ゆき",
+      "meanings": [
+        "snow"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_雪"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r02_s02",
+        "sent_yamagata_r02_s03"
+      ]
+    },
+    {
+      "id": "vocab_寒い",
+      "word": "寒い",
+      "reading": "さむい",
+      "meanings": [
+        "cold, assisted adjective"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_寒"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_晴れ",
+      "word": "晴れ",
+      "reading": "はれ",
+      "meanings": [
+        "clear/fair weather, assisted noun"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_晴"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r01_s03"
+      ]
+    },
+    {
+      "id": "vocab_曇り",
+      "word": "曇り",
+      "reading": "くもり",
+      "meanings": [
+        "cloudiness/cloudy weather, assisted noun"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_曇"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_悪い",
+      "word": "悪い",
+      "reading": "わるい",
+      "meanings": [
+        "bad, assisted"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_悪"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_元気",
+      "word": "元気",
+      "reading": "げんき",
+      "meanings": [
+        "well; energetic, な-adjective"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_元",
+        "kanji_気"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r03_s03"
+      ]
+    },
+    {
+      "id": "vocab_ですから",
+      "word": "ですから",
+      "reading": "ですから",
+      "meanings": [
+        "so; therefore, after a polite statement"
+      ],
+      "pos": "connector",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_yamagata_r03_s02"
+      ]
+    },
+    {
+      "id": "vocab_鶴岡",
+      "word": "鶴岡",
+      "reading": "つるおか",
+      "meanings": [
+        "Tsuruoka, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_岡",
+        "kanji_鶴"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_鶴",
+      "word": "鶴",
+      "reading": "つる",
+      "meanings": [
+        "crane, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_鶴"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_鳥",
+      "word": "鳥",
+      "reading": "とり",
+      "meanings": [
+        "bird"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_鳥"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r04_s02",
+        "sent_yamagata_r04_s03",
+        "sent_yamagata_r05_s01",
+        "sent_yamagata_r05_s03",
+        "sent_yamagata_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_目",
+      "word": "目",
+      "reading": "め",
+      "meanings": [
+        "eye"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_目"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_耳",
+      "word": "耳",
+      "reading": "みみ",
+      "meanings": [
+        "ear"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_耳"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_足",
+      "word": "足",
+      "reading": "あし",
+      "meanings": [
+        "foot; leg"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_足"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r05_s01"
+      ]
+    },
+    {
+      "id": "vocab_聞く",
+      "word": "聞く",
+      "reading": "きく",
+      "meanings": [
+        "hear; listen; ask, depending on the scene"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_聞"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_音",
+      "word": "音",
+      "reading": "おと",
+      "meanings": [
+        "sound, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_音"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_声",
+      "word": "声",
+      "reading": "こえ",
+      "meanings": [
+        "voice; call, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_声"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r04_s03",
+        "sent_yamagata_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_音楽",
+      "word": "音楽",
+      "reading": "おんがく",
+      "meanings": [
+        "music, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_楽",
+        "kanji_音"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_酒田",
+      "word": "酒田",
+      "reading": "さかた",
+      "meanings": [
+        "Sakata, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_田",
+        "kanji_酒"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r07_s01",
+        "sent_yamagata_r08_s01"
+      ]
+    },
+    {
+      "id": "vocab_酒",
+      "word": "酒",
+      "reading": "さけ",
+      "meanings": [
+        "alcoholic drink, assisted orientation word"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_酒"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r07_s01",
+        "sent_yamagata_r08_s01"
+      ]
+    },
+    {
+      "id": "vocab_家",
+      "word": "家",
+      "reading": "いえ",
+      "meanings": [
+        "house; home, taught house-identification reading"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_家"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r07_s02",
+        "sent_yamagata_r07_s03",
+        "sent_yamagata_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_家_home",
+      "word": "家",
+      "reading": "うち",
+      "meanings": [
+        "home, taught return-home reading; いえ is also natural"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_家"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r07_s02",
+        "sent_yamagata_r07_s03",
+        "sent_yamagata_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_住む",
+      "word": "住む",
+      "reading": "すむ",
+      "meanings": [
+        "live; reside"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_住"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_帰る",
+      "word": "帰る",
+      "reading": "かえる",
+      "meanings": [
+        "return; go home"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_帰"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_午後三時",
+      "word": "午後三時",
+      "reading": "ごごさんじ",
+      "meanings": [
+        "three p.m."
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_三",
+        "kanji_午",
+        "kanji_後",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_福島",
+      "word": "福島",
+      "reading": "ふくしま",
+      "meanings": [
+        "Fukushima, assisted next prefecture/city name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_島",
+        "kanji_福"
+      ],
+      "exampleSentences": [
+        "sent_yamagata_r10_s03"
+      ]
+    }
+  ]
+}

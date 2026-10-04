@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "ashikaga",
+  "name": "足利",
+  "nameEn": "Ashikaga",
+  "reading": "あしかが",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "tochigi/nikko"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "ashikaga_l01",
+      "file": "lessons/ashikaga_l01.json"
+    }
+  ]
+}

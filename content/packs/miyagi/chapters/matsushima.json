@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "matsushima",
+  "name": "松島",
+  "nameEn": "Matsushima",
+  "reading": "まつしま",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "miyagi/sendai"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "matsushima_l01",
+      "file": "lessons/matsushima_l01.json"
+    }
+  ]
+}

@@ -1,0 +1,1077 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "asahikawa_l01",
+  "number": 5,
+  "title": "Asahikawa",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_旭",
+    "kanji_誕",
+    "kanji_生"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Asahikawa",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{旭川|あさひかわ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "あさひかわ"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Asahikawa"
+        },
+        {
+          "type": "text",
+          "text": "Asahikawa is one of Hokkaido's major northern cities and an important gateway to the northern Hokkaido area."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "旭"
+        },
+        {
+          "type": "text",
+          "text": "**あさひ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "rising sun / morning sun"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{川|かわ}"
+        },
+        {
+          "type": "text",
+          "text": "**かわ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "river"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{旭川|あさひかわ}"
+        },
+        {
+          "type": "text",
+          "text": "**あさひかわ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Asahikawa"
+        }
+      ]
+    },
+    {
+      "id": "inside_asahikawa",
+      "title": "Inside 旭川",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {旭川|あさひかわ}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_旭",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_川",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_nichi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kawa"
+        },
+        {
+          "type": "callout",
+          "text": "旭 carries 日 (sun) - the morning sun. 川 is its own radical, a picture of a flowing river. You will meet 川 again inside another Hokkaido name: 釧路. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "川",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{川|かわ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "かわ"
+        },
+        {
+          "type": "text",
+          "text": "**kawa**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "river"
+        },
+        {
+          "type": "text",
+          "text": "This is a useful kanji because it appears in many Japanese place names."
+        },
+        {
+          "type": "text",
+          "text": "Examples:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "石{川|かわ}"
+        },
+        {
+          "type": "text",
+          "text": "**いしかわ**"
+        },
+        {
+          "type": "text",
+          "text": "Ishikawa"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "香{川|かわ}"
+        },
+        {
+          "type": "text",
+          "text": "**かがわ**"
+        },
+        {
+          "type": "text",
+          "text": "Kagawa"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{川|かわ}"
+        },
+        {
+          "type": "text",
+          "text": "river"
+        },
+        {
+          "type": "text",
+          "text": "You will see it repeatedly as your Journey continues."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_川",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "月 Has Two Useful Jobs",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You already learned:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{月曜日|げつようび}"
+        },
+        {
+          "type": "text",
+          "text": "**げつようび**"
+        },
+        {
+          "type": "text",
+          "text": "Monday"
+        },
+        {
+          "type": "text",
+          "text": "But:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{月|つき}"
+        },
+        {
+          "type": "text",
+          "text": "**つき**"
+        },
+        {
+          "type": "text",
+          "text": "can also mean:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "moon"
+        },
+        {
+          "type": "text",
+          "text": "And:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一月|いちがつ}"
+        },
+        {
+          "type": "text",
+          "text": "**いちがつ**"
+        },
+        {
+          "type": "text",
+          "text": "means:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "January"
+        },
+        {
+          "type": "text",
+          "text": "So:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{月|つき}"
+        },
+        {
+          "type": "text",
+          "text": "can mean moon,"
+        },
+        {
+          "type": "text",
+          "text": "and:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{月|つき}"
+        },
+        {
+          "type": "text",
+          "text": "can also be used for month."
+        },
+        {
+          "type": "text",
+          "text": "Context matters."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一月"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_月曜日"
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "The Months",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The basic pattern is simple:"
+        },
+        {
+          "type": "text",
+          "text": "**number + {月|つき}**"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一月|いちがつ}"
+        },
+        {
+          "type": "text",
+          "text": "いちがつ\nJanuary"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二月|にがつ}"
+        },
+        {
+          "type": "text",
+          "text": "にがつ\nFebruary"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三月|さんがつ}"
+        },
+        {
+          "type": "text",
+          "text": "さんがつ\nMarch"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{四月|しがつ}"
+        },
+        {
+          "type": "text",
+          "text": "しがつ\nApril"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{五月|ごがつ}"
+        },
+        {
+          "type": "text",
+          "text": "ごがつ\nMay"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{六月|ろくがつ}"
+        },
+        {
+          "type": "text",
+          "text": "ろくがつ\nJune"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{七月|しちがつ}"
+        },
+        {
+          "type": "text",
+          "text": "しちがつ\nJuly"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{八月|はちがつ}"
+        },
+        {
+          "type": "text",
+          "text": "はちがつ\nAugust"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{九月|くがつ}"
+        },
+        {
+          "type": "text",
+          "text": "くがつ\nSeptember"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十月|じゅうがつ}"
+        },
+        {
+          "type": "text",
+          "text": "じゅうがつ\nOctober"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十一月|じゅういちがつ}"
+        },
+        {
+          "type": "text",
+          "text": "じゅういちがつ\nNovember"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十二月|じゅうにがつ}"
+        },
+        {
+          "type": "text",
+          "text": "じゅうにがつ\nDecember"
+        },
+        {
+          "type": "text",
+          "text": "Important:"
+        },
+        {
+          "type": "text",
+          "text": "April is:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{四月|しがつ}"
+        },
+        {
+          "type": "text",
+          "text": "**しがつ**"
+        },
+        {
+          "type": "text",
+          "text": "not *よんがつ*."
+        },
+        {
+          "type": "text",
+          "text": "July is:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{七月|しちがつ}"
+        },
+        {
+          "type": "text",
+          "text": "**しちがつ**"
+        },
+        {
+          "type": "text",
+          "text": "not *なながつ*."
+        },
+        {
+          "type": "text",
+          "text": "September is:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{九月|くがつ}"
+        },
+        {
+          "type": "text",
+          "text": "**くがつ**"
+        },
+        {
+          "type": "text",
+          "text": "not *きゅうがつ*."
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "Dates Are Special",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Days of the month don't always follow the simple number pattern."
+        },
+        {
+          "type": "text",
+          "text": "For example:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一日|ついたち}"
+        },
+        {
+          "type": "text",
+          "text": "**ついたち**"
+        },
+        {
+          "type": "text",
+          "text": "1st"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二日|ふつか}"
+        },
+        {
+          "type": "text",
+          "text": "**ふつか**"
+        },
+        {
+          "type": "text",
+          "text": "2nd"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三日|みっか}"
+        },
+        {
+          "type": "text",
+          "text": "**みっか**"
+        },
+        {
+          "type": "text",
+          "text": "3rd"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{四日|よっか}"
+        },
+        {
+          "type": "text",
+          "text": "**よっか**"
+        },
+        {
+          "type": "text",
+          "text": "4th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{五日|いつか}"
+        },
+        {
+          "type": "text",
+          "text": "**いつか**"
+        },
+        {
+          "type": "text",
+          "text": "5th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{六日|むいか}"
+        },
+        {
+          "type": "text",
+          "text": "**むいか**"
+        },
+        {
+          "type": "text",
+          "text": "6th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{七日|なのか}"
+        },
+        {
+          "type": "text",
+          "text": "**なのか**"
+        },
+        {
+          "type": "text",
+          "text": "7th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{八日|ようか}"
+        },
+        {
+          "type": "text",
+          "text": "**ようか**"
+        },
+        {
+          "type": "text",
+          "text": "8th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{九日|ここのか}"
+        },
+        {
+          "type": "text",
+          "text": "**ここのか**"
+        },
+        {
+          "type": "text",
+          "text": "9th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十日|とおか}"
+        },
+        {
+          "type": "text",
+          "text": "**とおか**"
+        },
+        {
+          "type": "text",
+          "text": "10th"
+        },
+        {
+          "type": "text",
+          "text": "These must be learned as special date readings."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_三日"
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "More Important Dates",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十四日|じゅうよっか}"
+        },
+        {
+          "type": "text",
+          "text": "**じゅうよっか**"
+        },
+        {
+          "type": "text",
+          "text": "14th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二十日|はつか}"
+        },
+        {
+          "type": "text",
+          "text": "**はつか**"
+        },
+        {
+          "type": "text",
+          "text": "20th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二十四日|にじゅうよっか}"
+        },
+        {
+          "type": "text",
+          "text": "**にじゅうよっか**"
+        },
+        {
+          "type": "text",
+          "text": "24th"
+        },
+        {
+          "type": "text",
+          "text": "Most other dates use the regular number + にち pattern."
+        },
+        {
+          "type": "text",
+          "text": "For example:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十五日|じゅうごにち}"
+        },
+        {
+          "type": "text",
+          "text": "**じゅうごにち**"
+        },
+        {
+          "type": "text",
+          "text": "15th"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二十一日|にじゅういちにち}"
+        },
+        {
+          "type": "text",
+          "text": "**にじゅういちにち**"
+        },
+        {
+          "type": "text",
+          "text": "21st"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_十四日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二十日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二十四日"
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "Also watch the readings 十七日（じゅうしちにち）and 十九日（じゅうくにち）. A date is not always read with your preferred standalone number reading."
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "Asking When",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "いつ"
+        },
+        {
+          "type": "text",
+          "text": "**itsu**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "when"
+        },
+        {
+          "type": "text",
+          "text": "Example:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{誕生日|たんじょうび}はいつですか。"
+        },
+        {
+          "type": "text",
+          "text": "**たんじょうびは いつですか。**"
+        },
+        {
+          "type": "text",
+          "text": "**Tanjōbi wa itsu desu ka?**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "When is your birthday?"
+        },
+        {
+          "type": "text",
+          "text": "You don't need to master every part of {誕生日|たんじょうび} yet."
+        },
+        {
+          "type": "text",
+          "text": "This is an example of the Journey's **encounter system**."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_asahikawa_birthday"
+        }
+      ]
+    },
+    {
+      "id": "card_08",
+      "title": "Asahikawa Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{旭川|あさひかわ}は{北海道|ほっかいどう}の{北|きた}にあります。"
+        },
+        {
+          "type": "text",
+          "text": "**あさひかわは ほっかいどうの きたに あります。**"
+        },
+        {
+          "type": "text",
+          "text": "**Asahikawa wa Hokkaidō no kita ni arimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Asahikawa is in the north of Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{旭川|あさひかわ}"
+        },
+        {
+          "type": "text",
+          "text": "Asahikawa"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "は"
+        },
+        {
+          "type": "text",
+          "text": "topic"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{北海道|ほっかいどう}"
+        },
+        {
+          "type": "text",
+          "text": "Hokkaido"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "の"
+        },
+        {
+          "type": "text",
+          "text": "of / belonging to"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{北|きた}"
+        },
+        {
+          "type": "text",
+          "text": "north"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "に"
+        },
+        {
+          "type": "text",
+          "text": "location"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "あります"
+        },
+        {
+          "type": "text",
+          "text": "there is / is located"
+        },
+        {
+          "type": "text",
+          "text": "This introduces:"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "N1 の N2"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "N2 of N1"
+        },
+        {
+          "type": "text",
+          "text": "and:"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "にあります"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "is located at/in"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_asahikawa_location"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_no"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_location_ni_aru"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "{旭川|あさひかわ} — あさひかわ — Asahikawa"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "旭 — rising sun\n{川|かわ} — river"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Months"
+        },
+        {
+          "type": "text",
+          "text": "{一月|いちがつ} through {十二月|じゅうにがつ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Important date readings"
+        },
+        {
+          "type": "text",
+          "text": "{一日|ついたち} — ついたち\n{二日|ふつか} — ふつか\n{三日|みっか} — みっか\n{四日|よっか} — よっか\n{五日|いつか} — いつか\n{六日|むいか} — むいか\n{七日|なのか} — なのか\n{八日|ようか} — ようか\n{九日|ここのか} — ここのか\n{十日|とおか} — とおか\n{十四日|じゅうよっか} — じゅうよっか\n{二十日|はつか} — はつか\n{二十四日|にじゅうよっか} — にじゅうよっか"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "{今日|きょう} — きょう — today\nいつ — when\n{月|つき} — つき — moon / month component\n{北|きた} — きた — north\n{川|かわ} — かわ — river"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "**N1 の N2**"
+        },
+        {
+          "type": "text",
+          "text": "N2 of N1"
+        },
+        {
+          "type": "text",
+          "text": "**N に あります**"
+        },
+        {
+          "type": "text",
+          "text": "is located at/in N"
+        }
+      ]
+    }
+  ],
+  "goal": "Learn 旭・川 Introduce dates and months Learn 月 as both \"month\" and part of Monday Learn the special readings of dates Introduce いつ Practice location + date sentences",
+  "estimatedMinutes": 20,
+  "coreKanji": [
+    "kanji_川"
+  ],
+  "completion": {
+    "title": "Asahikawa complete",
+    "nextText": "Next: Biei",
+    "nextChapter": "hokkaido/biei"
+  }
+}

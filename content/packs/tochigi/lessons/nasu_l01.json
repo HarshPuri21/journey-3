@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "nasu_l01",
+  "number": 4,
+  "title": "Nasu — 那須",
+  "goal": "Describe length and quantity without confusing adjectives with modifiers.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_長",
+    "kanji_短",
+    "kanji_多",
+    "kanji_少"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_五",
+    "kanji_人",
+    "kanji_休",
+    "kanji_小",
+    "kanji_山",
+    "kanji_川",
+    "kanji_文",
+    "kanji_昼",
+    "kanji_時",
+    "kanji_月",
+    "kanji_朝",
+    "kanji_木",
+    "kanji_水",
+    "kanji_牛",
+    "kanji_見",
+    "kanji_読",
+    "kanji_道",
+    "kanji_那",
+    "kanji_間",
+    "kanji_須",
+    "kanji_飲",
+    "kanji_高"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A highland notebook",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Nasu is a highland area in northern Tochigi, associated with outdoor scenery and hot springs. The app's fixed **Nasu** location is retained; a lesson location does not have to be a legally incorporated city."
+        },
+        {
+          "type": "text",
+          "text": "**那須の山を見ます。** なすの やまを みます。 — I look at the mountains in Nasu."
+        },
+        {
+          "type": "text",
+          "text": "Our road lengths, crowds and food quantities are imaginary. We make descriptions of a scene; we do not supply a real hiking distance, crowd forecast or medical claim about bathing."
+        }
+      ]
+    },
+    {
+      "id": "inside_nasu",
+      "title": "Inside 那須",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 那 · **Meaning/reading orientation:** な in this name · **Radical/components:** 邑 as right 阝, おおざと; left is a changed sound-related shape, not 月 · **Status:** Assisted encounter.",
+            "**Character:** 須 · **Meaning/reading orientation:** requirement/beard orientation; す here · **Radical/components:** 頁, おおがい, with 彡 on the left · **Status:** Assisted encounter; three slants are 彡, not 川."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**那須 / なす**. 須's beard-related historical formation should not be converted into a modern “bearded town” story. The ordinary vegetable **なす**, eggplant, shares the sound but is a different word; its harder kanji are not required here."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_那",
+            "kanji_須"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_katachi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_oogai"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_oozato"
+        }
+      ]
+    },
+    {
+      "id": "nasu_c03",
+      "title": "長: long",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**長い / ながい — long.** 長 is its own radical, ながい; learn its long vertical and lower sweeping strokes as one complex whole form. It is not just an elongated 木."
+        },
+        {
+          "type": "text",
+          "text": "**この道は長いです。** このみちは ながいです。 — This road is long."
+        },
+        {
+          "type": "text",
+          "text": "**長い道 / ながいみち — a long road.** Like familiar 高い, this is an ordinary い-adjective: **長くないです / ながくないです**, not long; **長かったです / ながかったです**, was long; **長くなかったです / ながくなかったです**, was not long. We describe length, not automatically travel time."
+        }
+      ]
+    },
+    {
+      "id": "nasu_c04",
+      "title": "短: short",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**短い / みじかい — short.** 短 has radical 矢, やへん, beside 豆, a sound-related component. The left has an arrow-shaped form, not 牛. Its shape helps distinguish it from 長."
+        },
+        {
+          "type": "text",
+          "text": "**この道は短いです。** このみちは みじかいです。 — This road is short."
+        },
+        {
+          "type": "text",
+          "text": "**短い文を読みます。** みじかい ぶんを よみます。 — I read a short sentence."
+        },
+        {
+          "type": "text",
+          "text": "Both roads and text can have length. **短かったです / みじかかったです** is the past description. Do not confuse **小さい**, small in size, with **短い**, short in length, though English contexts can sometimes overlap."
+        }
+      ]
+    },
+    {
+      "id": "nasu_c05",
+      "title": "多: many/a lot",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**多い / おおい — many/a lot; たくさん — many/a lot**, useful quantity word. 多 has radical 夕, ゆうべ; recognise the two similar 夕 forms. These are indexing/shape facts, not a claim that quantity means “two evenings.”"
+        },
+        {
+          "type": "text",
+          "text": "**人が多いです。** ひとが おおいです。 — There are many people."
+        },
+        {
+          "type": "text",
+          "text": "**たくさんの人がいます。** たくさんの ひとが います。 — There are many people."
+        },
+        {
+          "type": "text",
+          "text": "The course uses 多い as a predicate and **たくさんの人** before a noun. Avoid the beginner error **多い人** for “many people”; Japanese quantity phrasing differs from ordinary length adjectives."
+        }
+      ]
+    },
+    {
+      "id": "nasu_c06",
+      "title": "少: few; 少し: a little",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**少ない / すくない — few/little; 少し / すこし — a little.** 少 has radical 小, しょう; notice the extra slanting stroke that distinguishes 少 from 小. The two words share a character but have different grammar roles."
+        },
+        {
+          "type": "text",
+          "text": "**人が少ないです。** ひとが すくないです。 — There are few people."
+        },
+        {
+          "type": "text",
+          "text": "**水を少し飲みます。** みずを すこし のみます。 — I drink a little water."
+        },
+        {
+          "type": "text",
+          "text": "少ない describes quantity; 少し can modify the amount of an action. **少ない人** is not our basic phrase for “few people.” Use 人が少ないです in this beginner pattern."
+        }
+      ]
+    },
+    {
+      "id": "nasu_c07",
+      "title": "More adjective practice",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Meaning:** many · **Present:** 多い / おおい · **Negative:** 多くない / おおくない · **Past:** 多かった / おおかった · **Past negative:** 多くなかった / おおくなかった",
+            "**Meaning:** few · **Present:** 少ない / すくない · **Negative:** 少なくない / すくなくない · **Past:** 少なかった / すくなかった · **Past negative:** 少なくなかった / すくなくなかった"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Add です for our polite descriptions. **人が多くなかったです。** ひとが おおくなかったです。 — There were not many people. **少なくない** literally means not few; it need not mean exactly the same quantity as 多い. Negation does not supply an exact count."
+        }
+      ]
+    },
+    {
+      "id": "nasu_c08",
+      "title": "Quantity does not give a number",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**人が多いです。** ひとが おおいです。 — There are many people."
+        },
+        {
+          "type": "text",
+          "text": "**人が五人います。** ひとが ごにん います。 — There are five people."
+        },
+        {
+          "type": "text",
+          "text": "The first is relative to a context or expectation. The second provides an exact count. You cannot infer five from 多い alone. Likewise 長い says something is long; without a measurement it does not mean a fixed number of kilometres or minutes. Scored questions keep those two kinds of evidence separate."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_qualitative_quantity"
+        }
+      ]
+    },
+    {
+      "id": "nasu_c09",
+      "title": "Compare scenes without new comparison grammar",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**この道は長いです。その道は短いです。** このみちは ながいです。そのみちは みじかいです。 — This road is long. That road is short."
+        },
+        {
+          "type": "text",
+          "text": "**朝は人が少ないです。昼は人が多いです。** あさは ひとが すくないです。ひるは ひとが おおいです。 — In the morning there are few people. At midday there are many."
+        },
+        {
+          "type": "text",
+          "text": "These are descriptions of a fictional day. They do not yet teach より/ほうが comparison grammar or claim actual Nasu crowd patterns."
+        }
+      ]
+    },
+    {
+      "id": "nasu_c10",
+      "title": "A rest dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: この道は長いですか。** このみちは ながいですか。 — Is this road long?"
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、長いです。** はい、ながいです。 — Yes, it is long."
+        },
+        {
+          "type": "text",
+          "text": "**A: 少し休みませんか。** すこし やすみませんか。 — Shall we rest a little?"
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、休みましょう。** はい、やすみましょう。 — Yes, let's rest."
+        },
+        {
+          "type": "text",
+          "text": "少し makes the amount of rest small without giving a precise time. 一時間 would specify an hour. The invitation still comes from the known polite stem rather than a new ability or desire form."
+        }
+      ]
+    },
+    {
+      "id": "nasu_c11",
+      "title": "Practice: adjective or quantity word?",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 那須, 長い, 短い, 多い, 少ない, 少し. **Answers:** なす; ながい; みじかい; おおい; すくない; すこし.",
+            "Which radical is in 短? **Answer:** 矢.",
+            "Which is our “many people” noun phrase: 多い人 / たくさんの人? **Answer:** たくさんの人.",
+            "Make 長いです past negative. **Answer:** 長くなかったです.",
+            "Does 多い give an exact count? **Answer:** No.",
+            "“Drink a little water”: 水を＿＿飲みます。 **Answer:** 少し."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nasu_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "那須 is なす; 那 has right 阝/邑 and 須 has 頁 with 彡. 長い/短い describe length. 多い/少ない describe quantity as predicates in our basic models. Use たくさんの人 for the taught noun phrase, and 少し to modify a small amount of an action. These qualitative words do not supply exact measurements."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “There are few people. Let's rest a little.” **Model:** 人が少ないです。少し休みましょう。 ひとが すくないです。すこし やすみましょう。 Complete Tochigi's reading and test before Gunma."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_長",
+            "kanji_短",
+            "kanji_多",
+            "kanji_少"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_短い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_那須"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_長い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_多い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_少ない"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_少し"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_たくさん"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Nasu complete",
+    "nextText": "Next: Tochigi Reading Journey"
+  }
+}

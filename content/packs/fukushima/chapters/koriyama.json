@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "koriyama",
+  "name": "郡山",
+  "nameEn": "Koriyama",
+  "reading": "こおりやま",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "fukushima/aizuwakamatsu"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "koriyama_l01",
+      "file": "lessons/koriyama_l01.json"
+    }
+  ]
+}

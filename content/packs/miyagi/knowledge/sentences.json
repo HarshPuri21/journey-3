@@ -1,0 +1,830 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_miyagi_r01_s01",
+      "jp": "{岩手|いわて}から{仙台|せんだい}に{行|い}きました。",
+      "en": "I went from Iwate to Sendai.",
+      "tokens": [
+        {
+          "text": "岩手",
+          "reading": "いわて",
+          "vocab": "vocab_岩手",
+          "gloss": "Iwate, next prefecture name"
+        },
+        {
+          "text": "仙台",
+          "reading": "せんだい",
+          "vocab": "vocab_仙台",
+          "gloss": "Sendai, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_仙",
+        "kanji_台",
+        "kanji_岩",
+        "kanji_手",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r01_s02",
+      "jp": "{電車|でんしゃ}で{行|い}きました。",
+      "en": "I went by train.",
+      "tokens": [
+        {
+          "text": "電車",
+          "reading": "でんしゃ",
+          "vocab": "vocab_電車",
+          "gloss": "electric train; train in these scenes"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_行",
+        "kanji_車",
+        "kanji_電"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r01_s03",
+      "jp": "{仙台|せんだい}は{宮城|みやぎ}の{市|し}です。",
+      "en": "Sendai is a city in Miyagi.",
+      "tokens": [
+        {
+          "text": "仙台",
+          "reading": "せんだい",
+          "vocab": "vocab_仙台",
+          "gloss": "Sendai, whole location name"
+        },
+        {
+          "text": "宮城",
+          "reading": "みやぎ",
+          "vocab": "vocab_宮城",
+          "gloss": "Miyagi, next prefecture name"
+        },
+        {
+          "text": "市",
+          "reading": "し",
+          "vocab": "vocab_市",
+          "gloss": "city, suffix in taught municipal names"
+        }
+      ],
+      "kanji": [
+        "kanji_仙",
+        "kanji_台",
+        "kanji_城",
+        "kanji_宮",
+        "kanji_市"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r02_s01",
+      "jp": "{私|わたし}は{駅|えき}にいます。",
+      "en": "I am at the station.",
+      "tokens": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        }
+      ],
+      "kanji": [
+        "kanji_私",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r02_s02",
+      "jp": "{友|とも}だちは{九時半|くじはん}に{駅|えき}に{来|き}ました。",
+      "en": "My friend came to the station at 9:30.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "九時半",
+          "reading": "くじはん",
+          "vocab": "vocab_九時半",
+          "gloss": "nine thirty"
+        },
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "来",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_九",
+        "kanji_半",
+        "kanji_友",
+        "kanji_時",
+        "kanji_来",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r02_s03",
+      "jp": "{友|とも}だちも{電車|でんしゃ}で{来|き}ました。",
+      "en": "My friend also came by train.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "電車",
+          "reading": "でんしゃ",
+          "vocab": "vocab_電車",
+          "gloss": "electric train; train in these scenes"
+        },
+        {
+          "text": "来",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_来",
+        "kanji_車",
+        "kanji_電"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r03_s01",
+      "jp": "{駅|えき}の{前|まえ}に{店|みせ}があります。",
+      "en": "There is a shop in front of the station.",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "前",
+          "reading": "まえ",
+          "vocab": "vocab_前",
+          "gloss": "in front; before"
+        },
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_前",
+        "kanji_店",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r03_s02",
+      "jp": "この{店|みせ}で{水|みず}を{買|か}いました。",
+      "en": "I bought water at this shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "水",
+          "reading": "みず",
+          "vocab": "vocab_水",
+          "gloss": "water"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        }
+      ],
+      "kanji": [
+        "kanji_店",
+        "kanji_水",
+        "kanji_買"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r03_s03",
+      "jp": "そして、{友|とも}だちと{松島|まつしま}へ{行|い}きました。",
+      "en": "Then I went to Matsushima with my friend.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "松島",
+          "reading": "まつしま",
+          "vocab": "vocab_松島",
+          "gloss": "Matsushima, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_島",
+        "kanji_松",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r04_s01",
+      "jp": "{松島|まつしま}で{海|うみ}を{見|み}ました。",
+      "en": "I looked at the sea in Matsushima.",
+      "tokens": [
+        {
+          "text": "松島",
+          "reading": "まつしま",
+          "vocab": "vocab_松島",
+          "gloss": "Matsushima, whole location name"
+        },
+        {
+          "text": "海",
+          "reading": "うみ",
+          "vocab": "vocab_海",
+          "gloss": "sea"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_島",
+        "kanji_松",
+        "kanji_海",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r04_s02",
+      "jp": "{空|そら}は{青|あお}いです。",
+      "en": "The sky is blue.",
+      "tokens": [
+        {
+          "text": "空",
+          "reading": "そら",
+          "vocab": "vocab_空",
+          "gloss": "sky"
+        },
+        {
+          "text": "青",
+          "reading": "あお"
+        }
+      ],
+      "kanji": [
+        "kanji_空",
+        "kanji_青"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r04_s03",
+      "jp": "あの{雲|くも}は{白|しろ}いです。",
+      "en": "That cloud over there is white.",
+      "tokens": [
+        {
+          "text": "雲",
+          "reading": "くも",
+          "vocab": "vocab_雲",
+          "gloss": "cloud, assisted"
+        },
+        {
+          "text": "白",
+          "reading": "しろ",
+          "vocab": "vocab_白",
+          "gloss": "white, noun"
+        }
+      ],
+      "kanji": [
+        "kanji_白",
+        "kanji_雲"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r05_s01",
+      "jp": "この{写真|しゃしん}は{島|しま}の{写真|しゃしん}です。",
+      "en": "This photograph is a photograph of an island.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "島",
+          "reading": "しま",
+          "vocab": "vocab_島",
+          "gloss": "island, assisted"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_島",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r05_s02",
+      "jp": "{島|しま}に{木|き}があります。",
+      "en": "There are trees on the island.",
+      "tokens": [
+        {
+          "text": "島",
+          "reading": "しま",
+          "vocab": "vocab_島",
+          "gloss": "island, assisted"
+        },
+        {
+          "text": "木",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_島",
+        "kanji_木"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r05_s03",
+      "jp": "あの{山|やま}は{高|たか}いです。",
+      "en": "That mountain over there is high.",
+      "tokens": [
+        {
+          "text": "山",
+          "reading": "やま",
+          "vocab": "vocab_山",
+          "gloss": "mountain"
+        },
+        {
+          "text": "高",
+          "reading": "たか"
+        }
+      ],
+      "kanji": [
+        "kanji_山",
+        "kanji_高"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r06_s01",
+      "jp": "{石巻|いしのまき}に{行|い}きました。",
+      "en": "I went to Ishinomaki.",
+      "tokens": [
+        {
+          "text": "石巻",
+          "reading": "いしのまき",
+          "vocab": "vocab_石巻",
+          "gloss": "Ishinomaki, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_巻",
+        "kanji_石",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r06_s02",
+      "jp": "この{本|ほん}は{新|あたら}しいです。",
+      "en": "This book is new.",
+      "tokens": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "新",
+          "reading": "あたら"
+        }
+      ],
+      "kanji": [
+        "kanji_新",
+        "kanji_本"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r06_s03",
+      "jp": "その{本|ほん}は{古|ふる}いです。",
+      "en": "That book is old.",
+      "tokens": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "古",
+          "reading": "ふる"
+        }
+      ],
+      "kanji": [
+        "kanji_古",
+        "kanji_本"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r07_s01",
+      "jp": "この{写真|しゃしん}は{町|まち}の{写真|しゃしん}です。",
+      "en": "This photograph is a photograph of a town.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "町",
+          "reading": "まち",
+          "vocab": "vocab_町",
+          "gloss": "town"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_町",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r07_s02",
+      "jp": "その{写真|しゃしん}は{村|むら}の{写真|しゃしん}です。",
+      "en": "That photograph is a photograph of a village.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "村",
+          "reading": "むら",
+          "vocab": "vocab_村",
+          "gloss": "village"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_村",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r07_s03",
+      "jp": "{石巻市|いしのまきし}は{宮城|みやぎ}にあります。",
+      "en": "Ishinomaki City is in Miyagi.",
+      "tokens": [
+        {
+          "text": "石巻市",
+          "reading": "いしのまきし",
+          "vocab": "vocab_石巻市",
+          "gloss": "Ishinomaki City"
+        },
+        {
+          "text": "宮城",
+          "reading": "みやぎ",
+          "vocab": "vocab_宮城",
+          "gloss": "Miyagi, next prefecture name"
+        }
+      ],
+      "kanji": [
+        "kanji_城",
+        "kanji_宮",
+        "kanji_巻",
+        "kanji_市",
+        "kanji_石"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r08_s01",
+      "jp": "{白石|しろいし}に{行|い}きました。",
+      "en": "I went to Shiroishi.",
+      "tokens": [
+        {
+          "text": "白石",
+          "reading": "しろいし",
+          "vocab": "vocab_白石",
+          "gloss": "Shiroishi, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_白",
+        "kanji_石",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r08_s02",
+      "jp": "この{店|みせ}は{駅|えき}に{近|ちか}いです。",
+      "en": "This shop is near the station.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "近",
+          "reading": "ちか"
+        }
+      ],
+      "kanji": [
+        "kanji_店",
+        "kanji_近",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r08_s03",
+      "jp": "あの{店|みせ}は{駅|えき}から{遠|とお}いです。",
+      "en": "That shop over there is far from the station.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "遠",
+          "reading": "とお"
+        }
+      ],
+      "kanji": [
+        "kanji_店",
+        "kanji_遠",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r09_s01",
+      "jp": "この{本|ほん}は{三百円|さんびゃくえん}です。",
+      "en": "This book is 300 yen.",
+      "tokens": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "三百円",
+          "reading": "さんびゃくえん",
+          "vocab": "vocab_三百円",
+          "gloss": "three hundred yen"
+        }
+      ],
+      "kanji": [
+        "kanji_三",
+        "kanji_円",
+        "kanji_本",
+        "kanji_百"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r09_s02",
+      "jp": "{白石|しろいし}で{安|やす}い{本|ほん}を{買|か}いました。",
+      "en": "I bought an inexpensive book in Shiroishi.",
+      "tokens": [
+        {
+          "text": "白石",
+          "reading": "しろいし",
+          "vocab": "vocab_白石",
+          "gloss": "Shiroishi, whole location name"
+        },
+        {
+          "text": "安",
+          "reading": "やす"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        }
+      ],
+      "kanji": [
+        "kanji_安",
+        "kanji_本",
+        "kanji_白",
+        "kanji_石",
+        "kanji_買"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r09_s03",
+      "jp": "その{本|ほん}は{高|たか}くなかったです。",
+      "en": "That book was not expensive.",
+      "tokens": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "高",
+          "reading": "たか"
+        }
+      ],
+      "kanji": [
+        "kanji_本",
+        "kanji_高"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r10_s01",
+      "jp": "{宮城|みやぎ}で{海|うみ}と{山|やま}を{見|み}ました。",
+      "en": "I saw the sea and mountains in Miyagi.",
+      "tokens": [
+        {
+          "text": "宮城",
+          "reading": "みやぎ",
+          "vocab": "vocab_宮城",
+          "gloss": "Miyagi, next prefecture name"
+        },
+        {
+          "text": "海",
+          "reading": "うみ",
+          "vocab": "vocab_海",
+          "gloss": "sea"
+        },
+        {
+          "text": "山",
+          "reading": "やま",
+          "vocab": "vocab_山",
+          "gloss": "mountain"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_城",
+        "kanji_宮",
+        "kanji_山",
+        "kanji_海",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r10_s02",
+      "jp": "{友|とも}だちも{写真|しゃしん}を{見|み}ました。",
+      "en": "My friend also looked at photographs.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_友",
+        "kanji_真",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_miyagi_r10_s03",
+      "jp": "{次|つぎ}は{秋田|あきた}です。",
+      "en": "Next is Akita.",
+      "tokens": [
+        {
+          "text": "次",
+          "reading": "つぎ",
+          "vocab": "vocab_次",
+          "gloss": "next"
+        },
+        {
+          "text": "秋田",
+          "reading": "あきた",
+          "vocab": "vocab_秋田",
+          "gloss": "Akita, next prefecture/city name"
+        }
+      ],
+      "kanji": [
+        "kanji_次",
+        "kanji_田",
+        "kanji_秋"
+      ],
+      "grammar": []
+    }
+  ]
+}

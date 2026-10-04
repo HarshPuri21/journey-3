@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "sakata",
+  "name": "酒田",
+  "nameEn": "Sakata",
+  "reading": "さかた",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "yamagata/tsuruoka"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "sakata_l01",
+      "file": "lessons/sakata_l01.json"
+    }
+  ]
+}

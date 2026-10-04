@@ -1,0 +1,2027 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_p05_gunma_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 持つ.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "たつ"
+        },
+        {
+          "id": "b",
+          "text": "まつ"
+        },
+        {
+          "id": "c",
+          "text": "つかう"
+        },
+        {
+          "id": "d",
+          "text": "もつ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_持つ"
+      ],
+      "explanation": "持つ is hold/carry/have; 待つ is wait."
+    },
+    {
+      "id": "q_p05_gunma_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 服.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "かわ"
+        },
+        {
+          "id": "b",
+          "text": "きる"
+        },
+        {
+          "id": "c",
+          "text": "もつ"
+        },
+        {
+          "id": "d",
+          "text": "ふく"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_服"
+      ],
+      "explanation": "服 is the clothes noun ふく."
+    },
+    {
+      "id": "q_p05_gunma_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 乗る.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "のる"
+        },
+        {
+          "id": "b",
+          "text": "たつ"
+        },
+        {
+          "id": "c",
+          "text": "すわる"
+        },
+        {
+          "id": "d",
+          "text": "かえる"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_乗る"
+      ],
+      "explanation": "乗る is ride/board, のる."
+    },
+    {
+      "id": "q_p05_gunma_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 座る.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "すわる"
+        },
+        {
+          "id": "b",
+          "text": "まつ"
+        },
+        {
+          "id": "c",
+          "text": "たつ"
+        },
+        {
+          "id": "d",
+          "text": "のる"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_座る"
+      ],
+      "explanation": "座る is sit, すわる."
+    },
+    {
+      "id": "q_p05_gunma_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 早い in the earliness word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あかるい"
+        },
+        {
+          "id": "b",
+          "text": "ながい"
+        },
+        {
+          "id": "c",
+          "text": "おそい"
+        },
+        {
+          "id": "d",
+          "text": "はやい"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_早い"
+      ],
+      "explanation": "早い is early, はやい; speed can use a different helped spelling."
+    },
+    {
+      "id": "q_p05_gunma_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 遅い.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みじかい"
+        },
+        {
+          "id": "b",
+          "text": "くらい"
+        },
+        {
+          "id": "c",
+          "text": "はやい"
+        },
+        {
+          "id": "d",
+          "text": "おそい"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_遅い"
+      ],
+      "explanation": "遅い is late/slow, おそい."
+    },
+    {
+      "id": "q_p05_gunma_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 明るい in the lighting word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しろい"
+        },
+        {
+          "id": "b",
+          "text": "あかるい"
+        },
+        {
+          "id": "c",
+          "text": "くらい"
+        },
+        {
+          "id": "d",
+          "text": "あたらしい"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_明るい"
+      ],
+      "explanation": "明るい is bright, あかるい."
+    },
+    {
+      "id": "q_p05_gunma_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 暗い.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あかるい"
+        },
+        {
+          "id": "b",
+          "text": "おそい"
+        },
+        {
+          "id": "c",
+          "text": "おおい"
+        },
+        {
+          "id": "d",
+          "text": "くらい"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_暗い"
+      ],
+      "explanation": "暗い is dark, くらい."
+    },
+    {
+      "id": "q_p05_gunma_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read the taught te-form 来て.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "くて"
+        },
+        {
+          "id": "b",
+          "text": "こて"
+        },
+        {
+          "id": "c",
+          "text": "きて"
+        },
+        {
+          "id": "d",
+          "text": "きって"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_irregular",
+        "vocab_来る"
+      ],
+      "explanation": "来る / くる changes to 来て / きて."
+    },
+    {
+      "id": "q_p05_gunma_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 帰って in the return-home word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "かえって"
+        },
+        {
+          "id": "b",
+          "text": "もって"
+        },
+        {
+          "id": "c",
+          "text": "きって"
+        },
+        {
+          "id": "d",
+          "text": "かえりて"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_u_tsu_ru",
+        "vocab_帰る"
+      ],
+      "explanation": "帰る is Group 1 and gives 帰って / かえって."
+    },
+    {
+      "id": "q_p05_gunma_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on 群's right?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "魚"
+        },
+        {
+          "id": "b",
+          "text": "馬"
+        },
+        {
+          "id": "c",
+          "text": "牛"
+        },
+        {
+          "id": "d",
+          "text": "羊"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_hitsuji",
+        "kanji_群"
+      ],
+      "explanation": "群 has 羊 beside historical sound component 君."
+    },
+    {
+      "id": "q_p05_gunma_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on 橋's left?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "禾"
+        },
+        {
+          "id": "b",
+          "text": "彳"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "氵"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_ki",
+        "kanji_橋"
+      ],
+      "explanation": "橋 has 木 beside 喬."
+    },
+    {
+      "id": "q_p05_gunma_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical distinguishes 持 from 待?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "艹 / 艸"
+        },
+        {
+          "id": "b",
+          "text": "彳"
+        },
+        {
+          "id": "c",
+          "text": "亻 / 人"
+        },
+        {
+          "id": "d",
+          "text": "扌 / 手"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_te",
+        "kanji_持"
+      ],
+      "explanation": "持 has the hand radical 扌; 待 has 彳."
+    },
+    {
+      "id": "q_p05_gunma_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is taught for 服?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "月"
+        },
+        {
+          "id": "b",
+          "text": "又"
+        },
+        {
+          "id": "c",
+          "text": "舟 as its modern dictionary radical"
+        },
+        {
+          "id": "d",
+          "text": "衣"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_tsuki",
+        "kanji_服"
+      ],
+      "explanation": "The modern indexing radical is 月; historical formation is a separate question."
+    },
+    {
+      "id": "q_p05_gunma_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on 崎's left?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "田"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "山"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_yama",
+        "kanji_崎"
+      ],
+      "explanation": "崎 has 山 beside 奇."
+    },
+    {
+      "id": "q_p05_gunma_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is taught for 乗?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "馬"
+        },
+        {
+          "id": "c",
+          "text": "車"
+        },
+        {
+          "id": "d",
+          "text": "丿"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_no",
+        "kanji_乗"
+      ],
+      "explanation": "乗 is indexed under 丿 despite other visible shape similarities."
+    },
+    {
+      "id": "q_p05_gunma_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical covers 座?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "宀 / うかんむり"
+        },
+        {
+          "id": "b",
+          "text": "广 / まだれ"
+        },
+        {
+          "id": "c",
+          "text": "門 / もんがまえ"
+        },
+        {
+          "id": "d",
+          "text": "囗 / くにがまえ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_madare",
+        "kanji_座"
+      ],
+      "explanation": "座 is under 广, with person-like and 土 shapes inside."
+    },
+    {
+      "id": "q_p05_gunma_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is at 草's top?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "雨"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "竹 / ⺮"
+        },
+        {
+          "id": "d",
+          "text": "艹 / 艸"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_kusakanmuri",
+        "kanji_草"
+      ],
+      "explanation": "草 has the grass radical above 早."
+    },
+    {
+      "id": "q_p05_gunma_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which movement radical is in 遅?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵 / さんずい"
+        },
+        {
+          "id": "b",
+          "text": "彳 / ぎょうにんべん"
+        },
+        {
+          "id": "c",
+          "text": "辶 / しんにょう"
+        },
+        {
+          "id": "d",
+          "text": "扌 / てへん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_shinnyou",
+        "kanji_遅"
+      ],
+      "explanation": "遅 is indexed under 辶."
+    },
+    {
+      "id": "q_p05_gunma_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical links 明 and 暗?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "立"
+        },
+        {
+          "id": "b",
+          "text": "日"
+        },
+        {
+          "id": "c",
+          "text": "音"
+        },
+        {
+          "id": "d",
+          "text": "月"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "radical_nichi",
+        "kanji_明",
+        "kanji_暗"
+      ],
+      "explanation": "Both are indexed under 日 on the left."
+    },
+    {
+      "id": "q_p05_gunma_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 午後二時.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ごごにじかん"
+        },
+        {
+          "id": "b",
+          "text": "ごぜんにじ"
+        },
+        {
+          "id": "c",
+          "text": "ごごにじ"
+        },
+        {
+          "id": "d",
+          "text": "ごごふたつ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_午後二時"
+      ],
+      "explanation": "午後二時 is 2 PM, not a duration."
+    },
+    {
+      "id": "q_p05_gunma_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二時間.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "にがつ"
+        },
+        {
+          "id": "b",
+          "text": "にじ"
+        },
+        {
+          "id": "c",
+          "text": "にじかん"
+        },
+        {
+          "id": "d",
+          "text": "ふたり"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_二時間"
+      ],
+      "explanation": "Two hours is にじかん."
+    },
+    {
+      "id": "q_p05_gunma_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 四時.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よんじ"
+        },
+        {
+          "id": "b",
+          "text": "よじ"
+        },
+        {
+          "id": "c",
+          "text": "よっか"
+        },
+        {
+          "id": "d",
+          "text": "しがつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_四時"
+      ],
+      "explanation": "Four o'clock has the taught reading よじ."
+    },
+    {
+      "id": "q_p05_gunma_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read a fictional bag's single-item price 三千円.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さんぜんえん"
+        },
+        {
+          "id": "b",
+          "text": "さんびゃくえん"
+        },
+        {
+          "id": "c",
+          "text": "さんまんえん"
+        },
+        {
+          "id": "d",
+          "text": "さんせんえん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "kanji_三",
+        "kanji_千",
+        "kanji_円"
+      ],
+      "explanation": "三千 uses the cumulative sound change さんぜん."
+    },
+    {
+      "id": "q_p05_gunma_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 八千円.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はっせんえん"
+        },
+        {
+          "id": "b",
+          "text": "はちせんえん"
+        },
+        {
+          "id": "c",
+          "text": "はっぴゃくえん"
+        },
+        {
+          "id": "d",
+          "text": "はちじゅうえん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "kanji_八",
+        "kanji_千",
+        "kanji_円"
+      ],
+      "explanation": "八千 uses はっせん."
+    },
+    {
+      "id": "q_p05_gunma_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "A fictional session runs 2 PM to 4 PM on the same day. Duration?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "四時間"
+        },
+        {
+          "id": "b",
+          "text": "二時間"
+        },
+        {
+          "id": "c",
+          "text": "一時間"
+        },
+        {
+          "id": "d",
+          "text": "十四時間"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_hours_duration"
+      ],
+      "explanation": "The same-day interval is two hours."
+    },
+    {
+      "id": "q_p05_gunma_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read the calendar date 十四日.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "じゅうよじ"
+        },
+        {
+          "id": "b",
+          "text": "じゅうよんにち"
+        },
+        {
+          "id": "c",
+          "text": "じゅうよっか"
+        },
+        {
+          "id": "d",
+          "text": "よっか"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_十四日"
+      ],
+      "explanation": "The fourteenth uses じゅうよっか."
+    },
+    {
+      "id": "q_p05_gunma_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 四月, April.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よんがつ"
+        },
+        {
+          "id": "b",
+          "text": "よじ"
+        },
+        {
+          "id": "c",
+          "text": "よっか"
+        },
+        {
+          "id": "d",
+          "text": "しがつ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_四月"
+      ],
+      "explanation": "Calendar month readings differ from hours and dates."
+    },
+    {
+      "id": "q_p05_gunma_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "A stated group has one brother, one sister and the narrator, no others. Count?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "二人 / ふたり"
+        },
+        {
+          "id": "b",
+          "text": "一人 / ひとり"
+        },
+        {
+          "id": "c",
+          "text": "三人 / さんにん"
+        },
+        {
+          "id": "d",
+          "text": "四人 / よにん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_三人"
+      ],
+      "explanation": "The explicit three-person group includes the narrator."
+    },
+    {
+      "id": "q_p05_gunma_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "In the taught phrase もう一度, what amount does 一度 give?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One calendar year."
+        },
+        {
+          "id": "b",
+          "text": "One hour."
+        },
+        {
+          "id": "c",
+          "text": "One person."
+        },
+        {
+          "id": "d",
+          "text": "One time."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_もう一度"
+      ],
+      "explanation": "もう一度 is the helped phrase one more time."
+    },
+    {
+      "id": "q_p05_gunma_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 前橋.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ぜんきょう"
+        },
+        {
+          "id": "b",
+          "text": "まえはし"
+        },
+        {
+          "id": "c",
+          "text": "まえばし"
+        },
+        {
+          "id": "d",
+          "text": "まえばす"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_前橋"
+      ],
+      "explanation": "Learn the whole city name まえばし."
+    },
+    {
+      "id": "q_p05_gunma_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 高崎.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "たかざき"
+        },
+        {
+          "id": "b",
+          "text": "こうき"
+        },
+        {
+          "id": "c",
+          "text": "たかさき"
+        },
+        {
+          "id": "d",
+          "text": "こうざき"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_高崎"
+      ],
+      "explanation": "The taught place name is たかさき."
+    },
+    {
+      "id": "q_p05_gunma_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 草津.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "そうしん"
+        },
+        {
+          "id": "b",
+          "text": "くさつ"
+        },
+        {
+          "id": "c",
+          "text": "くさみず"
+        },
+        {
+          "id": "d",
+          "text": "はやつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_草津"
+      ],
+      "explanation": "The place name is くさつ."
+    },
+    {
+      "id": "q_p05_gunma_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is the current municipality label in the final lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みなかみ町"
+        },
+        {
+          "id": "b",
+          "text": "水上市 as the current municipality label"
+        },
+        {
+          "id": "c",
+          "text": "みずうえ市"
+        },
+        {
+          "id": "d",
+          "text": "水上県"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_みなかみ町"
+      ],
+      "explanation": "Keep the modern hiragana town label みなかみ町."
+    },
+    {
+      "id": "q_p05_gunma_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read the related station word 水上駅.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みとえき"
+        },
+        {
+          "id": "b",
+          "text": "すいじょうえき as this station name"
+        },
+        {
+          "id": "c",
+          "text": "みなかみえき"
+        },
+        {
+          "id": "d",
+          "text": "みずうええき"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_水上駅"
+      ],
+      "explanation": "The related proper-name reading is みなかみえき."
+    },
+    {
+      "id": "q_p05_gunma_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 着る, put on clothes.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よむ"
+        },
+        {
+          "id": "b",
+          "text": "かう"
+        },
+        {
+          "id": "c",
+          "text": "きる"
+        },
+        {
+          "id": "d",
+          "text": "くる"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_着る",
+        "grammar_verb_groups"
+      ],
+      "explanation": "着る is Group 2 きる; 来る is くる."
+    },
+    {
+      "id": "q_p05_gunma_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which describes current wearing in the stated clothes context?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "服を読みました。"
+        },
+        {
+          "id": "b",
+          "text": "服を着ています。"
+        },
+        {
+          "id": "c",
+          "text": "服に住んでいます。"
+        },
+        {
+          "id": "d",
+          "text": "服を買いません。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_continuing_states",
+        "vocab_服"
+      ],
+      "explanation": "着ています here expresses the resulting state of wearing clothes."
+    },
+    {
+      "id": "q_p05_gunma_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means a room?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "部屋 / へや"
+        },
+        {
+          "id": "b",
+          "text": "服 / ふく"
+        },
+        {
+          "id": "c",
+          "text": "橋 / はし"
+        },
+        {
+          "id": "d",
+          "text": "窓 / まど"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_部屋"
+      ],
+      "explanation": "部屋 is the helped room word."
+    },
+    {
+      "id": "q_p05_gunma_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means window?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いす"
+        },
+        {
+          "id": "b",
+          "text": "窓 / まど"
+        },
+        {
+          "id": "c",
+          "text": "かばん"
+        },
+        {
+          "id": "d",
+          "text": "部屋 / へや"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "vocab_窓"
+      ],
+      "explanation": "窓 is the helped window word."
+    },
+    {
+      "id": "q_p05_gunma_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "In the explicit early-arrival context, what does 朝早く来ました mean?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Bought a bright room."
+        },
+        {
+          "id": "b",
+          "text": "Came late at night."
+        },
+        {
+          "id": "c",
+          "text": "Was unable to come."
+        },
+        {
+          "id": "d",
+          "text": "Came early in the morning."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_adverbial_i",
+        "vocab_早い"
+      ],
+      "explanation": "朝早く sets an early morning arrival, not a speed measurement."
+    },
+    {
+      "id": "q_p05_gunma_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the te-form of Group 2 食べる.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "食べんで"
+        },
+        {
+          "id": "b",
+          "text": "食べて"
+        },
+        {
+          "id": "c",
+          "text": "食べって"
+        },
+        {
+          "id": "d",
+          "text": "食べりて"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_group2"
+      ],
+      "explanation": "Group 2 removes final る and adds て."
+    },
+    {
+      "id": "q_p05_gunma_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the te-form of Group 1 待つ.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "待んで"
+        },
+        {
+          "id": "b",
+          "text": "待ちて"
+        },
+        {
+          "id": "c",
+          "text": "待って"
+        },
+        {
+          "id": "d",
+          "text": "待つて"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_u_tsu_ru"
+      ],
+      "explanation": "Group 1 つ changes to って."
+    },
+    {
+      "id": "q_p05_gunma_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the te-form of 読む.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "読むて"
+        },
+        {
+          "id": "b",
+          "text": "読んで"
+        },
+        {
+          "id": "c",
+          "text": "読って"
+        },
+        {
+          "id": "d",
+          "text": "読みて"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_mu_bu_nu"
+      ],
+      "explanation": "Group 1 む changes to んで."
+    },
+    {
+      "id": "q_p05_gunma_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the te-form of 書く.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "書んで"
+        },
+        {
+          "id": "b",
+          "text": "書いて"
+        },
+        {
+          "id": "c",
+          "text": "書きて"
+        },
+        {
+          "id": "d",
+          "text": "書って"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_ku_gu"
+      ],
+      "explanation": "Group 1 く changes to いて."
+    },
+    {
+      "id": "q_p05_gunma_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the te-form of 行く.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "行って"
+        },
+        {
+          "id": "b",
+          "text": "行んで"
+        },
+        {
+          "id": "c",
+          "text": "行いて"
+        },
+        {
+          "id": "d",
+          "text": "行きて"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_su_iku"
+      ],
+      "explanation": "行く exceptionally gives 行って."
+    },
+    {
+      "id": "q_p05_gunma_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the request, please sit here.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ここを座りませんでした。"
+        },
+        {
+          "id": "b",
+          "text": "ここに座ってください。"
+        },
+        {
+          "id": "c",
+          "text": "ここに座てください。"
+        },
+        {
+          "id": "d",
+          "text": "ここに座るください。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_te_request"
+      ],
+      "explanation": "座る is Group 1; request uses 座って＋ください."
+    },
+    {
+      "id": "q_p05_gunma_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the boarding model: 電車＿＿乗ります。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "の"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_noru_vehicle_ni"
+      ],
+      "explanation": "乗る marks the vehicle with に in this model."
+    },
+    {
+      "id": "q_p05_gunma_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose not yet eaten in the explicit completion context.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "まだ食べません。"
+        },
+        {
+          "id": "b",
+          "text": "まだ食べていました。"
+        },
+        {
+          "id": "c",
+          "text": "まだ食べていません。"
+        },
+        {
+          "id": "d",
+          "text": "もう食べました。"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_mada_not_yet_verb"
+      ],
+      "explanation": "The taught not-yet completion model is まだ＋Vていません."
+    },
+    {
+      "id": "q_p05_gunma_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "What does まだ読んでいます mean in the stated current-activity context?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Will never read."
+        },
+        {
+          "id": "b",
+          "text": "Already finished reading."
+        },
+        {
+          "id": "c",
+          "text": "Has not read yet."
+        },
+        {
+          "id": "d",
+          "text": "Still reading."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_mada_still"
+      ],
+      "explanation": "Positive progressive with まだ marks the activity continuing."
+    },
+    {
+      "id": "q_p05_gunma_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the activity location: 部屋＿＿本を読んでいます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "の"
+        },
+        {
+          "id": "c",
+          "text": "を"
+        },
+        {
+          "id": "d",
+          "text": "へ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "grammar_particle_de",
+        "grammar_progress_teiru"
+      ],
+      "explanation": "で gives the reading activity's place; existence uses a different pattern."
+    },
+    {
+      "id": "q_p05_gunma_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R01: What is the narrator doing now?\n\nPassage GUNMA-R01:\n前橋に来ました。\n今、駅で本を読んでいます。\n兄は前橋に住んでいます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Buying clothes."
+        },
+        {
+          "id": "b",
+          "text": "Reading a book at the station."
+        },
+        {
+          "id": "c",
+          "text": "Living in the station, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "Making a plate."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r01_s01",
+        "sent_gunma_r01_s02",
+        "sent_gunma_r01_s03"
+      ],
+      "explanation": "今、駅で本を読んでいます states the narrator's current activity."
+    },
+    {
+      "id": "q_p05_gunma_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R02: What is inside the bag?\n\nPassage GUNMA-R02:\n姉は新しい服を着ています。\n私はかばんを持っています。\nかばんの中に本があります。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A book."
+        },
+        {
+          "id": "b",
+          "text": "A bridge."
+        },
+        {
+          "id": "c",
+          "text": "A chair."
+        },
+        {
+          "id": "d",
+          "text": "A plate, explicitly stated."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r02_s01",
+        "sent_gunma_r02_s02",
+        "sent_gunma_r02_s03"
+      ],
+      "explanation": "かばんの中に本があります supplies the object and place."
+    },
+    {
+      "id": "q_p05_gunma_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R03: How did the narrator reach Takasaki?\n\nPassage GUNMA-R03:\n電車に乗って、高崎に行きました。\n電車で友だちに会いました。\nいすに座りました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "By car."
+        },
+        {
+          "id": "b",
+          "text": "By swimming."
+        },
+        {
+          "id": "c",
+          "text": "By train."
+        },
+        {
+          "id": "d",
+          "text": "By bus."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r03_s01",
+        "sent_gunma_r03_s02",
+        "sent_gunma_r03_s03"
+      ],
+      "explanation": "電車に乗って、高崎に行きました states train travel."
+    },
+    {
+      "id": "q_p05_gunma_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R04: What did the friend request?\n\nPassage GUNMA-R04:\n友だちは「少し待ってください」と言いました。\n私は駅で待ちました。\n友だちは水を買いました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Wait a little."
+        },
+        {
+          "id": "b",
+          "text": "Return home."
+        },
+        {
+          "id": "c",
+          "text": "Speak English only."
+        },
+        {
+          "id": "d",
+          "text": "Make a plate."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r04_s01",
+        "sent_gunma_r04_s02",
+        "sent_gunma_r04_s03"
+      ],
+      "explanation": "少し待ってください is the quoted request."
+    },
+    {
+      "id": "q_p05_gunma_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R05: What time did the friend repeat?\n\nPassage GUNMA-R05:\n「もう一度言ってください」と言いました。\n友だちは「午後二時です」と言いました。\n二時に店に行きました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "4 PM."
+        },
+        {
+          "id": "b",
+          "text": "2 AM."
+        },
+        {
+          "id": "c",
+          "text": "2 PM."
+        },
+        {
+          "id": "d",
+          "text": "9 AM."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r05_s01",
+        "sent_gunma_r05_s02",
+        "sent_gunma_r05_s03"
+      ],
+      "explanation": "The reply explicitly says 午後二時."
+    },
+    {
+      "id": "q_p05_gunma_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R06: What was happening at 9 AM?\n\nPassage GUNMA-R06:\n朝早く草津に来ました。\n午前九時に本を読んでいました。\n十分読みました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The narrator was returning late at night."
+        },
+        {
+          "id": "b",
+          "text": "The narrator was reading."
+        },
+        {
+          "id": "c",
+          "text": "The narrator was buying a train."
+        },
+        {
+          "id": "d",
+          "text": "The narrator was writing a date, explicitly stated."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r06_s01",
+        "sent_gunma_r06_s02",
+        "sent_gunma_r06_s03"
+      ],
+      "explanation": "午前九時に本を読んでいました is past progressive."
+    },
+    {
+      "id": "q_p05_gunma_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R07: Had the narrator eaten at the reply's moment?\n\nPassage GUNMA-R07:\n友だちは「もうご飯を食べましたか」と聞きました。\n「いいえ、まだ食べていません」と言いました。\n「いっしょに食べましょう」と言いました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "No, not yet."
+        },
+        {
+          "id": "b",
+          "text": "Yes, already."
+        },
+        {
+          "id": "c",
+          "text": "The line says they cannot eat."
+        },
+        {
+          "id": "d",
+          "text": "The line says they dislike all food."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r07_s01",
+        "sent_gunma_r07_s02",
+        "sent_gunma_r07_s03"
+      ],
+      "explanation": "まだ食べていません denies completed eating at that point."
+    },
+    {
+      "id": "q_p05_gunma_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R08: What is now completed?\n\nPassage GUNMA-R08:\n店でご飯を食べました。\nもうご飯を食べました。\n夜遅く駅に帰りました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Eating the meal."
+        },
+        {
+          "id": "b",
+          "text": "Buying a plate, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "Returning home, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "Writing the name, explicitly stated."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r08_s01",
+        "sent_gunma_r08_s02",
+        "sent_gunma_r08_s03"
+      ],
+      "explanation": "もうご飯を食べました states completed eating."
+    },
+    {
+      "id": "q_p05_gunma_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R09: How is the room described?\n\nPassage GUNMA-R09:\nみなかみの部屋は明るいです。\n窓の外に山があります。\n部屋で作文を読んでいます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Bright."
+        },
+        {
+          "id": "b",
+          "text": "Expensive, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "Dark."
+        },
+        {
+          "id": "d",
+          "text": "Short in length, explicitly stated."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r09_s01",
+        "sent_gunma_r09_s02",
+        "sent_gunma_r09_s03"
+      ],
+      "explanation": "部屋は明るいです gives brightness."
+    },
+    {
+      "id": "q_p05_gunma_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "GUNMA-R10: What remains incomplete?\n\nPassage GUNMA-R10:\n外は暗いです。\nまだ家に帰っていません。\n次は埼玉です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Eating the meal."
+        },
+        {
+          "id": "b",
+          "text": "Returning home."
+        },
+        {
+          "id": "c",
+          "text": "Arriving in Maebashi."
+        },
+        {
+          "id": "d",
+          "text": "Boarding the train to Takasaki."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "gunma",
+        "gunma_final"
+      ],
+      "refs": [
+        "sent_gunma_r10_s01",
+        "sent_gunma_r10_s02",
+        "sent_gunma_r10_s03"
+      ],
+      "explanation": "まだ家に帰っていません says the return home is not yet completed."
+    }
+  ]
+}

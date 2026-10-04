@@ -1,0 +1,1938 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_hokkaido_001",
+      "type": "multipleChoice",
+      "prompt": "北 means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "south"
+        },
+        {
+          "id": "b",
+          "text": "north"
+        },
+        {
+          "id": "c",
+          "text": "river"
+        },
+        {
+          "id": "d",
+          "text": "sea"
+        }
+      ],
+      "answer": "b",
+      "category": "kanji",
+      "refs": [
+        "kanji_北"
+      ],
+      "previousIds": [
+        "q_001"
+      ],
+      "explanation": "Correct answer: north."
+    },
+    {
+      "id": "q_hokkaido_002",
+      "type": "multipleChoice",
+      "prompt": "海 means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "sea"
+        },
+        {
+          "id": "b",
+          "text": "road"
+        },
+        {
+          "id": "c",
+          "text": "mountain"
+        },
+        {
+          "id": "d",
+          "text": "sun"
+        }
+      ],
+      "answer": "a",
+      "category": "kanji",
+      "refs": [
+        "kanji_海"
+      ],
+      "previousIds": [
+        "q_002"
+      ],
+      "explanation": "Correct answer: sea."
+    },
+    {
+      "id": "q_hokkaido_003",
+      "type": "multipleChoice",
+      "prompt": "道 means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "river"
+        },
+        {
+          "id": "b",
+          "text": "road/way"
+        },
+        {
+          "id": "c",
+          "text": "person"
+        },
+        {
+          "id": "d",
+          "text": "day"
+        }
+      ],
+      "answer": "b",
+      "category": "kanji",
+      "refs": [
+        "kanji_道"
+      ],
+      "previousIds": [
+        "q_003"
+      ],
+      "explanation": "Correct answer: road/way."
+    },
+    {
+      "id": "q_hokkaido_004",
+      "type": "multipleChoice",
+      "prompt": "Which component is associated with water?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵"
+        },
+        {
+          "id": "b",
+          "text": "辶"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "巾"
+        }
+      ],
+      "answer": "a",
+      "category": "radical",
+      "refs": [
+        "radical_sanzui"
+      ],
+      "previousIds": [
+        "q_004"
+      ],
+      "explanation": "Correct answer: 氵."
+    },
+    {
+      "id": "q_hokkaido_005",
+      "type": "multipleChoice",
+      "prompt": "木 is associated with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "tree/wood"
+        },
+        {
+          "id": "b",
+          "text": "water"
+        },
+        {
+          "id": "c",
+          "text": "road"
+        },
+        {
+          "id": "d",
+          "text": "cloth"
+        }
+      ],
+      "answer": "a",
+      "category": "radical",
+      "refs": [
+        "radical_ki"
+      ],
+      "previousIds": [
+        "q_005"
+      ],
+      "explanation": "Correct answer: tree/wood."
+    },
+    {
+      "id": "q_hokkaido_006",
+      "type": "multipleChoice",
+      "prompt": "北 meaning \"north\" is read:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みず"
+        },
+        {
+          "id": "b",
+          "text": "きた"
+        },
+        {
+          "id": "c",
+          "text": "かわ"
+        },
+        {
+          "id": "d",
+          "text": "みち"
+        }
+      ],
+      "answer": "b",
+      "category": "kanji",
+      "refs": [
+        "kanji_北",
+        "vocab_北"
+      ],
+      "previousIds": [
+        "q_006"
+      ],
+      "explanation": "Correct answer: きた."
+    },
+    {
+      "id": "q_hokkaido_007",
+      "type": "multipleChoice",
+      "prompt": "Common on'yomi of 北 is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "きた"
+        },
+        {
+          "id": "b",
+          "text": "ホク"
+        },
+        {
+          "id": "c",
+          "text": "うみ"
+        },
+        {
+          "id": "d",
+          "text": "みち"
+        }
+      ],
+      "answer": "b",
+      "category": "kanji",
+      "refs": [
+        "kanji_北"
+      ],
+      "previousIds": [
+        "q_007"
+      ],
+      "explanation": "Correct answer: ホク."
+    },
+    {
+      "id": "q_hokkaido_008",
+      "type": "multipleChoice",
+      "prompt": "Which is Sapporo?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "札幌"
+        },
+        {
+          "id": "b",
+          "text": "函館"
+        },
+        {
+          "id": "c",
+          "text": "小樽"
+        },
+        {
+          "id": "d",
+          "text": "登別"
+        }
+      ],
+      "answer": "a",
+      "category": "kanji",
+      "refs": [
+        "vocab_札幌"
+      ],
+      "previousIds": [
+        "q_008"
+      ],
+      "explanation": "Correct answer: 札幌."
+    },
+    {
+      "id": "q_hokkaido_009",
+      "type": "multipleChoice",
+      "prompt": "Which is Hakodate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "千歳"
+        },
+        {
+          "id": "b",
+          "text": "函館"
+        },
+        {
+          "id": "c",
+          "text": "旭川"
+        },
+        {
+          "id": "d",
+          "text": "釧路"
+        }
+      ],
+      "answer": "b",
+      "category": "kanji",
+      "refs": [
+        "vocab_函館"
+      ],
+      "previousIds": [
+        "q_009"
+      ],
+      "explanation": "Correct answer: 函館."
+    },
+    {
+      "id": "q_hokkaido_010",
+      "type": "multipleChoice",
+      "prompt": "Which is Chitose?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "千歳"
+        },
+        {
+          "id": "b",
+          "text": "美瑛"
+        },
+        {
+          "id": "c",
+          "text": "富良野"
+        },
+        {
+          "id": "d",
+          "text": "小樽"
+        }
+      ],
+      "answer": "a",
+      "category": "kanji",
+      "refs": [
+        "vocab_千歳"
+      ],
+      "previousIds": [
+        "q_010"
+      ],
+      "explanation": "Correct answer: 千歳."
+    },
+    {
+      "id": "q_hokkaido_011",
+      "type": "multipleChoice",
+      "prompt": "Which means 5?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "四"
+        },
+        {
+          "id": "b",
+          "text": "五"
+        },
+        {
+          "id": "c",
+          "text": "六"
+        },
+        {
+          "id": "d",
+          "text": "七"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "kanji_五"
+      ],
+      "previousIds": [
+        "q_011"
+      ],
+      "explanation": "Correct answer: 五."
+    },
+    {
+      "id": "q_hokkaido_012",
+      "type": "multipleChoice",
+      "prompt": "Which means 8?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "七"
+        },
+        {
+          "id": "b",
+          "text": "八"
+        },
+        {
+          "id": "c",
+          "text": "九"
+        },
+        {
+          "id": "d",
+          "text": "十"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "kanji_八"
+      ],
+      "previousIds": [
+        "q_012"
+      ],
+      "explanation": "Correct answer: 八."
+    },
+    {
+      "id": "q_hokkaido_013",
+      "type": "multipleChoice",
+      "prompt": "Which means 10?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "九"
+        },
+        {
+          "id": "b",
+          "text": "八"
+        },
+        {
+          "id": "c",
+          "text": "十"
+        },
+        {
+          "id": "d",
+          "text": "百"
+        }
+      ],
+      "answer": "c",
+      "category": "numbers",
+      "refs": [
+        "kanji_十"
+      ],
+      "previousIds": [
+        "q_013"
+      ],
+      "explanation": "Correct answer: 十."
+    },
+    {
+      "id": "q_hokkaido_014",
+      "type": "multipleChoice",
+      "prompt": "Which means 100?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "十"
+        },
+        {
+          "id": "b",
+          "text": "百"
+        },
+        {
+          "id": "c",
+          "text": "千"
+        },
+        {
+          "id": "d",
+          "text": "万"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "kanji_百"
+      ],
+      "previousIds": [
+        "q_014"
+      ],
+      "explanation": "Correct answer: 百."
+    },
+    {
+      "id": "q_hokkaido_015",
+      "type": "multipleChoice",
+      "prompt": "Which means 1,000?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "百"
+        },
+        {
+          "id": "b",
+          "text": "千"
+        },
+        {
+          "id": "c",
+          "text": "万"
+        },
+        {
+          "id": "d",
+          "text": "円"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "kanji_千"
+      ],
+      "previousIds": [
+        "q_015"
+      ],
+      "explanation": "Correct answer: 千."
+    },
+    {
+      "id": "q_hokkaido_016",
+      "type": "multipleChoice",
+      "prompt": "Which means 10,000?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "千"
+        },
+        {
+          "id": "b",
+          "text": "百"
+        },
+        {
+          "id": "c",
+          "text": "万"
+        },
+        {
+          "id": "d",
+          "text": "十"
+        }
+      ],
+      "answer": "c",
+      "category": "numbers",
+      "refs": [
+        "kanji_万"
+      ],
+      "previousIds": [
+        "q_016"
+      ],
+      "explanation": "Correct answer: 万."
+    },
+    {
+      "id": "q_hokkaido_017",
+      "type": "multipleChoice",
+      "prompt": "Which means 1,000 yen?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "百円"
+        },
+        {
+          "id": "b",
+          "text": "千円"
+        },
+        {
+          "id": "c",
+          "text": "一万円"
+        },
+        {
+          "id": "d",
+          "text": "十円"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "vocab_千円"
+      ],
+      "previousIds": [
+        "q_017"
+      ],
+      "explanation": "Correct answer: 千円."
+    },
+    {
+      "id": "q_hokkaido_018",
+      "type": "multipleChoice",
+      "prompt": "Which means \"How much?\"",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いつ"
+        },
+        {
+          "id": "b",
+          "text": "何曜日"
+        },
+        {
+          "id": "c",
+          "text": "いくら"
+        },
+        {
+          "id": "d",
+          "text": "どこ"
+        }
+      ],
+      "answer": "c",
+      "category": "vocabulary",
+      "refs": [
+        "vocab_いくら"
+      ],
+      "previousIds": [
+        "q_018"
+      ],
+      "explanation": "Correct answer: いくら."
+    },
+    {
+      "id": "q_hokkaido_019",
+      "type": "multipleChoice",
+      "prompt": "Which is Monday?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "月曜日"
+        },
+        {
+          "id": "b",
+          "text": "火曜日"
+        },
+        {
+          "id": "c",
+          "text": "水曜日"
+        },
+        {
+          "id": "d",
+          "text": "木曜日"
+        }
+      ],
+      "answer": "a",
+      "category": "numbers",
+      "refs": [
+        "vocab_月曜日"
+      ],
+      "previousIds": [
+        "q_019"
+      ],
+      "explanation": "Correct answer: 月曜日."
+    },
+    {
+      "id": "q_hokkaido_020",
+      "type": "multipleChoice",
+      "prompt": "Which is Wednesday?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "月曜日"
+        },
+        {
+          "id": "b",
+          "text": "火曜日"
+        },
+        {
+          "id": "c",
+          "text": "水曜日"
+        },
+        {
+          "id": "d",
+          "text": "木曜日"
+        }
+      ],
+      "answer": "c",
+      "category": "numbers",
+      "refs": [
+        "vocab_水曜日"
+      ],
+      "previousIds": [
+        "q_020"
+      ],
+      "explanation": "Correct answer: 水曜日."
+    },
+    {
+      "id": "q_hokkaido_021",
+      "type": "multipleChoice",
+      "prompt": "Which is Friday?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木曜日"
+        },
+        {
+          "id": "b",
+          "text": "金曜日"
+        },
+        {
+          "id": "c",
+          "text": "土曜日"
+        },
+        {
+          "id": "d",
+          "text": "日曜日"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "vocab_金曜日"
+      ],
+      "previousIds": [
+        "q_021"
+      ],
+      "explanation": "Correct answer: 金曜日."
+    },
+    {
+      "id": "q_hokkaido_022",
+      "type": "multipleChoice",
+      "prompt": "Which is January?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "一月"
+        },
+        {
+          "id": "b",
+          "text": "二月"
+        },
+        {
+          "id": "c",
+          "text": "三月"
+        },
+        {
+          "id": "d",
+          "text": "四月"
+        }
+      ],
+      "answer": "a",
+      "category": "numbers",
+      "refs": [
+        "vocab_一月"
+      ],
+      "previousIds": [
+        "q_022"
+      ],
+      "explanation": "Correct answer: 一月."
+    },
+    {
+      "id": "q_hokkaido_023",
+      "type": "multipleChoice",
+      "prompt": "Which is September?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "七月"
+        },
+        {
+          "id": "b",
+          "text": "八月"
+        },
+        {
+          "id": "c",
+          "text": "九月"
+        },
+        {
+          "id": "d",
+          "text": "十月"
+        }
+      ],
+      "answer": "c",
+      "category": "numbers",
+      "refs": [
+        "vocab_九月"
+      ],
+      "previousIds": [
+        "q_023"
+      ],
+      "explanation": "Correct answer: 九月."
+    },
+    {
+      "id": "q_hokkaido_024",
+      "type": "multipleChoice",
+      "prompt": "Which means the first day of the month?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いちにち"
+        },
+        {
+          "id": "b",
+          "text": "ついたち"
+        },
+        {
+          "id": "c",
+          "text": "ふつか"
+        },
+        {
+          "id": "d",
+          "text": "みっか"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "vocab_一日"
+      ],
+      "previousIds": [
+        "q_024"
+      ],
+      "explanation": "Correct answer: ついたち."
+    },
+    {
+      "id": "q_hokkaido_025",
+      "type": "multipleChoice",
+      "prompt": "Which means the 20th?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "にじゅうにち"
+        },
+        {
+          "id": "b",
+          "text": "はつか"
+        },
+        {
+          "id": "c",
+          "text": "とおか"
+        },
+        {
+          "id": "d",
+          "text": "ふつか"
+        }
+      ],
+      "answer": "b",
+      "category": "numbers",
+      "refs": [
+        "vocab_二十日"
+      ],
+      "previousIds": [
+        "q_025"
+      ],
+      "explanation": "Correct answer: はつか."
+    },
+    {
+      "id": "q_hokkaido_026",
+      "type": "multipleChoice",
+      "prompt": "いつ means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "what"
+        },
+        {
+          "id": "b",
+          "text": "when"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "how much"
+        }
+      ],
+      "answer": "b",
+      "category": "vocabulary",
+      "refs": [
+        "vocab_いつ"
+      ],
+      "previousIds": [
+        "q_026"
+      ],
+      "explanation": "Correct answer: when."
+    },
+    {
+      "id": "q_hokkaido_027",
+      "type": "multipleChoice",
+      "prompt": "Which is the topic particle?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "は"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_wa"
+      ],
+      "previousIds": [
+        "q_027"
+      ],
+      "explanation": "Correct answer: は."
+    },
+    {
+      "id": "q_hokkaido_028",
+      "type": "multipleChoice",
+      "prompt": "Which marks the direct object?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "は"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "の"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "b",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_wo"
+      ],
+      "previousIds": [
+        "q_028"
+      ],
+      "explanation": "Correct answer: を."
+    },
+    {
+      "id": "q_hokkaido_029",
+      "type": "multipleChoice",
+      "prompt": "富良野＿＿行きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "b",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_ni",
+        "vocab_富良野"
+      ],
+      "previousIds": [
+        "q_029"
+      ],
+      "explanation": "Correct answer: に."
+    },
+    {
+      "id": "q_hokkaido_030",
+      "type": "multipleChoice",
+      "prompt": "Which particle marks the location where an action occurs?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "の"
+        },
+        {
+          "id": "d",
+          "text": "は"
+        }
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_de"
+      ],
+      "previousIds": [
+        "q_030"
+      ],
+      "explanation": "Correct answer: で."
+    },
+    {
+      "id": "q_hokkaido_031",
+      "type": "multipleChoice",
+      "prompt": "Which is normally used for people?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あります"
+        },
+        {
+          "id": "b",
+          "text": "います"
+        }
+      ],
+      "answer": "b",
+      "category": "grammar",
+      "refs": [
+        "grammar_iru"
+      ],
+      "previousIds": [
+        "q_031"
+      ],
+      "explanation": "Correct answer: います."
+    },
+    {
+      "id": "q_hokkaido_032",
+      "type": "multipleChoice",
+      "prompt": "Which is normally used for non-living things?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あります"
+        },
+        {
+          "id": "b",
+          "text": "います"
+        }
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "refs": [
+        "grammar_aru"
+      ],
+      "previousIds": [
+        "q_032"
+      ],
+      "explanation": "Correct answer: あります."
+    },
+    {
+      "id": "q_hokkaido_033",
+      "type": "multipleChoice",
+      "prompt": "小さい means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "big"
+        },
+        {
+          "id": "b",
+          "text": "beautiful"
+        },
+        {
+          "id": "c",
+          "text": "small"
+        },
+        {
+          "id": "d",
+          "text": "good"
+        }
+      ],
+      "answer": "c",
+      "category": "vocabulary",
+      "refs": [
+        "vocab_小さい"
+      ],
+      "previousIds": [
+        "q_033"
+      ],
+      "explanation": "Correct answer: small."
+    },
+    {
+      "id": "q_hokkaido_034",
+      "type": "multipleChoice",
+      "prompt": "美しい means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "beautiful"
+        },
+        {
+          "id": "b",
+          "text": "small"
+        },
+        {
+          "id": "c",
+          "text": "famous"
+        },
+        {
+          "id": "d",
+          "text": "different"
+        }
+      ],
+      "answer": "a",
+      "category": "vocabulary",
+      "refs": [
+        "vocab_美しい"
+      ],
+      "previousIds": [
+        "q_034"
+      ],
+      "explanation": "Correct answer: beautiful."
+    },
+    {
+      "id": "q_hokkaido_035",
+      "type": "multipleChoice",
+      "prompt": "Which means good?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いい"
+        },
+        {
+          "id": "b",
+          "text": "きれい"
+        },
+        {
+          "id": "c",
+          "text": "うつくしい"
+        },
+        {
+          "id": "d",
+          "text": "おおきい"
+        }
+      ],
+      "answer": "a",
+      "category": "vocabulary",
+      "refs": [
+        "vocab_いい"
+      ],
+      "previousIds": [
+        "q_035"
+      ],
+      "explanation": "Correct answer: いい."
+    },
+    {
+      "id": "q_hokkaido_036",
+      "type": "multipleChoice",
+      "prompt": "行く means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "see"
+        },
+        {
+          "id": "b",
+          "text": "go"
+        },
+        {
+          "id": "c",
+          "text": "drink"
+        },
+        {
+          "id": "d",
+          "text": "climb"
+        }
+      ],
+      "answer": "b",
+      "category": "vocabulary",
+      "refs": [
+        "vocab_行く"
+      ],
+      "previousIds": [
+        "q_036"
+      ],
+      "explanation": "Correct answer: go."
+    },
+    {
+      "id": "q_hokkaido_037",
+      "type": "multipleChoice",
+      "prompt": "Which means \"went\"?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "行きます"
+        },
+        {
+          "id": "b",
+          "text": "行きません"
+        },
+        {
+          "id": "c",
+          "text": "行きました"
+        },
+        {
+          "id": "d",
+          "text": "行きませんでした"
+        }
+      ],
+      "answer": "c",
+      "category": "grammar",
+      "refs": [
+        "grammar_polite_past",
+        "vocab_行く"
+      ],
+      "previousIds": [
+        "q_037"
+      ],
+      "explanation": "Correct answer: 行きました."
+    },
+    {
+      "id": "q_hokkaido_038",
+      "type": "multipleChoice",
+      "prompt": "Which means \"did not go\"?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "行きます"
+        },
+        {
+          "id": "b",
+          "text": "行きません"
+        },
+        {
+          "id": "c",
+          "text": "行きました"
+        },
+        {
+          "id": "d",
+          "text": "行きませんでした"
+        }
+      ],
+      "answer": "d",
+      "category": "grammar",
+      "refs": [
+        "grammar_polite_past_negative",
+        "vocab_行く"
+      ],
+      "previousIds": [
+        "q_038"
+      ],
+      "explanation": "Correct answer: 行きませんでした."
+    },
+    {
+      "id": "q_hokkaido_039",
+      "type": "multipleChoice",
+      "prompt": "札幌は北海道の町です means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hokkaido is Sapporo"
+        },
+        {
+          "id": "b",
+          "text": "Sapporo is a city in Hokkaido"
+        },
+        {
+          "id": "c",
+          "text": "Sapporo is south"
+        },
+        {
+          "id": "d",
+          "text": "Hokkaido is small"
+        }
+      ],
+      "answer": "b",
+      "category": "reading",
+      "refs": [
+        "sent_sapporo_wa_hokkaido_desu",
+        "vocab_札幌"
+      ],
+      "previousIds": [
+        "q_039"
+      ],
+      "explanation": "Correct answer: Sapporo is a city in Hokkaido."
+    },
+    {
+      "id": "q_hokkaido_040",
+      "type": "multipleChoice",
+      "prompt": "富良野に行きます means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "live in Furano"
+        },
+        {
+          "id": "b",
+          "text": "went to Furano"
+        },
+        {
+          "id": "c",
+          "text": "go to Furano"
+        },
+        {
+          "id": "d",
+          "text": "Furano is beautiful"
+        }
+      ],
+      "answer": "c",
+      "category": "reading",
+      "refs": [
+        "vocab_富良野",
+        "vocab_行く",
+        "grammar_particle_ni"
+      ],
+      "previousIds": [
+        "q_040"
+      ],
+      "explanation": "Correct answer: go to Furano."
+    },
+    {
+      "id": "q_hokkaido_041",
+      "type": "multipleChoice",
+      "prompt": "水を飲みます means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "drink water"
+        },
+        {
+          "id": "b",
+          "text": "see water"
+        },
+        {
+          "id": "c",
+          "text": "there is water"
+        },
+        {
+          "id": "d",
+          "text": "water is beautiful"
+        }
+      ],
+      "answer": "a",
+      "category": "reading",
+      "refs": [
+        "vocab_水",
+        "vocab_飲む",
+        "grammar_particle_wo"
+      ],
+      "previousIds": [
+        "q_041"
+      ],
+      "explanation": "Correct answer: drink water."
+    },
+    {
+      "id": "q_hokkaido_042",
+      "type": "multipleChoice",
+      "prompt": "釧路に人がいます means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "river in Kushiro"
+        },
+        {
+          "id": "b",
+          "text": "people in Kushiro"
+        },
+        {
+          "id": "c",
+          "text": "Kushiro is a person"
+        },
+        {
+          "id": "d",
+          "text": "go to Kushiro"
+        }
+      ],
+      "answer": "b",
+      "category": "reading",
+      "refs": [
+        "vocab_釧路",
+        "vocab_人",
+        "grammar_iru"
+      ],
+      "previousIds": [
+        "q_042"
+      ],
+      "explanation": "Correct answer: people in Kushiro."
+    },
+    {
+      "id": "q_hokkaido_043",
+      "type": "multipleChoice",
+      "prompt": "登別の温泉は有名です means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Noboribetsu's hot springs are famous"
+        },
+        {
+          "id": "b",
+          "text": "Noboribetsu is small"
+        },
+        {
+          "id": "c",
+          "text": "hot spring is in Sapporo"
+        },
+        {
+          "id": "d",
+          "text": "went to Noboribetsu"
+        }
+      ],
+      "answer": "a",
+      "category": "reading",
+      "refs": [
+        "vocab_登別",
+        "vocab_温泉",
+        "vocab_有名"
+      ],
+      "previousIds": [
+        "q_043"
+      ],
+      "explanation": "Correct answer: Noboribetsu's hot springs are famous."
+    },
+    {
+      "id": "q_hokkaido_044",
+      "type": "multipleChoice",
+      "prompt": "Which component/radical is associated with 美?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "羊"
+        },
+        {
+          "id": "b",
+          "text": "水"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "金"
+        }
+      ],
+      "answer": "a",
+      "category": "radical",
+      "refs": [
+        "radical_hitsuji",
+        "kanji_美"
+      ],
+      "previousIds": [
+        "q_044"
+      ],
+      "explanation": "Correct answer: 羊."
+    },
+    {
+      "id": "q_hokkaido_045",
+      "type": "multipleChoice",
+      "prompt": "Which radical is associated with 富?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "宀"
+        },
+        {
+          "id": "b",
+          "text": "日"
+        },
+        {
+          "id": "c",
+          "text": "足"
+        },
+        {
+          "id": "d",
+          "text": "刀"
+        }
+      ],
+      "answer": "a",
+      "category": "radical",
+      "refs": [
+        "radical_ukanmuri",
+        "kanji_富"
+      ],
+      "previousIds": [
+        "q_045"
+      ],
+      "explanation": "Correct answer: 宀."
+    },
+    {
+      "id": "q_hokkaido_046",
+      "type": "multipleChoice",
+      "prompt": "Which radical is associated with 路?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "食"
+        },
+        {
+          "id": "b",
+          "text": "足"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "金"
+        }
+      ],
+      "answer": "b",
+      "category": "radical",
+      "refs": [
+        "radical_ashi",
+        "kanji_路"
+      ],
+      "previousIds": [
+        "q_046"
+      ],
+      "explanation": "Correct answer: 足."
+    },
+    {
+      "id": "q_hokkaido_047",
+      "type": "multipleChoice",
+      "prompt": "Which radical is associated with 別?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "刀"
+        },
+        {
+          "id": "b",
+          "text": "止"
+        },
+        {
+          "id": "c",
+          "text": "羊"
+        },
+        {
+          "id": "d",
+          "text": "囗"
+        }
+      ],
+      "answer": "a",
+      "category": "radical",
+      "refs": [
+        "radical_katana",
+        "kanji_別"
+      ],
+      "previousIds": [
+        "q_047"
+      ],
+      "explanation": "Correct answer: 刀."
+    },
+    {
+      "id": "q_hokkaido_048",
+      "type": "multipleChoice",
+      "prompt": "Which radical is associated with 館?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "食"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "水"
+        },
+        {
+          "id": "d",
+          "text": "日"
+        }
+      ],
+      "answer": "a",
+      "category": "radical",
+      "refs": [
+        "radical_shoku",
+        "kanji_館"
+      ],
+      "previousIds": [
+        "q_048"
+      ],
+      "explanation": "Correct answer: 食."
+    },
+    {
+      "id": "q_hokkaido_049",
+      "type": "multipleChoice",
+      "prompt": "小樽 reading:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おたる"
+        },
+        {
+          "id": "b",
+          "text": "おだる"
+        },
+        {
+          "id": "c",
+          "text": "しょうたる"
+        },
+        {
+          "id": "d",
+          "text": "こたる"
+        }
+      ],
+      "answer": "a",
+      "category": "kanji",
+      "refs": [
+        "vocab_小樽"
+      ],
+      "previousIds": [
+        "q_049"
+      ],
+      "explanation": "Correct answer: おたる."
+    },
+    {
+      "id": "q_hokkaido_050",
+      "type": "multipleChoice",
+      "prompt": "旭川 reading:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あさひかわ"
+        },
+        {
+          "id": "b",
+          "text": "あきかわ"
+        },
+        {
+          "id": "c",
+          "text": "きょくかわ"
+        },
+        {
+          "id": "d",
+          "text": "あさかわ"
+        }
+      ],
+      "answer": "a",
+      "category": "kanji",
+      "refs": [
+        "vocab_旭川"
+      ],
+      "previousIds": [
+        "q_050"
+      ],
+      "explanation": "Correct answer: あさひかわ."
+    },
+    {
+      "id": "q_hokkaido_051",
+      "type": "multipleChoice",
+      "prompt": "美瑛 reading:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "びえい"
+        },
+        {
+          "id": "b",
+          "text": "みえい"
+        },
+        {
+          "id": "c",
+          "text": "びあき"
+        },
+        {
+          "id": "d",
+          "text": "みあき"
+        }
+      ],
+      "answer": "a",
+      "category": "kanji",
+      "refs": [
+        "vocab_美瑛"
+      ],
+      "previousIds": [
+        "q_051"
+      ],
+      "explanation": "Correct answer: びえい."
+    },
+    {
+      "id": "q_hokkaido_052",
+      "type": "multipleChoice",
+      "prompt": "富良野 reading:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "とみらの"
+        },
+        {
+          "id": "b",
+          "text": "ふらの"
+        },
+        {
+          "id": "c",
+          "text": "ふりょうの"
+        },
+        {
+          "id": "d",
+          "text": "とらの"
+        }
+      ],
+      "answer": "b",
+      "category": "kanji",
+      "refs": [
+        "vocab_富良野"
+      ],
+      "previousIds": [
+        "q_052"
+      ],
+      "explanation": "Correct answer: ふらの."
+    },
+    {
+      "id": "q_hokkaido_053",
+      "type": "multipleChoice",
+      "prompt": "釧路 reading:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "せんろ"
+        },
+        {
+          "id": "b",
+          "text": "くしろ"
+        },
+        {
+          "id": "c",
+          "text": "くじ"
+        },
+        {
+          "id": "d",
+          "text": "せんじ"
+        }
+      ],
+      "answer": "b",
+      "category": "kanji",
+      "refs": [
+        "vocab_釧路"
+      ],
+      "previousIds": [
+        "q_053"
+      ],
+      "explanation": "Correct answer: くしろ."
+    },
+    {
+      "id": "q_hokkaido_054",
+      "type": "multipleChoice",
+      "prompt": "登別 reading:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "のぼりべつ"
+        },
+        {
+          "id": "b",
+          "text": "とうべつ"
+        },
+        {
+          "id": "c",
+          "text": "のぼべつ"
+        },
+        {
+          "id": "d",
+          "text": "とべつ"
+        }
+      ],
+      "answer": "a",
+      "category": "kanji",
+      "refs": [
+        "vocab_登別"
+      ],
+      "previousIds": [
+        "q_054"
+      ],
+      "explanation": "Correct answer: のぼりべつ."
+    },
+    {
+      "id": "q_hokkaido_055",
+      "type": "multipleChoice",
+      "prompt": "北海道＿＿日本の北にあります。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "の"
+        },
+        {
+          "id": "c",
+          "text": "は"
+        },
+        {
+          "id": "d",
+          "text": "で"
+        }
+      ],
+      "answer": "c",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_wa",
+        "vocab_北海道"
+      ],
+      "previousIds": [
+        "q_055"
+      ],
+      "explanation": "Correct answer: は."
+    },
+    {
+      "id": "q_hokkaido_056",
+      "type": "multipleChoice",
+      "prompt": "旭川は北海道＿＿北にあります。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "の"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "は"
+        }
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_no",
+        "vocab_旭川"
+      ],
+      "previousIds": [
+        "q_056"
+      ],
+      "explanation": "Correct answer: の."
+    },
+    {
+      "id": "q_hokkaido_057",
+      "type": "multipleChoice",
+      "prompt": "富良野＿＿行きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "を"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "b",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_ni",
+        "vocab_富良野"
+      ],
+      "previousIds": [
+        "q_057"
+      ],
+      "explanation": "Correct answer: に."
+    },
+    {
+      "id": "q_hokkaido_058",
+      "type": "multipleChoice",
+      "prompt": "写真＿＿見ます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "は"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "a",
+      "category": "grammar",
+      "refs": [
+        "grammar_particle_wo",
+        "vocab_写真",
+        "vocab_見る"
+      ],
+      "previousIds": [
+        "q_058"
+      ],
+      "explanation": "Correct answer: を."
+    },
+    {
+      "id": "q_hokkaido_059",
+      "type": "multipleChoice",
+      "prompt": "北海道は日本の北にあります means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hokkaido is in the north of Japan"
+        },
+        {
+          "id": "b",
+          "text": "Japan is north of Hokkaido"
+        },
+        {
+          "id": "c",
+          "text": "Hokkaido is south of Japan"
+        },
+        {
+          "id": "d",
+          "text": "Hokkaido is outside Japan"
+        }
+      ],
+      "answer": "a",
+      "category": "reading",
+      "refs": [
+        "vocab_北海道",
+        "vocab_日本",
+        "grammar_particle_no"
+      ],
+      "previousIds": [
+        "q_059"
+      ],
+      "explanation": "Correct answer: Hokkaido is in the north of Japan."
+    },
+    {
+      "id": "q_hokkaido_060",
+      "type": "multipleChoice",
+      "prompt": "昨日、登別に行きました means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "will go tomorrow"
+        },
+        {
+          "id": "b",
+          "text": "went yesterday"
+        },
+        {
+          "id": "c",
+          "text": "did not go"
+        },
+        {
+          "id": "d",
+          "text": "lives there"
+        }
+      ],
+      "answer": "b",
+      "category": "reading",
+      "refs": [
+        "vocab_昨日",
+        "vocab_登別",
+        "vocab_行く",
+        "grammar_polite_past"
+      ],
+      "previousIds": [
+        "q_060"
+      ],
+      "explanation": "Correct answer: went yesterday."
+    }
+  ]
+}

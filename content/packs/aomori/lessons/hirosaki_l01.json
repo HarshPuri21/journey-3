@@ -1,0 +1,499 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "hirosaki_l01",
+  "number": 2,
+  "title": "Hirosaki — 弘前",
+  "goal": "Read a new place name, understand the clock, and arrange a simple visit.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_前",
+    "kanji_後",
+    "kanji_時",
+    "kanji_分",
+    "kanji_半"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_七",
+    "kanji_三",
+    "kanji_九",
+    "kanji_二",
+    "kanji_五",
+    "kanji_人",
+    "kanji_今",
+    "kanji_何",
+    "kanji_八",
+    "kanji_公",
+    "kanji_六",
+    "kanji_十",
+    "kanji_午",
+    "kanji_四",
+    "kanji_園",
+    "kanji_富",
+    "kanji_店",
+    "kanji_弘",
+    "kanji_戸",
+    "kanji_日",
+    "kanji_月",
+    "kanji_木",
+    "kanji_桜",
+    "kanji_森",
+    "kanji_良",
+    "kanji_花",
+    "kanji_行",
+    "kanji_見",
+    "kanji_野",
+    "kanji_青"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Hirosaki and the Idea of a Visit",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "弘前",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "ひろさき — Hirosaki"
+        },
+        {
+          "type": "text",
+          "text": "Hirosaki is associated with its castle and park, and the park is known for spring cherry blossoms. A short park visit gives us a useful reason to learn **when** something happens."
+        },
+        {
+          "type": "text",
+          "text": "**弘前に行きます。**\nひろさきに いきます。\nI go / will go to Hirosaki."
+        },
+        {
+          "type": "text",
+          "text": "The city name is new; the destination sentence is familiar. Think back to 富良野に行きます. We will add a clock time to the same pattern, rather than replacing it with a completely different grammar system."
+        }
+      ]
+    },
+    {
+      "id": "inside_hirosaki",
+      "title": "Inside 弘前",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Kanji:** 弘 · **Meaning/readings for orientation:** broad; enlarge; on コウ; ひろ in this name · **Radical and components:** Radical 弓, ゆみ, bow. Modern right 厶 is an abbreviated historical sound element related to 厷 · **Learning role:** Encounter. 弓 is a component clue, not a reason to translate the city as a literal bow.",
+            "**Kanji:** 前 · **Meaning/readings for orientation:** front; before; まえ; on ゼン · **Radical and components:** Indexing radical 刀, かたな, appearing as right-side 刂, りっとう. The modern left contains a top shape and a 月-shaped section · **Learning role:** Core. These visible shapes help recognise 前; “moon + knife = front” is not a sound historical explanation."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**弘前 is read ひろさき**, not “こうまえ.” Learn the name as a whole. The さき part is a special place-name reading here; the everyday word “front” remains 前 / まえ."
+        },
+        {
+          "type": "text",
+          "text": "We can study useful 前 vocabulary without requiring mastery of rare 弘 readings."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_弘",
+            "kanji_前"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_katana"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_yumi"
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c03",
+      "title": "前 and 後: Position and Time",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**前** — まえ — front; before.\n**後ろ** — うしろ — behind; back."
+        },
+        {
+          "type": "text",
+          "text": "後 uses **彳**, ぎょうにんべん, as its radical. The modern right side contains smaller shapes including 幺 and 夂. Use these for recognition; the meanings of “thread” and “footstep” do not simply add up to every use of 後."
+        },
+        {
+          "type": "text",
+          "text": "**店の前に人がいます。**\nみせの まえに ひとが います。\nThere is a person in front of the shop."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown: 店の前 = the front of the shop; に = where; 人がいます = a person is there."
+        },
+        {
+          "type": "text",
+          "text": "In clock words, the same characters appear with on readings: **午前 / ごぜん** = a.m.; **午後 / ごご** = p.m. Learn those whole expressions. 午 is an assisted encounter here, not an extra required core character."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c04",
+      "title": "時: The Clock Hour",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**時** — じ in clock times; とき in other contexts meaning “time.”"
+        },
+        {
+          "type": "text",
+          "text": "時 contains **日**, にち/ひ, as its radical and **寺** on the right. 日 gives a time-related connection. 寺 is part of the character's historical sound structure; do not interpret 時 as “sun temple.”"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Time:** 一時 · **Reading:** いちじ · **Time:** 七時 · **Reading:** しちじ",
+            "**Time:** 二時 · **Reading:** にじ · **Time:** 八時 · **Reading:** はちじ",
+            "**Time:** 三時 · **Reading:** さんじ · **Time:** 九時 · **Reading:** くじ",
+            "**Time:** 四時 · **Reading:** よじ · **Time:** 十時 · **Reading:** じゅうじ",
+            "**Time:** 五時 · **Reading:** ごじ · **Time:** 十一時 · **Reading:** じゅういちじ",
+            "**Time:** 六時 · **Reading:** ろくじ · **Time:** 十二時 · **Reading:** じゅうにじ"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Watch **四時 = よじ**, **七時 = しちじ**, and **九時 = くじ**. The readings differ from some standalone number preferences and from the months you learned in Asahikawa."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c05",
+      "title": "分: Minutes Have Sound Changes",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**分** — ふん / ぷん in minutes; a “part” character in other words."
+        },
+        {
+          "type": "text",
+          "text": "Its radical is **刀**, かたな. The modern upper 八-shaped section and lower 刀 help recognise it; its connection with dividing suggests the idea of a part. **Minute readings are whole forms to learn**, not readings invented from the parts."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Minutes:** 一分 · **Reading:** いっぷん · **Minutes:** 六分 · **Reading:** ろっぷん",
+            "**Minutes:** 二分 · **Reading:** にふん · **Minutes:** 七分 · **Reading:** ななふん",
+            "**Minutes:** 三分 · **Reading:** さんぷん · **Minutes:** 八分 · **Reading:** はっぷん",
+            "**Minutes:** 四分 · **Reading:** よんぷん · **Minutes:** 九分 · **Reading:** きゅうふん",
+            "**Minutes:** 五分 · **Reading:** ごふん · **Minutes:** 十分 · **Reading:** じゅっぷん / じっぷん"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "This course uses じゅっぷん in examples and accepts じっぷん too. Neither 十分 meaning “ten minutes” nor 分 requires knowing all the other meanings/readings today."
+        },
+        {
+          "type": "text",
+          "text": "**九時五分** — くじ ごふん — 9:05. The hour and minute are read separately."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c06",
+      "title": "半: Half Past",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**半** — はん — half."
+        },
+        {
+          "type": "text",
+          "text": "半 is indexed under **十**, じゅう. Its upper two strokes and central cross-like form are shape cues, not a claim that it means two plus ten."
+        },
+        {
+          "type": "text",
+          "text": "**九時半** — くじはん — half past nine, 9:30.\n**三時半** — さんじはん — half past three, 3:30."
+        },
+        {
+          "type": "text",
+          "text": "Half an hour is thirty minutes: **三十分 / さんじゅっぷん** (also さんじっぷん). You can understand 九時半 without reciting a full minute table."
+        },
+        {
+          "type": "text",
+          "text": "Do not confuse **九月 / くがつ** (September), **九日 / ここのか** (the ninth day), and **九時 / くじ** (nine o'clock). Shared numbers do not guarantee identical readings."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c07",
+      "title": "Ask What Time It Is",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**今、何時ですか。**\nいま、なんじですか。\nWhat time is it now?"
+        },
+        {
+          "type": "text",
+          "text": "**九時半です。**\nくじはんです。\nIt is half past nine."
+        },
+        {
+          "type": "text",
+          "text": "何 becomes **なん** in 何時. 今 / いま means now; you have encountered 今 in 今日, but today's useful standalone word is いま."
+        },
+        {
+          "type": "text",
+          "text": "**午前九時** — ごぜん くじ — 9 a.m.\n**午後三時** — ごご さんじ — 3 p.m."
+        },
+        {
+          "type": "text",
+          "text": "The number on a clock does not tell you morning or afternoon by itself. These expressions make it clear. We are practising language, not describing the opening hours of a real Hirosaki attraction."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c08",
+      "title": "に for a Specific Time",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**九時に弘前に行きます。**\nくじに ひろさきに いきます。\nI go / will go to Hirosaki at nine."
+        },
+        {
+          "type": "text",
+          "text": "The two に have different jobs: **九時に** = at nine; **弘前に** = to Hirosaki. Identify the word before the particle to understand its role."
+        },
+        {
+          "type": "text",
+          "text": "Compare:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**九時に行きます。** — I go at nine.",
+            "**今日、行きます。** — I go today."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "今日 normally does not need に in this simple time use. Do not add に automatically to every time word."
+        },
+        {
+          "type": "text",
+          "text": "**何時に行きますか。**\nなんじに いきますか。\nWhat time will you go?"
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c09",
+      "title": "から and まで: Start and End",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**九時から十時まで**\nくじから じゅうじまで\nFrom nine until ten."
+        },
+        {
+          "type": "text",
+          "text": "**九時から十時まで公園にいます。**\nくじから じゅうじまで こうえんに います。\nI am in the park from nine until ten."
+        },
+        {
+          "type": "text",
+          "text": "公園 / こうえん = park. Its characters are encounters. います applies to the person staying there; the park itself is a place, not a living subject."
+        },
+        {
+          "type": "text",
+          "text": "から marks the starting point, and まで the endpoint. They can also be used with places:\n**青森から弘前まで** — あおもりから ひろさきまで — from Aomori to Hirosaki."
+        },
+        {
+          "type": "text",
+          "text": "We saw から in Hokkaido's reading. Now we teach it deliberately and pair it with まで."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c10",
+      "title": "A Blossom Encounter",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**桜** — さくら — cherry blossom/cherry tree, an encounter word.\n**花** — はな — flower, an encounter today, formal study later in Hanamaki."
+        },
+        {
+          "type": "text",
+          "text": "**公園で桜を見ます。**\nこうえんで さくらを みます。\nI see cherry blossoms in the park."
+        },
+        {
+          "type": "text",
+          "text": "You know 見ます from Furano. The new park/blossom words receive assistance. This sentence is a possible spring activity in our practice scene; it does not say blossoms are available all year."
+        },
+        {
+          "type": "text",
+          "text": "If you are looking inside 桜, the 木 on the left is familiar. That links back to 青森's tree family. You can notice a component without adding the whole character to today's mastery goals."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c11",
+      "title": "Practice: Read the Plan",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Our fictional note says: **午前九時半に公園に行きます。**\nごぜん くじはんに こうえんに いきます。"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Is the time 9:00, 9:30, or 3:30?",
+            "Is it a.m. or p.m.?",
+            "What does the first に mark?",
+            "Choose the reading of 四時: よじ / よんじ / しがつ."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Answers:** 1 9:30. 2 a.m. 3 The action's time. 4 よじ. しがつ is 四月, April."
+        },
+        {
+          "type": "text",
+          "text": "Now change the note to **午後三時に行きます。** — I go at 3 p.m. Only the time expression changes; the familiar verb pattern remains."
+        }
+      ]
+    },
+    {
+      "id": "hirosaki_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Location:** 弘前 — ひろさき; 弘 is an encounter, 前 is formally studied.",
+            "**Position:** 前 = まえ; 後ろ = うしろ; 店の前 = in front of the shop.",
+            "**Clock:** 時 = じ; 四時 = よじ; 七時 = しちじ; 九時 = くじ.",
+            "**Minutes:** 一分 = いっぷん; 三分 = さんぷん; 五分 = ごふん; 十分 = じゅっぷん/じっぷん.",
+            "**Half:** 九時半 = 9:30.",
+            "**Question:** 今、何時ですか。",
+            "**Particles:** 九時に; 九時から十時まで.",
+            "**Words:** 午前 = ごぜん; 午後 = ごご; 公園 = こうえん.",
+            "**Components:** 前/分 connect to 刀; 時 connects to 日; the correct reading remains word-dependent.",
+            "**Preview bridge:** 桜 and 花 are assisted; 花 will return in Hanamaki."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Lesson complete. Next location: Hachinohe / 八戸.**"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_前",
+            "kanji_後",
+            "kanji_時",
+            "kanji_分",
+            "kanji_半"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_弘前"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_後ろ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_何時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午前"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午後"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_四時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_七時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_九時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_十時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_九時半"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一分"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_三分"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_五分"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_十分"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_公園"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_八戸"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Hirosaki complete",
+    "nextText": "Next: Hachinohe",
+    "nextChapter": "aomori/hachinohe"
+  }
+}

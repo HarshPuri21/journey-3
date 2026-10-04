@@ -1,0 +1,1139 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_青い",
+      "word": "青い",
+      "reading": "あおい",
+      "meanings": [
+        "blue; in established 青いりんご, green"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_青"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r04_s03"
+      ]
+    },
+    {
+      "id": "vocab_森",
+      "word": "森",
+      "reading": "もり",
+      "meanings": [
+        "forest"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_森"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r01_s01",
+        "sent_aomori_r01_s02",
+        "sent_aomori_r02_s02",
+        "sent_aomori_r02_s03",
+        "sent_aomori_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_林",
+      "word": "林",
+      "reading": "はやし",
+      "meanings": [
+        "grove; woods"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_林"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r02_s01"
+      ]
+    },
+    {
+      "id": "vocab_森林",
+      "word": "森林",
+      "reading": "しんりん",
+      "meanings": [
+        "forest; woodland"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_林",
+        "kanji_森"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_食べる",
+      "word": "食べる",
+      "reading": "たべる",
+      "meanings": [
+        "eat"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_食"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_店",
+      "word": "店",
+      "reading": "みせ",
+      "meanings": [
+        "shop"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_店"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r03_s01",
+        "sent_aomori_r04_s01",
+        "sent_aomori_r06_s03",
+        "sent_aomori_r08_s01",
+        "sent_aomori_r08_s02",
+        "sent_aomori_r08_s03",
+        "sent_aomori_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_お店",
+      "word": "お店",
+      "reading": "おみせ",
+      "meanings": [
+        "shop, polite prefix"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_店"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_買う",
+      "word": "買う",
+      "reading": "かう",
+      "meanings": [
+        "buy"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_買"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_りんご",
+      "word": "りんご",
+      "reading": "りんご",
+      "meanings": [
+        "apple"
+      ],
+      "pos": "noun",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_aomori_r03_s02",
+        "sent_aomori_r03_s03",
+        "sent_aomori_r04_s01",
+        "sent_aomori_r04_s02",
+        "sent_aomori_r04_s03",
+        "sent_aomori_r09_s02",
+        "sent_aomori_r09_s03",
+        "sent_aomori_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_この",
+      "word": "この",
+      "reading": "この",
+      "meanings": [
+        "this, before a noun"
+      ],
+      "pos": "modifier",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_aomori_r01_s03",
+        "sent_aomori_r03_s01",
+        "sent_aomori_r03_s02",
+        "sent_aomori_r04_s03",
+        "sent_aomori_r08_s01",
+        "sent_aomori_r09_s03"
+      ]
+    },
+    {
+      "id": "vocab_その",
+      "word": "その",
+      "reading": "その",
+      "meanings": [
+        "that, before a noun"
+      ],
+      "pos": "modifier",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_あの",
+      "word": "あの",
+      "reading": "あの",
+      "meanings": [
+        "that over there, before a noun"
+      ],
+      "pos": "modifier",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_aomori_r02_s02"
+      ]
+    },
+    {
+      "id": "vocab_と",
+      "word": "と",
+      "reading": "と",
+      "meanings": [
+        "and, joining nouns"
+      ],
+      "pos": "particle",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_aomori_r04_s02",
+        "sent_aomori_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_すみません",
+      "word": "すみません",
+      "reading": "すみません",
+      "meanings": [
+        "excuse me; sorry"
+      ],
+      "pos": "phrase",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_ありがとうございます",
+      "word": "ありがとうございます",
+      "reading": "ありがとうございます",
+      "meanings": [
+        "thank you, polite"
+      ],
+      "pos": "phrase",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_弘前",
+      "word": "弘前",
+      "reading": "ひろさき",
+      "meanings": [
+        "Hirosaki, whole place name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_前",
+        "kanji_弘"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s01",
+        "sent_aomori_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_前",
+      "word": "前",
+      "reading": "まえ",
+      "meanings": [
+        "in front; before"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_前"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s01",
+        "sent_aomori_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_後ろ",
+      "word": "後ろ",
+      "reading": "うしろ",
+      "meanings": [
+        "behind"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_後"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_時",
+      "word": "時",
+      "reading": "とき",
+      "meanings": [
+        "time, standalone; clock suffix is じ"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s01",
+        "sent_aomori_r05_s02",
+        "sent_aomori_r06_s01",
+        "sent_aomori_r06_s02",
+        "sent_aomori_r06_s03"
+      ]
+    },
+    {
+      "id": "vocab_分",
+      "word": "分",
+      "reading": "ふん",
+      "meanings": [
+        "minute; ぷん in specified counting words"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_分"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_半",
+      "word": "半",
+      "reading": "はん",
+      "meanings": [
+        "half"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_半"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s01",
+        "sent_aomori_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_何時",
+      "word": "何時",
+      "reading": "なんじ",
+      "meanings": [
+        "what time"
+      ],
+      "pos": "question",
+      "kanji": [
+        "kanji_何",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r06_s01"
+      ]
+    },
+    {
+      "id": "vocab_午前",
+      "word": "午前",
+      "reading": "ごぜん",
+      "meanings": [
+        "a.m.; morning"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_前",
+        "kanji_午"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s01"
+      ]
+    },
+    {
+      "id": "vocab_午後",
+      "word": "午後",
+      "reading": "ごご",
+      "meanings": [
+        "p.m.; afternoon"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_午",
+        "kanji_後"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r06_s03"
+      ]
+    },
+    {
+      "id": "vocab_一時",
+      "word": "一時",
+      "reading": "いちじ",
+      "meanings": [
+        "one o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_一",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_二時",
+      "word": "二時",
+      "reading": "にじ",
+      "meanings": [
+        "two o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_二",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_三時",
+      "word": "三時",
+      "reading": "さんじ",
+      "meanings": [
+        "three o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_三",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r06_s03"
+      ]
+    },
+    {
+      "id": "vocab_四時",
+      "word": "四時",
+      "reading": "よじ",
+      "meanings": [
+        "four o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_四",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_五時",
+      "word": "五時",
+      "reading": "ごじ",
+      "meanings": [
+        "five o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_五",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_六時",
+      "word": "六時",
+      "reading": "ろくじ",
+      "meanings": [
+        "six o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_六",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_七時",
+      "word": "七時",
+      "reading": "しちじ",
+      "meanings": [
+        "seven o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_七",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_八時",
+      "word": "八時",
+      "reading": "はちじ",
+      "meanings": [
+        "eight o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_八",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_九時",
+      "word": "九時",
+      "reading": "くじ",
+      "meanings": [
+        "nine o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_九",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s01",
+        "sent_aomori_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_十時",
+      "word": "十時",
+      "reading": "じゅうじ",
+      "meanings": [
+        "ten o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_十",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s02",
+        "sent_aomori_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_十一時",
+      "word": "十一時",
+      "reading": "じゅういちじ",
+      "meanings": [
+        "eleven o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_一",
+        "kanji_十",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_十二時",
+      "word": "十二時",
+      "reading": "じゅうにじ",
+      "meanings": [
+        "twelve o'clock"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_二",
+        "kanji_十",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_九時半",
+      "word": "九時半",
+      "reading": "くじはん",
+      "meanings": [
+        "nine thirty"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_九",
+        "kanji_半",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s01",
+        "sent_aomori_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_三時半",
+      "word": "三時半",
+      "reading": "さんじはん",
+      "meanings": [
+        "three thirty"
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_三",
+        "kanji_半",
+        "kanji_時"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_一分",
+      "word": "一分",
+      "reading": "いっぷん",
+      "meanings": [
+        "one minute"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_一",
+        "kanji_分"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_二分",
+      "word": "二分",
+      "reading": "にふん",
+      "meanings": [
+        "two minutes"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_二",
+        "kanji_分"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_三分",
+      "word": "三分",
+      "reading": "さんぷん",
+      "meanings": [
+        "three minutes"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_三",
+        "kanji_分"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_四分",
+      "word": "四分",
+      "reading": "よんぷん",
+      "meanings": [
+        "four minutes"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_分",
+        "kanji_四"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_五分",
+      "word": "五分",
+      "reading": "ごふん",
+      "meanings": [
+        "five minutes"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_五",
+        "kanji_分"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_六分",
+      "word": "六分",
+      "reading": "ろっぷん",
+      "meanings": [
+        "six minutes"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_六",
+        "kanji_分"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_七分",
+      "word": "七分",
+      "reading": "ななふん",
+      "meanings": [
+        "seven minutes"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_七",
+        "kanji_分"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_八分",
+      "word": "八分",
+      "reading": "はっぷん",
+      "meanings": [
+        "eight minutes, taught variant"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_八",
+        "kanji_分"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_九分",
+      "word": "九分",
+      "reading": "きゅうふん",
+      "meanings": [
+        "nine minutes"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_九",
+        "kanji_分"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_十分",
+      "word": "十分",
+      "reading": "じゅっぷん",
+      "meanings": [
+        "ten minutes, taught variant"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_分",
+        "kanji_十"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_公園",
+      "word": "公園",
+      "reading": "こうえん",
+      "meanings": [
+        "park, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_公",
+        "kanji_園"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s02",
+        "sent_aomori_r05_s03"
+      ]
+    },
+    {
+      "id": "vocab_桜",
+      "word": "桜",
+      "reading": "さくら",
+      "meanings": [
+        "cherry blossom, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_桜"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s03"
+      ]
+    },
+    {
+      "id": "vocab_花",
+      "word": "花",
+      "reading": "はな",
+      "meanings": [
+        "flower, preview before Hanamaki formal study"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_花"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_八戸",
+      "word": "八戸",
+      "reading": "はちのへ",
+      "meanings": [
+        "Hachinohe, whole name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_八",
+        "kanji_戸"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r07_s01",
+        "sent_aomori_r07_s03",
+        "sent_aomori_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_魚",
+      "word": "魚",
+      "reading": "さかな",
+      "meanings": [
+        "fish"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_魚"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r07_s02",
+        "sent_aomori_r07_s03",
+        "sent_aomori_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_口",
+      "word": "口",
+      "reading": "くち",
+      "meanings": [
+        "mouth; opening"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_口"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r08_s01"
+      ]
+    },
+    {
+      "id": "vocab_入り口",
+      "word": "入り口",
+      "reading": "いりぐち",
+      "meanings": [
+        "entrance"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_入",
+        "kanji_口"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r08_s01"
+      ]
+    },
+    {
+      "id": "vocab_出口",
+      "word": "出口",
+      "reading": "でぐち",
+      "meanings": [
+        "exit"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_出",
+        "kanji_口"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_出る",
+      "word": "出る",
+      "reading": "でる",
+      "meanings": [
+        "leave; go out"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_出"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_一つ",
+      "word": "一つ",
+      "reading": "ひとつ",
+      "meanings": [
+        "one item"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_一"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_二つ",
+      "word": "二つ",
+      "reading": "ふたつ",
+      "meanings": [
+        "two items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_二"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r03_s03"
+      ]
+    },
+    {
+      "id": "vocab_三つ",
+      "word": "三つ",
+      "reading": "みっつ",
+      "meanings": [
+        "three items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_三"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_四つ",
+      "word": "四つ",
+      "reading": "よっつ",
+      "meanings": [
+        "four items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_四"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_五つ",
+      "word": "五つ",
+      "reading": "いつつ",
+      "meanings": [
+        "five items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_五"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_六つ",
+      "word": "六つ",
+      "reading": "むっつ",
+      "meanings": [
+        "six items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_六"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_七つ",
+      "word": "七つ",
+      "reading": "ななつ",
+      "meanings": [
+        "seven items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_七"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_八つ",
+      "word": "八つ",
+      "reading": "やっつ",
+      "meanings": [
+        "eight items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_八"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_九つ",
+      "word": "九つ",
+      "reading": "ここのつ",
+      "meanings": [
+        "nine items"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_九"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_十_count",
+      "word": "十",
+      "reading": "とお",
+      "meanings": [
+        "ten items, distinct from numeric じゅう"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_十"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r05_s02",
+        "sent_aomori_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_いくつ",
+      "word": "いくつ",
+      "reading": "いくつ",
+      "meanings": [
+        "how many items"
+      ],
+      "pos": "question",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_一人",
+      "word": "一人",
+      "reading": "ひとり",
+      "meanings": [
+        "one person"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_一",
+        "kanji_人"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_二人",
+      "word": "二人",
+      "reading": "ふたり",
+      "meanings": [
+        "two people"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_二",
+        "kanji_人"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_三人",
+      "word": "三人",
+      "reading": "さんにん",
+      "meanings": [
+        "three people"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_三",
+        "kanji_人"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_何人",
+      "word": "何人",
+      "reading": "なんにん",
+      "meanings": [
+        "how many people"
+      ],
+      "pos": "question",
+      "kanji": [
+        "kanji_人",
+        "kanji_何"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_どれ",
+      "word": "どれ",
+      "reading": "どれ",
+      "meanings": [
+        "which one, standalone"
+      ],
+      "pos": "question",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_どの",
+      "word": "どの",
+      "reading": "どの",
+      "meanings": [
+        "which, before a noun"
+      ],
+      "pos": "modifier",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_aomori_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_いらっしゃいませ",
+      "word": "いらっしゃいませ",
+      "reading": "いらっしゃいませ",
+      "meanings": [
+        "welcome, spoken by staff"
+      ],
+      "pos": "phrase",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_いただきます",
+      "word": "いただきます",
+      "reading": "いただきます",
+      "meanings": [
+        "phrase before eating"
+      ],
+      "pos": "phrase",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_ごちそうさまでした",
+      "word": "ごちそうさまでした",
+      "reading": "ごちそうさまでした",
+      "meanings": [
+        "appreciation after a meal"
+      ],
+      "pos": "phrase",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_岩手",
+      "word": "岩手",
+      "reading": "いわて",
+      "meanings": [
+        "Iwate, next prefecture name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_岩",
+        "kanji_手"
+      ],
+      "exampleSentences": [
+        "sent_aomori_r10_s03"
+      ]
+    }
+  ]
+}

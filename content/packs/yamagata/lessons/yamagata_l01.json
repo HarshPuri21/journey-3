@@ -1,0 +1,368 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "yamagata_l01",
+  "number": 1,
+  "title": "Yamagata — 山形",
+  "goal": "Describe weather and connect a short explanation to an action.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_天",
+    "kanji_気",
+    "kanji_雨",
+    "kanji_雪"
+  ],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_九",
+    "kanji_人",
+    "kanji_今",
+    "kanji_休",
+    "kanji_元",
+    "kanji_友",
+    "kanji_大",
+    "kanji_寒",
+    "kanji_山",
+    "kanji_川",
+    "kanji_店",
+    "kanji_形",
+    "kanji_悪",
+    "kanji_日",
+    "kanji_昨",
+    "kanji_時",
+    "kanji_晴",
+    "kanji_曇",
+    "kanji_町",
+    "kanji_白",
+    "kanji_行",
+    "kanji_電"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "From Akita to Yamagata",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Yamagata is both a prefecture and its capital city's name. Yamagata City's Kajo Park is associated with cherry blossoms; the wider prefecture also has mountain and snow scenery. Our weather sentences describe imaginary days, not the weather today."
+        },
+        {
+          "type": "text",
+          "text": "**山形に行きました。** やまがたに いきました。 — I went to Yamagata."
+        },
+        {
+          "type": "text",
+          "text": "We have already seen 山 in Matsushima. A city name now connects a familiar landscape shape with new weather vocabulary. We will distinguish “rain” as a noun from “cold” as an adjective instead of forcing all weather words into one inflection pattern."
+        }
+      ]
+    },
+    {
+      "id": "inside_yamagata",
+      "title": "Inside 山形",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 山 · **Useful meaning/reading:** mountain; やま, サン · **Radical and visible parts:** 山, やま; whole mountain-derived form · **Role:** Formal review from Matsushima.",
+            "**Character:** 形 · **Useful meaning/reading:** shape/form; かた/かたち, ケイ/ギョウ; がた here · **Radical and visible parts:** 彡, さんづくり, beside an 开-shaped left section · **Role:** Encounter. Left shapes aid recognition; avoid reading the city by adding standalone words."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**山形 / やまがた**. The がた is the learned name reading; ordinary **形 / かたち**, shape, is only an assisted orientation word here. 彡 has three slanted strokes, unlike 川's river strokes or 三's horizontal number strokes. Identifying their arrangement is more useful than calling every three-stroke group “three.”"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_山",
+            "kanji_形"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_katachi"
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c03",
+      "title": "天 and 気 Make 天気",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**天気 / てんき — weather.** 天 has radical **大**, だい; recognise the extra upper stroke in its whole shape. 気 has radical **气**, きがまえ, surrounding lower **メ**-like modern strokes. Those pieces do not make a literal “big cross” explanation of weather."
+        },
+        {
+          "type": "text",
+          "text": "**天気がいいです。** てんきが いいです。 — The weather is good."
+        },
+        {
+          "type": "text",
+          "text": "**天気が悪いです。** てんきが わるいです。 — The weather is bad."
+        },
+        {
+          "type": "text",
+          "text": "悪い / わるい is assisted vocabulary, with 悪 not newly assigned formal study. Good/bad is a speaker's description. 天気 is a noun and does not itself change like an い-adjective. We learn the compound before wider 気 expressions."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c04",
+      "title": "雨: Rain",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**雨 / あめ — rain.** 雨 is its own radical, あめ; at the top of another character its form is called あめかんむり. The enclosed drops and upper line make a rain-related whole shape."
+        },
+        {
+          "type": "text",
+          "text": "**今日は雨です。** きょうは あめです。 — It is rainy today / Today is rain."
+        },
+        {
+          "type": "text",
+          "text": "今日 / きょう is reviewed as a whole time word from Hokkaido. A weather noun can be followed by です. We do not need the new verb “fall” to make a beginner weather sentence. **雨でした / あめでした**, it was rainy, uses the noun past introduced with prices in Akita."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c05",
+      "title": "雪: Snow",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**雪 / ゆき — snow; 白い雪 / しろいゆき — white snow.** Snow's indexing radical is **雨**, あめかんむり, above a lower **彐**-shaped section. That lower part is a recognition shape here, not a rule that snow means a hand."
+        },
+        {
+          "type": "text",
+          "text": "**山に雪があります。** やまに ゆきが あります。 — There is snow on the mountain."
+        },
+        {
+          "type": "text",
+          "text": "**雪は白いです。** ゆきは しろいです。 — Snow is white."
+        },
+        {
+          "type": "text",
+          "text": "These two sentences use different predicates: existence あります and adjective description 白いです. The picture is invented. We are not claiming year-round snow at a particular Yamagata location."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c06",
+      "title": "A Weather Noun Is Not an い-Adjective",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Meaning:** It is rain/rainy · **Japanese:** 雨です · **Reading:** あめです",
+            "**Meaning:** It was rain/rainy · **Japanese:** 雨でした · **Reading:** あめでした",
+            "**Meaning:** It is not rain/rainy · **Japanese:** 雨ではありません · **Reading:** あめではありません",
+            "**Meaning:** It was not rain/rainy · **Japanese:** 雨ではありませんでした · **Reading:** あめではありませんでした"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "This completes the four polite noun-description forms: です, ではありません, でした, ではありませんでした. The past negative keeps **ではありません** and adds **でした**. Do not construct **雨くない**: 雨 is a noun. It also differs from **雨がありません**, which states absence of rain rather than classifying the day's weather."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_noun_past_negative"
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c07",
+      "title": "Cold, Clear and Cloudy: Assisted Words",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**寒い / さむい — cold, an い-adjective; 晴れ / はれ — clear/fair weather, noun; 曇り / くもり — cloudiness/cloudy weather, noun.** Their harder characters stay encounters here."
+        },
+        {
+          "type": "text",
+          "text": "**今日は寒いです。** きょうは さむいです。 — It is cold today."
+        },
+        {
+          "type": "text",
+          "text": "**昨日は寒かったです。** きのうは さむかったです。 — It was cold yesterday."
+        },
+        {
+          "type": "text",
+          "text": "**今日は晴れです。** きょうは はれです。 — It is clear today."
+        },
+        {
+          "type": "text",
+          "text": "昨日 / きのう is assisted time vocabulary. Its characters do not create another formal assignment. Use 寒かった for the adjective and 晴れでした for the noun; their English weather translations can look similar while Japanese grammar differs."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c08",
+      "title": "ですから: A Reason and a Result",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**ですから — so; therefore**, joining a preceding polite statement to a result."
+        },
+        {
+          "type": "text",
+          "text": "**今日は雨です。ですから、店で休みます。** きょうは あめです。ですから、みせで やすみます。 — It is rainy today. So I rest at a shop."
+        },
+        {
+          "type": "text",
+          "text": "The rain is given as the reason; resting at the shop is the narrator's choice. We are not making a universal claim about what people do in rain. Compare **でも**, contrast, and **そして**, addition/sequence. The word **から** inside ですから has a different function from **九時から**, from nine. Learn the connector in the whole pattern before broader reason-clause grammar."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_desukara"
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c09",
+      "title": "気 Also Appears in 元気",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**元気 / げんき — healthy; energetic**, a な-adjective word. 元 is assisted; 気 is now formal study."
+        },
+        {
+          "type": "text",
+          "text": "**友だちは元気です。** ともだちは げんきです。 — My friend is well/energetic."
+        },
+        {
+          "type": "text",
+          "text": "**元気な人 / げんきなひと — an energetic person.** Use な before a noun, unlike 寒い's adjective pattern. We do not equate health with a particular weather condition. **元気ではありません / げんきではありません**, not well/energetic, uses the familiar な-adjective negative. This shows how one character participates in different useful words without requiring every possible abstract sense of 気."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c10",
+      "title": "A Two-Day Account",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**昨日は雨でした。今日は晴れです。** きのうは あめでした。きょうは はれです。 — It was rainy yesterday. It is clear today."
+        },
+        {
+          "type": "text",
+          "text": "**山に白い雪があります。でも、町には雪がありません。** やまに しろい ゆきが あります。でも、まちには ゆきが ありません。 — There is white snow on the mountain. But there is no snow in the town."
+        },
+        {
+          "type": "text",
+          "text": "The second scene is fictional. には adds topic/contrast to the familiar location に; it does not turn a town into a person. Read snow's existence separately from the day's weather label. The connector shows a difference between two places."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c11",
+      "title": "Practice: Which Predicate?",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 山形, 天気, 雨 and 雪. **Answer:** やまがた; てんき; あめ; ゆき.",
+            "What radical links 雪 with 電? **Answer:** 雨.",
+            "Make 雨です past negative. **Answer:** 雨ではありませんでした.",
+            "Make 寒いです past. **Answer:** 寒かったです.",
+            "What relationship does ですから introduce? **Answer:** the result/conclusion of the preceding reason.",
+            "Choose “an energetic person”: 元気な人 / 元気い人. **Answer:** 元気な人."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yamagata_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "山形 is やまがた. 天気 is weather; 雨 is rain; 雪 is snow. Rain/snow weather labels are nouns, while 寒い is an adjective. 雨でした differs from 寒かったです. 雨ではありませんでした is the noun past negative. ですから gives a reason-to-result link. 気 also appears in 元気."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “It was rainy yesterday. It is clear today.” **Model:** 昨日は雨でした。今日は晴れです。 Keep unstudied characters assisted. Continue to Tsuruoka."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_天",
+            "kanji_気",
+            "kanji_雨",
+            "kanji_雪"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_昨日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_今日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_山形"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_天気"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_寒い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_晴れ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_元気"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_ですから"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Yamagata complete",
+    "nextText": "Next: Tsuruoka",
+    "nextChapter": "yamagata/tsuruoka"
+  }
+}

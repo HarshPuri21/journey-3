@@ -1,0 +1,448 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_前橋",
+      "word": "前橋",
+      "reading": "まえばし",
+      "meanings": [
+        "Maebashi, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_前",
+        "kanji_橋"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r01_s01",
+        "sent_gunma_r01_s03"
+      ]
+    },
+    {
+      "id": "vocab_橋",
+      "word": "橋",
+      "reading": "はし",
+      "meanings": [
+        "bridge, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_橋"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r01_s01",
+        "sent_gunma_r01_s03"
+      ]
+    },
+    {
+      "id": "vocab_持つ",
+      "word": "持つ",
+      "reading": "もつ",
+      "meanings": [
+        "hold; carry; have"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_持"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_服",
+      "word": "服",
+      "reading": "ふく",
+      "meanings": [
+        "clothes"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_服"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r02_s01"
+      ]
+    },
+    {
+      "id": "vocab_洋服",
+      "word": "洋服",
+      "reading": "ようふく",
+      "meanings": [
+        "Western-style clothes, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_服",
+        "kanji_洋"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_和服",
+      "word": "和服",
+      "reading": "わふく",
+      "meanings": [
+        "Japanese-style clothes, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_和",
+        "kanji_服"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_着る",
+      "word": "着る",
+      "reading": "きる",
+      "meanings": [
+        "put on; wear, Group 2; kanji remains assisted"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_着"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_かばん",
+      "word": "かばん",
+      "reading": "かばん",
+      "meanings": [
+        "bag"
+      ],
+      "pos": "noun",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_gunma_r02_s02",
+        "sent_gunma_r02_s03"
+      ]
+    },
+    {
+      "id": "vocab_勉強する",
+      "word": "勉強する",
+      "reading": "べんきょうする",
+      "meanings": [
+        "study; explicitly taught irregular する example"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_勉",
+        "kanji_強"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_する",
+      "word": "する",
+      "reading": "する",
+      "meanings": [
+        "do, irregular verb"
+      ],
+      "pos": "verb",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_遊ぶ",
+      "word": "遊ぶ",
+      "reading": "あそぶ",
+      "meanings": [
+        "play, assisted verb used for ぶ→んで"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_遊"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_泳ぐ",
+      "word": "泳ぐ",
+      "reading": "およぐ",
+      "meanings": [
+        "swim, assisted verb used for ぐ→いで"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_泳"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_死ぬ",
+      "word": "死ぬ",
+      "reading": "しぬ",
+      "meanings": [
+        "die, assisted verb used for ぬ→んで"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_死"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_高崎",
+      "word": "高崎",
+      "reading": "たかさき",
+      "meanings": [
+        "Takasaki, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_崎",
+        "kanji_高"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r03_s01"
+      ]
+    },
+    {
+      "id": "vocab_乗る",
+      "word": "乗る",
+      "reading": "のる",
+      "meanings": [
+        "ride; board"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_乗"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_座る",
+      "word": "座る",
+      "reading": "すわる",
+      "meanings": [
+        "sit"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_座"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_もう一度",
+      "word": "もう一度",
+      "reading": "もういちど",
+      "meanings": [
+        "one more time, assisted expression"
+      ],
+      "pos": "phrase",
+      "kanji": [
+        "kanji_一",
+        "kanji_度"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r05_s01"
+      ]
+    },
+    {
+      "id": "vocab_一度",
+      "word": "一度",
+      "reading": "いちど",
+      "meanings": [
+        "one occurrence; once, assisted"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_一",
+        "kanji_度"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r05_s01"
+      ]
+    },
+    {
+      "id": "vocab_草津",
+      "word": "草津",
+      "reading": "くさつ",
+      "meanings": [
+        "Kusatsu, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_津",
+        "kanji_草"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r06_s01"
+      ]
+    },
+    {
+      "id": "vocab_早い",
+      "word": "早い",
+      "reading": "はやい",
+      "meanings": [
+        "early, in supplied time context"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_早"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_遅い",
+      "word": "遅い",
+      "reading": "おそい",
+      "meanings": [
+        "late; slow according to context"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_遅"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_速い",
+      "word": "速い",
+      "reading": "はやい",
+      "meanings": [
+        "fast, assisted speed contrast"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_速"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_みなかみ",
+      "word": "みなかみ",
+      "reading": "みなかみ",
+      "meanings": [
+        "Minakami, current hiragana town label"
+      ],
+      "pos": "proper noun",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_gunma_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_みなかみ町",
+      "word": "みなかみ町",
+      "reading": "みなかみまち",
+      "meanings": [
+        "Minakami Town, current municipality label"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_町"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_水上",
+      "word": "水上",
+      "reading": "みなかみ",
+      "meanings": [
+        "related district/station spelling, not replacement for current municipality label"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_上",
+        "kanji_水"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_水上駅",
+      "word": "水上駅",
+      "reading": "みなかみえき",
+      "meanings": [
+        "Minakami Station, related place word"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_上",
+        "kanji_水",
+        "kanji_駅"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_明るい",
+      "word": "明るい",
+      "reading": "あかるい",
+      "meanings": [
+        "bright"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_明"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_暗い",
+      "word": "暗い",
+      "reading": "くらい",
+      "meanings": [
+        "dark"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_暗"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_部屋",
+      "word": "部屋",
+      "reading": "へや",
+      "meanings": [
+        "room, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_屋",
+        "kanji_部"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r09_s01",
+        "sent_gunma_r09_s03"
+      ]
+    },
+    {
+      "id": "vocab_窓",
+      "word": "窓",
+      "reading": "まど",
+      "meanings": [
+        "window, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_窓"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_埼玉",
+      "word": "埼玉",
+      "reading": "さいたま",
+      "meanings": [
+        "Saitama, assisted next prefecture name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_埼",
+        "kanji_玉"
+      ],
+      "exampleSentences": [
+        "sent_gunma_r10_s03"
+      ]
+    }
+  ]
+}

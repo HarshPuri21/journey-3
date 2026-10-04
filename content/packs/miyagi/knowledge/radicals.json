@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_kuruma",
+      "char": "車",
+      "name": "くるま",
+      "nameRomaji": "kuruma",
+      "meanings": [
+        "vehicle"
+      ],
+      "note": "Whole vehicle-derived 車 indexing character.",
+      "exampleKanji": [
+        "kanji_車"
+      ]
+    },
+    {
+      "id": "radical_ame",
+      "char": "雨",
+      "name": "あめかんむり",
+      "nameRomaji": "ame",
+      "meanings": [
+        "rain; weather"
+      ],
+      "note": "Rain top in 電 and assisted 雲.",
+      "exampleKanji": [
+        "kanji_電",
+        "kanji_雲"
+      ]
+    },
+    {
+      "id": "radical_ana",
+      "char": "穴",
+      "name": "あなかんむり",
+      "nameRomaji": "ana",
+      "meanings": [
+        "hole; cavity"
+      ],
+      "note": "穴 above 工 in 空; 穴 is a component encounter, not another mastery requirement.",
+      "exampleKanji": [
+        "kanji_空"
+      ]
+    },
+    {
+      "id": "radical_shiro",
+      "char": "白",
+      "name": "しろ",
+      "nameRomaji": "shiro",
+      "meanings": [
+        "white"
+      ],
+      "note": "White character indexed under itself; distinguish the extra upper stroke from 日.",
+      "exampleKanji": [
+        "kanji_白"
+      ]
+    },
+    {
+      "id": "radical_kin",
+      "char": "斤",
+      "name": "おのづくり",
+      "nameRomaji": "kin",
+      "meanings": [
+        "axe family"
+      ],
+      "note": "Selected indexing family on the right of 新.",
+      "exampleKanji": [
+        "kanji_新"
+      ]
+    },
+    {
+      "id": "radical_takai",
+      "char": "高",
+      "name": "たかい",
+      "nameRomaji": "takai",
+      "meanings": [
+        "high"
+      ],
+      "note": "Whole 高 indexing family; context distinguishes height from price.",
+      "exampleKanji": [
+        "kanji_高"
+      ]
+    },
+    {
+      "id": "radical_onna",
+      "char": "女",
+      "name": "おんな",
+      "nameRomaji": "onna",
+      "meanings": [
+        "woman"
+      ],
+      "note": "女 below 宀 in 安; spelling recognition is not a literal modern price explanation.",
+      "exampleKanji": [
+        "kanji_安"
+      ]
+    },
+    {
+      "id": "radical_ta",
+      "char": "田",
+      "name": "た",
+      "nameRomaji": "ta",
+      "meanings": [
+        "field"
+      ],
+      "note": "田 is the whole field-derived indexing character; preview in 秋田 before formal study.",
+      "exampleKanji": [
+        "kanji_田"
+      ]
+    }
+  ]
+}

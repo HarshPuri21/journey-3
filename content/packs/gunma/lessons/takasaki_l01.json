@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "takasaki_l01",
+  "number": 2,
+  "title": "Takasaki — 高崎",
+  "goal": "Complete te-form changes, board/sit, and make action requests.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_乗",
+    "kanji_座"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_二",
+    "kanji_人",
+    "kanji_前",
+    "kanji_午",
+    "kanji_名",
+    "kanji_土",
+    "kanji_少",
+    "kanji_山",
+    "kanji_崎",
+    "kanji_帰",
+    "kanji_度",
+    "kanji_待",
+    "kanji_後",
+    "kanji_日",
+    "kanji_時",
+    "kanji_書",
+    "kanji_木",
+    "kanji_本",
+    "kanji_来",
+    "kanji_校",
+    "kanji_死",
+    "kanji_水",
+    "kanji_泳",
+    "kanji_着",
+    "kanji_聞",
+    "kanji_行",
+    "kanji_見",
+    "kanji_言",
+    "kanji_話",
+    "kanji_語",
+    "kanji_読",
+    "kanji_買",
+    "kanji_車",
+    "kanji_遊",
+    "kanji_電",
+    "kanji_食",
+    "kanji_高"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A fictional station scene",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Takasaki is associated with daruma dolls. Our lesson uses a fictional station, a train and a seat to develop transportation language. No actual departure, fare or boarding procedure is being specified."
+        },
+        {
+          "type": "text",
+          "text": "**高崎から電車に乗ります。** たかさきから でんしゃに のります。 — I board a train from Takasaki."
+        },
+        {
+          "type": "text",
+          "text": "Now we complete the te-form rules from Maebashi, then use them for requests and a simple sequence of actions. Buying an item with Nをください and requesting an action with Vてください have different structures."
+        }
+      ]
+    },
+    {
+      "id": "inside_takasaki",
+      "title": "Inside 高崎",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 高 · **Meaning/reading:** high/tall; たか · **Radical/components:** 高, たかい; whole tall-building-derived form with stacked openings · **Status:** Formal review from Shiroishi.",
+            "**Character:** 崎 · **Meaning/reading:** projecting cape/steepness orientation; さき · **Radical/components:** 山, やまへん, with 奇, historical sound component · **Status:** Encounter."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**高崎 / たかさき**. 高い / たかい can describe height or price; in the city name 高 is simply a name element. 崎 is not 校 even though their right sides are visually complex. Recognise 山 as its left radical."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_高",
+            "kanji_崎"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_takai"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_yama"
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c03",
+      "title": "乗: ride/board",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**乗る / のる — ride/board; 乗ります / のります; 乗って / のって.** 乗 is indexed under 丿, の; its modern central structure resembles 禾 with added side strokes. The dictionary radical is not chosen merely by spotting 木 in the outline."
+        },
+        {
+          "type": "text",
+          "text": "**電車に乗ります。** でんしゃに のります。 — I board/ride a train."
+        },
+        {
+          "type": "text",
+          "text": "**バスに乗ります。** ばすに のります。 — I board/ride a bus."
+        },
+        {
+          "type": "text",
+          "text": "The vehicle boarded takes に. **電車で行きます** uses で for means of travel with 行く. Different verbs connect the same vehicle to different particles. 乗る is Group 1, so 乗って."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_noru_vehicle_ni"
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c04",
+      "title": "座: sit",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**座る / すわる — sit; 座ります / すわります; 座って / すわって.** 座 has radical 广, まだれ, over two 人-shaped parts and 土. These are modern recognition pieces; a literal “two people on soil” sum is not required to understand sitting."
+        },
+        {
+          "type": "text",
+          "text": "**いすに座ります。** いすに すわります。 — I sit on a chair."
+        },
+        {
+          "type": "text",
+          "text": "いす means chair. The seat/position takes に in this model. 座る and 乗る are both Group 1 る verbs; neither becomes 座て/乗て. Remember the って rule from Maebashi."
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c05",
+      "title": "Group 1: く→いて; ぐ→いで",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**書く / かく→書いて / かいて; 聞く / きく→聞いて / きいて.** Group 1 verbs ending in く change to いて. Helped **泳ぐ / およぐ — swim→泳いで / およいで** demonstrates ぐ→いで; 泳 remains an encounter."
+        },
+        {
+          "type": "text",
+          "text": "**名前を書いてください。** なまえを かいてください。 — Please write your name."
+        },
+        {
+          "type": "text",
+          "text": "**話を聞いてください。** はなしを きいてください。 — Please listen to the talk/story."
+        },
+        {
+          "type": "text",
+          "text": "話 / はなし is the useful noun reading, distinct from 話す / はなす. The request construction is explained in card 8. Do not copy a polite きます stem and simply add て: 聞いて differs from 聞きて."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_ku_gu"
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c06",
+      "title": "Group 1: す→して; exception 行く",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**話す / はなす→話して / はなして.** A Group 1 verb ending in す changes to して. The irregular verb する also gives して, but the reasons are different: 話す belongs to Group 1; する belongs to Group 3."
+        },
+        {
+          "type": "text",
+          "text": "**行く / いく→行って / いって**, the essential exception to く→いて. It is not 行いて. **言う / いう→言って / いって** follows the ordinary う→って rule; same sound, different word and spelling."
+        },
+        {
+          "type": "text",
+          "text": "**日本語で話してください。** にほんごで はなしてください。 — Please speak in Japanese. Language-medium で is reused from Iwaki."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_su_iku"
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c07",
+      "title": "Complete reference table",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Group / dictionary ending:** 1: う・つ・る · **Te ending:** って · **Examples:** 買って / かって; 待って / まって; 帰って / かえって",
+            "**Group / dictionary ending:** 1: む・ぶ・ぬ · **Te ending:** んで · **Examples:** 読んで / よんで; 遊んで / あそんで; 死んで / しんで",
+            "**Group / dictionary ending:** 1: く · **Te ending:** いて · **Examples:** 書いて / かいて; 聞いて / きいて",
+            "**Group / dictionary ending:** 1: ぐ · **Te ending:** いで · **Examples:** 泳いで / およいで",
+            "**Group / dictionary ending:** 1: す · **Te ending:** して · **Examples:** 話して / はなして",
+            "**Group / dictionary ending:** 1 exception: 行く · **Te ending:** 行って · **Examples:** いって",
+            "**Group / dictionary ending:** 2: remove る · **Te ending:** て · **Examples:** 食べて / たべて; 見て / みて; 着て / きて",
+            "**Group / dictionary ending:** 3: irregular · **Te ending:** して; 来て · **Examples:** する→して; 来る / くる→来て / きて"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The te-form is a linking/construction form, not itself “polite past.” Choose the following ending or final verb to express the intended sentence."
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c08",
+      "title": "Request an action: Vてください",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**待ってください。** まってください。 — Please wait."
+        },
+        {
+          "type": "text",
+          "text": "**ここに座ってください。** ここに すわってください。 — Please sit here."
+        },
+        {
+          "type": "text",
+          "text": "**この本を見てください。** このほんを みてください。 — Please look at this book."
+        },
+        {
+          "type": "text",
+          "text": "Use **te-form＋ください**. Compare **水をください / みずをください**, please give me water: the earlier noun request has no action verb. ください makes a polite request/instruction but can still be direct; our examples are appropriate simple shared tasks, not claims that every situation needs the same degree of politeness."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_request"
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c09",
+      "title": "Link two actions in order",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**本を読んで、名前を書きます。** ほんを よんで、なまえを かきます。 — I read the book and then write my name."
+        },
+        {
+          "type": "text",
+          "text": "**電車に乗って、高崎に行きました。** でんしゃに のって、たかさきに いきました。 — I boarded a train and went to Takasaki."
+        },
+        {
+          "type": "text",
+          "text": "In these simple sequences the first action uses te-form and the final verb supplies the polite tense. 読んで is not independently labelled past just because the final verb could be past. Do not generalise every て connection to a rigid chronology in all Japanese; this lesson explicitly describes ordered actions."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_sequence"
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c10",
+      "title": "A request dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: すみません、少し待ってください。** すみません、すこし まってください。 — Excuse me, please wait a little."
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、ここで待ちます。** はい、ここで まちます。 — Yes, I will wait here."
+        },
+        {
+          "type": "text",
+          "text": "**A: もう一度言ってください。** もういちど いってください。 — Please say it one more time."
+        },
+        {
+          "type": "text",
+          "text": "**B: 午後二時です。** ごごにじです。 — It is 2 PM."
+        },
+        {
+          "type": "text",
+          "text": "**もう一度 / もういちど — one more time**, a helped whole phrase; 度 remains an encounter. The request repairs understanding without introducing unexplained quotation grammar."
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c11",
+      "title": "Practice: apply the full table",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 高崎, 乗る, 座る. **Answers:** たかさき; のる; すわる.",
+            "Give 書く, 聞く, 話す te-forms. **Answers:** 書いて; 聞いて; 話して.",
+            "Give 行く and 来る te-forms/readings. **Answers:** 行って / いって; 来て / きて.",
+            "Complete “board the train”: 電車＿＿乗ります。 **Answer:** に.",
+            "Request sitting here. **Model:** ここに座ってください。",
+            "In 電車に乗って、高崎に行きました, what supplies the polite past? **Answer:** final 行きました."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "takasaki_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "高崎 is たかさき; 崎 has 山＋奇. 乗る and 座る are Group 1, 乗って/座って. Finish the sound changes: く→いて, ぐ→いで, す→して; 行く exceptionally gives 行って. Te-form＋ください requests an action. A simple action sequence ends with the verb that supplies polite tense. Vehicle に with 乗る differs from transport で with 行く."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “Please wait a little.” **Model:** 少し待ってください。 すこし まってください。 Next, Kusatsu turns the te-form into fuller progress and completion descriptions."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_乗",
+            "kanji_座"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_行く"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_ください"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_少し"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_高崎"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_乗る"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_座る"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Takasaki complete",
+    "nextText": "Next: Kusatsu",
+    "nextChapter": "gunma/kusatsu"
+  }
+}

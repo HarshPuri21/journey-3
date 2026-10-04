@@ -1,0 +1,2019 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_yamagata_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 天気.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "てんき"
+        },
+        {
+          "id": "b",
+          "text": "げんき"
+        },
+        {
+          "id": "c",
+          "text": "あめ"
+        },
+        {
+          "id": "d",
+          "text": "そら"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_天気"
+      ],
+      "explanation": "天気 is the whole weather word てんき."
+    },
+    {
+      "id": "q_yamagata_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character is shared by 天気 and 元気?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "気"
+        },
+        {
+          "id": "b",
+          "text": "天"
+        },
+        {
+          "id": "c",
+          "text": "元"
+        },
+        {
+          "id": "d",
+          "text": "雨"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "kanji_気"
+      ],
+      "explanation": "気 connects the weather word and the assisted well/energetic word."
+    },
+    {
+      "id": "q_yamagata_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 雨 as the ordinary rain word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ゆき"
+        },
+        {
+          "id": "b",
+          "text": "くもり"
+        },
+        {
+          "id": "c",
+          "text": "はれ"
+        },
+        {
+          "id": "d",
+          "text": "あめ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_雨"
+      ],
+      "explanation": "雨 is あめ, rain."
+    },
+    {
+      "id": "q_yamagata_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 雪.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ゆき"
+        },
+        {
+          "id": "b",
+          "text": "あめ"
+        },
+        {
+          "id": "c",
+          "text": "そら"
+        },
+        {
+          "id": "d",
+          "text": "はな"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_雪"
+      ],
+      "explanation": "雪 is ゆき, snow."
+    },
+    {
+      "id": "q_yamagata_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 鳥 as the ordinary bird word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "とり"
+        },
+        {
+          "id": "b",
+          "text": "つる"
+        },
+        {
+          "id": "c",
+          "text": "さかな"
+        },
+        {
+          "id": "d",
+          "text": "うし"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_鳥"
+      ],
+      "explanation": "鳥 is とり; 鶴 is the assisted crane word つる."
+    },
+    {
+      "id": "q_yamagata_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character means eye?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "耳"
+        },
+        {
+          "id": "b",
+          "text": "足"
+        },
+        {
+          "id": "c",
+          "text": "手"
+        },
+        {
+          "id": "d",
+          "text": "目"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_目"
+      ],
+      "explanation": "目 is め, eye."
+    },
+    {
+      "id": "q_yamagata_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 耳.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みみ"
+        },
+        {
+          "id": "b",
+          "text": "め"
+        },
+        {
+          "id": "c",
+          "text": "あし"
+        },
+        {
+          "id": "d",
+          "text": "くち"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_耳"
+      ],
+      "explanation": "耳 is the ordinary ear word みみ."
+    },
+    {
+      "id": "q_yamagata_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 足.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みみ"
+        },
+        {
+          "id": "b",
+          "text": "あし"
+        },
+        {
+          "id": "c",
+          "text": "て"
+        },
+        {
+          "id": "d",
+          "text": "め"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_足"
+      ],
+      "explanation": "足 is あし, foot or leg."
+    },
+    {
+      "id": "q_yamagata_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which verb can mean listen or ask in the taught patterns?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "読む"
+        },
+        {
+          "id": "b",
+          "text": "見る"
+        },
+        {
+          "id": "c",
+          "text": "聞く"
+        },
+        {
+          "id": "d",
+          "text": "書く"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_聞く"
+      ],
+      "explanation": "聞く / きく takes its hear/listen/ask meaning from the supplied context."
+    },
+    {
+      "id": "q_yamagata_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read the dictionary verb 帰る.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "くる"
+        },
+        {
+          "id": "b",
+          "text": "いく"
+        },
+        {
+          "id": "c",
+          "text": "かえる"
+        },
+        {
+          "id": "d",
+          "text": "すむ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_帰る"
+      ],
+      "explanation": "帰る is かえる, return; 来る is くる."
+    },
+    {
+      "id": "q_yamagata_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which three-slanted-stroke radical is on the right of 形?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "川"
+        },
+        {
+          "id": "b",
+          "text": "彡"
+        },
+        {
+          "id": "c",
+          "text": "三"
+        },
+        {
+          "id": "d",
+          "text": "氵"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_katachi",
+        "kanji_形"
+      ],
+      "explanation": "彡 is さんづくり; stroke arrangement distinguishes it from other three-stroke forms."
+    },
+    {
+      "id": "q_yamagata_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is explained for 天?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "口"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "大"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_dai",
+        "kanji_天"
+      ],
+      "explanation": "天 is indexed under 大; notice the additional upper stroke."
+    },
+    {
+      "id": "q_yamagata_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical surrounds the modern lower part of 気?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "宀"
+        },
+        {
+          "id": "b",
+          "text": "囗"
+        },
+        {
+          "id": "c",
+          "text": "气"
+        },
+        {
+          "id": "d",
+          "text": "門"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_kigamae",
+        "kanji_気"
+      ],
+      "explanation": "气 is きがまえ, with lower メ-like strokes in modern 気."
+    },
+    {
+      "id": "q_yamagata_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which statement about 雨 is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "It is the tree radical."
+        },
+        {
+          "id": "b",
+          "text": "It is the same as 四."
+        },
+        {
+          "id": "c",
+          "text": "It is itself the rain radical and becomes a top form in 雪."
+        },
+        {
+          "id": "d",
+          "text": "It always reads ゆき."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_ame",
+        "kanji_雨"
+      ],
+      "explanation": "雨 is the whole rain character; its top form is あめかんむり."
+    },
+    {
+      "id": "q_yamagata_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is at the top of 雪?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "雨"
+        },
+        {
+          "id": "c",
+          "text": "艹"
+        },
+        {
+          "id": "d",
+          "text": "人"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_ame",
+        "kanji_雪"
+      ],
+      "explanation": "雪 is indexed under 雨; its lower 彐-like part is a recognition shape."
+    },
+    {
+      "id": "q_yamagata_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which bird radical is visible on the right of 鶴?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "魚"
+        },
+        {
+          "id": "b",
+          "text": "馬"
+        },
+        {
+          "id": "c",
+          "text": "鳥"
+        },
+        {
+          "id": "d",
+          "text": "牛"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_tori",
+        "kanji_鶴"
+      ],
+      "explanation": "鶴 has 鳥 on the right with a more complex left component."
+    },
+    {
+      "id": "q_yamagata_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is inside the gate-shaped enclosure of 聞?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "目"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "足"
+        },
+        {
+          "id": "d",
+          "text": "耳"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_mimi",
+        "kanji_聞"
+      ],
+      "explanation": "The ear radical 耳 provides a hearing-related connection."
+    },
+    {
+      "id": "q_yamagata_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Despite visible 氵, which indexing radical is explained for 酒?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "水"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "酉"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_tori_vessel",
+        "kanji_酒"
+      ],
+      "explanation": "酒 is indexed under 酉, while 氵 remains a visible component."
+    },
+    {
+      "id": "q_yamagata_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which person-radical side form appears in 住?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "亻"
+        },
+        {
+          "id": "b",
+          "text": "氵"
+        },
+        {
+          "id": "c",
+          "text": "刂"
+        },
+        {
+          "id": "d",
+          "text": "艹"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_ninben",
+        "kanji_住"
+      ],
+      "explanation": "住 has 亻, a side form of 人, beside 主."
+    },
+    {
+      "id": "q_yamagata_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is explained for modern 帰?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "刀"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "雨"
+        },
+        {
+          "id": "d",
+          "text": "巾"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "radical_haba",
+        "kanji_帰"
+      ],
+      "explanation": "Modern 帰 is indexed under 巾 despite the left 刂-like resemblance."
+    },
+    {
+      "id": "q_yamagata_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "The stated bird illustration has 足が二つ. How many legs?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One."
+        },
+        {
+          "id": "b",
+          "text": "Two."
+        },
+        {
+          "id": "c",
+          "text": "Three."
+        },
+        {
+          "id": "d",
+          "text": "Ten."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_二つ"
+      ],
+      "explanation": "二つ counts the two specified legs in this simple illustration."
+    },
+    {
+      "id": "q_yamagata_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二つ.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたり"
+        },
+        {
+          "id": "b",
+          "text": "ふたつ"
+        },
+        {
+          "id": "c",
+          "text": "ににん"
+        },
+        {
+          "id": "d",
+          "text": "にじ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_二つ"
+      ],
+      "explanation": "二つ is the general two-item form."
+    },
+    {
+      "id": "q_yamagata_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is two people rather than two items?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "二つ / ふたつ"
+        },
+        {
+          "id": "b",
+          "text": "二時 / にじ"
+        },
+        {
+          "id": "c",
+          "text": "二月 / にがつ"
+        },
+        {
+          "id": "d",
+          "text": "二人 / ふたり"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_二人"
+      ],
+      "explanation": "The people counter uses 二人 / ふたり."
+    },
+    {
+      "id": "q_yamagata_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is three people?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "三人 / さんにん"
+        },
+        {
+          "id": "b",
+          "text": "三つ / みっつ"
+        },
+        {
+          "id": "c",
+          "text": "三時 / さんじ"
+        },
+        {
+          "id": "d",
+          "text": "三月 / さんがつ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_三人"
+      ],
+      "explanation": "三人 counts people, with the ordinary にん reading after three."
+    },
+    {
+      "id": "q_yamagata_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 午後三時.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ごぜんさんじ"
+        },
+        {
+          "id": "b",
+          "text": "ごごさんじ"
+        },
+        {
+          "id": "c",
+          "text": "ごごくじ"
+        },
+        {
+          "id": "d",
+          "text": "さんがつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_午後三時"
+      ],
+      "explanation": "午後 is ごご, p.m.; 三時 is さんじ."
+    },
+    {
+      "id": "q_yamagata_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 九時半.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "きゅうじはん"
+        },
+        {
+          "id": "b",
+          "text": "くじはん"
+        },
+        {
+          "id": "c",
+          "text": "くがつはん"
+        },
+        {
+          "id": "d",
+          "text": "ここのかはん"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_九時半"
+      ],
+      "explanation": "Nine thirty is くじはん."
+    },
+    {
+      "id": "q_yamagata_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三百円, a reviewed price.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さんひゃくえん"
+        },
+        {
+          "id": "b",
+          "text": "さんぜんえん"
+        },
+        {
+          "id": "c",
+          "text": "さんまんえん"
+        },
+        {
+          "id": "d",
+          "text": "さんびゃくえん"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_三百円"
+      ],
+      "explanation": "Three hundred yen is さんびゃくえん."
+    },
+    {
+      "id": "q_yamagata_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "千二百円 is which amount?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "1,200 yen"
+        },
+        {
+          "id": "b",
+          "text": "120 yen"
+        },
+        {
+          "id": "c",
+          "text": "12,000 yen"
+        },
+        {
+          "id": "d",
+          "text": "1,020 yen"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_千二百円"
+      ],
+      "explanation": "The thousand and two-hundred parts give 1,200."
+    },
+    {
+      "id": "q_yamagata_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "The illustrated bird has two eyes and two legs. How many stated eyes and legs in total?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "二つ / ふたつ"
+        },
+        {
+          "id": "b",
+          "text": "三つ / みっつ"
+        },
+        {
+          "id": "c",
+          "text": "四つ / よっつ"
+        },
+        {
+          "id": "d",
+          "text": "五つ / いつつ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_四つ"
+      ],
+      "explanation": "Two plus two gives four stated parts; the general form is よっつ."
+    },
+    {
+      "id": "q_yamagata_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which reviewed expression is the 20th day of a month?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "十日 / とおか"
+        },
+        {
+          "id": "b",
+          "text": "二日 / ふつか"
+        },
+        {
+          "id": "c",
+          "text": "二十日 / にじゅうにち"
+        },
+        {
+          "id": "d",
+          "text": "二十日 / はつか"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_二十日"
+      ],
+      "explanation": "The special date reading is はつか."
+    },
+    {
+      "id": "q_yamagata_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 山形.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "やまかたち"
+        },
+        {
+          "id": "b",
+          "text": "やまがた"
+        },
+        {
+          "id": "c",
+          "text": "さんけい"
+        },
+        {
+          "id": "d",
+          "text": "やままち"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_山形"
+      ],
+      "explanation": "The prefecture/city name is やまがた."
+    },
+    {
+      "id": "q_yamagata_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 鶴岡.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "とりおか"
+        },
+        {
+          "id": "b",
+          "text": "つるおか"
+        },
+        {
+          "id": "c",
+          "text": "つるいわ"
+        },
+        {
+          "id": "d",
+          "text": "かくこう"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_鶴岡"
+      ],
+      "explanation": "The whole location name is つるおか."
+    },
+    {
+      "id": "q_yamagata_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 酒田.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さけた"
+        },
+        {
+          "id": "b",
+          "text": "さかた"
+        },
+        {
+          "id": "c",
+          "text": "しゅでん"
+        },
+        {
+          "id": "d",
+          "text": "みずた"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_酒田"
+      ],
+      "explanation": "Learn the name さかた; standalone 酒 is often さけ."
+    },
+    {
+      "id": "q_yamagata_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means cold in the weather lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "晴れ"
+        },
+        {
+          "id": "b",
+          "text": "曇り"
+        },
+        {
+          "id": "c",
+          "text": "寒い"
+        },
+        {
+          "id": "d",
+          "text": "元気"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_寒い"
+      ],
+      "explanation": "寒い is さむい, an assisted い-adjective word."
+    },
+    {
+      "id": "q_yamagata_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means clear/fair weather?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "寒い"
+        },
+        {
+          "id": "b",
+          "text": "雨"
+        },
+        {
+          "id": "c",
+          "text": "元気"
+        },
+        {
+          "id": "d",
+          "text": "晴れ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_晴れ"
+      ],
+      "explanation": "晴れ / はれ is the assisted clear-weather noun."
+    },
+    {
+      "id": "q_yamagata_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means cloudy weather/cloudiness?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "雪"
+        },
+        {
+          "id": "b",
+          "text": "曇り"
+        },
+        {
+          "id": "c",
+          "text": "朝"
+        },
+        {
+          "id": "d",
+          "text": "元気"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_曇り"
+      ],
+      "explanation": "曇り / くもり is assisted weather vocabulary."
+    },
+    {
+      "id": "q_yamagata_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means voice/call?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "声"
+        },
+        {
+          "id": "b",
+          "text": "目"
+        },
+        {
+          "id": "c",
+          "text": "足"
+        },
+        {
+          "id": "d",
+          "text": "家"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_声"
+      ],
+      "explanation": "声 is こえ, used in 鳥の声."
+    },
+    {
+      "id": "q_yamagata_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 家 as house in これは家です.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "すむ"
+        },
+        {
+          "id": "b",
+          "text": "かえる"
+        },
+        {
+          "id": "c",
+          "text": "まち"
+        },
+        {
+          "id": "d",
+          "text": "いえ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "vocab_家"
+      ],
+      "explanation": "The stated house-identification model uses いえ; the lesson also explains home reading うち."
+    },
+    {
+      "id": "q_yamagata_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "What does 友だちは酒田に住んでいます state?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "My friend lives in Sakata."
+        },
+        {
+          "id": "b",
+          "text": "My friend only visits Sakata tomorrow."
+        },
+        {
+          "id": "c",
+          "text": "My friend bought Sakata."
+        },
+        {
+          "id": "d",
+          "text": "My friend left the station."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_residence_teiru"
+      ],
+      "explanation": "住んでいます is the explicitly taught current-residence pattern."
+    },
+    {
+      "id": "q_yamagata_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which connector introduces a result from the preceding reason?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "でも"
+        },
+        {
+          "id": "b",
+          "text": "そして"
+        },
+        {
+          "id": "c",
+          "text": "と"
+        },
+        {
+          "id": "d",
+          "text": "ですから"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_desukara"
+      ],
+      "explanation": "ですから is the newly taught so/therefore connector."
+    },
+    {
+      "id": "q_yamagata_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “It was not rainy,” using the taught noun weather pattern.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "雨くなかったです。"
+        },
+        {
+          "id": "b",
+          "text": "雨でした。"
+        },
+        {
+          "id": "c",
+          "text": "雨ではありませんでした。"
+        },
+        {
+          "id": "d",
+          "text": "雨いませんでした。"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_noun_past_negative"
+      ],
+      "explanation": "A noun past negative uses ではありませんでした, not adjective くなかった."
+    },
+    {
+      "id": "q_yamagata_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught “It was cold.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "寒かったです。"
+        },
+        {
+          "id": "b",
+          "text": "寒いでした。"
+        },
+        {
+          "id": "c",
+          "text": "寒でした。"
+        },
+        {
+          "id": "d",
+          "text": "寒くないです。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_i_adjective_past",
+        "vocab_寒い"
+      ],
+      "explanation": "The い-adjective 寒い forms past 寒かったです."
+    },
+    {
+      "id": "q_yamagata_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In 雨です。ですから、店で休みます, what links the statements?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The sentences state a contrast only."
+        },
+        {
+          "id": "b",
+          "text": "Rain is the stated reason for choosing to rest at the shop."
+        },
+        {
+          "id": "c",
+          "text": "ですから gives a price."
+        },
+        {
+          "id": "d",
+          "text": "ですから identifies the shop's owner."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_desukara"
+      ],
+      "explanation": "The connector introduces the result of the stated reason."
+    },
+    {
+      "id": "q_yamagata_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “ask a friend”: 友だち＿＿聞きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "で"
+        },
+        {
+          "id": "c",
+          "text": "の"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_kiku_person_ni"
+      ],
+      "explanation": "The taught asking pattern marks the person asked with に."
+    },
+    {
+      "id": "q_yamagata_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “listen to the bird's call”: 鳥の声＿＿聞きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "へ"
+        },
+        {
+          "id": "c",
+          "text": "を"
+        },
+        {
+          "id": "d",
+          "text": "から"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_particle_wo",
+        "vocab_聞く"
+      ],
+      "explanation": "The call is the thing heard/listened to, marked by を."
+    },
+    {
+      "id": "q_yamagata_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "The bird is explicitly alive. Choose the existence sentence.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "鳥があります。"
+        },
+        {
+          "id": "b",
+          "text": "鳥を来ます。"
+        },
+        {
+          "id": "c",
+          "text": "鳥がいます。"
+        },
+        {
+          "id": "d",
+          "text": "鳥に帰ります。"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_iru",
+        "vocab_鳥"
+      ],
+      "explanation": "A live animal uses います in the taught existence pattern."
+    },
+    {
+      "id": "q_yamagata_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "For the bird's two stated legs, which predicate is used?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "足が二つあります。"
+        },
+        {
+          "id": "b",
+          "text": "足が二人います。"
+        },
+        {
+          "id": "c",
+          "text": "足を二つ来ます。"
+        },
+        {
+          "id": "d",
+          "text": "足に二つ帰ります。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_body_parts_aru"
+      ],
+      "explanation": "The specified body parts are counted as parts with あります; the animal itself uses います."
+    },
+    {
+      "id": "q_yamagata_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the residence model: 酒田＿＿住んでいます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "に"
+        },
+        {
+          "id": "d",
+          "text": "と"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_residence_ni"
+      ],
+      "explanation": "The place of residence uses に in this taught pattern."
+    },
+    {
+      "id": "q_yamagata_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "What is the で inside 住んでいます?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A separate action-place particle after a noun."
+        },
+        {
+          "id": "b",
+          "text": "Part of the verb's connecting form 住んで."
+        },
+        {
+          "id": "c",
+          "text": "The destination particle へ."
+        },
+        {
+          "id": "d",
+          "text": "The object particle を."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_residence_teiru"
+      ],
+      "explanation": "住む forms 住んで, then adds います for the continuing-state model."
+    },
+    {
+      "id": "q_yamagata_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “returned,” polite past.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "帰ります。"
+        },
+        {
+          "id": "b",
+          "text": "帰りました。"
+        },
+        {
+          "id": "c",
+          "text": "帰りません。"
+        },
+        {
+          "id": "d",
+          "text": "帰ませんでした。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "grammar_kaeru_polite"
+      ],
+      "explanation": "帰る uses 帰ります and polite past 帰りました."
+    },
+    {
+      "id": "q_yamagata_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R01: 昨日は雨でした。 When was it rainy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Today, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "Tomorrow, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "Yesterday in the journal."
+        },
+        {
+          "id": "d",
+          "text": "Every day, explicitly stated."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r01_s01",
+        "sent_yamagata_r01_s02",
+        "sent_yamagata_r01_s03"
+      ],
+      "explanation": "昨日 is yesterday; the journal separately states today's clear weather."
+    },
+    {
+      "id": "q_yamagata_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R02: 山に雪があります。 Where is the snow?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "On the mountain."
+        },
+        {
+          "id": "b",
+          "text": "In the notebook."
+        },
+        {
+          "id": "c",
+          "text": "At the apple shop counter."
+        },
+        {
+          "id": "d",
+          "text": "Inside a telephone."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r02_s01",
+        "sent_yamagata_r02_s02",
+        "sent_yamagata_r02_s03"
+      ],
+      "explanation": "山に gives the stated location."
+    },
+    {
+      "id": "q_yamagata_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R03 uses ですから after 雨です. What choice follows?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Writing a total price."
+        },
+        {
+          "id": "b",
+          "text": "Resting at a shop."
+        },
+        {
+          "id": "c",
+          "text": "Teaching a student."
+        },
+        {
+          "id": "d",
+          "text": "Going home by car, explicitly stated."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r03_s01",
+        "sent_yamagata_r03_s02",
+        "sent_yamagata_r03_s03"
+      ],
+      "explanation": "The result clause is 店で休みます."
+    },
+    {
+      "id": "q_yamagata_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R04: 鳥の声を聞きました。 What was listened to?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A train timetable, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "A book's colour."
+        },
+        {
+          "id": "c",
+          "text": "The bird's call."
+        },
+        {
+          "id": "d",
+          "text": "The friend's name, explicitly stated."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r04_s01",
+        "sent_yamagata_r04_s02",
+        "sent_yamagata_r04_s03"
+      ],
+      "explanation": "鳥の声 is the listening object."
+    },
+    {
+      "id": "q_yamagata_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R05: 目も二つあります。 What additional two parts are stated?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Eyes."
+        },
+        {
+          "id": "b",
+          "text": "Hands."
+        },
+        {
+          "id": "c",
+          "text": "Mouths."
+        },
+        {
+          "id": "d",
+          "text": "Wings."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r05_s01",
+        "sent_yamagata_r05_s02",
+        "sent_yamagata_r05_s03"
+      ],
+      "explanation": "目 is eye; 二つ is the stated count."
+    },
+    {
+      "id": "q_yamagata_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R06: 友だちに駅の場所を聞きました。 Who was asked?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A teacher, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "A parent, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "A friend."
+        },
+        {
+          "id": "d",
+          "text": "A shop clerk, explicitly stated."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r06_s01",
+        "sent_yamagata_r06_s02",
+        "sent_yamagata_r06_s03"
+      ],
+      "explanation": "友だちに marks the person asked."
+    },
+    {
+      "id": "q_yamagata_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R07: これは友だちの家です。 Whose house is it?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The teacher's."
+        },
+        {
+          "id": "b",
+          "text": "The narrator's mother’s, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "Nobody's, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "The friend's."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r07_s01",
+        "sent_yamagata_r07_s02",
+        "sent_yamagata_r07_s03"
+      ],
+      "explanation": "友だちの gives the relationship/possession."
+    },
+    {
+      "id": "q_yamagata_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R08: 友だちは酒田に住んでいます。 What is established?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The friend only passes through the station."
+        },
+        {
+          "id": "b",
+          "text": "The friend does not live there."
+        },
+        {
+          "id": "c",
+          "text": "The friend currently resides in Sakata."
+        },
+        {
+          "id": "d",
+          "text": "The narrator never visited Sakata."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r08_s01",
+        "sent_yamagata_r08_s02",
+        "sent_yamagata_r08_s03"
+      ],
+      "explanation": "住んでいます gives current residence, not just temporary presence."
+    },
+    {
+      "id": "q_yamagata_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R09: 電車で帰りました。 How did the narrator return?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "By car."
+        },
+        {
+          "id": "b",
+          "text": "By bicycle."
+        },
+        {
+          "id": "c",
+          "text": "By plane."
+        },
+        {
+          "id": "d",
+          "text": "By train."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r09_s01",
+        "sent_yamagata_r09_s02",
+        "sent_yamagata_r09_s03"
+      ],
+      "explanation": "電車で supplies the means."
+    },
+    {
+      "id": "q_yamagata_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "YAMAGATA-R10: 次は福島です。 What is next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fukushima."
+        },
+        {
+          "id": "b",
+          "text": "Akita."
+        },
+        {
+          "id": "c",
+          "text": "Yamagata."
+        },
+        {
+          "id": "d",
+          "text": "Miyagi."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "yamagata",
+        "yamagata_final"
+      ],
+      "refs": [
+        "sent_yamagata_r10_s01",
+        "sent_yamagata_r10_s02",
+        "sent_yamagata_r10_s03"
+      ],
+      "explanation": "福島 is the assisted next name ふくしま."
+    }
+  ]
+}

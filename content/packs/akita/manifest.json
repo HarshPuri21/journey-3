@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "kind": "packManifest",
+  "packId": "akita",
+  "type": "prefecture",
+  "contentVersion": 1,
+  "engineSchemaMin": 1,
+  "title": "秋田",
+  "titleEn": "Akita",
+  "cover": "assets/cover.png",
+  "assets": [
+    "assets/cover.png"
+  ],
+  "dependencies": [
+    "hokkaido",
+    "aomori",
+    "iwate",
+    "miyagi"
+  ],
+  "unlock": [
+    {
+      "type": "prefectureComplete",
+      "ref": "miyagi"
+    }
+  ],
+  "completion": [
+    {
+      "type": "testPassed",
+      "ref": "akita/akita_final"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "akita",
+      "file": "chapters/akita.json",
+      "map": {
+        "x": 0.15,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "kakunodate",
+      "file": "chapters/kakunodate.json",
+      "map": {
+        "x": 0.38,
+        "y": 0.4
+      }
+    },
+    {
+      "id": "yokote",
+      "file": "chapters/yokote.json",
+      "map": {
+        "x": 0.62,
+        "y": 0.6
+      }
+    }
+  ],
+  "knowledge": {
+    "kanji": "knowledge/kanji.json",
+    "radicals": "knowledge/radicals.json",
+    "vocabulary": "knowledge/vocabulary.json",
+    "grammar": "knowledge/grammar.json",
+    "sentences": "knowledge/sentences.json"
+  },
+  "questionBank": "tests/questions.json",
+  "reading": {
+    "id": "akita_reading",
+    "title": "Akita Reading Journey",
+    "file": "reading/akita_reading.json",
+    "unlock": [
+      {
+        "type": "chapterComplete",
+        "ref": "akita/yokote"
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": "akita_final",
+      "title": "Akita Test",
+      "questionCount": 30,
+      "passRatio": 0.7,
+      "tags": [
+        "akita_final"
+      ],
+      "quotas": {
+        "kanji": 5,
+        "radical": 5,
+        "numbers": 5,
+        "vocabulary": 5,
+        "grammar": 5,
+        "reading": 5
+      },
+      "unlock": [
+        {
+          "type": "lessonComplete",
+          "ref": "akita/akita_reading"
+        }
+      ]
+    }
+  ],
+  "completionCriteria": [
+    "Read the location names as complete words.",
+    "Recognise the assigned core words and their sentence roles.",
+    "Retrieve the taught radicals and modern component distinctions.",
+    "Complete the location lessons and the thirty-sentence reading.",
+    "Pass the thirty-question prefecture assessment at 21/30."
+  ]
+}

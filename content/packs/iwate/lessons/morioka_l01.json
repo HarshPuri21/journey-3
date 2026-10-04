@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "morioka_l01",
+  "number": 1,
+  "title": "Morioka — 盛岡",
+  "goal": "Connect 岩手 and 盛岡 to stone, position, and finding a place.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_石",
+    "kanji_手",
+    "kanji_上",
+    "kanji_下",
+    "kanji_中",
+    "kanji_外"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_人",
+    "kanji_口",
+    "kanji_図",
+    "kanji_地",
+    "kanji_小",
+    "kanji_山",
+    "kanji_岡",
+    "kanji_岩",
+    "kanji_平",
+    "kanji_店",
+    "kanji_木",
+    "kanji_森",
+    "kanji_泉",
+    "kanji_町",
+    "kanji_盛",
+    "kanji_私",
+    "kanji_青",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "岩手: The Prefecture Name",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "岩手",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "いわて — Iwate"
+        },
+        {
+          "type": "text",
+          "text": "We have completed Aomori and reached Iwate. Our first stop is Morioka. Before the city, look inside the prefecture name:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Kanji:** 岩 · **Meaning/readings:** rock; いわ; on ガン · **Radical and components:** Radical 山, やま; modern 山 above 石 · **Learning role:** Encounter. The mountain/stone connection is useful; 岩 is not assigned formal mastery today.",
+            "**Kanji:** 手 · **Meaning/readings:** hand; て; on シュ · **Radical and components:** Radical 手, て; a whole hand-derived character · **Learning role:** Core. Recognise the whole shape; in other kanji a side form 扌 is called てへん."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**岩手 / いわて** is a place name. “Rock + hand” describes its spelling, not a verified explanation of how the prefecture was named. We are not inventing a naming legend."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_岩",
+            "kanji_手"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ishi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_te"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_yama"
+        }
+      ]
+    },
+    {
+      "id": "morioka_c02",
+      "title": "Arriving in Morioka",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "盛岡",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "もりおか — Morioka"
+        },
+        {
+          "type": "text",
+          "text": "Morioka's former castle grounds are now a park, and the city is associated with traditional ironware and food culture. Our lesson uses a simple map and stone scenery; it does not need historical dates or a list of local dishes."
+        },
+        {
+          "type": "text",
+          "text": "**盛岡は岩手の町です。**\nもりおかは いわての まちです。\nMorioka is a city in Iwate."
+        },
+        {
+          "type": "text",
+          "text": "の connects the prefecture name and 町. It is the same noun-connection pattern used for Sapporo in Hokkaido. We will now ask where a place is and describe positions within a practice map."
+        }
+      ]
+    },
+    {
+      "id": "inside_morioka",
+      "title": "Inside 盛岡",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Kanji:** 盛 · **Useful meaning/readings:** pile up; flourish; もる/さかん; on セイ/ジョウ · **Radical and components:** Radical 皿, さら, dish; 成 above is a historical sound component · **What to notice:** Both meaning and sound roles can appear. Do not translate the city name as a literal piled-up dish.",
+            "**Kanji:** 岡 · **Useful meaning/readings:** hill; おか; on コウ · **Radical and components:** Radical 山, やま, inside the lower part. The surrounding modern structure includes a frame and upper strokes · **What to notice:** 山 gives a terrain clue. The frame is a shape cue here, not a rule that a hill is a mountain in a box."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**盛岡 / もりおか**. The first part is not the same character as **森** in 青森. Both can contribute a もり reading in these words, but their shapes, components, and other readings differ."
+        },
+        {
+          "type": "text",
+          "text": "Keep 盛 and 岡 as encounters. Being able to read the location name with help is enough for this stage."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_盛",
+            "kanji_岡"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_naru"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_sara"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_yama"
+        }
+      ]
+    },
+    {
+      "id": "morioka_c04",
+      "title": "石 and 手 Become Useful Words",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**石** — いし — stone; on セキ/シャク.\n**手** — て — hand; on シュ."
+        },
+        {
+          "type": "text",
+          "text": "石 is its own radical, いし. Its lower 口-like section and upper strokes help you recognise its modern shape; the stone word does not mean “mouth.” Hand-shaped **手** appears as **扌**, てへん, on the left of many other kanji. That is a preview of a component family, not a requirement to learn those future characters now."
+        },
+        {
+          "type": "text",
+          "text": "**これは小さい石です。**\nこれは ちいさい いしです。\nThis is a small stone."
+        },
+        {
+          "type": "text",
+          "text": "**これは私の手です** will be understandable later when 私 is formally introduced in Hanamaki. For now the standalone word 手 / て is our goal. Avoid adding an unexplained personal pronoun just to make a sentence."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c05",
+      "title": "上 and 下: Use a Reference Point",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**上** — うえ — above; on top.\n**下** — した — below; underneath."
+        },
+        {
+          "type": "text",
+          "text": "上 is indexed under 一; 下 is also indexed under 一. A baseline and the position of the other strokes help distinguish above from below. This is a useful shape-to-position relationship, not a sound formula."
+        },
+        {
+          "type": "text",
+          "text": "**いすの上に石があります。**\nいすの うえに いしが あります。\nThere is a stone on the chair."
+        },
+        {
+          "type": "text",
+          "text": "**いすの下に石があります。**\nいすの したに いしが あります。\nThere is a stone under the chair."
+        },
+        {
+          "type": "text",
+          "text": "いす means chair and is written in kana here. The object position changes; the grammar does not. **N の 上 / 下** specifies whose above/below area we mean."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c06",
+      "title": "中 and 外: Inside and Outside",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**中** — なか — inside; middle; on チュウ.\n**外** — そと — outside; on ガイ."
+        },
+        {
+          "type": "text",
+          "text": "中 is indexed under **丨**, ぼう, the vertical stroke. Notice a line passing through the centre of an enclosed form. 外 is indexed under **夕**, ゆうべ, and contains **卜** on the right. These are recognition/indexing facts; do not derive “outside” by adding “evening” and “divination.”"
+        },
+        {
+          "type": "text",
+          "text": "**店の中に人がいます。**\nみせの なかに ひとが います。\nThere is a person inside the shop."
+        },
+        {
+          "type": "text",
+          "text": "**店の外に石があります。**\nみせの そとに いしが あります。\nThere is a stone outside the shop."
+        },
+        {
+          "type": "text",
+          "text": "The difference between います and あります depends on what exists, not on whether it is inside or outside."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c07",
+      "title": "ここ / そこ / あそこ",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "We have pointed to things. Now point to places:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Word:** ここ · **Meaning in a shared scene:** here, near the speaker",
+            "**Word:** そこ · **Meaning in a shared scene:** there, near the listener",
+            "**Word:** あそこ · **Meaning in a shared scene:** over there, away from both",
+            "**Word:** どこ · **Meaning in a shared scene:** where?"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**ここに店があります。**\nここに みせが あります。\nThere is a shop here."
+        },
+        {
+          "type": "text",
+          "text": "**あそこに人がいます。**\nあそこに ひとが います。\nThere is a person over there."
+        },
+        {
+          "type": "text",
+          "text": "The relation to speaker/listener matters. “There” in English alone may not tell you whether Japanese needs そこ or あそこ. Our exercises specify the scene when that distinction is tested."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c08",
+      "title": "Ask Where a Station Is",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**駅** — えき — station, a core word with encounter kanji."
+        },
+        {
+          "type": "text",
+          "text": "**すみません。駅はどこですか。**\nすみません。えきは どこですか。\nExcuse me. Where is the station?"
+        },
+        {
+          "type": "text",
+          "text": "**あそこです。**\nあそこです。\nIt is over there."
+        },
+        {
+          "type": "text",
+          "text": "A second useful question is **どこにありますか** — where is it located? Both are possible beginner expressions. **駅はあそこです** identifies its location with a place-pointing expression; that does not justify translating every noun sentence “A は B です” as “A is in B.”"
+        },
+        {
+          "type": "text",
+          "text": "The single word 駅 is assisted. Its detailed 馬-related component explanation is left to a later transport lesson, because 駅 is not a city-name character in today's lesson."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c09",
+      "title": "When Something Is Not There",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "For things/places: **あります → ありません**.\nFor people/animals: **います → いません**."
+        },
+        {
+          "type": "text",
+          "text": "**ここに店はありません。**\nここに みせは ありません。\nThere is no shop here."
+        },
+        {
+          "type": "text",
+          "text": "**店の中に人はいません。**\nみせの なかに ひとは いません。\nThere is no one inside the shop."
+        },
+        {
+          "type": "text",
+          "text": "The examples use は to set the item/topic in a negative statement. が can also occur in appropriate negative-existence sentences. We do not teach a false rule that every negative must replace が with は."
+        },
+        {
+          "type": "text",
+          "text": "Do not say **人はありません** for a person in the ordinary existence meaning. The negative still respects the ある/いる distinction."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c10",
+      "title": "Read a Small Practice Map",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**地図** — ちず — map, assisted spelling."
+        },
+        {
+          "type": "text",
+          "text": "Our fictional map has a shop, station, chair, and two stones. It is a language diagram, not a real Morioka street map."
+        },
+        {
+          "type": "text",
+          "text": "**店はここです。駅はあそこです。店の外に石があります。**\nみせは ここです。えきは あそこです。みせの そとに いしが あります。\nThe shop is here. The station is over there. There is a stone outside the shop."
+        },
+        {
+          "type": "text",
+          "text": "Read once with the word meanings. Then cover the translation and locate the shop and station in an imagined scene. If you need help, restore it. Understanding the relation between the objects is more important than memorising a whole paragraph mechanically."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c11",
+      "title": "Practice: Find the Relationship",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**店の中に人がいます。** Is the person inside or outside the shop?",
+            "Choose “There is no person here”: ここに人はいません / ここに人はありません.",
+            "In **いすの上に石があります**, what is on top of what?",
+            "Are 森 and 盛 the same character because both can be read もり?"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Answers:** 1 Inside. 2 ここに人はいません. 3 The stone is on the chair. 4 No: 森 contains 木; 盛 has 皿 and 成. Learn both shapes and the whole-word reading."
+        }
+      ]
+    },
+    {
+      "id": "morioka_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Prefecture:** 岩手 — いわて; 岩 is encounter, 手 is studied.",
+            "**City:** 盛岡 — もりおか; 盛 and 岡 remain encounters.",
+            "**Core words:** 石/いし; 手/て; 上/うえ; 下/した; 中/なか; 外/そと.",
+            "**Where:** ここ/そこ/あそこ/どこ; 駅はどこですか。",
+            "**Position:** N の 上/下/中/外 に….",
+            "**Negatives:** things ありません; people いません.",
+            "**Components:** 山 appears in 岩 and 岡; 石 connects to 岩; 盛 connects meaning/sound clues without giving a guaranteed name reading.",
+            "**Review:** の connects nouns; に marks existence location; the subject determines あります or います."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Lesson complete. Next location: Hiraizumi / 平泉.**"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_石",
+            "kanji_手",
+            "kanji_上",
+            "kanji_下",
+            "kanji_中",
+            "kanji_外"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_ここ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_岩手"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_盛岡"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_そこ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_あそこ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_どこ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_平泉"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Morioka complete",
+    "nextText": "Next: Hiraizumi",
+    "nextChapter": "iwate/hiraizumi"
+  }
+}

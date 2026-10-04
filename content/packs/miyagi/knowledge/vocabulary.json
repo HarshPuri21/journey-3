@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_仙台",
+      "word": "仙台",
+      "reading": "せんだい",
+      "meanings": [
+        "Sendai, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_仙",
+        "kanji_台"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r01_s01",
+        "sent_miyagi_r01_s03"
+      ]
+    },
+    {
+      "id": "vocab_仙台駅",
+      "word": "仙台駅",
+      "reading": "せんだいえき",
+      "meanings": [
+        "Sendai Station"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_仙",
+        "kanji_台",
+        "kanji_駅"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_駅前",
+      "word": "駅前",
+      "reading": "えきまえ",
+      "meanings": [
+        "area in front of a station"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_前",
+        "kanji_駅"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_車",
+      "word": "車",
+      "reading": "くるま",
+      "meanings": [
+        "car; vehicle"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_車"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r01_s02",
+        "sent_miyagi_r02_s03"
+      ]
+    },
+    {
+      "id": "vocab_電車",
+      "word": "電車",
+      "reading": "でんしゃ",
+      "meanings": [
+        "electric train; train in these scenes"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_車",
+        "kanji_電"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r01_s02",
+        "sent_miyagi_r02_s03"
+      ]
+    },
+    {
+      "id": "vocab_電話",
+      "word": "電話",
+      "reading": "でんわ",
+      "meanings": [
+        "telephone, assisted whole word"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_話",
+        "kanji_電"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_来る",
+      "word": "来る",
+      "reading": "くる",
+      "meanings": [
+        "come; polite form 来ます / きます"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_来"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_松島",
+      "word": "松島",
+      "reading": "まつしま",
+      "meanings": [
+        "Matsushima, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_島",
+        "kanji_松"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r03_s03",
+        "sent_miyagi_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_松",
+      "word": "松",
+      "reading": "まつ",
+      "meanings": [
+        "pine, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_松"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r03_s03",
+        "sent_miyagi_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_島",
+      "word": "島",
+      "reading": "しま",
+      "meanings": [
+        "island, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_島"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r03_s03",
+        "sent_miyagi_r04_s01",
+        "sent_miyagi_r05_s01",
+        "sent_miyagi_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_空",
+      "word": "空",
+      "reading": "そら",
+      "meanings": [
+        "sky"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_空"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r04_s02"
+      ]
+    },
+    {
+      "id": "vocab_白",
+      "word": "白",
+      "reading": "しろ",
+      "meanings": [
+        "white, noun"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_白"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r04_s03",
+        "sent_miyagi_r08_s01",
+        "sent_miyagi_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_白い",
+      "word": "白い",
+      "reading": "しろい",
+      "meanings": [
+        "white"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_白"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r04_s03"
+      ]
+    },
+    {
+      "id": "vocab_雲",
+      "word": "雲",
+      "reading": "くも",
+      "meanings": [
+        "cloud, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_雲"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r04_s03"
+      ]
+    },
+    {
+      "id": "vocab_石巻",
+      "word": "石巻",
+      "reading": "いしのまき",
+      "meanings": [
+        "Ishinomaki, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_巻",
+        "kanji_石"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r06_s01",
+        "sent_miyagi_r07_s03"
+      ]
+    },
+    {
+      "id": "vocab_石巻市",
+      "word": "石巻市",
+      "reading": "いしのまきし",
+      "meanings": [
+        "Ishinomaki City"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_巻",
+        "kanji_市",
+        "kanji_石"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r07_s03"
+      ]
+    },
+    {
+      "id": "vocab_仙台市",
+      "word": "仙台市",
+      "reading": "せんだいし",
+      "meanings": [
+        "Sendai City"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_仙",
+        "kanji_台",
+        "kanji_市"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_市",
+      "word": "市",
+      "reading": "し",
+      "meanings": [
+        "city, suffix in taught municipal names"
+      ],
+      "pos": "suffix",
+      "kanji": [
+        "kanji_市"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r01_s03",
+        "sent_miyagi_r07_s03"
+      ]
+    },
+    {
+      "id": "vocab_村",
+      "word": "村",
+      "reading": "むら",
+      "meanings": [
+        "village"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_村"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r07_s02"
+      ]
+    },
+    {
+      "id": "vocab_新しい",
+      "word": "新しい",
+      "reading": "あたらしい",
+      "meanings": [
+        "new"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_新"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_古い",
+      "word": "古い",
+      "reading": "ふるい",
+      "meanings": [
+        "old, for taught objects"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_古"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r06_s03"
+      ]
+    },
+    {
+      "id": "vocab_白石",
+      "word": "白石",
+      "reading": "しろいし",
+      "meanings": [
+        "Shiroishi, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_白",
+        "kanji_石"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r08_s01",
+        "sent_miyagi_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_近い",
+      "word": "近い",
+      "reading": "ちかい",
+      "meanings": [
+        "near"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_近"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r08_s02"
+      ]
+    },
+    {
+      "id": "vocab_遠い",
+      "word": "遠い",
+      "reading": "とおい",
+      "meanings": [
+        "far"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_遠"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r08_s03"
+      ]
+    },
+    {
+      "id": "vocab_高い",
+      "word": "高い",
+      "reading": "たかい",
+      "meanings": [
+        "high; expensive, depending on context"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_高"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r05_s03"
+      ]
+    },
+    {
+      "id": "vocab_安い",
+      "word": "安い",
+      "reading": "やすい",
+      "meanings": [
+        "inexpensive"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_安"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_三百円",
+      "word": "三百円",
+      "reading": "さんびゃくえん",
+      "meanings": [
+        "three hundred yen"
+      ],
+      "pos": "price",
+      "kanji": [
+        "kanji_三",
+        "kanji_円",
+        "kanji_百"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_千二百円",
+      "word": "千二百円",
+      "reading": "せんにひゃくえん",
+      "meanings": [
+        "one thousand two hundred yen"
+      ],
+      "pos": "price",
+      "kanji": [
+        "kanji_二",
+        "kanji_円",
+        "kanji_千",
+        "kanji_百"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_秋田",
+      "word": "秋田",
+      "reading": "あきた",
+      "meanings": [
+        "Akita, next prefecture/city name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_田",
+        "kanji_秋"
+      ],
+      "exampleSentences": [
+        "sent_miyagi_r10_s03"
+      ]
+    }
+  ]
+}

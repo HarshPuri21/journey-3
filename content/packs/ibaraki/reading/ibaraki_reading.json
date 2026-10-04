@@ -1,0 +1,583 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "ibaraki_reading",
+  "number": 6,
+  "title": "Ibaraki Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_九",
+    "kanji_二",
+    "kanji_今",
+    "kanji_休",
+    "kanji_会",
+    "kanji_作",
+    "kanji_使",
+    "kanji_兄",
+    "kanji_公",
+    "kanji_出",
+    "kanji_分",
+    "kanji_前",
+    "kanji_十",
+    "kanji_午",
+    "kanji_南",
+    "kanji_友",
+    "kanji_口",
+    "kanji_図",
+    "kanji_園",
+    "kanji_土",
+    "kanji_地",
+    "kanji_家",
+    "kanji_小",
+    "kanji_嶋",
+    "kanji_年",
+    "kanji_店",
+    "kanji_待",
+    "kanji_後",
+    "kanji_戸",
+    "kanji_日",
+    "kanji_時",
+    "kanji_曜",
+    "kanji_月",
+    "kanji_木",
+    "kanji_本",
+    "kanji_来",
+    "kanji_東",
+    "kanji_栃",
+    "kanji_次",
+    "kanji_毎",
+    "kanji_水",
+    "kanji_火",
+    "kanji_皿",
+    "kanji_私",
+    "kanji_立",
+    "kanji_笠",
+    "kanji_行",
+    "kanji_西",
+    "kanji_言",
+    "kanji_語",
+    "kanji_読",
+    "kanji_週",
+    "kanji_金",
+    "kanji_間",
+    "kanji_飲",
+    "kanji_駅",
+    "kanji_鹿"
+  ],
+  "cards": [
+    {
+      "id": "ibaraki_r01",
+      "title": "Mito: a start time",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{今週|こんしゅう}、{水戸|みと}に{来|き}ました。",
+          "en": "This week I came to Mito."
+        },
+        {
+          "type": "text",
+          "text": "Kana: こんしゅう、みとにきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{月曜日|げつようび}の{午前九時|ごぜんくじ}に{友|とも}だちに{会|あ}いました。",
+          "en": "I met my friend at 9 AM on Monday."
+        },
+        {
+          "type": "text",
+          "text": "Kana: げつようびのごぜんくじにともだちにあいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{駅|えき}の{前|まえ}に{店|みせ}があります。",
+          "en": "There is a shop in front of the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: えきのまえにみせがあります。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** When did the narrator meet the friend?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Monday at 9 AM."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r02",
+      "title": "Mito: a duration",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}で{一時間|いちじかん}{休|やす}みました。",
+          "en": "I rested at the shop for one hour."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせでいちじかんやすみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{水|みず}を{飲|の}みました。",
+          "en": "I drank water."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みずをのみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{午前十時|ごぜんじゅうじ}に{店|みせ}を{出|で}ました。",
+          "en": "I left the shop at 10 AM."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ごぜんじゅうじにみせをでました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What length of rest is explicitly stated?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** One hour; 一時間."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r03",
+      "title": "Tsukuba: the plan",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{火曜日|かようび}につくばに{行|い}きました。",
+          "en": "I went to Tsukuba on Tuesday."
+        },
+        {
+          "type": "text",
+          "text": "Kana: かようびにつくばにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{今年|ことし}、{日本語|にほんご}の{本|ほん}を{読|よ}みます。",
+          "en": "This year I read/will read Japanese books."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ことし、にほんごのほんをよみます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{毎週|まいしゅう}、{友|とも}だちと{会|あ}います。",
+          "en": "I meet my friend every week."
+        },
+        {
+          "type": "text",
+          "text": "Kana: まいしゅう、ともだちとあいます。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** How often does the narrator meet the friend?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Every week; 毎週."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r04",
+      "title": "Tsukuba: a notebook date",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{来月|らいげつ}の{二十日|はつか}に、またつくばに{行|い}きます。",
+          "en": "On the twentieth of next month I will go to Tsukuba again."
+        },
+        {
+          "type": "text",
+          "text": "Kana: らいげつのはつかに、またつくばにいきます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{午前十時|ごぜんじゅうじ}から{十二時|じゅうにじ}まで{日本語|にほんご}を{読|よ}みます。",
+          "en": "I will read Japanese from 10 AM until twelve noon."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ごぜんじゅうじからじゅうにじまでにほんごをよみます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{二時間|にじかん}{読|よ}みます。",
+          "en": "I will read for two hours."
+        },
+        {
+          "type": "text",
+          "text": "Kana: にじかんよみます。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What date is in the next-month plan?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** The twentieth; 二十日 / はつか. No actual year or weekday is asserted."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r05",
+      "title": "Hitachi: the east side",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{水曜日|すいようび}に{日立|ひたち}に{行|い}きました。",
+          "en": "I went to Hitachi on Wednesday."
+        },
+        {
+          "type": "text",
+          "text": "Kana: すいようびにひたちにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{地図|ちず}では、{駅|えき}の{東|ひがし}に{店|みせ}があります。",
+          "en": "On this map there is a shop east of the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このちずでは、えきのひがしにみせがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{駅|えき}の{南|みなみ}に{公園|こうえん}があります。",
+          "en": "There is a park south of the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: えきのみなみにこうえんがあります。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Where is the shop on the fictional map?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** East of the station. 地図 and 公園 are helped words: ちず, map; こうえん, park."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r06",
+      "title": "Hitachi: two exits",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは{西口|にしぐち}にいます。",
+          "en": "My friend is at the west exit."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちはにしぐちにいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{私|わたし}は{東口|ひがしぐち}にいます。",
+          "en": "I am at the east exit."
+        },
+        {
+          "type": "text",
+          "text": "Kana: わたしはひがしぐちにいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは{東口|ひがしぐち}に{来|き}ました。",
+          "en": "My friend came to the east exit."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちはひがしぐちにきました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Where was the friend in the first line?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** At the west exit; 西口. Do not confuse that starting location with the later arrival."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r07",
+      "title": "Kashima: waiting",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{金曜日|きんようび}に{鹿嶋|かしま}に{行|い}きました。",
+          "en": "I went to Kashima on Friday."
+        },
+        {
+          "type": "text",
+          "text": "Kana: きんようびにかしまにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{駅|えき}の{前|まえ}で{友|とも}だちを{待|ま}ちました。",
+          "en": "I waited for my friend in front of the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: えきのまえでともだちをまちました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{十分|じゅっぷん}{待|ま}ちました。",
+          "en": "I waited for ten minutes."
+        },
+        {
+          "type": "text",
+          "text": "Kana: じゅっぷんまちました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** For how long did the narrator wait?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Ten minutes; 十分. The course model is じゅっぷん; じっぷん is also standard."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r08",
+      "title": "Kashima: an invitation",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "「いっしょに{店|みせ}に{行|い}きませんか」と{言|い}いました。",
+          "en": "I said, “Would you like to go to the shop together?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「いっしょにみせにいきませんか」といいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは「はい、{行|い}きましょう」と{言|い}いました。",
+          "en": "My friend said, “Yes, let's go.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちは「はい、いきましょう」といいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{午後二時|ごごにじ}に{店|みせ}に{行|い}きました。",
+          "en": "We went to the shop at 2 PM."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ごごにじにみせにいきました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Did the friend accept the invitation?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Yes; はい、行きましょう. Quotation と reuses Package 04."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r09",
+      "title": "Kasama: make",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{土曜日|どようび}に{笠間|かさま}に{行|い}きました。",
+          "en": "I went to Kasama on Saturday."
+        },
+        {
+          "type": "text",
+          "text": "Kana: どようびにかさまにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{小|ちい}さいお{皿|さら}を{作|つく}りました。",
+          "en": "I made a small plate."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ちいさいおさらをつくりました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{二時間|にじかん}{作|つく}りました。",
+          "en": "I spent two hours making it."
+        },
+        {
+          "type": "text",
+          "text": "Kana: にじかんつくりました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What was made?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** A small plate. This is an imaginary activity, not a real firing/production timetable."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r10",
+      "title": "Kasama: use and continue",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{家|いえ}で、そのお{皿|さら}を{使|つか}いました。",
+          "en": "At home I used that plate."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いえで、そのおさらをつかいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{来週|らいしゅう}、{兄|あに}に{会|あ}います。",
+          "en": "Next week I will meet my older brother."
+        },
+        {
+          "type": "text",
+          "text": "Kana: らいしゅう、あににあいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{栃木|とちぎ}です。",
+          "en": "Next is Tochigi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはとちぎです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Which prefecture comes next?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Tochigi / 栃木. 兄 / あに is an assisted next-lesson preview here, not assessed as an Ibaraki formal kanji."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r11",
+      "title": "Two complete rereadings",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "First reread all ten story cards using furigana, keeping each three-line scene together. Say the place/time, person or thing, and predicate before translating. Then use the continuous Japanese pass below. If a helped character blocks comprehension, return to its full word rather than trying every dictionary reading."
+        },
+        {
+          "type": "text",
+          "text": "今週、水戸に来ました。月曜日の午前九時に友だちに会いました。駅の前に店があります。"
+        },
+        {
+          "type": "text",
+          "text": "店で一時間休みました。水を飲みました。午前十時に店を出ました。"
+        },
+        {
+          "type": "text",
+          "text": "火曜日につくばに行きました。今年、日本語の本を読みます。毎週、友だちと会います。"
+        },
+        {
+          "type": "text",
+          "text": "来月の二十日に、またつくばに行きます。午前十時から十二時まで日本語を読みます。二時間読みます。"
+        },
+        {
+          "type": "text",
+          "text": "水曜日に日立に行きました。この地図では、駅の東に店があります。駅の南に公園があります。"
+        },
+        {
+          "type": "text",
+          "text": "友だちは西口にいます。私は東口にいます。友だちは東口に来ました。"
+        },
+        {
+          "type": "text",
+          "text": "金曜日に鹿嶋に行きました。駅の前で友だちを待ちました。十分待ちました。"
+        },
+        {
+          "type": "text",
+          "text": "「いっしょに店に行きませんか」と言いました。友だちは「はい、行きましょう」と言いました。午後二時に店に行きました。"
+        },
+        {
+          "type": "text",
+          "text": "土曜日に笠間に行きました。小さいお皿を作りました。二時間作りました。"
+        },
+        {
+          "type": "text",
+          "text": "家で、そのお皿を使いました。来週、兄に会います。次は栃木です。"
+        },
+        {
+          "type": "text",
+          "text": "The continuous pass is the same complete story, with no extra unintroduced sentences. Use it for an optional reduced-assistance reading after the fully assisted version."
+        }
+      ]
+    },
+    {
+      "id": "ibaraki_r12",
+      "title": "Retell and recall",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Retell the five locations in order. Give one time point, one duration, one calendar date, one compass direction and one invitation. Explain why 二時 and 二時間 differ. Say which plate was made and used."
+        },
+        {
+          "type": "text",
+          "text": "**Model anchors:** 午前九時に会いました。 / ごぜんくじに あいました。 — Met at 9 AM. 一時間休みました。 / いちじかん やすみました。 — Rested for an hour. 小さいお皿を作りました。 / ちいさい おさらを つくりました。 — Made a small plate."
+        },
+        {
+          "type": "text",
+          "text": "**Completion:** Finish the reading and its checkpoints, then take the prefecture test. Revisit a mistaken line using the review targets in the answer key. A reading completion mark records an attempted study pass, not permanent mastery of every assisted character."
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Ibaraki reading complete",
+    "nextText": "Next: Ibaraki Test"
+  }
+}

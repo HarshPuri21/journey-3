@@ -1,0 +1,2068 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_iwate_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character means stone?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "石"
+        },
+        {
+          "id": "b",
+          "text": "手"
+        },
+        {
+          "id": "c",
+          "text": "本"
+        },
+        {
+          "id": "d",
+          "text": "花"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_石",
+        "vocab_石"
+      ],
+      "explanation": "石 is the stone character; the word is いし."
+    },
+    {
+      "id": "q_iwate_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 手 meaning hand.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いし"
+        },
+        {
+          "id": "b",
+          "text": "うえ"
+        },
+        {
+          "id": "c",
+          "text": "そと"
+        },
+        {
+          "id": "d",
+          "text": "て"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_手",
+        "vocab_手"
+      ],
+      "explanation": "手 is て as the ordinary hand word."
+    },
+    {
+      "id": "q_iwate_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character means above/on top?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "下"
+        },
+        {
+          "id": "b",
+          "text": "中"
+        },
+        {
+          "id": "c",
+          "text": "上"
+        },
+        {
+          "id": "d",
+          "text": "外"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_上",
+        "vocab_上"
+      ],
+      "explanation": "上 is うえ; 下 is した."
+    },
+    {
+      "id": "q_iwate_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 中 meaning inside/middle.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "うえ"
+        },
+        {
+          "id": "b",
+          "text": "なか"
+        },
+        {
+          "id": "c",
+          "text": "そと"
+        },
+        {
+          "id": "d",
+          "text": "みぎ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_中",
+        "vocab_中"
+      ],
+      "explanation": "The useful position word 中 is なか."
+    },
+    {
+      "id": "q_iwate_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character means outside?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "外"
+        },
+        {
+          "id": "b",
+          "text": "中"
+        },
+        {
+          "id": "c",
+          "text": "下"
+        },
+        {
+          "id": "d",
+          "text": "左"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_外",
+        "vocab_外"
+      ],
+      "explanation": "外 is そと, outside."
+    },
+    {
+      "id": "q_iwate_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 左.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みぎ"
+        },
+        {
+          "id": "b",
+          "text": "まえ"
+        },
+        {
+          "id": "c",
+          "text": "うしろ"
+        },
+        {
+          "id": "d",
+          "text": "ひだり"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_左",
+        "vocab_左"
+      ],
+      "explanation": "左 is ひだり, left."
+    },
+    {
+      "id": "q_iwate_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 右.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ひだり"
+        },
+        {
+          "id": "b",
+          "text": "なか"
+        },
+        {
+          "id": "c",
+          "text": "みぎ"
+        },
+        {
+          "id": "d",
+          "text": "した"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_右",
+        "vocab_右"
+      ],
+      "explanation": "右 is みぎ, right."
+    },
+    {
+      "id": "q_iwate_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which word means a book?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "本"
+        },
+        {
+          "id": "c",
+          "text": "石"
+        },
+        {
+          "id": "d",
+          "text": "友"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_本",
+        "vocab_本"
+      ],
+      "explanation": "本 is ほん, book; 木 is tree/wood."
+    },
+    {
+      "id": "q_iwate_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which verb means rest?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "休む"
+        },
+        {
+          "id": "b",
+          "text": "会う"
+        },
+        {
+          "id": "c",
+          "text": "買う"
+        },
+        {
+          "id": "d",
+          "text": "出る"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_休",
+        "vocab_休む"
+      ],
+      "explanation": "休む is やすむ, rest; 休める is a different related verb."
+    },
+    {
+      "id": "q_iwate_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 会う meaning meet.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いく"
+        },
+        {
+          "id": "b",
+          "text": "かう"
+        },
+        {
+          "id": "c",
+          "text": "やすむ"
+        },
+        {
+          "id": "d",
+          "text": "あう"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_会",
+        "vocab_会う"
+      ],
+      "explanation": "会う is あう; its polite form is 会います."
+    },
+    {
+      "id": "q_iwate_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which two visible characters form 岩?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木 and 木"
+        },
+        {
+          "id": "b",
+          "text": "日 and 月"
+        },
+        {
+          "id": "c",
+          "text": "山 and 石"
+        },
+        {
+          "id": "d",
+          "text": "口 and 貝"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_岩",
+        "kanji_石",
+        "radical_yama"
+      ],
+      "explanation": "岩 combines 山 above 石, providing a useful rock/terrain connection."
+    },
+    {
+      "id": "q_iwate_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which is the indexing radical of 盛?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "皿"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "弓"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_盛",
+        "radical_sara"
+      ],
+      "explanation": "盛 is indexed under 皿; 成 contributes historical sound structure."
+    },
+    {
+      "id": "q_iwate_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "What role is explained for 成 inside 盛?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A historical sound component."
+        },
+        {
+          "id": "b",
+          "text": "A guaranteed reading of every place name."
+        },
+        {
+          "id": "c",
+          "text": "The water radical."
+        },
+        {
+          "id": "d",
+          "text": "A modern English translation of Morioka."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_盛",
+        "radical_naru"
+      ],
+      "explanation": "成 contributes sound structure; it does not give a guaranteed reading for the full city name."
+    },
+    {
+      "id": "q_iwate_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which terrain radical is visible inside 岡?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵"
+        },
+        {
+          "id": "b",
+          "text": "艹"
+        },
+        {
+          "id": "c",
+          "text": "貝"
+        },
+        {
+          "id": "d",
+          "text": "山"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_岡",
+        "radical_yama"
+      ],
+      "explanation": "岡 is indexed under 山; this is a terrain-related clue."
+    },
+    {
+      "id": "q_iwate_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which is the water radical in 泉?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "水"
+        },
+        {
+          "id": "d",
+          "text": "日"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_泉",
+        "radical_mizu"
+      ],
+      "explanation": "Modern 泉 has 水 below its upper 白-shaped section."
+    },
+    {
+      "id": "q_iwate_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "What lower component helps identify 左 rather than 右?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "口"
+        },
+        {
+          "id": "b",
+          "text": "工"
+        },
+        {
+          "id": "c",
+          "text": "貝"
+        },
+        {
+          "id": "d",
+          "text": "魚"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_左",
+        "radical_takumi"
+      ],
+      "explanation": "左 contains 工; 右 contains 口."
+    },
+    {
+      "id": "q_iwate_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "What lower component helps identify 右 rather than 左?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "口"
+        },
+        {
+          "id": "b",
+          "text": "工"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "刀"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_右",
+        "radical_kuchi"
+      ],
+      "explanation": "右 contains 口, its indexing radical."
+    },
+    {
+      "id": "q_iwate_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which two component shapes make 休 recognisable?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵 and 日"
+        },
+        {
+          "id": "b",
+          "text": "艹 and 口"
+        },
+        {
+          "id": "c",
+          "text": "貝 and 刀"
+        },
+        {
+          "id": "d",
+          "text": "亻 and 木"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_休",
+        "radical_ninben",
+        "radical_ki"
+      ],
+      "explanation": "亻 is a side form of 人; 木 is the tree component."
+    },
+    {
+      "id": "q_iwate_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which plant radical appears at the top of 花?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵"
+        },
+        {
+          "id": "b",
+          "text": "扌"
+        },
+        {
+          "id": "c",
+          "text": "艹"
+        },
+        {
+          "id": "d",
+          "text": "刂"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_花",
+        "radical_kusakanmuri"
+      ],
+      "explanation": "艹 is くさかんむり, a plant-related clue."
+    },
+    {
+      "id": "q_iwate_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which conclusion about modern 巻 is appropriate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Its lower curl proves it means self."
+        },
+        {
+          "id": "b",
+          "text": "Recognise the shapes and learn はなまき as a whole name."
+        },
+        {
+          "id": "c",
+          "text": "Its pieces guarantee the city name’s historical origin."
+        },
+        {
+          "id": "d",
+          "text": "It must be read くも because it contains a cloud."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "kanji_巻",
+        "vocab_花巻"
+      ],
+      "explanation": "Modern recognition chunks are not a complete historical explanation or a name-reading formula."
+    },
+    {
+      "id": "q_iwate_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二人 in the friend scene.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたり"
+        },
+        {
+          "id": "b",
+          "text": "ににん"
+        },
+        {
+          "id": "c",
+          "text": "ふたつ"
+        },
+        {
+          "id": "d",
+          "text": "ひとり"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_二人",
+        "grammar_counter_people"
+      ],
+      "explanation": "The special two-people reading is ふたり, reviewed from Hachinohe."
+    },
+    {
+      "id": "q_iwate_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 一人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いちにん"
+        },
+        {
+          "id": "b",
+          "text": "ひとつ"
+        },
+        {
+          "id": "c",
+          "text": "いっぷん"
+        },
+        {
+          "id": "d",
+          "text": "ひとり"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_一人",
+        "grammar_counter_people"
+      ],
+      "explanation": "一人 counts one person."
+    },
+    {
+      "id": "q_iwate_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みっつ"
+        },
+        {
+          "id": "b",
+          "text": "さんじ"
+        },
+        {
+          "id": "c",
+          "text": "さんにん"
+        },
+        {
+          "id": "d",
+          "text": "さんぷん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_三人",
+        "grammar_counter_people"
+      ],
+      "explanation": "Three people is さんにん; items and time use other words."
+    },
+    {
+      "id": "q_iwate_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Nine thirty is written:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "九月半"
+        },
+        {
+          "id": "b",
+          "text": "九時半"
+        },
+        {
+          "id": "c",
+          "text": "三時半"
+        },
+        {
+          "id": "d",
+          "text": "九時五分"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_九時半",
+        "kanji_半"
+      ],
+      "explanation": "九時 gives nine o’clock and 半 gives half past."
+    },
+    {
+      "id": "q_iwate_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which means 3 p.m.?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "午後三時"
+        },
+        {
+          "id": "b",
+          "text": "午前三時"
+        },
+        {
+          "id": "c",
+          "text": "午後九時"
+        },
+        {
+          "id": "d",
+          "text": "三月"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_午後",
+        "vocab_三時"
+      ],
+      "explanation": "午後 is p.m.; 三時 is three o’clock."
+    },
+    {
+      "id": "q_iwate_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 五分 as minutes.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ごぷん"
+        },
+        {
+          "id": "b",
+          "text": "ごじ"
+        },
+        {
+          "id": "c",
+          "text": "いつつ"
+        },
+        {
+          "id": "d",
+          "text": "ごふん"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_五分",
+        "kanji_分"
+      ],
+      "explanation": "The taught minute form is ごふん."
+    },
+    {
+      "id": "q_iwate_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二つ as ordinary item counting.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたり"
+        },
+        {
+          "id": "b",
+          "text": "ににん"
+        },
+        {
+          "id": "c",
+          "text": "ふたつ"
+        },
+        {
+          "id": "d",
+          "text": "にじ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_二つ",
+        "grammar_counter_tsutsu"
+      ],
+      "explanation": "二つ counts two items, not people or a time."
+    },
+    {
+      "id": "q_iwate_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is three ordinary items?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "三人 / さんにん"
+        },
+        {
+          "id": "b",
+          "text": "三つ / みっつ"
+        },
+        {
+          "id": "c",
+          "text": "三時 / さんじ"
+        },
+        {
+          "id": "d",
+          "text": "三月 / さんがつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_三つ",
+        "grammar_counter_tsutsu"
+      ],
+      "explanation": "三つ is the general item-counting form."
+    },
+    {
+      "id": "q_iwate_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is the 20th day of the month, reviewed from Hokkaido?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "二十日 / はつか"
+        },
+        {
+          "id": "b",
+          "text": "二十日 / にじゅうにち"
+        },
+        {
+          "id": "c",
+          "text": "十日 / とおか"
+        },
+        {
+          "id": "d",
+          "text": "二日 / ふつか"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_二十日"
+      ],
+      "explanation": "The special date 二十日 is はつか."
+    },
+    {
+      "id": "q_iwate_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "千円 is how much?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "100 yen."
+        },
+        {
+          "id": "b",
+          "text": "10,000 yen."
+        },
+        {
+          "id": "c",
+          "text": "10 yen."
+        },
+        {
+          "id": "d",
+          "text": "1,000 yen."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_千円",
+        "kanji_千"
+      ],
+      "explanation": "千 means one thousand and 円 is yen."
+    },
+    {
+      "id": "q_iwate_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read the prefecture name 岩手.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いして"
+        },
+        {
+          "id": "b",
+          "text": "がんしゅ"
+        },
+        {
+          "id": "c",
+          "text": "いわて"
+        },
+        {
+          "id": "d",
+          "text": "もりおか"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_岩手"
+      ],
+      "explanation": "The whole prefecture name is いわて."
+    },
+    {
+      "id": "q_iwate_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 盛岡.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しんおか"
+        },
+        {
+          "id": "b",
+          "text": "もりおか"
+        },
+        {
+          "id": "c",
+          "text": "せいこう"
+        },
+        {
+          "id": "d",
+          "text": "もりいわ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_盛岡"
+      ],
+      "explanation": "The city name is もりおか, with encounter kanji 盛 and 岡."
+    },
+    {
+      "id": "q_iwate_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 平泉.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ひらいずみ"
+        },
+        {
+          "id": "b",
+          "text": "へいせん"
+        },
+        {
+          "id": "c",
+          "text": "ひらおんせん"
+        },
+        {
+          "id": "d",
+          "text": "たいらみず"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_平泉"
+      ],
+      "explanation": "Learn the whole location name ひらいずみ."
+    },
+    {
+      "id": "q_iwate_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 花巻.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "かかん"
+        },
+        {
+          "id": "b",
+          "text": "はなのり"
+        },
+        {
+          "id": "c",
+          "text": "はなくも"
+        },
+        {
+          "id": "d",
+          "text": "はなまき"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_花巻"
+      ],
+      "explanation": "The whole city name is はなまき."
+    },
+    {
+      "id": "q_iwate_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means friend?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "私"
+        },
+        {
+          "id": "b",
+          "text": "魚"
+        },
+        {
+          "id": "c",
+          "text": "友だち"
+        },
+        {
+          "id": "d",
+          "text": "本"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_友だち",
+        "kanji_友"
+      ],
+      "explanation": "友だち is ともだち, friend."
+    },
+    {
+      "id": "q_iwate_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means I/me?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "手"
+        },
+        {
+          "id": "b",
+          "text": "私"
+        },
+        {
+          "id": "c",
+          "text": "友だち"
+        },
+        {
+          "id": "d",
+          "text": "誰"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_私",
+        "kanji_私"
+      ],
+      "explanation": "私 is わたし; it is often omitted when the speaker is clear."
+    },
+    {
+      "id": "q_iwate_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which asks who?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "誰"
+        },
+        {
+          "id": "b",
+          "text": "どこ"
+        },
+        {
+          "id": "c",
+          "text": "何時"
+        },
+        {
+          "id": "d",
+          "text": "いくら"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_誰"
+      ],
+      "explanation": "誰 is だれ, who."
+    },
+    {
+      "id": "q_iwate_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Choose the word for quiet.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "大きい"
+        },
+        {
+          "id": "b",
+          "text": "美しい"
+        },
+        {
+          "id": "c",
+          "text": "有名"
+        },
+        {
+          "id": "d",
+          "text": "静か"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_静か"
+      ],
+      "explanation": "静か is a な-adjective; its kanji is assisted here."
+    },
+    {
+      "id": "q_iwate_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means but between the taught short sentences?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "そして"
+        },
+        {
+          "id": "b",
+          "text": "と"
+        },
+        {
+          "id": "c",
+          "text": "でも"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_でも",
+        "grammar_conjunctions_basic"
+      ],
+      "explanation": "でも introduces contrast; そして adds or continues."
+    },
+    {
+      "id": "q_iwate_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means flower viewing in the taught customary expression?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "温泉"
+        },
+        {
+          "id": "b",
+          "text": "花見"
+        },
+        {
+          "id": "c",
+          "text": "森林"
+        },
+        {
+          "id": "d",
+          "text": "出口"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_花見",
+        "kanji_花",
+        "kanji_見"
+      ],
+      "explanation": "花見 is はなみ, especially cherry-blossom viewing."
+    },
+    {
+      "id": "q_iwate_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "The station is far from both speaker and listener. Choose “The station is over there.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "駅はあそこです。"
+        },
+        {
+          "id": "b",
+          "text": "駅はここです。"
+        },
+        {
+          "id": "c",
+          "text": "駅はそこです。"
+        },
+        {
+          "id": "d",
+          "text": "駅はどこですか。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_demonstrative_places"
+      ],
+      "explanation": "あそこ is away from both; the scene makes the choice unambiguous."
+    },
+    {
+      "id": "q_iwate_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “inside the shop”: 店＿＿中に人がいます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "で"
+        },
+        {
+          "id": "c",
+          "text": "から"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_particle_no",
+        "vocab_中"
+      ],
+      "explanation": "の links the shop to its inside area."
+    },
+    {
+      "id": "q_iwate_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “There is no person here.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ここに人はありません。"
+        },
+        {
+          "id": "b",
+          "text": "ここに人がいます。"
+        },
+        {
+          "id": "c",
+          "text": "ここに人はいません。"
+        },
+        {
+          "id": "d",
+          "text": "ここに人を見ます。"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_negative_existence"
+      ],
+      "explanation": "The person-existence negative is いません."
+    },
+    {
+      "id": "q_iwate_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “There is no shop here.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ここに店はいません。"
+        },
+        {
+          "id": "b",
+          "text": "ここに店はありません。"
+        },
+        {
+          "id": "c",
+          "text": "ここに店があります。"
+        },
+        {
+          "id": "d",
+          "text": "ここは店ではありません。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_negative_existence"
+      ],
+      "explanation": "A shop’s absence uses ありません; the last choice says this place is not a shop."
+    },
+    {
+      "id": "q_iwate_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught polite negative of 静かです.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "静かではありません。"
+        },
+        {
+          "id": "b",
+          "text": "静かくないです。"
+        },
+        {
+          "id": "c",
+          "text": "静かいません。"
+        },
+        {
+          "id": "d",
+          "text": "静かありません。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_na_adjective_negative"
+      ],
+      "explanation": "A な-adjective uses ではありません; 静かじゃありません is also accepted but is not an option here."
+    },
+    {
+      "id": "q_iwate_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “a quiet place.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "静かい場所"
+        },
+        {
+          "id": "b",
+          "text": "静かの場所"
+        },
+        {
+          "id": "c",
+          "text": "静かであります場所"
+        },
+        {
+          "id": "d",
+          "text": "静かな場所"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_na_adjective",
+        "vocab_静か"
+      ],
+      "explanation": "な is needed when 静か directly modifies a noun."
+    },
+    {
+      "id": "q_iwate_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “I rest in the park”: 公園＿＿休みます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_particle_de",
+        "vocab_休む"
+      ],
+      "explanation": "で marks the location where the resting action takes place."
+    },
+    {
+      "id": "q_iwate_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In 友だちと花巻に行きます, what does と mark?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The destination."
+        },
+        {
+          "id": "b",
+          "text": "The friend who accompanies the traveller."
+        },
+        {
+          "id": "c",
+          "text": "The item bought."
+        },
+        {
+          "id": "d",
+          "text": "The clock time."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_companion_to"
+      ],
+      "explanation": "Here と marks the action’s companion; 花巻に marks the destination."
+    },
+    {
+      "id": "q_iwate_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the meeting pattern taught in Hanamaki: 友だち＿＿会います。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_au_person_ni",
+        "vocab_会う"
+      ],
+      "explanation": "に marks the person met with 会う in this pattern."
+    },
+    {
+      "id": "q_iwate_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “I did not meet [them].”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "会いました。"
+        },
+        {
+          "id": "b",
+          "text": "会います。"
+        },
+        {
+          "id": "c",
+          "text": "会いません。"
+        },
+        {
+          "id": "d",
+          "text": "会いませんでした。"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_polite_past_negative",
+        "vocab_会う"
+      ],
+      "explanation": "ませんでした is the polite negative past; ません is nonpast negative."
+    },
+    {
+      "id": "q_iwate_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R02 asks: 駅はどこですか。 What information is requested?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The price of an apple."
+        },
+        {
+          "id": "b",
+          "text": "The number of friends."
+        },
+        {
+          "id": "c",
+          "text": "The station’s location."
+        },
+        {
+          "id": "d",
+          "text": "The time of meeting."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_駅",
+        "grammar_demonstrative_places",
+        "sent_iwate_r02_s01",
+        "sent_iwate_r02_s02",
+        "sent_iwate_r02_s03"
+      ],
+      "explanation": "どこ asks where."
+    },
+    {
+      "id": "q_iwate_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R03 says: 店の外に小さい石があります。 Where is the stone?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inside the shop."
+        },
+        {
+          "id": "b",
+          "text": "Outside the shop."
+        },
+        {
+          "id": "c",
+          "text": "In a book."
+        },
+        {
+          "id": "d",
+          "text": "In the traveller’s hand."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_外",
+        "vocab_石",
+        "sent_iwate_r03_s01",
+        "sent_iwate_r03_s02",
+        "sent_iwate_r03_s03"
+      ],
+      "explanation": "店の外 specifies the shop’s outside area."
+    },
+    {
+      "id": "q_iwate_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R03 says: いすの下に人はいません。 What is absent under the chair?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A person."
+        },
+        {
+          "id": "b",
+          "text": "A shop."
+        },
+        {
+          "id": "c",
+          "text": "A stone."
+        },
+        {
+          "id": "d",
+          "text": "A flower."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_negative_existence",
+        "vocab_下",
+        "sent_iwate_r03_s01",
+        "sent_iwate_r03_s02",
+        "sent_iwate_r03_s03"
+      ],
+      "explanation": "人はいません states a person’s absence."
+    },
+    {
+      "id": "q_iwate_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R04 says: 駅の左に寺があります。 Which relation is stated on the fictional map?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The temple is right of the station."
+        },
+        {
+          "id": "b",
+          "text": "The station is left of the temple."
+        },
+        {
+          "id": "c",
+          "text": "The shop is under the temple."
+        },
+        {
+          "id": "d",
+          "text": "The temple is left of the station."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_左",
+        "grammar_relative_position",
+        "sent_iwate_r04_s01",
+        "sent_iwate_r04_s02",
+        "sent_iwate_r04_s03"
+      ],
+      "explanation": "The reference object 駅 comes before の左; do not reverse the relation."
+    },
+    {
+      "id": "q_iwate_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R05 says: 公園で休みました。そして、本を読みました。 What followed the rest?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Buying fish."
+        },
+        {
+          "id": "b",
+          "text": "Entering a shop."
+        },
+        {
+          "id": "c",
+          "text": "Reading a book."
+        },
+        {
+          "id": "d",
+          "text": "Meeting at a station."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_本",
+        "vocab_読む",
+        "grammar_conjunctions_basic",
+        "sent_iwate_r05_s01",
+        "sent_iwate_r05_s02",
+        "sent_iwate_r05_s03"
+      ],
+      "explanation": "そして continues the account with 本を読みました."
+    },
+    {
+      "id": "q_iwate_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R06 says: あそこは店ではありません。 What does it mean?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "There is no shop anywhere."
+        },
+        {
+          "id": "b",
+          "text": "That place is not a shop."
+        },
+        {
+          "id": "c",
+          "text": "There is a shop here."
+        },
+        {
+          "id": "d",
+          "text": "The narrator did not buy anything."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_na_adjective_negative",
+        "grammar_a_wa_b_desu",
+        "sent_iwate_r06_s01",
+        "sent_iwate_r06_s02",
+        "sent_iwate_r06_s03"
+      ],
+      "explanation": "ではありません negates the identification, not all shop existence."
+    },
+    {
+      "id": "q_iwate_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R07 says: 九時半に公園で友だちに会いました。 Where was the meeting?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In the park."
+        },
+        {
+          "id": "b",
+          "text": "Inside a hot spring."
+        },
+        {
+          "id": "c",
+          "text": "At an apple shop."
+        },
+        {
+          "id": "d",
+          "text": "At the sea."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_particle_de",
+        "vocab_会う",
+        "sent_iwate_r07_s01",
+        "sent_iwate_r07_s02",
+        "sent_iwate_r07_s03"
+      ],
+      "explanation": "公園で marks where the meeting action occurred."
+    },
+    {
+      "id": "q_iwate_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R07 says: 友だちと花巻に行きました。 Who accompanied the traveller?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A shopkeeper specified by the text."
+        },
+        {
+          "id": "b",
+          "text": "Nobody."
+        },
+        {
+          "id": "c",
+          "text": "Three unspecified people."
+        },
+        {
+          "id": "d",
+          "text": "A friend."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "grammar_companion_to",
+        "vocab_友だち",
+        "sent_iwate_r07_s01",
+        "sent_iwate_r07_s02",
+        "sent_iwate_r07_s03"
+      ],
+      "explanation": "友だちと identifies a friend as the companion."
+    },
+    {
+      "id": "q_iwate_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R09 says: 友だちと温泉に入りました。そして、休みました。 What followed the hot spring?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Leaving for Miyagi at nine."
+        },
+        {
+          "id": "b",
+          "text": "Buying a book."
+        },
+        {
+          "id": "c",
+          "text": "Resting."
+        },
+        {
+          "id": "d",
+          "text": "Eating two apples."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_休む",
+        "vocab_温泉",
+        "sent_iwate_r09_s01",
+        "sent_iwate_r09_s02",
+        "sent_iwate_r09_s03"
+      ],
+      "explanation": "そして、休みました gives the next stated action."
+    },
+    {
+      "id": "q_iwate_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "IWA-R10 says: 次は宮城です。 What is the next prefecture?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Iwate."
+        },
+        {
+          "id": "b",
+          "text": "Miyagi."
+        },
+        {
+          "id": "c",
+          "text": "Aomori."
+        },
+        {
+          "id": "d",
+          "text": "Hokkaido."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "iwate",
+        "iwate_final"
+      ],
+      "refs": [
+        "vocab_宮城",
+        "vocab_次",
+        "sent_iwate_r10_s01",
+        "sent_iwate_r10_s02",
+        "sent_iwate_r10_s03"
+      ],
+      "explanation": "宮城 is provided as the assisted next name, みやぎ."
+    }
+  ]
+}

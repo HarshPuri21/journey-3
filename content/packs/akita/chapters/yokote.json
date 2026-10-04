@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "yokote",
+  "name": "横手",
+  "nameEn": "Yokote",
+  "reading": "よこて",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "akita/kakunodate"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "yokote_l01",
+      "file": "lessons/yokote_l01.json"
+    }
+  ]
+}

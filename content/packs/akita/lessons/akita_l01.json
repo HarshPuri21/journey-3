@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "akita_l01",
+  "number": 1,
+  "title": "Akita — 秋田",
+  "goal": "Build common food words from familiar characters and new rice/thing characters.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_田",
+    "kanji_米",
+    "kanji_飯",
+    "kanji_物"
+  ],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_二",
+    "kanji_何",
+    "kanji_八",
+    "kanji_円",
+    "kanji_十",
+    "kanji_安",
+    "kanji_店",
+    "kanji_朝",
+    "kanji_木",
+    "kanji_水",
+    "kanji_火",
+    "kanji_百",
+    "kanji_私",
+    "kanji_秋",
+    "kanji_買",
+    "kanji_食",
+    "kanji_飲",
+    "kanji_魚"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A New Prefecture with a Food Connection",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Akita is both a prefecture and its capital city's name. Akita City is associated with the Kanto Festival, whose lanterns form large displays. We will use the wider rice/meal setting for language practice, without teaching festival numbers or schedules."
+        },
+        {
+          "type": "text",
+          "text": "**秋田でご飯を食べます。** あきたで ごはんを たべます。 — I eat a meal in Akita."
+        },
+        {
+          "type": "text",
+          "text": "ご飯 is introduced with its reading immediately; the next cards explain its spelling. A meal scene extends eating/buying from Aomori. We can add vocabulary without restarting the grammar of を and で."
+        }
+      ]
+    },
+    {
+      "id": "inside_akita",
+      "title": "Inside 秋田",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 秋 · **Meaning/reading:** autumn; あき, シュウ · **Radical and components:** 禾, のぎへん, beside 火 · **Role:** Assisted encounter, including review of Hokkaido's seasonal wording. Modern shapes are not the entire historical explanation.",
+            "**Character:** 田 · **Meaning/reading:** cultivated field/rice paddy; た, デン · **Radical and components:** 田, た; enclosed grid, a field-derived whole character · **Role:** Formal study."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**秋田 / あきた** is the whole location name. 秋 + 田 gives spelling glosses, not a verified story of its naming. 禾 differs from 木 by the short top stroke: notice this shape from 私. Grain, fire and field imagery can aid memory while useful words control the actual reading."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_秋",
+            "kanji_田"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ta"
+        }
+      ]
+    },
+    {
+      "id": "akita_c03",
+      "title": "田 and 田んぼ",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**田んぼ / たんぼ — rice paddy; 田 / た — cultivated field.** The kana ending belongs to the common word. You can recognise 田 in 秋田 without treating all the word's spoken sounds as new on readings."
+        },
+        {
+          "type": "text",
+          "text": "**田んぼに水があります。** たんぼに みずが あります。 — There is water in the rice paddy."
+        },
+        {
+          "type": "text",
+          "text": "This sentence describes an imagined paddy photograph. It does not claim that paddies always contain standing water. The existence pattern is review: place に, thing が, あります. 田 is a whole field radical; its internal lines are not separate numbers or mouths added to produce its meaning."
+        }
+      ]
+    },
+    {
+      "id": "akita_c04",
+      "title": "米: Uncooked Rice",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**米 / こめ — rice, especially uncooked grain; お米 / おこめ — the same word with a polite prefix.** 米 is its own radical, こめ. Notice the central cross and spreading strokes as a complete grain-related shape."
+        },
+        {
+          "type": "text",
+          "text": "**店で米を買います。** みせで こめを かいます。 — I buy rice at the shop."
+        },
+        {
+          "type": "text",
+          "text": "お does not create another independent kanji word. 米 is ベイ/マイ in other compounds; today's priority is こめ. Do not invent a sound by adding 八 and 十. Cooking and eating lead to another everyday word on the next card; the same material can be named differently in different contexts."
+        }
+      ]
+    },
+    {
+      "id": "akita_c05",
+      "title": "飯 and ご飯",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**ご飯 / ごはん — cooked rice; meal.** 飯 has **食** in its left-side food form **飠**, しょくへん, plus **反**, a historical sound component. Food is a useful meaning clue; the entire word is learned as ごはん."
+        },
+        {
+          "type": "text",
+          "text": "**ご飯を食べます。** ごはんを たべます。 — I eat rice / a meal."
+        },
+        {
+          "type": "text",
+          "text": "In **朝ご飯** later, ご飯 clearly means a meal. In a bowl beside other food it may mean cooked rice specifically. Compare 米を買います (buy uncooked rice) and ご飯を食べます (eat cooked rice/a meal). This is a useful everyday distinction, not a claim that every dictionary context is mutually exclusive."
+        }
+      ]
+    },
+    {
+      "id": "akita_c06",
+      "title": "物: A Thing Inside Common Words",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**物 / もの — thing; 食べ物 / たべもの — food; 飲み物 / のみもの — drink/beverage.** Radical **牛** in its left **牜**, うしへん, plus **勿**, a historical sound component. The component does not make every 物 a cow."
+        },
+        {
+          "type": "text",
+          "text": "食べ物 keeps 食べ and adds 物; 飲み物 keeps 飲み and adds 物. These are nouns, while 食べます/飲みます are actions. Notice the different kana endings."
+        },
+        {
+          "type": "text",
+          "text": "**これは飲み物です。** これは のみものです。 — This is a drink."
+        },
+        {
+          "type": "text",
+          "text": "You can recognise 牛 as a component before formally studying the standalone animal word in Fukushima. Encountering a shape and studying its word are different learning events."
+        }
+      ]
+    },
+    {
+      "id": "akita_c07",
+      "title": "Categorise without Guessing Readings",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Word:** 食べる · **Reading:** たべる · **Meaning/category:** action: eat",
+            "**Word:** 食べ物 · **Reading:** たべもの · **Meaning/category:** noun: food",
+            "**Word:** 飲む · **Reading:** のむ · **Meaning/category:** action: drink",
+            "**Word:** 飲み物 · **Reading:** のみもの · **Meaning/category:** noun: beverage",
+            "**Word:** 物 · **Reading:** もの · **Meaning/category:** general thing"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**水は飲み物です。** みずは のみものです。 — Water is a drink."
+        },
+        {
+          "type": "text",
+          "text": "**魚は食べ物です。** さかなは たべものです。 — Fish is food, in our food scene."
+        },
+        {
+          "type": "text",
+          "text": "A living fish in a nature scene is still described with います. Calling an item food in a meal context does not change the earlier person/animal-versus-thing existence lesson into a mechanical rule about every fish."
+        }
+      ]
+    },
+    {
+      "id": "akita_c08",
+      "title": "Ask What an Item Is",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**これは何ですか。** これは なんですか。 — What is this?"
+        },
+        {
+          "type": "text",
+          "text": "**米です。** こめです。 — It is rice."
+        },
+        {
+          "type": "text",
+          "text": "**それは食べ物ですか。** それは たべものですか。 — Is that food?"
+        },
+        {
+          "type": "text",
+          "text": "**はい、食べ物です。** はい、たべものです。 — Yes, it is food."
+        },
+        {
+          "type": "text",
+          "text": "These questions reuse 何, これ/それ and ですか. The question word's form is なん in 何ですか. A learner need not identify every cooking method to answer an elementary category question. Keep objects clear in the exercise image so that only one category is intended."
+        }
+      ]
+    },
+    {
+      "id": "akita_c09",
+      "title": "Two Items and Their Price",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Imagine a shop sells apples for **三百円 / さんびゃくえん** in our stated two-apple purchase. This is the total, not a unit price."
+        },
+        {
+          "type": "text",
+          "text": "**りんごを二つ買いました。三百円でした。** りんごを ふたつ かいました。さんびゃくえんでした。 — I bought two apples. It was 300 yen."
+        },
+        {
+          "type": "text",
+          "text": "Here **Nでした** is explicitly introduced as the polite past of **Nです** for a price/identification. It differs from the い-adjective ending in 安かったです. We can say **この飲み物は水です**, this drink is water, and **水でした**, it was water, without treating でした as a verb's ました ending."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_noun_past"
+        }
+      ]
+    },
+    {
+      "id": "akita_c10",
+      "title": "Before and after a Meal",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**いただきます** is the customary phrase before eating; **ごちそうさまでした** is said after a meal. These were taught in Hachinohe and now return naturally."
+        },
+        {
+          "type": "text",
+          "text": "**秋田でご飯を食べました。水も飲みました。** あきたで ごはんを たべました。みずも のみました。 — I ate a meal in Akita. I also drank water."
+        },
+        {
+          "type": "text",
+          "text": "**店で食べ物と飲み物を買いました。** みせで たべものと のみものを かいました。 — I bought food and drinks at a shop."
+        },
+        {
+          "type": "text",
+          "text": "と joins the noun categories; も adds an action about water. Cultural courtesy is practised in context rather than scored as trivia about a particular festival."
+        }
+      ]
+    },
+    {
+      "id": "akita_c11",
+      "title": "Practice: Rice and Compounds",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 秋田 and 田んぼ. **Answer:** あきた; たんぼ.",
+            "Which taught word names uncooked rice? **Answer:** 米 / こめ.",
+            "What two common meanings does ご飯 have? **Answer:** cooked rice; meal.",
+            "Read 食べ物 and 飲み物. **Answer:** たべもの; のみもの.",
+            "Which component links 飯 with 食べる? **Answer:** 食/飠.",
+            "Read 水でした and 安かったです. **Answer:** みずでした, it was water; やすかったです, it was inexpensive. They use different predicate patterns."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "akita_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "秋田 is あきた. 秋 is assisted; 田 is formal study. 田んぼ is a rice paddy, 米 is uncooked rice, ご飯 is cooked rice or a meal. 食べ物/飲み物 are nouns made from familiar action stems plus 物. A price/identification noun can use でした in a polite past report; an い-adjective uses its own ending."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I bought food and drinks at a shop.” **Model:** 店で食べ物と飲み物を買いました。 Continue to Kakunodate and write a short memory of the trip."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_田",
+            "kanji_米",
+            "kanji_飯",
+            "kanji_物"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_秋田"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_田んぼ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_ご飯"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_食べ物"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_飲み物"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Akita complete",
+    "nextText": "Next: Kakunodate",
+    "nextChapter": "akita/kakunodate"
+  }
+}

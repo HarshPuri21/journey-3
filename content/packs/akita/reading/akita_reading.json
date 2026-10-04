@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "akita_reading",
+  "number": 4,
+  "title": "Akita Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_二",
+    "kanji_会",
+    "kanji_円",
+    "kanji_写",
+    "kanji_友",
+    "kanji_夜",
+    "kanji_大",
+    "kanji_字",
+    "kanji_山",
+    "kanji_店",
+    "kanji_形",
+    "kanji_手",
+    "kanji_文",
+    "kanji_新",
+    "kanji_日",
+    "kanji_昼",
+    "kanji_時",
+    "kanji_書",
+    "kanji_朝",
+    "kanji_本",
+    "kanji_横",
+    "kanji_次",
+    "kanji_毎",
+    "kanji_水",
+    "kanji_漢",
+    "kanji_物",
+    "kanji_田",
+    "kanji_百",
+    "kanji_真",
+    "kanji_秋",
+    "kanji_米",
+    "kanji_紙",
+    "kanji_行",
+    "kanji_角",
+    "kanji_読",
+    "kanji_買",
+    "kanji_食",
+    "kanji_飯",
+    "kanji_飲",
+    "kanji_館"
+  ],
+  "cards": [
+    {
+      "id": "akita_r01",
+      "title": "Rice-paddy picture",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{秋田|あきた}に{行|い}きました。",
+          "en": "I went to Akita."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あきたにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{写真|しゃしん}は{田|た}んぼの{写真|しゃしん}です。",
+          "en": "This photograph is a photograph of a rice paddy."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このしゃしんはたんぼのしゃしんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{田|た}んぼに{水|みず}があります。",
+          "en": "There is water in the rice paddy."
+        },
+        {
+          "type": "text",
+          "text": "Kana: たんぼにみずがあります。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "This is a fictional paddy photograph, not a claim about every paddy in every season. 秋 remains an assisted name character."
+        }
+      ]
+    },
+    {
+      "id": "akita_r02",
+      "title": "Rice and a meal",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}で{米|こめ}を{買|か}いました。",
+          "en": "I bought uncooked rice at a shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせでこめをかいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{秋田|あきた}でご{飯|はん}を{食|た}べました。",
+          "en": "I ate a meal in Akita."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あきたでごはんをたべました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{水|みず}も{飲|の}みました。",
+          "en": "I also drank water."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みずものみました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "米/こめ is the uncooked-rice word. ご飯/ごはん can mean cooked rice or a meal; it is not read ごこめ."
+        }
+      ]
+    },
+    {
+      "id": "akita_r03",
+      "title": "Food and a drink",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "これは{食|た}べ{物|もの}です。",
+          "en": "This is food."
+        },
+        {
+          "type": "text",
+          "text": "Kana: これはたべものです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "これは{飲|の}み{物|もの}です。",
+          "en": "This is a drink."
+        },
+        {
+          "type": "text",
+          "text": "Kana: これはのみものです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{飲|の}み{物|もの}は{水|みず}です。",
+          "en": "This drink is water."
+        },
+        {
+          "type": "text",
+          "text": "Kana: こののみものはみずです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The imaginary items are clearly labelled. 食べ物/飲み物 are nouns, not polite action verbs."
+        }
+      ]
+    },
+    {
+      "id": "akita_r04",
+      "title": "A total price",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "りんごを{二|ふた}つ{買|か}いました。",
+          "en": "I bought two apples."
+        },
+        {
+          "type": "text",
+          "text": "Kana: りんごをふたつかいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{三百円|さんびゃくえん}でした。",
+          "en": "It was 300 yen."
+        },
+        {
+          "type": "text",
+          "text": "Kana: さんびゃくえんでした。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "このりんごは{食|た}べ{物|もの}です。",
+          "en": "This apple is food."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このりんごはたべものです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The 300-yen amount is the total for the two apples in this fictional scene. Nでした is the polite past of Nです."
+        }
+      ]
+    },
+    {
+      "id": "akita_r05",
+      "title": "A book in Kakunodate",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{角館|かくのだて}に{行|い}きました。",
+          "en": "I went to Kakunodate."
+        },
+        {
+          "type": "text",
+          "text": "Kana: かくのだてにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{角館|かくのだて}で{本|ほん}を{読|よ}みました。",
+          "en": "I read a book in Kakunodate."
+        },
+        {
+          "type": "text",
+          "text": "Kana: かくのだてでほんをよみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{本|ほん}は{新|あたら}しいです。",
+          "en": "This book is new."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このほんはあたらしいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "角館 is learned as the complete location reading. 読む is よむ; 読みました is よみました."
+        }
+      ]
+    },
+    {
+      "id": "akita_r06",
+      "title": "Writing one sentence",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "ノートに{文|ぶん}を{書|か}きました。",
+          "en": "I wrote a sentence in a notebook."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ノートにぶんをかきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「{秋田|あきた}でご{飯|はん}を{食|た}べました。」",
+          "en": "“I ate a meal in Akita.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「あきたでごはんをたべました。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{文|ぶん}を{読|よ}みました。",
+          "en": "I read this sentence."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このぶんをよみました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The quotation is the actual notebook sentence, rather than an unexplained quotation-verb construction. ノートに marks the writing surface; 文を marks what was written."
+        }
+      ]
+    },
+    {
+      "id": "akita_r07",
+      "title": "A character on paper",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{紙|かみ}に{字|じ}を{書|か}きました。",
+          "en": "I wrote a character on paper."
+        },
+        {
+          "type": "text",
+          "text": "Kana: かみにじをかきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{字|じ}は{大|おお}きいです。",
+          "en": "This character is large."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このじはおおきいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "これは{漢字|かんじ}です。",
+          "en": "This is a kanji character."
+        },
+        {
+          "type": "text",
+          "text": "Kana: これはかんじです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "紙 and 漢 are assisted characters. A character 字 differs from a whole sentence 文; 文字/もじ is a learned compound."
+        }
+      ]
+    },
+    {
+      "id": "akita_r08",
+      "title": "A day in Yokote",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{横手|よこて}に{行|い}きました。",
+          "en": "I went to Yokote."
+        },
+        {
+          "type": "text",
+          "text": "Kana: よこてにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{朝|あさ}、{朝|あさ}ご{飯|はん}を{食|た}べます。",
+          "en": "In the morning, I eat breakfast."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あさ、あさごはんをたべます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{夜|よる}、{文|ぶん}を{書|か}きます。",
+          "en": "At night, I write sentences."
+        },
+        {
+          "type": "text",
+          "text": "Kana: よる、ぶんをかきます。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The journal now gives a fictional routine; nonpast ます is deliberate. 朝/夜 are broad times of day, not exact clock times."
+        }
+      ]
+    },
+    {
+      "id": "akita_r09",
+      "title": "Already or not yet?",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "「もう{昼|ひる}ご{飯|はん}を{食|た}べましたか。」",
+          "en": "“Have you already eaten lunch?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「もうひるごはんをたべましたか。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「いいえ、まだです。」",
+          "en": "“No, not yet.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「いいえ、まだです。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「{水|みず}はもう{飲|の}みました。」",
+          "en": "“I have already drunk water.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「みずはもうのみました。」"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The taught completion-negative reply is まだです. No unintroduced まだ食べません pattern is used to mean “have not eaten yet.”"
+        }
+      ]
+    },
+    {
+      "id": "akita_r10",
+      "title": "Frequency and the next stop",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{毎日|まいにち}、{水|みず}を{飲|の}みます。",
+          "en": "I drink water every day."
+        },
+        {
+          "type": "text",
+          "text": "Kana: まいにち、みずをのみます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{時々|ときどき}、{友|とも}だちに{会|あ}います。",
+          "en": "I sometimes meet a friend."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ときどき、ともだちにあいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{山形|やまがた}です。",
+          "en": "Next is Yamagata."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはやまがたです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "々 is an iteration mark. 山形 is an assisted preview; 山 is formal review from Matsushima."
+        }
+      ]
+    },
+    {
+      "id": "akita_r11",
+      "title": "Assisted Reading, Then Continuous Rereading",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Pass 1: use the word readings and English assistance. Pass 2: read the same Japanese below, hide translations, and name the place, action, relationship and time/frequency in each passage. Keep furigana available for encounter characters. Pass 3: try the ten reading-comprehension questions; after an error, return to the referenced story card. Do not require unintroduced grammar or rare name readings."
+        },
+        {
+          "type": "text",
+          "text": "**R01.** {秋田|あきた}に{行|い}きました。 この{写真|しゃしん}は{田|た}んぼの{写真|しゃしん}です。 {田|た}んぼに{水|みず}があります。"
+        },
+        {
+          "type": "text",
+          "text": "**R02.** {店|みせ}で{米|こめ}を{買|か}いました。 {秋田|あきた}でご{飯|はん}を{食|た}べました。 {水|みず}も{飲|の}みました。"
+        },
+        {
+          "type": "text",
+          "text": "**R03.** これは{食|た}べ{物|もの}です。 これは{飲|の}み{物|もの}です。 この{飲|の}み{物|もの}は{水|みず}です。"
+        },
+        {
+          "type": "text",
+          "text": "**R04.** りんごを{二|ふた}つ{買|か}いました。 {三百円|さんびゃくえん}でした。 このりんごは{食|た}べ{物|もの}です。"
+        },
+        {
+          "type": "text",
+          "text": "**R05.** {角館|かくのだて}に{行|い}きました。 {角館|かくのだて}で{本|ほん}を{読|よ}みました。 この{本|ほん}は{新|あたら}しいです。"
+        },
+        {
+          "type": "text",
+          "text": "**R06.** ノートに{文|ぶん}を{書|か}きました。 「{秋田|あきた}でご{飯|はん}を{食|た}べました。」 この{文|ぶん}を{読|よ}みました。"
+        },
+        {
+          "type": "text",
+          "text": "**R07.** {紙|かみ}に{字|じ}を{書|か}きました。 この{字|じ}は{大|おお}きいです。 これは{漢字|かんじ}です。"
+        },
+        {
+          "type": "text",
+          "text": "**R08.** {横手|よこて}に{行|い}きました。 {朝|あさ}、{朝|あさ}ご{飯|はん}を{食|た}べます。 {夜|よる}、{文|ぶん}を{書|か}きます。"
+        },
+        {
+          "type": "text",
+          "text": "**R09.** 「もう{昼|ひる}ご{飯|はん}を{食|た}べましたか。」 「いいえ、まだです。」 「{水|みず}はもう{飲|の}みました。」"
+        },
+        {
+          "type": "text",
+          "text": "**R10.** {毎日|まいにち}、{水|みず}を{飲|の}みます。 {時々|ときどき}、{友|とも}だちに{会|あ}います。 {次|つぎ}は{山形|やまがた}です。"
+        }
+      ]
+    },
+    {
+      "id": "akita_r12",
+      "title": "Reading Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Distinguish 田んぼ, 米 and ご飯. 食べ物/飲み物 are nouns. Read/write verbs keep their kanji across polite endings. 文 is a sentence; 字 is a character. Broad daily times and frequency words differ. もう + polite past states completion; まだです is the taught not-yet reply. The next prefecture is Yamagata."
+        },
+        {
+          "type": "text",
+          "text": "**Self-check:** Retell one event using its learned words. Choose one reused component connection. Explain one particle using the sentence, rather than a fixed English gloss. Reading completion means assisted practice and comprehension evidence, not automatic formal mastery of every encountered character."
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Akita reading complete",
+    "nextText": "Next: Akita Test"
+  }
+}

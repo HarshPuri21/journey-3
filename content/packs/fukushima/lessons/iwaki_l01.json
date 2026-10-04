@@ -1,0 +1,400 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "iwaki_l01",
+  "number": 4,
+  "title": "Iwaki — いわき",
+  "goal": "Recognise country/language words and distinguish speaking, saying and listening.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_語",
+    "kanji_話",
+    "kanji_言",
+    "kanji_国"
+  ],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_五",
+    "kanji_人",
+    "kanji_会",
+    "kanji_全",
+    "kanji_友",
+    "kanji_口",
+    "kanji_土",
+    "kanji_城",
+    "kanji_外",
+    "kanji_宮",
+    "kanji_岩",
+    "kanji_市",
+    "kanji_手",
+    "kanji_日",
+    "kanji_時",
+    "kanji_本",
+    "kanji_水",
+    "kanji_然",
+    "kanji_目",
+    "kanji_石",
+    "kanji_磐",
+    "kanji_英",
+    "kanji_茨",
+    "kanji_車",
+    "kanji_電"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "The Modern City Name Uses Hiragana",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The current city name is **いわき市 / いわきし**, with いわき written in hiragana. Iwaki is a coastal city associated with places such as Aquamarine Fukushima and Iwaki Yumoto hot springs. Our practice dialogue occurs in an invented learning encounter."
+        },
+        {
+          "type": "text",
+          "text": "**いわきで友だちに会いました。** いわきで ともだちに あいました。 — I met a friend in Iwaki."
+        },
+        {
+          "type": "text",
+          "text": "We do not invent kanji for a hiragana city label to satisfy a template. Instead, the next card explains a related historical spelling that learners may encounter, clearly distinguished from the official modern city name."
+        }
+      ]
+    },
+    {
+      "id": "inside_iwaki",
+      "title": "Related Spelling: 磐城",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 磐 · **Meaning/reading:** large rock; いわ, ハン/バン · **Radical/components:** 石, いし, below 般, a historical sound component; 般 visibly contains 舟-like and 殳-like sections · **Role:** Assisted historical-name encounter.",
+            "**Character:** 城 · **Meaning/reading:** castle; しろ, ジョウ; き in 磐城 · **Radical/components:** 土, つちへん + 成, historical sound element · **Role:** Encounter review from 宮城/castle words."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**磐城 / いわき** is a related historical regional spelling, not a replacement instruction for modern **いわき市**. Contrast **岩手 / いわて**: 岩 and 磐 share rock-related meanings and 石 connections but are different characters. We test recognition of the modern label and sensible component understanding, not writing the rare historical name from memory."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_磐",
+            "kanji_城"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ishi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tsuchi"
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c03",
+      "title": "国: Country",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**国 / くに — country; 外国 / がいこく — foreign country; 外国人 / がいこくじん — foreign person/foreigner.** 国 has radical **囗**, くにがまえ, enclosing a modern **玉**. The enclosing radical is larger than ordinary 口; its position around another component matters."
+        },
+        {
+          "type": "text",
+          "text": "**日本は国です。** にほんは くにです。 — Japan is a country."
+        },
+        {
+          "type": "text",
+          "text": "**外国の本 / がいこくのほん — a book from/about a foreign country**, depending on context. 外 and 人 are review. 人 is じん in 外国人/日本人, but ひと as a standalone person and にん in 三人. Learn the useful whole compounds rather than assign 人 one permanent sound."
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c04",
+      "title": "語: A Language in Common Words",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**日本語 / にほんご — Japanese language; 英語 / えいご — English language.** 英 stays assisted here. 語 has radical **言**, ごんべん, on the left and **吾**, a historical sound component, on the right. 吾 visibly includes 五 and 口; five mouths is not a definition of language."
+        },
+        {
+          "type": "text",
+          "text": "**これは日本語の本です。** これは にほんごの ほんです。 — This is a book in/about Japanese, in our stated language-learning context."
+        },
+        {
+          "type": "text",
+          "text": "日本 is the country name; 日本語 is the language name; 日本人 is a Japanese person. The final component changes the word's category. Do not substitute these three whole words merely because they share 日本."
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c05",
+      "title": "話す: Speak and Talk",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**話す / はなす — speak/talk; 話します / はなします — speak/will speak.** 話 has radical **言**, ごんべん, and **舌**, a historical sound component with a useful speech-related association. 舌's visible upper strokes and lower 口 are nested recognition pieces, not a reading formula for はなす."
+        },
+        {
+          "type": "text",
+          "text": "**日本語を話します。** にほんごを はなします。 — I speak Japanese."
+        },
+        {
+          "type": "text",
+          "text": "**友だちと話します。** ともだちと はなします。 — I talk with a friend."
+        },
+        {
+          "type": "text",
+          "text": "The language uses を as the spoken-language object in our model; the conversation partner uses と. This と is a partner/companion relationship, extending earlier companion patterns. It is not the と used to quote what someone says."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_language_object_wo"
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c06",
+      "title": "言う: Say",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**言う / いう — say; 言います / いいます — say/will say.** 言 is its own radical, いう/ことば; when on the left its form is called ごんべん. It has stacked upper strokes and lower 口."
+        },
+        {
+          "type": "text",
+          "text": "**「こんにちは」と言います。** 「こんにちは」と いいます。 — I say “hello.”"
+        },
+        {
+          "type": "text",
+          "text": "Here **と** marks the quoted words. The exact quotation is 「こんにちは」. Compare **友だちと話します**, where と names the conversation partner, and **りんごと水**, where it joins nouns. The same particle can express different relationships; the surrounding words clarify it."
+        },
+        {
+          "type": "text",
+          "text": "The limited quotation pattern is newly taught here. Broader reported statements, 思う and plain-form quotation are reserved for later."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_quotation_to"
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c07",
+      "title": "電話 Reconnects Two Packages",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**電話 / でんわ — telephone; phone call.** 電 was formally studied in Sendai; 話 is formal now. The compound reads でんわ, while 話す reads はなす. A kanji can connect a device word and an action without keeping the same reading."
+        },
+        {
+          "type": "text",
+          "text": "**電話で友だちと話します。** でんわで ともだちと はなします。 — I talk with a friend on the phone."
+        },
+        {
+          "type": "text",
+          "text": "で marks the means/channel, like 電車で for transport and 目で for seeing. The lesson does not require **電話する** as an unexplained new する verb. Use the already taught 話す action in a natural sentence and learn 電話 as a useful noun."
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c08",
+      "title": "Four Speaking and Saying Forms",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Action:** speak · **Nonpast:** 話します · **Negative:** 話しません · **Past:** 話しました · **Past negative:** 話しませんでした",
+            "**Action:** say · **Nonpast:** 言います · **Negative:** 言いません · **Past:** 言いました · **Past negative:** 言いませんでした"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Readings: はなします/はなしません/はなしました/はなしませんでした; いいます/いいません/いいました/いいませんでした."
+        },
+        {
+          "type": "text",
+          "text": "**友だちと日本語で話しました。** ともだちと にほんごで はなしました。 — I talked with a friend in Japanese."
+        },
+        {
+          "type": "text",
+          "text": "Language **で** can mark the language used as a medium. Compare **日本語を話しました**, I spoke Japanese. Both are natural, so tests must supply a sentence relationship that clearly distinguishes language object from medium."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_language_medium_de"
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c09",
+      "title": "全然 with a Negative",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**全然 / ぜんぜん — not at all**, paired with a negative predicate in the beginner pattern. 全/然 remain assisted characters; the word is part of the supplied frequency/degree syllabus."
+        },
+        {
+          "type": "text",
+          "text": "**英語は全然話しません。** えいごは ぜんぜん はなしません。 — I do not speak English at all, describing this fictional person's usage/habit."
+        },
+        {
+          "type": "text",
+          "text": "This is **not a statement of inability**. “I cannot speak English” requires a capability pattern we have not yet formally taught. Do not translate 話しません as “cannot.” Contrast **時々、日本語を話します**, I sometimes speak Japanese. The adverbs give different frequency/degree information; the verb ending gives negation."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_zenzen_negative"
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c10",
+      "title": "Greetings in a Small Conversation",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**おはようございます — good morning; こんにちは — hello/good afternoon; こんばんは — good evening; ごめんなさい — sorry.** These complete the greeting set specified in the supplied syllabus, alongside the already used すみません/ありがとうございます and meal/shop phrases. **こんにちは/こんばんは** end in written **は**, pronounced **わ** in these expressions."
+        },
+        {
+          "type": "text",
+          "text": "**友だちに「こんにちは」と言いました。** ともだちに「こんにちは」と いいました。 — I said “hello” to a friend."
+        },
+        {
+          "type": "text",
+          "text": "に identifies the person addressed; と marks the quoted words. In an evening version use こんばんは. We do not equate every “sorry” situation with one phrase; these are the basic expressions for the stated scenes."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_greetings_written_ha"
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c11",
+      "title": "Practice: Language and Quotation",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "What is the current city label: いわき市 or a required replacement 磐城市? **Answer:** いわき市.",
+            "Read 国, 日本語, 英語 and 電話. **Answer:** くに; にほんご; えいご; でんわ.",
+            "Which component links 語 and 話? **Answer:** 言.",
+            "Complete the quotation: 「こんにちは」＿言います。 **Answer:** と.",
+            "In 英語は全然話しません, does 話しません mean inability? **Answer:** No; it states not speaking, in the supplied usage context.",
+            "Make 話します past negative. **Answer:** 話しませんでした / はなしませんでした."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iwaki_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "いわき市 uses hiragana. 磐城 is an assisted historical connection, not a replacement city spelling. 国 is くに; 日本語 is the language; 日本人 is a person. 語/話 share 言; 話す is はなす, 言う is いう. と can mark a partner, noun list or exact quotation. 全然 pairs with a negative here; habitual negation is different from inability."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I said hello to a friend and talked in Japanese.” **Model:** 友だちに「こんにちは」と言いました。日本語で話しました。 Fukushima's four lessons are complete. Read and test. Package 05 next begins Ibaraki / 茨城 / いばらき."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_語",
+            "kanji_話",
+            "kanji_言",
+            "kanji_国"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_日本"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_友だち"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いわき"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いわき市"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_磐城"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_日本語"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_日本人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_話す"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_言う"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_全然"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_こんにちは"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_茨城"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Iwaki complete",
+    "nextText": "Next: Fukushima Reading Journey"
+  }
+}

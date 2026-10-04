@@ -1,0 +1,2024 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_fukushima_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read お茶.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おちゃ"
+        },
+        {
+          "id": "b",
+          "text": "おこめ"
+        },
+        {
+          "id": "c",
+          "text": "おはん"
+        },
+        {
+          "id": "d",
+          "text": "おもの"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_お茶"
+      ],
+      "explanation": "The taught tea word is おちゃ."
+    },
+    {
+      "id": "q_fukushima_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 肉.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "うし"
+        },
+        {
+          "id": "b",
+          "text": "にく"
+        },
+        {
+          "id": "c",
+          "text": "とり"
+        },
+        {
+          "id": "d",
+          "text": "もの"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_肉"
+      ],
+      "explanation": "肉 is にく, meat."
+    },
+    {
+      "id": "q_fukushima_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read standalone 牛.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ぎゅうにく"
+        },
+        {
+          "id": "b",
+          "text": "さかな"
+        },
+        {
+          "id": "c",
+          "text": "とり"
+        },
+        {
+          "id": "d",
+          "text": "うし"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_牛"
+      ],
+      "explanation": "The animal word is うし; 牛肉 uses the compound reading ぎゅうにく."
+    },
+    {
+      "id": "q_fukushima_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which new character joins 物 to write the fruit word 果物?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "米"
+        },
+        {
+          "id": "b",
+          "text": "飯"
+        },
+        {
+          "id": "c",
+          "text": "果"
+        },
+        {
+          "id": "d",
+          "text": "牛"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "kanji_果",
+        "vocab_果物"
+      ],
+      "explanation": "果物 is the learned whole word くだもの."
+    },
+    {
+      "id": "q_fukushima_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 名前.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "なまえ"
+        },
+        {
+          "id": "b",
+          "text": "めいぜん"
+        },
+        {
+          "id": "c",
+          "text": "なさき"
+        },
+        {
+          "id": "d",
+          "text": "なんまえ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_名前"
+      ],
+      "explanation": "The useful name word is なまえ, combining 名 and reviewed 前."
+    },
+    {
+      "id": "q_fukushima_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 父 in the taught own-family report.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おとうさん"
+        },
+        {
+          "id": "b",
+          "text": "はは"
+        },
+        {
+          "id": "c",
+          "text": "こ"
+        },
+        {
+          "id": "d",
+          "text": "ちち"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_父"
+      ],
+      "explanation": "父 is ちち in that stated context; お父さん is another whole term."
+    },
+    {
+      "id": "q_fukushima_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 母 in the taught own-family report.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おかあさん"
+        },
+        {
+          "id": "b",
+          "text": "はは"
+        },
+        {
+          "id": "c",
+          "text": "ちち"
+        },
+        {
+          "id": "d",
+          "text": "こ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_母"
+      ],
+      "explanation": "母 is はは in that stated context."
+    },
+    {
+      "id": "q_fukushima_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character means child in 子ども?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "父"
+        },
+        {
+          "id": "b",
+          "text": "母"
+        },
+        {
+          "id": "c",
+          "text": "子"
+        },
+        {
+          "id": "d",
+          "text": "名"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "kanji_子"
+      ],
+      "explanation": "子 is こ, the child component/character."
+    },
+    {
+      "id": "q_fukushima_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character is shared by 学生 and 学校?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "生"
+        },
+        {
+          "id": "b",
+          "text": "校"
+        },
+        {
+          "id": "c",
+          "text": "先"
+        },
+        {
+          "id": "d",
+          "text": "学"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "kanji_学"
+      ],
+      "explanation": "学 appears in both learning-related compounds."
+    },
+    {
+      "id": "q_fukushima_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character is the language component in 日本語?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "語"
+        },
+        {
+          "id": "b",
+          "text": "人"
+        },
+        {
+          "id": "c",
+          "text": "国"
+        },
+        {
+          "id": "d",
+          "text": "車"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "kanji_語",
+        "vocab_日本語"
+      ],
+      "explanation": "語 gives the language word 日本語, distinct from 日本人."
+    },
+    {
+      "id": "q_fukushima_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which shrine-related radical form appears on the left of 福?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "衤, a clothing radical form"
+        },
+        {
+          "id": "b",
+          "text": "礻, a form of 示"
+        },
+        {
+          "id": "c",
+          "text": "氵, a water radical form"
+        },
+        {
+          "id": "d",
+          "text": "亻, a person radical form"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_shimesuhen",
+        "kanji_福"
+      ],
+      "explanation": "福 uses 礻/しめすへん; distinguish it from similar 衤."
+    },
+    {
+      "id": "q_fukushima_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which terrain radical is within 島 in 福島?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "日"
+        },
+        {
+          "id": "c",
+          "text": "山"
+        },
+        {
+          "id": "d",
+          "text": "雨"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_yama",
+        "kanji_島"
+      ],
+      "explanation": "島 is indexed under 山; its presence does not make the city an island."
+    },
+    {
+      "id": "q_fukushima_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which water side form is visible in 津?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵"
+        },
+        {
+          "id": "b",
+          "text": "亻"
+        },
+        {
+          "id": "c",
+          "text": "刂"
+        },
+        {
+          "id": "d",
+          "text": "艹"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_sanzui",
+        "kanji_津"
+      ],
+      "explanation": "津 has 氵 beside 聿."
+    },
+    {
+      "id": "q_fukushima_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is the modern top of 若?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "雨"
+        },
+        {
+          "id": "b",
+          "text": "艹"
+        },
+        {
+          "id": "c",
+          "text": "宀"
+        },
+        {
+          "id": "d",
+          "text": "木"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_kusakanmuri",
+        "kanji_若"
+      ],
+      "explanation": "若 is indexed under 艹; the lesson avoids claiming that grass explains all of its historical meaning."
+    },
+    {
+      "id": "q_fukushima_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "What family is right-side 阝 in 郡?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "阜 / こざとへん"
+        },
+        {
+          "id": "b",
+          "text": "邑 / おおざと"
+        },
+        {
+          "id": "c",
+          "text": "水 / さんずい"
+        },
+        {
+          "id": "d",
+          "text": "人 / にんべん"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_oozato",
+        "kanji_郡"
+      ],
+      "explanation": "Right-side 阝 is the 邑 family, distinguished from left-side 阜."
+    },
+    {
+      "id": "q_fukushima_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which enclosing radical surrounds 玉 in modern 国?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "口 / くち used as the ordinary mouth word"
+        },
+        {
+          "id": "b",
+          "text": "囗 / くにがまえ"
+        },
+        {
+          "id": "c",
+          "text": "門 / もんがまえ"
+        },
+        {
+          "id": "d",
+          "text": "宀 / うかんむり"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_kunigamae",
+        "kanji_国"
+      ],
+      "explanation": "国 uses the enclosing 囗 radical around 玉."
+    },
+    {
+      "id": "q_fukushima_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which speech radical do 語 and 話 share?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "言"
+        },
+        {
+          "id": "b",
+          "text": "耳"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "食"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_gonben",
+        "kanji_語",
+        "kanji_話"
+      ],
+      "explanation": "Both have 言/ごんべん on the left."
+    },
+    {
+      "id": "q_fukushima_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which child radical links 学 with 字?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "人"
+        },
+        {
+          "id": "b",
+          "text": "足"
+        },
+        {
+          "id": "c",
+          "text": "子"
+        },
+        {
+          "id": "d",
+          "text": "目"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_ko",
+        "kanji_学",
+        "kanji_字"
+      ],
+      "explanation": "Both are indexed under 子; 学's upper cover is not simply 宀."
+    },
+    {
+      "id": "q_fukushima_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which tree radical is on the left of 校?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "禾"
+        },
+        {
+          "id": "c",
+          "text": "水"
+        },
+        {
+          "id": "d",
+          "text": "日"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_ki",
+        "kanji_校"
+      ],
+      "explanation": "校 has 木 beside 交, a historical sound component."
+    },
+    {
+      "id": "q_fukushima_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which statement about historical 磐 is appropriate?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "石 is the indexing radical below a 般 sound component."
+        },
+        {
+          "id": "b",
+          "text": "It must replace the modern city's hiragana label."
+        },
+        {
+          "id": "c",
+          "text": "It is identical to 岩 in every shape."
+        },
+        {
+          "id": "d",
+          "text": "Its parts guarantee all Iwaki place-name history."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "radical_ishi",
+        "kanji_磐"
+      ],
+      "explanation": "磐 is inspected as an assisted historical spelling, while modern いわき市 stays hiragana."
+    },
+    {
+      "id": "q_fukushima_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みっつ"
+        },
+        {
+          "id": "b",
+          "text": "さんじ"
+        },
+        {
+          "id": "c",
+          "text": "さんにん"
+        },
+        {
+          "id": "d",
+          "text": "さんぷん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_三人"
+      ],
+      "explanation": "三人 is the ordinary three-people form."
+    },
+    {
+      "id": "q_fukushima_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたつ"
+        },
+        {
+          "id": "b",
+          "text": "ににん"
+        },
+        {
+          "id": "c",
+          "text": "にひと"
+        },
+        {
+          "id": "d",
+          "text": "ふたり"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_二人"
+      ],
+      "explanation": "Two people is the special form ふたり."
+    },
+    {
+      "id": "q_fukushima_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 一人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ひとつ"
+        },
+        {
+          "id": "b",
+          "text": "ひとり"
+        },
+        {
+          "id": "c",
+          "text": "いちにん"
+        },
+        {
+          "id": "d",
+          "text": "いっぷん"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_一人"
+      ],
+      "explanation": "One person is the special form ひとり."
+    },
+    {
+      "id": "q_fukushima_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二つ in a request for apples.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたり"
+        },
+        {
+          "id": "b",
+          "text": "ににん"
+        },
+        {
+          "id": "c",
+          "text": "にじ"
+        },
+        {
+          "id": "d",
+          "text": "ふたつ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_二つ"
+      ],
+      "explanation": "The requested count is two ordinary items."
+    },
+    {
+      "id": "q_fukushima_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Two apples together are priced 三百円 in the fictional dialogue. What is the total?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "600 yen"
+        },
+        {
+          "id": "b",
+          "text": "150 yen"
+        },
+        {
+          "id": "c",
+          "text": "300 yen"
+        },
+        {
+          "id": "d",
+          "text": "3,000 yen"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_三百円"
+      ],
+      "explanation": "The price is explicitly the total for both, so do not multiply it again."
+    },
+    {
+      "id": "q_fukushima_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三百円.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さんひゃくえん"
+        },
+        {
+          "id": "b",
+          "text": "さんぜんえん"
+        },
+        {
+          "id": "c",
+          "text": "さんまんえん"
+        },
+        {
+          "id": "d",
+          "text": "さんびゃくえん"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_三百円"
+      ],
+      "explanation": "Three hundred yen uses さんびゃく."
+    },
+    {
+      "id": "q_fukushima_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 八百, reviewed from Hokkaido.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はちひゃく"
+        },
+        {
+          "id": "b",
+          "text": "はっぴゃく"
+        },
+        {
+          "id": "c",
+          "text": "はっせん"
+        },
+        {
+          "id": "d",
+          "text": "やっつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "kanji_八",
+        "kanji_百"
+      ],
+      "explanation": "Eight hundred uses はっぴゃく."
+    },
+    {
+      "id": "q_fukushima_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三千, reviewed from Hokkaido.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さんせん"
+        },
+        {
+          "id": "b",
+          "text": "さんびゃく"
+        },
+        {
+          "id": "c",
+          "text": "みっつ"
+        },
+        {
+          "id": "d",
+          "text": "さんぜん"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "kanji_三",
+        "kanji_千"
+      ],
+      "explanation": "Three thousand uses さんぜん."
+    },
+    {
+      "id": "q_fukushima_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 九時半, a reviewed meeting time.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "くじはん"
+        },
+        {
+          "id": "b",
+          "text": "きゅうじはん"
+        },
+        {
+          "id": "c",
+          "text": "くがつはん"
+        },
+        {
+          "id": "d",
+          "text": "ここのかはん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_九時半"
+      ],
+      "explanation": "九時 is くじ and 半 gives half past."
+    },
+    {
+      "id": "q_fukushima_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is the reviewed tenth general item-count form?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "じゅうつ"
+        },
+        {
+          "id": "b",
+          "text": "とお"
+        },
+        {
+          "id": "c",
+          "text": "とおつ"
+        },
+        {
+          "id": "d",
+          "text": "ここのつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_十_count"
+      ],
+      "explanation": "The tenth form is とお without つ."
+    },
+    {
+      "id": "q_fukushima_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 福島.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふくやま"
+        },
+        {
+          "id": "b",
+          "text": "しめすしま"
+        },
+        {
+          "id": "c",
+          "text": "ふくしま"
+        },
+        {
+          "id": "d",
+          "text": "こうふく"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_福島"
+      ],
+      "explanation": "The prefecture/city name is ふくしま."
+    },
+    {
+      "id": "q_fukushima_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 会津若松.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あいつわかまつ"
+        },
+        {
+          "id": "b",
+          "text": "かいつわかまつ"
+        },
+        {
+          "id": "c",
+          "text": "あいづわかもり"
+        },
+        {
+          "id": "d",
+          "text": "あいづわかまつ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_会津若松"
+      ],
+      "explanation": "The whole name uses あいづ, then わかまつ."
+    },
+    {
+      "id": "q_fukushima_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 郡山.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "こりやま"
+        },
+        {
+          "id": "b",
+          "text": "こおりやま"
+        },
+        {
+          "id": "c",
+          "text": "ぐんさん"
+        },
+        {
+          "id": "d",
+          "text": "こおりまち"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_郡山"
+      ],
+      "explanation": "The whole city name is こおりやま, with the long おお sequence."
+    },
+    {
+      "id": "q_fukushima_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is the official modern Iwaki city label taught here?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "磐城市 as a mandatory replacement"
+        },
+        {
+          "id": "b",
+          "text": "岩手市"
+        },
+        {
+          "id": "c",
+          "text": "いわき市"
+        },
+        {
+          "id": "d",
+          "text": "白石市"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_いわき市"
+      ],
+      "explanation": "The city name uses hiragana いわき; historical 磐城 is separately explained."
+    },
+    {
+      "id": "q_fukushima_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 牛肉.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "うしにく"
+        },
+        {
+          "id": "b",
+          "text": "とりにく"
+        },
+        {
+          "id": "c",
+          "text": "さかな"
+        },
+        {
+          "id": "d",
+          "text": "ぎゅうにく"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_牛肉"
+      ],
+      "explanation": "The ordinary beef word is ぎゅうにく."
+    },
+    {
+      "id": "q_fukushima_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 果物.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "かもの"
+        },
+        {
+          "id": "b",
+          "text": "はたもの"
+        },
+        {
+          "id": "c",
+          "text": "こめもの"
+        },
+        {
+          "id": "d",
+          "text": "くだもの"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_果物"
+      ],
+      "explanation": "The whole fruit word is くだもの; do not guess it from isolated on readings."
+    },
+    {
+      "id": "q_fukushima_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means student?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "先生"
+        },
+        {
+          "id": "b",
+          "text": "学生"
+        },
+        {
+          "id": "c",
+          "text": "学校"
+        },
+        {
+          "id": "d",
+          "text": "名前"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_学生"
+      ],
+      "explanation": "学生 / がくせい names the person’s learning role."
+    },
+    {
+      "id": "q_fukushima_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means teacher in the learning scene?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "学生"
+        },
+        {
+          "id": "b",
+          "text": "学校"
+        },
+        {
+          "id": "c",
+          "text": "先生"
+        },
+        {
+          "id": "d",
+          "text": "外国"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_先生"
+      ],
+      "explanation": "先生 / せんせい is the teacher word in this supplied context."
+    },
+    {
+      "id": "q_fukushima_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 学校.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "がくこう"
+        },
+        {
+          "id": "b",
+          "text": "がっこ"
+        },
+        {
+          "id": "c",
+          "text": "がくせい"
+        },
+        {
+          "id": "d",
+          "text": "がっこう"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_学校"
+      ],
+      "explanation": "学校 has the small っ and the long こう vowel."
+    },
+    {
+      "id": "q_fukushima_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means the Japanese language?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "日本人"
+        },
+        {
+          "id": "b",
+          "text": "日本"
+        },
+        {
+          "id": "c",
+          "text": "日本語"
+        },
+        {
+          "id": "d",
+          "text": "外国人"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "vocab_日本語"
+      ],
+      "explanation": "日本語 / にほんご is a language; 日本人 is a person and 日本 a country name."
+    },
+    {
+      "id": "q_fukushima_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the item request: お茶＿＿ください。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "で"
+        },
+        {
+          "id": "c",
+          "text": "へ"
+        },
+        {
+          "id": "d",
+          "text": "を"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_noun_request_kudasai"
+      ],
+      "explanation": "The requested item is marked を in Nをください."
+    },
+    {
+      "id": "q_fukushima_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught request for two apples.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "りんごを二つください。"
+        },
+        {
+          "id": "b",
+          "text": "りんごに二人ください。"
+        },
+        {
+          "id": "c",
+          "text": "りんごを二時ください。"
+        },
+        {
+          "id": "d",
+          "text": "りんごで二つ来ます。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_noun_request_kudasai",
+        "vocab_二つ"
+      ],
+      "explanation": "Use noun を, the existing item count 二つ, then ください."
+    },
+    {
+      "id": "q_fukushima_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “my father's name”: 私＿＿父の名前.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "の"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "へ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_particle_no"
+      ],
+      "explanation": "の joins the relationship chain 私の父の名前."
+    },
+    {
+      "id": "q_fukushima_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “was not a student,” polite noun past negative.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "学生くなかったです。"
+        },
+        {
+          "id": "b",
+          "text": "学生いませんでした。"
+        },
+        {
+          "id": "c",
+          "text": "学生でした。"
+        },
+        {
+          "id": "d",
+          "text": "学生ではありませんでした。"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_noun_past_negative"
+      ],
+      "explanation": "A role noun uses ではありませんでした for past negative identity."
+    },
+    {
+      "id": "q_fukushima_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “a teacher is in the classroom”: 教室＿＿先生がいます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "と"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_iru",
+        "grammar_particle_ni"
+      ],
+      "explanation": "The place of existence is marked に."
+    },
+    {
+      "id": "q_fukushima_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the taught language-object pattern: 日本語＿＿話します。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "から"
+        },
+        {
+          "id": "d",
+          "text": "と"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_language_object_wo"
+      ],
+      "explanation": "日本語を話します treats the language as the spoken object."
+    },
+    {
+      "id": "q_fukushima_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In 日本語で友だちと話します, what does で mark?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The person addressed."
+        },
+        {
+          "id": "b",
+          "text": "Japanese as the language medium used."
+        },
+        {
+          "id": "c",
+          "text": "The destination of movement."
+        },
+        {
+          "id": "d",
+          "text": "An exact quotation."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_language_medium_de"
+      ],
+      "explanation": "Language で gives the medium used; 友だちと gives the partner. 日本語を話します is a separate natural object pattern."
+    },
+    {
+      "id": "q_fukushima_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the exact quotation: 「こんにちは」＿＿言います。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "と"
+        },
+        {
+          "id": "c",
+          "text": "を"
+        },
+        {
+          "id": "d",
+          "text": "へ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_quotation_to"
+      ],
+      "explanation": "と marks the quoted words said, unlike partner と in 友だちと話します."
+    },
+    {
+      "id": "q_fukushima_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught whole “not at all” usage statement.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "英語は全然話します。"
+        },
+        {
+          "id": "b",
+          "text": "英語は全然話しません。"
+        },
+        {
+          "id": "c",
+          "text": "英語を全然来ます。"
+        },
+        {
+          "id": "d",
+          "text": "英語が全然国です。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_zenzen_negative"
+      ],
+      "explanation": "The beginner 全然 pattern pairs with a negative, here 話しません."
+    },
+    {
+      "id": "q_fukushima_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "What does 英語は全然話しません establish in this usage/habit context?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The speaker does not speak English at all in that usage."
+        },
+        {
+          "id": "b",
+          "text": "The speaker cannot speak English, necessarily."
+        },
+        {
+          "id": "c",
+          "text": "The speaker always speaks English."
+        },
+        {
+          "id": "d",
+          "text": "The speaker has already written an English book."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "grammar_zenzen_negative"
+      ],
+      "explanation": "The nonpast negative states usage/habit; it is not an ability construction."
+    },
+    {
+      "id": "q_fukushima_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R01: 店で果物を買いました。 What was bought?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A cow, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "A school."
+        },
+        {
+          "id": "c",
+          "text": "A phone."
+        },
+        {
+          "id": "d",
+          "text": "Fruit."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r01_s01",
+        "sent_fukushima_r01_s02",
+        "sent_fukushima_r01_s03"
+      ],
+      "explanation": "果物 is the stated buying object."
+    },
+    {
+      "id": "q_fukushima_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R02 asks りんごを二つください. What is requested?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Two people."
+        },
+        {
+          "id": "b",
+          "text": "Tea only."
+        },
+        {
+          "id": "c",
+          "text": "Two apples."
+        },
+        {
+          "id": "d",
+          "text": "A train at two o'clock."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r02_s01",
+        "sent_fukushima_r02_s02",
+        "sent_fukushima_r02_s03"
+      ],
+      "explanation": "りんご gives the item and 二つ its count."
+    },
+    {
+      "id": "q_fukushima_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R03: 牛肉とご飯を食べました。 What was eaten?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Beef and rice."
+        },
+        {
+          "id": "b",
+          "text": "A live bird and a notebook."
+        },
+        {
+          "id": "c",
+          "text": "Tea only."
+        },
+        {
+          "id": "d",
+          "text": "Uncooked rice only, explicitly stated."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r03_s01",
+        "sent_fukushima_r03_s02",
+        "sent_fukushima_r03_s03"
+      ],
+      "explanation": "The sentence states 牛肉 and ご飯 as the food pair."
+    },
+    {
+      "id": "q_fukushima_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R04: 父は来ませんでした。 What did the father not do?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Drink tea, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "Read a book, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "Come."
+        },
+        {
+          "id": "d",
+          "text": "Ask the teacher, explicitly stated."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r04_s01",
+        "sent_fukushima_r04_s02",
+        "sent_fukushima_r04_s03"
+      ],
+      "explanation": "来ませんでした is the past negative of coming."
+    },
+    {
+      "id": "q_fukushima_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R05: この子どもの名前はゆきです。 Whose name is Yuki in this line?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The child's."
+        },
+        {
+          "id": "b",
+          "text": "The father's."
+        },
+        {
+          "id": "c",
+          "text": "The mother's."
+        },
+        {
+          "id": "d",
+          "text": "The travelling friend's, explicitly stated."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r05_s01",
+        "sent_fukushima_r05_s02",
+        "sent_fukushima_r05_s03"
+      ],
+      "explanation": "この子どもの名前 makes the child the person named here."
+    },
+    {
+      "id": "q_fukushima_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R06: この人は先生です。 Which role is explicitly stated?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Student."
+        },
+        {
+          "id": "b",
+          "text": "Father."
+        },
+        {
+          "id": "c",
+          "text": "Teacher."
+        },
+        {
+          "id": "d",
+          "text": "Shopkeeper."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r06_s01",
+        "sent_fukushima_r06_s02",
+        "sent_fukushima_r06_s03"
+      ],
+      "explanation": "先生 is stated directly; no role inference from an action is needed."
+    },
+    {
+      "id": "q_fukushima_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R07: ノートに文を書きました。 What was written?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A total price, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "A body part."
+        },
+        {
+          "id": "c",
+          "text": "A sentence."
+        },
+        {
+          "id": "d",
+          "text": "A weather forecast, explicitly stated."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r07_s01",
+        "sent_fukushima_r07_s02",
+        "sent_fukushima_r07_s03"
+      ],
+      "explanation": "文 is the object written in the notebook."
+    },
+    {
+      "id": "q_fukushima_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R08: 友だちに「こんにちは」と言いました。 What was said?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "こんにちは."
+        },
+        {
+          "id": "b",
+          "text": "こんばんは."
+        },
+        {
+          "id": "c",
+          "text": "おはようございます."
+        },
+        {
+          "id": "d",
+          "text": "ごめんなさい."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r08_s01",
+        "sent_fukushima_r08_s02",
+        "sent_fukushima_r08_s03"
+      ],
+      "explanation": "The exact quote appears before と言いました."
+    },
+    {
+      "id": "q_fukushima_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R09: 電話で友だちと話します。 What medium is used?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A train."
+        },
+        {
+          "id": "b",
+          "text": "A rice paddy."
+        },
+        {
+          "id": "c",
+          "text": "The phone."
+        },
+        {
+          "id": "d",
+          "text": "A paper letter, explicitly stated."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r09_s01",
+        "sent_fukushima_r09_s02",
+        "sent_fukushima_r09_s03"
+      ],
+      "explanation": "電話で gives the phone as means/channel."
+    },
+    {
+      "id": "q_fukushima_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "FUKUSHIMA-R10: 次は茨城です。 Which prefecture follows?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fukushima."
+        },
+        {
+          "id": "b",
+          "text": "Ibaraki."
+        },
+        {
+          "id": "c",
+          "text": "Yamagata."
+        },
+        {
+          "id": "d",
+          "text": "Akita."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "fukushima",
+        "fukushima_final"
+      ],
+      "refs": [
+        "sent_fukushima_r10_s01",
+        "sent_fukushima_r10_s02",
+        "sent_fukushima_r10_s03"
+      ],
+      "explanation": "茨城 is supplied with the preview reading いばらき."
+    }
+  ]
+}

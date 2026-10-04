@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "sendai",
+  "name": "仙台",
+  "nameEn": "Sendai",
+  "reading": "せんだい",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "sendai_l01",
+      "file": "lessons/sendai_l01.json"
+    }
+  ]
+}

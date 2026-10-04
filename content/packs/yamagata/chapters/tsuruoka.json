@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "tsuruoka",
+  "name": "鶴岡",
+  "nameEn": "Tsuruoka",
+  "reading": "つるおか",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "yamagata/yamagata"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "tsuruoka_l01",
+      "file": "lessons/tsuruoka_l01.json"
+    }
+  ]
+}

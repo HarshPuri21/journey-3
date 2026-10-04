@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "chitose_l01",
+  "number": 3,
+  "title": "Chitose",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_歳"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Chitose",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{千歳|ちとせ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ちとせ"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Chitose"
+        },
+        {
+          "type": "text",
+          "text": "Chitose is important to our Journey because it is closely associated with New Chitose Airport, one of the main gateways to Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "Look at the name:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{千|せん}"
+        },
+        {
+          "type": "text",
+          "text": "**せん**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "thousand"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "歳"
+        },
+        {
+          "type": "text",
+          "text": "**さい / とし**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "age / years"
+        },
+        {
+          "type": "text",
+          "text": "But the place name is:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{千歳|ちとせ}"
+        },
+        {
+          "type": "text",
+          "text": "**ちとせ**"
+        },
+        {
+          "type": "text",
+          "text": "This is another reminder:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Place names sometimes have readings that must simply be learned."
+        }
+      ]
+    },
+    {
+      "id": "inside_chitose",
+      "title": "Inside 千歳",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {千歳|ちとせ}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_千",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_歳",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_juu"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tome"
+        },
+        {
+          "type": "callout",
+          "text": "千 is filed under 十 (ten). 歳 is filed under 止 (stop), which gives no hint of 'age'. Another reminder: not every radical is a meaning clue. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "千",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{千|せん}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "せん"
+        },
+        {
+          "type": "text",
+          "text": "**sen**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "thousand"
+        },
+        {
+          "type": "text",
+          "text": "You already know:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十|じゅう}"
+        },
+        {
+          "type": "text",
+          "text": "10"
+        },
+        {
+          "type": "text",
+          "text": "Now:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{百|ひゃく}"
+        },
+        {
+          "type": "text",
+          "text": "**ひゃく**"
+        },
+        {
+          "type": "text",
+          "text": "100"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{千|せん}"
+        },
+        {
+          "type": "text",
+          "text": "**せん**"
+        },
+        {
+          "type": "text",
+          "text": "1,000"
+        },
+        {
+          "type": "text",
+          "text": "This gives us an important progression:"
+        },
+        {
+          "type": "text",
+          "text": "**{十|じゅう} → {百|ひゃく} → {千|せん}**"
+        },
+        {
+          "type": "text",
+          "text": "10 → 100 → 1,000"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_百",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_千",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "万",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Now we reach a very important Japanese number concept."
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{万|まん}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "まん"
+        },
+        {
+          "type": "text",
+          "text": "**man**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "ten thousand"
+        },
+        {
+          "type": "text",
+          "text": "Japanese groups large numbers around **10,000**, rather than 1,000 as English commonly does."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一万|いちまん}"
+        },
+        {
+          "type": "text",
+          "text": "**いちまん**"
+        },
+        {
+          "type": "text",
+          "text": "10,000"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二万|にまん}"
+        },
+        {
+          "type": "text",
+          "text": "**にまん**"
+        },
+        {
+          "type": "text",
+          "text": "20,000"
+        },
+        {
+          "type": "text",
+          "text": "This is extremely important when reading Japanese prices."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_万",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "円",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{円|えん}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "えん"
+        },
+        {
+          "type": "text",
+          "text": "**en**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "yen"
+        },
+        {
+          "type": "text",
+          "text": "This is the currency of Japan."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{百円|ひゃくえん}"
+        },
+        {
+          "type": "text",
+          "text": "**ひゃくえん**"
+        },
+        {
+          "type": "text",
+          "text": "100 yen"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{千円|せんえん}"
+        },
+        {
+          "type": "text",
+          "text": "**せんえん**"
+        },
+        {
+          "type": "text",
+          "text": "1,000 yen"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一万円|いちまんえん}"
+        },
+        {
+          "type": "text",
+          "text": "**いちまんえん**"
+        },
+        {
+          "type": "text",
+          "text": "10,000 yen"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_円",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "Important Number Changes",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Some number combinations change pronunciation."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三百|さんびゃく}"
+        },
+        {
+          "type": "text",
+          "text": "**さんびゃく**"
+        },
+        {
+          "type": "text",
+          "text": "300"
+        },
+        {
+          "type": "text",
+          "text": "not *san-hyaku*"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{六百|ろっぴゃく}"
+        },
+        {
+          "type": "text",
+          "text": "**ろっぴゃく**"
+        },
+        {
+          "type": "text",
+          "text": "600"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{八百|はっぴゃく}"
+        },
+        {
+          "type": "text",
+          "text": "**はっぴゃく**"
+        },
+        {
+          "type": "text",
+          "text": "800"
+        },
+        {
+          "type": "text",
+          "text": "And:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三千|さんぜん}"
+        },
+        {
+          "type": "text",
+          "text": "**さんぜん**"
+        },
+        {
+          "type": "text",
+          "text": "3,000"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{八千|はっせん}"
+        },
+        {
+          "type": "text",
+          "text": "**はっせん**"
+        },
+        {
+          "type": "text",
+          "text": "8,000"
+        },
+        {
+          "type": "text",
+          "text": "These changes are called sound changes."
+        },
+        {
+          "type": "text",
+          "text": "Don't try to invent the pronunciation."
+        },
+        {
+          "type": "text",
+          "text": "Learn these common forms as units."
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "Shopping",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "これはいくらですか。"
+        },
+        {
+          "type": "text",
+          "text": "**これは いくらですか。**"
+        },
+        {
+          "type": "text",
+          "text": "**Kore wa ikura desu ka?**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "How much is this?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{百円|ひゃくえん}です。"
+        },
+        {
+          "type": "text",
+          "text": "**ひゃくえんです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Hyaku-en desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "It's 100 yen."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_chitose_price_question"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_chitose_price"
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "The Question Particle か",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You already know:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "これは{百円|ひゃくえん}です。"
+        },
+        {
+          "type": "text",
+          "text": "This is 100 yen."
+        },
+        {
+          "type": "text",
+          "text": "Add:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "か"
+        },
+        {
+          "type": "text",
+          "text": "and it becomes:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "これは{百円|ひゃくえん}ですか。"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Is this 100 yen?"
+        },
+        {
+          "type": "text",
+          "text": "Japanese uses **か** to mark a basic question."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_ka"
+        }
+      ]
+    },
+    {
+      "id": "card_08",
+      "title": "Chitose Example",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{千歳|ちとせ}は{北海道|ほっかいどう}の{町|まち}です。"
+        },
+        {
+          "type": "text",
+          "text": "**ちとせは ほっかいどうの まちです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Chitose wa Hokkaidō no machi desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Chitose is a city in Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "Now:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{千|せん}"
+        },
+        {
+          "type": "text",
+          "text": "thousand"
+        },
+        {
+          "type": "text",
+          "text": "is no longer just a number."
+        },
+        {
+          "type": "text",
+          "text": "You will start seeing it inside real Japanese words."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_chitose_location"
+        }
+      ]
+    },
+    {
+      "id": "card_09",
+      "title": "Mini Question",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Which means **10,000 yen**?"
+        },
+        {
+          "type": "text",
+          "text": "A. {千円|せんえん}\nB. {百円|ひゃくえん}\nC. {一万円|いちまんえん}\nD. {十円|じゅうえん}"
+        },
+        {
+          "type": "text",
+          "text": "Answer:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "C — {一万円|いちまんえん}"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "{千歳|ちとせ} — ちとせ — Chitose"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "{千|せん} — せん — thousand\n歳 — さい — age / years\n{百|ひゃく} — ひゃく — hundred\n{万|まん} — まん — ten thousand\n{円|えん} — えん — yen"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Number landmarks"
+        },
+        {
+          "type": "text",
+          "text": "{十|じゅう} — 10\n{百|ひゃく} — 100\n{千|せん} — 1,000\n{一万|いちまん} — 10,000"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "いくら — how much\nこれ — this\n{お金|おかね} — money\n{円|えん} — yen"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "**〜ですか。**"
+        },
+        {
+          "type": "text",
+          "text": "basic question"
+        }
+      ]
+    }
+  ],
+  "goal": "Learn 千・歳 Learn 100, 1,000 and 10,000 Introduce 百・千・万・円 Learn basic prices Ask 「いくらですか」 Use numbers in shopping situations",
+  "estimatedMinutes": 20,
+  "coreKanji": [
+    "kanji_百",
+    "kanji_千",
+    "kanji_万",
+    "kanji_円"
+  ],
+  "completion": {
+    "title": "Chitose complete",
+    "nextText": "Next: Otaru",
+    "nextChapter": "hokkaido/otaru"
+  }
+}

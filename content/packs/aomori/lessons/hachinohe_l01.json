@@ -1,0 +1,493 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "hachinohe_l01",
+  "number": 3,
+  "title": "Hachinohe — 八戸",
+  "goal": "Understand a coastal shopping scene, count simple items and people, and recognise entrance/exit words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_魚",
+    "kanji_口",
+    "kanji_入",
+    "kanji_出"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_七",
+    "kanji_三",
+    "kanji_九",
+    "kanji_二",
+    "kanji_五",
+    "kanji_人",
+    "kanji_何",
+    "kanji_八",
+    "kanji_六",
+    "kanji_円",
+    "kanji_函",
+    "kanji_十",
+    "kanji_四",
+    "kanji_店",
+    "kanji_戸",
+    "kanji_海",
+    "kanji_百",
+    "kanji_買",
+    "kanji_食"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "At the Coast",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "八戸",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "はちのへ — Hachinohe"
+        },
+        {
+          "type": "text",
+          "text": "Hachinohe is on Aomori's Pacific coast and is associated with seafood, coastal scenery, and markets. This is a useful place to connect **海**, which you met on the very first Hokkaido lesson, with **魚**, which we will study today."
+        },
+        {
+          "type": "text",
+          "text": "**八戸で魚を食べます。**\nはちのへで さかなを たべます。\nI eat fish in Hachinohe."
+        },
+        {
+          "type": "text",
+          "text": "Identify the place, the object, and the action. Only the fish word and city name are new. Do not treat the entire sentence as an unrelated string to memorise."
+        }
+      ]
+    },
+    {
+      "id": "inside_hachinohe",
+      "title": "Inside 八戸",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Kanji:** 八 · **Useful meaning/readings:** eight; はち · **Radical/components:** Radical 八, はち. Two spreading strokes · **Learning role:** Review from Hakodate. The character is its own indexing radical; it is not two separate tree branches.",
+            "**Kanji:** 戸 · **Useful meaning/readings:** door; と; on コ · **Radical/components:** Radical 戸, と. The modern shape can be recognised as a top horizontal and door-like body · **Learning role:** Encounter. Its historical connection is a single door leaf; the entire shape is the useful clue."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Together: **八戸 / はちのへ**. The の is part of the place name's reading, not the noun-connecting particle written between 八 and 戸. 戸 is read へ in this name; the ordinary door word is 戸 / と."
+        },
+        {
+          "type": "text",
+          "text": "Do not claim that the city name simply means “eight doors.” We are explaining its characters, not researching the historical naming system in this lesson."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_八",
+            "kanji_戸"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_to"
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c03",
+      "title": "魚: A New Word Connected to 海",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**魚** — さかな — fish; common on reading ギョ."
+        },
+        {
+          "type": "text",
+          "text": "魚 is also its own radical, うお/さかな. The modern character contains a top section, a 田-like body, and four bottom dots **灬**. Its historical shape represents a fish. The bottom dots are not a reason to say every 魚 character is about fire."
+        },
+        {
+          "type": "text",
+          "text": "**海に魚がいます。**\nうみに さかなが います。\nThere are fish in the sea."
+        },
+        {
+          "type": "text",
+          "text": "A living fish uses **います**. A prepared fish served as food is the object of **食べます**. The word is the same, but the context and grammar differ."
+        },
+        {
+          "type": "text",
+          "text": "**魚を買います。**\nさかなを かいます。\nI buy fish."
+        },
+        {
+          "type": "text",
+          "text": "The kanji/word connects to nature, shopping, and food. That is the kind of connected knowledge our Journey builds."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c04",
+      "title": "口: A Mouth and an Opening",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**口** — くち — mouth; on コウ."
+        },
+        {
+          "type": "text",
+          "text": "口 is its own radical, くち. Its enclosed shape is a useful recognition cue. We do not need to split it into meaningless independent lines."
+        },
+        {
+          "type": "text",
+          "text": "It also appears in opening/entrance words:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**入り口** — いりぐち — entrance.",
+            "**出口** — でぐち — exit."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "In these words, くち becomes **ぐち**. This is another sound change to learn with the whole word, just as 百 had special forms in Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "The word mouth and the idea of an opening are connected, but “exit” cannot be guessed from 口 alone. Look at the other character and learn the compound."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c05",
+      "title": "入 and 出: Enter and Leave",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Word:** 入る · **Reading:** はいる · **Polite form:** 入ります / はいります · **Meaning:** enter",
+            "**Word:** 出る · **Reading:** でる · **Polite form:** 出ます / でます · **Meaning:** leave; go out"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**入** is its own radical, いる. Its two strokes are a recognition shape, not the same character as 人 or 八."
+        },
+        {
+          "type": "text",
+          "text": "**出** is indexed under **凵**, うけばこ, an open-box-shaped radical you encountered with 函. Its modern stacked shape can remind you of movement outward; do not label it “two mountains” as a historical definition."
+        },
+        {
+          "type": "text",
+          "text": "**店に入ります。**\nみせに はいります。\nI enter the shop."
+        },
+        {
+          "type": "text",
+          "text": "**店を出ます。**\nみせを でます。\nI leave the shop."
+        },
+        {
+          "type": "text",
+          "text": "Here を marks the place being left, rather than a thing being eaten or bought. This is a small new use in a fixed, useful expression. Do not generalise it to every verb of movement."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c06",
+      "title": "General Item Counting",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You know the written numbers. Now learn the common **〜つ** forms used for many ordinary items:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Count:** 一つ · **Reading:** ひとつ · **Count:** 六つ · **Reading:** むっつ",
+            "**Count:** 二つ · **Reading:** ふたつ · **Count:** 七つ · **Reading:** ななつ",
+            "**Count:** 三つ · **Reading:** みっつ · **Count:** 八つ · **Reading:** やっつ",
+            "**Count:** 四つ · **Reading:** よっつ · **Count:** 九つ · **Reading:** ここのつ",
+            "**Count:** 五つ · **Reading:** いつつ · **Count:** 十 · **Reading:** とお"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The tenth form is **とお**, without つ. These are different from ordinary いち・に・さん counting."
+        },
+        {
+          "type": "text",
+          "text": "**りんごを二つ買います。**\nりんごを ふたつ かいます。\nI buy two apples."
+        },
+        {
+          "type": "text",
+          "text": "りんごを names the object; 二つ gives the number of items; 買います gives the action. This is a useful general counter, not a promise that Japanese uses 〜つ for everything. Special counters for bottles, books, animals, and other categories will come later."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c07",
+      "title": "Ask How Many Items",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**いくつ** — how many, for the general item counter."
+        },
+        {
+          "type": "text",
+          "text": "**りんごをいくつ買いますか。**\nりんごを いくつ かいますか。\nHow many apples will you buy?"
+        },
+        {
+          "type": "text",
+          "text": "**三つ買います。**\nみっつ かいます。\nI will buy three."
+        },
+        {
+          "type": "text",
+          "text": "Contrast **いくら** = how much money with **いくつ** = how many items."
+        },
+        {
+          "type": "text",
+          "text": "A practice note says: **りんご二つ、二百円。**\nりんご ふたつ、にひゃくえん。\nTwo apples, 200 yen."
+        },
+        {
+          "type": "text",
+          "text": "The count is 二つ; the price is 二百円. They are different kinds of information. The price is a fictional total in our exercise, not a rule about apple pricing."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c08",
+      "title": "People Use 人",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**People:** 一人 · **Reading:** ひとり",
+            "**People:** 二人 · **Reading:** ふたり",
+            "**People:** 三人 · **Reading:** さんにん",
+            "**People:** 何人 · **Reading:** なんにん — how many people?"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The first two are special. Do not read 一人 as いちにん or 二人 as ににん in this ordinary counting use."
+        },
+        {
+          "type": "text",
+          "text": "**店に二人います。**\nみせに ふたり います。\nThere are two people in the shop."
+        },
+        {
+          "type": "text",
+          "text": "**何人いますか。**\nなんにん いますか。\nHow many people are there?"
+        },
+        {
+          "type": "text",
+          "text": "Hokkaido taught 人 as a person and showed 三人. We are now adding the irregular first two forms. The counting word already refers to people, so the first sentence does not need another 人 noun."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c09",
+      "title": "どれ and どの Ask “Which?”",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**どれ** stands alone: which one?\n**どの + noun** asks which specific noun."
+        },
+        {
+          "type": "text",
+          "text": "**どれですか。** — どれですか。 — Which one is it?\n**どのりんごですか。** — どの りんごですか。 — Which apple is it?"
+        },
+        {
+          "type": "text",
+          "text": "**Learner:** どのりんごですか。\nWhich apple?\n**Guide:** このりんごです。\nThis apple."
+        },
+        {
+          "type": "text",
+          "text": "The choice is among visible apples in our practice scene. Both the question and answer use a modifier followed by its noun. Compare **どれですか → これです** when no noun is spoken."
+        },
+        {
+          "type": "text",
+          "text": "Do not add a noun directly after どれ: “どれりんご” is not the pattern we want."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c10",
+      "title": "The Food Scene",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A shopkeeper may welcome a customer with **いらっしゃいませ**. You can recognise it without being expected to use it as a customer."
+        },
+        {
+          "type": "text",
+          "text": "Before eating, **いただきます** is a useful customary phrase. After a meal, **ごちそうさまでした** expresses appreciation. They do not translate word-for-word into a single English eating verb."
+        },
+        {
+          "type": "text",
+          "text": "Our fictional account:"
+        },
+        {
+          "type": "text",
+          "text": "**店に入りました。魚を食べました。店を出ました。**\nみせに はいりました。さかなを たべました。みせを でました。\nI entered the shop. I ate fish. I left the shop."
+        },
+        {
+          "type": "text",
+          "text": "The past ending is familiar. Recognise 入・食・出 as the same characters even when their kana endings change."
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c11",
+      "title": "Practice: Counters and Signs",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 二つ: につ / ふたつ / ふたり.",
+            "Read 二人: ににん / ふたつ / ふたり.",
+            "Choose “exit”: 入り口 / 出口 / 店.",
+            "Complete “Which shop?”: ＿＿店ですか。 どれ / どの / これ."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Answers:** 1 ふたつ: two items. 2 ふたり: two people. 3 出口. 4 どの: it needs the noun 店."
+        },
+        {
+          "type": "text",
+          "text": "Build **店に二人います。** Then change the number to 一人. Do you remember the special reading? **店に一人います。** — みせに ひとり います。"
+        }
+      ]
+    },
+    {
+      "id": "hachinohe_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Location:** 八戸 — はちのへ. 八 is review; 戸 is an encounter.",
+            "**Fish:** 魚 = さかな; living fish use います.",
+            "**Signs:** 入り口 = いりぐち; 出口 = でぐち; 口 changes to ぐち.",
+            "**Movement:** 店に入ります; 店を出ます.",
+            "**Items:** 一つ〜九つ, then 十 / とお. いくつ asks how many items.",
+            "**People:** 一人 / ひとり; 二人 / ふたり; 三人 / さんにん.",
+            "**Which?:** どれ stands alone; どの needs a noun.",
+            "**Courtesy:** いらっしゃいませ is the welcome; いただきます before eating; ごちそうさまでした after eating.",
+            "**Review link:** 海 → 魚 → 食; 八 → 八つ; 凵 in 函 and the indexing of 出."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Aomori's three location lessons are complete. Continue to the Aomori Reading Journey and test before Iwate.**"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_魚",
+            "kanji_口",
+            "kanji_入",
+            "kanji_出"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_八戸"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_入り口"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_出口"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一つ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_八つ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_九つ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いくつ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_三人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_どれ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_どの"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いらっしゃいませ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いただきます"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_ごちそうさまでした"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Hachinohe complete",
+    "nextText": "Next: Aomori Reading Journey"
+  }
+}

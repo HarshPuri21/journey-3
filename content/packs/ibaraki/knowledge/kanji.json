@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_年",
+      "char": "年",
+      "meanings": [
+        "year"
+      ],
+      "onyomi": [
+        "ネン"
+      ],
+      "kunyomi": [
+        "とし"
+      ],
+      "components": [
+        {
+          "radical": "radical_kan",
+          "role": "classifier",
+          "note": "干 indexing family; crossing modern strokes make a whole character. Learn 今年 / ことし as a whole word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "干 indexing family; crossing modern strokes make a whole character. Learn 今年 / ことし as a whole word."
+    },
+    {
+      "id": "kanji_筑",
+      "char": "筑",
+      "meanings": [
+        "traditional instrument"
+      ],
+      "onyomi": [
+        "チク"
+      ],
+      "kunyomi": [
+        "つく"
+      ],
+      "components": [
+        {
+          "radical": "radical_take",
+          "role": "classifier",
+          "note": "竹 top above 巩, recognisable as 工 plus 凡-like material. Related 筑波; current city label remains つくば."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "竹 top above 巩, recognisable as 工 plus 凡-like material. Related 筑波; current city label remains つくば."
+    },
+    {
+      "id": "kanji_波",
+      "char": "波",
+      "meanings": [
+        "wave"
+      ],
+      "onyomi": [
+        "ハ"
+      ],
+      "kunyomi": [
+        "なみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "classifier",
+          "note": "氵 beside 皮, a historical sound component. Related 筑波 / つくば is a whole place word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "氵 beside 皮, a historical sound component. Related 筑波 / つくば is a whole place word."
+    },
+    {
+      "id": "kanji_西",
+      "char": "西",
+      "meanings": [
+        "west"
+      ],
+      "onyomi": [
+        "セイ",
+        "サイ"
+      ],
+      "kunyomi": [
+        "にし"
+      ],
+      "components": [
+        {
+          "radical": "radical_nishi",
+          "role": "classifier",
+          "note": "Whole 西 radical; contrast 酉 in 酒. 西口 / にしぐち is the station-exit word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 西 radical; contrast 酉 in 酒. 西口 / にしぐち is the station-exit word."
+    },
+    {
+      "id": "kanji_立",
+      "char": "立",
+      "meanings": [
+        "stand"
+      ],
+      "onyomi": [
+        "リツ"
+      ],
+      "kunyomi": [
+        "た"
+      ],
+      "components": [
+        {
+          "radical": "radical_tatsu",
+          "role": "classifier",
+          "note": "Whole standing-derived form. Encounter in 日立 before formal instruction at Kashima."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole standing-derived form. Encounter in 日立 before formal instruction at Kashima."
+    },
+    {
+      "id": "kanji_待",
+      "char": "待",
+      "meanings": [
+        "wait"
+      ],
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "ま"
+      ],
+      "components": [
+        {
+          "radical": "radical_gyouninben",
+          "role": "classifier",
+          "note": "彳 beside 寺, historical sound material; compare 持 and person radical 亻."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "彳 beside 寺, historical sound material; compare 持 and person radical 亻."
+    },
+    {
+      "id": "kanji_作",
+      "char": "作",
+      "meanings": [
+        "make"
+      ],
+      "onyomi": [
+        "サク",
+        "サ"
+      ],
+      "kunyomi": [
+        "つく"
+      ],
+      "components": [
+        {
+          "radical": "radical_ninben",
+          "role": "classifier",
+          "note": "亻 beside 乍, sound-related material. 作る / つくる and 作文 / さくぶん are taught words."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "亻 beside 乍, sound-related material. 作る / つくる and 作文 / さくぶん are taught words."
+    },
+    {
+      "id": "kanji_鹿",
+      "char": "鹿",
+      "meanings": [
+        "deer"
+      ],
+      "onyomi": [
+        "ロク"
+      ],
+      "kunyomi": [
+        "しか"
+      ],
+      "components": [
+        {
+          "radical": "radical_shika",
+          "role": "classifier",
+          "note": "Whole 鹿 radical; modern 广-like top and 比-like lower shapes. The learned name 鹿嶋 uses か."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 鹿 radical; modern 广-like top and 比-like lower shapes. The learned name 鹿嶋 uses か."
+    },
+    {
+      "id": "kanji_嶋",
+      "char": "嶋",
+      "meanings": [
+        "island"
+      ],
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "しま"
+      ],
+      "components": [
+        {
+          "radical": "radical_yama",
+          "role": "classifier",
+          "note": "山 beside 鳥. Distinguish the city 鹿嶋 from shrine 鹿島神宮 and related 島."
+        },
+        {
+          "radical": "radical_tori",
+          "role": "shape",
+          "note": "山 beside 鳥. Distinguish the city 鹿嶋 from shrine 鹿島神宮 and related 島."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_島"
+      ],
+      "notes": "山 beside 鳥. Distinguish the city 鹿嶋 from shrine 鹿島神宮 and related 島."
+    },
+    {
+      "id": "kanji_笠",
+      "char": "笠",
+      "meanings": [
+        "woven hat"
+      ],
+      "onyomi": [
+        "リュウ"
+      ],
+      "kunyomi": [
+        "かさ"
+      ],
+      "components": [
+        {
+          "radical": "radical_take",
+          "role": "classifier",
+          "note": "竹 top above 立, historical sound component. 笠間 / かさま is a whole name; hat 笠 differs from umbrella 傘."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_立"
+      ],
+      "notes": "竹 top above 立, historical sound component. 笠間 / かさま is a whole name; hat 笠 differs from umbrella 傘."
+    },
+    {
+      "id": "kanji_皿",
+      "char": "皿",
+      "meanings": [
+        "plate",
+        "dish"
+      ],
+      "onyomi": [
+        "ベイ"
+      ],
+      "kunyomi": [
+        "さら"
+      ],
+      "components": [
+        {
+          "radical": "radical_sara",
+          "role": "classifier",
+          "note": "Whole dish-derived 皿 radical. お皿 is the same noun with a common polite prefix."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole dish-derived 皿 radical. お皿 is the same noun with a common polite prefix."
+    },
+    {
+      "id": "kanji_碗",
+      "char": "碗",
+      "meanings": [
+        "bowl"
+      ],
+      "onyomi": [
+        "ワン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_ishi",
+          "role": "classifier",
+          "note": "石 beside 宛; assisted whole 茶碗 / ちゃわん."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "石 beside 宛; assisted whole 茶碗 / ちゃわん."
+    },
+    {
+      "id": "kanji_方",
+      "char": "方",
+      "meanings": [
+        "way",
+        "direction"
+      ],
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [
+        "かた"
+      ],
+      "components": [
+        {
+          "radical": "radical_hou",
+          "role": "classifier",
+          "note": "Whole 方 radical. Assisted 使い方 / つかいかた is a whole way-of-using word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 方 radical. Assisted 使い方 / つかいかた is a whole way-of-using word."
+    },
+    {
+      "id": "kanji_去",
+      "char": "去",
+      "meanings": [
+        "past",
+        "leave"
+      ],
+      "onyomi": [
+        "キョ",
+        "コ"
+      ],
+      "kunyomi": [
+        "さ"
+      ],
+      "components": [
+        {
+          "radical": "radical_tsuchi",
+          "role": "classifier",
+          "note": "土 above 厶-like lower strokes; assisted 去年 / きょねん."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "土 above 厶-like lower strokes; assisted 去年 / きょねん."
+    },
+    {
+      "id": "kanji_神",
+      "char": "神",
+      "meanings": [
+        "deity",
+        "shrine-related"
+      ],
+      "onyomi": [
+        "シン",
+        "ジン"
+      ],
+      "kunyomi": [
+        "かみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_shimesuhen",
+          "role": "classifier",
+          "note": "示 side form 礻 beside 申; assisted in 鹿島神宮 and 神社."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "示 side form 礻 beside 申; assisted in 鹿島神宮 and 神社."
+    },
+    {
+      "id": "kanji_社",
+      "char": "社",
+      "meanings": [
+        "shrine",
+        "company"
+      ],
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "やしろ"
+      ],
+      "components": [
+        {
+          "radical": "radical_shimesuhen",
+          "role": "classifier",
+          "note": "礻 beside 土; assisted whole 神社 / じんじゃ."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "礻 beside 土; assisted whole 神社 / じんじゃ."
+    },
+    {
+      "id": "kanji_京",
+      "char": "京",
+      "meanings": [
+        "capital"
+      ],
+      "onyomi": [
+        "キョウ",
+        "ケイ"
+      ],
+      "kunyomi": [
+        "みやこ"
+      ],
+      "components": [
+        {
+          "radical": "radical_nabebuta",
+          "role": "classifier",
+          "note": "亠 at the top, 口 and small lower strokes; selected 亠. Assisted 東京 / とうきょう stays a whole word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "亠 at the top, 口 and small lower strokes; selected 亠. Assisted 東京 / とうきょう stays a whole word."
+    },
+    {
+      "id": "kanji_兄",
+      "char": "兄",
+      "meanings": [
+        "older brother"
+      ],
+      "onyomi": [
+        "ケイ",
+        "キョウ"
+      ],
+      "kunyomi": [
+        "あに"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitoashi",
+          "role": "classifier",
+          "note": "口 above 儿; previewed at Ibaraki's end, formally studied in Utsunomiya. Own-family 兄 / あに; polite お兄さん / おにいさん."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "口 above 儿; previewed at Ibaraki's end, formally studied in Utsunomiya. Own-family 兄 / あに; polite お兄さん / おにいさん."
+    },
+    {
+      "id": "kanji_栃",
+      "char": "栃",
+      "meanings": [
+        "Japanese horse-chestnut"
+      ],
+      "onyomi": [
+        "トチ"
+      ],
+      "kunyomi": [
+        "とち"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 beside 厉-shaped section (厂 above 万). The consulted source does not claim a certain detailed origin. Previewed 栃木 / とちぎ."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "木 beside 厉-shaped section (厂 above 万). The consulted source does not claim a certain detailed origin. Previewed 栃木 / とちぎ."
+    },
+    {
+      "id": "kanji_傘",
+      "char": "傘",
+      "meanings": [
+        "umbrella"
+      ],
+      "onyomi": [
+        "サン"
+      ],
+      "kunyomi": [
+        "かさ"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitoyane",
+          "role": "classifier",
+          "note": "Person-shaped top above a layered structure; assisted contrast with hat 笠, not a formal assignment."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Person-shaped top above a layered structure; assisted contrast with hat 笠, not a formal assignment."
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "aomori_l01",
+  "number": 1,
+  "title": "Aomori — 青森",
+  "goal": "Connect a familiar place name to trees, food, and a small shopping conversation.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_青",
+    "kanji_森",
+    "kanji_林",
+    "kanji_食",
+    "kanji_店",
+    "kanji_買"
+  ],
+  "encounterKanji": [
+    "kanji_人",
+    "kanji_円",
+    "kanji_前",
+    "kanji_小",
+    "kanji_弘",
+    "kanji_月",
+    "kanji_木",
+    "kanji_札",
+    "kanji_樽",
+    "kanji_水",
+    "kanji_百",
+    "kanji_美",
+    "kanji_行",
+    "kanji_館"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A New Prefecture, a Familiar Name",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "青森",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "あおもり — Aomori"
+        },
+        {
+          "type": "text",
+          "text": "At the end of Hokkaido, you read “Next is Aomori.” Now the place on that final reading card becomes our next destination. Aomori is both the name of a prefecture and the name of its capital city. In this lesson, 青森 means the city unless we say “Aomori Prefecture.”"
+        },
+        {
+          "type": "text",
+          "text": "Aomori City's Nebuta Festival uses large illuminated floats. Apples are also an important part of Aomori Prefecture's food identity. We will borrow the apple-shop setting for language practice, without needing festival dates or complicated food kanji."
+        },
+        {
+          "type": "text",
+          "text": "You already know how a lesson works. Today we use that foundation rather than starting the explanation of kanji again."
+        }
+      ]
+    },
+    {
+      "id": "inside_aomori",
+      "title": "Inside 青森",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Kanji:** 青 · **Useful meaning/reading:** blue; あお, 青い = あおい; common on reading セイ · **Radical and visible parts:** Radical 青, あお. Modern upper shape 龶 and lower 月-shaped section · **What the parts tell us:** These are recognition shapes. The lower shape is **not a reason to interpret 青 as “moon.”** Historical formation is more complicated.",
+            "**Kanji:** 森 · **Useful meaning/reading:** forest; もり; on シン · **Radical and visible parts:** Radical 木, き. Three 木 components · **What the parts tell us:** Repeated trees give a direct connection to a wooded place."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**青 + 森 → 青森 / あおもり.** Learn the complete place name. Breaking its spelling into “blue/green” and “forest” is a character reading exercise, not an account of how the city got its name."
+        },
+        {
+          "type": "text",
+          "text": "Our first useful graph connection is **木 → 林 → 森**. The component you met in 札 and 樽 can now help you recognise an entire family of tree characters."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_青",
+            "kanji_森"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ao"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ki"
+        }
+      ]
+    },
+    {
+      "id": "aomori_c03",
+      "title": "One Tree, Two Trees, Three Trees",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character/word:** 木 · **Reading:** き · **Meaning:** tree; wood",
+            "**Character/word:** 林 · **Reading:** はやし · **Meaning:** grove; woods",
+            "**Character/word:** 森 · **Reading:** もり · **Meaning:** forest",
+            "**Character/word:** 森林 · **Reading:** しんりん · **Meaning:** forest; woodland"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "林 contains two 木 shapes; 森 contains three. This is a helpful pattern, not a numerical rule for how many actual trees make a forest."
+        },
+        {
+          "type": "text",
+          "text": "**森に木があります。**\nもりに きが あります。\nThere are trees in the forest."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown: 森に = in the forest; 木が = trees, the subject; あります = exist. Japanese does not need a plural ending on 木 here. We are reusing the existence pattern from Hokkaido."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c04",
+      "title": "青い Is a Whole Word",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**青い** — あおい — blue."
+        },
+        {
+          "type": "text",
+          "text": "青 is the kanji; the final い belongs to the adjective. This is the same kind of kanji-plus-ending pattern you saw in 小さい and 美しい."
+        },
+        {
+          "type": "text",
+          "text": "**これは青いりんごです。**\nこれは あおい りんごです。\nThis is a green apple."
+        },
+        {
+          "type": "text",
+          "text": "Why does “blue” appear in a sentence translated “green apple”? 青 also appears in established Japanese expressions referring to things English calls green. Learn **青いりんご** as an expression; do not conclude that 青い can replace every ordinary Japanese word for green."
+        },
+        {
+          "type": "text",
+          "text": "りんご means apple. We use its kana spelling. You do not need to learn the difficult spelling 林檎 because 林 has appeared today."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c05",
+      "title": "食: From a Character to an Action",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**食べる** — たべる — to eat.\n**食べます** — たべます — eat / will eat."
+        },
+        {
+          "type": "text",
+          "text": "食 is also the food/eating radical, しょく. You met this component inside 館 in Hakodate. Here it becomes a formally studied character in a common verb."
+        },
+        {
+          "type": "text",
+          "text": "The modern 食 shape has several smaller strokes, including a top 人-like shape. Recognise the whole food component first; adding the ordinary meanings of its visible pieces will not reliably explain the character."
+        },
+        {
+          "type": "text",
+          "text": "**りんごを食べます。**\nりんごを たべます。\nI eat / will eat an apple."
+        },
+        {
+          "type": "text",
+          "text": "を identifies what is eaten. The verb's ending changes, while 食 remains recognisable: 食べません = do not eat; 食べました = ate; 食べませんでした = did not eat. Reuse the four polite endings from Noboribetsu."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c06",
+      "title": "店: A Place to Buy Something",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**店 / お店** — みせ / おみせ — shop."
+        },
+        {
+          "type": "text",
+          "text": "店 contains **广**, まだれ, as its radical, and **占** beneath it. The shelter/building shape gives a useful place-related clue; 占 is associated with the historical sound structure. Do not read the word みせ by adding the readings of the parts."
+        },
+        {
+          "type": "text",
+          "text": "**店でりんごを食べます。**\nみせで りんごを たべます。\nI eat an apple at the shop."
+        },
+        {
+          "type": "text",
+          "text": "Compare **店に行きます** (go to the shop) with **店で食べます** (eat at the shop). This revisits Hokkaido's に-versus-で distinction in a new situation."
+        },
+        {
+          "type": "text",
+          "text": "お in お店 is a common polite prefix. 店 is still the same word. You can understand either form without treating the prefix as a new kanji."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c07",
+      "title": "買: Buying",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**買う** — かう — to buy.\n**買います** — かいます — buy / will buy."
+        },
+        {
+          "type": "text",
+          "text": "The indexing radical of 買 is **貝**, かい, shell. Its upper **罒** is a net-shaped component. Shells have a historical connection with value and exchange, making 貝 a useful money-related clue in many characters. That clue does not tell us the reading かう."
+        },
+        {
+          "type": "text",
+          "text": "**りんごを買います。**\nりんごを かいます。\nI buy / will buy an apple."
+        },
+        {
+          "type": "text",
+          "text": "**りんごを買いません。**\nりんごを かいません。\nI do not buy / will not buy an apple."
+        },
+        {
+          "type": "text",
+          "text": "The object marker remains を. 買う and 食べる are different verb types, so learn their polite forms as words. We are not introducing a rule that every dictionary ending can be replaced with ます directly."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c08",
+      "title": "この / その / あの Need a Noun",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You know **これ / それ / あれ**, which can stand alone. These new forms point to a noun:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Standalone:** これ — this · **Before a noun:** この + noun · **Example:** このりんご — this apple",
+            "**Standalone:** それ — that near the listener · **Before a noun:** その + noun · **Example:** そのりんご — that apple",
+            "**Standalone:** あれ — that over there · **Before a noun:** あの + noun · **Example:** あの店 — that shop over there"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**このりんごは百円です。**\nこの りんごは ひゃくえんです。\nThis apple is 100 yen."
+        },
+        {
+          "type": "text",
+          "text": "Compare **これは百円です** (this is 100 yen) with **このりんごは百円です** (this apple is 100 yen). Do not say “これりんご.” The noun after この completes the expression."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c09",
+      "title": "と Joins Nouns",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**りんごと水** — りんごと みず — apples and water."
+        },
+        {
+          "type": "text",
+          "text": "**この店でりんごと水を買います。**\nこの みせで りんごと みずを かいます。\nI buy apples and water at this shop."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown: この店で = at this shop; りんごと水を = apples and water, the things bought; 買います = buy. The single を applies to the joined list."
+        },
+        {
+          "type": "text",
+          "text": "Today と joins named items. It does not mean that any two whole sentences can be connected simply by placing と between them. Later in Hanamaki, we will reuse と with a different role: doing something **with** a friend."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c10",
+      "title": "A Small Shop Conversation",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**Learner:** すみません。このりんごはいくらですか。\nすみません。この りんごは いくらですか。\nExcuse me. How much is this apple?"
+        },
+        {
+          "type": "text",
+          "text": "**Shopkeeper:** 百円です。\nひゃくえんです。\nIt is 100 yen."
+        },
+        {
+          "type": "text",
+          "text": "**Learner:** ありがとうございます。\nありがとうございます。\nThank you."
+        },
+        {
+          "type": "text",
+          "text": "すみません can get someone's attention politely. ありがとうございます expresses thanks. In this practice scene, the price is fictional; it is not the current price of an Aomori apple."
+        },
+        {
+          "type": "text",
+          "text": "Notice how much you already knew: いくら, 円, 百, です, か, and the idea of a shop setting. We have made a more useful sentence by adding a small amount of new language."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c11",
+      "title": "Practice: Build the Meaning",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Choose “this apple”: A. これりんご / B. このりんご / C. りんごこの.",
+            "Complete “I buy water”: 水＿＿買います。 A. を / B. に / C. の.",
+            "Does 森 tell you that every word containing 木 is read もり?"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Answers:** 1 B: この needs the noun りんご. 2 A: water is the object of buying. 3 No: a shared component may give a meaning clue, but the word's reading must still be learned."
+        },
+        {
+          "type": "text",
+          "text": "Now say or silently build: **この店でりんごを買います。** — I buy an apple at this shop. If you need help, identify the shop, the item, and the action separately before reading the full sentence again."
+        }
+      ]
+    },
+    {
+      "id": "aomori_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Location:** 青森 — あおもり. City and prefecture share a name.",
+            "**Tree family:** 木 → 林 → 森; 森林 = しんりん.",
+            "**Colour:** 青い = あおい; “green apple” is 青いりんご, an established expression.",
+            "**Words/actions:** 食べる → 食べます; 買う → 買います; 店 = みせ.",
+            "**Grammar:** この/その/あの + noun; noun と noun; object を; action location で.",
+            "**Useful phrase:** すみません。このりんごはいくらですか。",
+            "**Components:** 木 helps with 林/森; 食 connects back to 館; 買 uses 貝; 青's modern lower 月-shaped section is not a moon explanation.",
+            "**Review:** 百円; これは…です; the polite negative/past endings."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Lesson complete. Next location: Hirosaki / 弘前.**"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_青",
+            "kanji_森",
+            "kanji_林",
+            "kanji_食",
+            "kanji_店",
+            "kanji_買"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_これ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_百円"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いくら"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_青森"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_青い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_森林"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_食べる"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_買う"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_りんご"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_この"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_その"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_あの"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_すみません"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_弘前"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Aomori complete",
+    "nextText": "Next: Hirosaki",
+    "nextChapter": "aomori/hirosaki"
+  }
+}

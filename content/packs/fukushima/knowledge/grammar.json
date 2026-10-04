@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_noun_request_kudasai",
+      "title": "A requested noun with ください",
+      "pattern": "N を (count) ください",
+      "explanation": "Please give me the named item, optionally with the already taught item count. This noun request precedes later verb てください teaching."
+    },
+    {
+      "id": "grammar_family_terms_context",
+      "title": "Own-family and polite family terms",
+      "pattern": "父/母 versus お父さん/お母さん",
+      "explanation": "Own-family outside descriptions commonly use 父/母; polite/familiar terms depend on whom one describes or addresses. They are whole words, not universal replacements."
+    },
+    {
+      "id": "grammar_polite_name_question",
+      "title": "Politely ask a name",
+      "pattern": "お名前は何ですか",
+      "explanation": "お marks respect for the person's name in the question. The supplied answer uses 名前はゆきです or 私はゆきです; fit the question to an appropriate introduction context."
+    },
+    {
+      "id": "grammar_language_object_wo",
+      "title": "Language as the spoken object",
+      "pattern": "日本語 を 話します",
+      "explanation": "を marks the spoken language in this model. Distinguish a conversation partner と and language as medium で."
+    },
+    {
+      "id": "grammar_language_medium_de",
+      "title": "Language or channel as a medium",
+      "pattern": "日本語/電話 で 話します",
+      "explanation": "で gives the language used or the phone as means/channel. 日本語を話します is another natural relationship, not an incorrect alternative."
+    },
+    {
+      "id": "grammar_quotation_to",
+      "title": "と after the exact quoted words",
+      "pattern": "「こんにちは」と言います",
+      "explanation": "と marks the quote; に can identify the person addressed. Distinguish quoted words from companion と and noun-list と. Broader plain-form reported statements come later."
+    },
+    {
+      "id": "grammar_zenzen_negative",
+      "title": "全然 with a negative",
+      "pattern": "全然 + negative predicate",
+      "explanation": "The taught beginner pattern means not at all. 話しません describes non-use/habit in the supplied context, not inability."
+    },
+    {
+      "id": "grammar_greetings_written_ha",
+      "title": "Greetings ending in written は",
+      "pattern": "こんにちは / こんばんは",
+      "explanation": "The fixed greetings end in written は, pronounced わ. Use them as whole basic expressions with the taught social context."
+    }
+  ]
+}

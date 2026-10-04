@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_oogai",
+      "char": "頁",
+      "name": "おおがい",
+      "nameRomaji": "oogai",
+      "meanings": [
+        "head; page family"
+      ],
+      "note": "Right component in 須; 彡 on the left is a separate visible component.",
+      "exampleKanji": [
+        "kanji_須"
+      ]
+    },
+    {
+      "id": "radical_nagai",
+      "char": "長",
+      "name": "ながい",
+      "nameRomaji": "nagai",
+      "meanings": [
+        "long"
+      ],
+      "note": "Whole 長 indexing family; it is not an elongated 木.",
+      "exampleKanji": [
+        "kanji_長"
+      ]
+    }
+  ]
+}

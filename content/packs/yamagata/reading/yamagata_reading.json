@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "yamagata_reading",
+  "number": 4,
+  "title": "Yamagata Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_二",
+    "kanji_今",
+    "kanji_休",
+    "kanji_会",
+    "kanji_住",
+    "kanji_元",
+    "kanji_写",
+    "kanji_友",
+    "kanji_場",
+    "kanji_声",
+    "kanji_夜",
+    "kanji_家",
+    "kanji_山",
+    "kanji_岡",
+    "kanji_島",
+    "kanji_帰",
+    "kanji_店",
+    "kanji_形",
+    "kanji_所",
+    "kanji_新",
+    "kanji_日",
+    "kanji_昨",
+    "kanji_晴",
+    "kanji_次",
+    "kanji_気",
+    "kanji_田",
+    "kanji_町",
+    "kanji_白",
+    "kanji_目",
+    "kanji_真",
+    "kanji_福",
+    "kanji_聞",
+    "kanji_行",
+    "kanji_見",
+    "kanji_足",
+    "kanji_車",
+    "kanji_酒",
+    "kanji_雨",
+    "kanji_雪",
+    "kanji_電",
+    "kanji_駅",
+    "kanji_鳥",
+    "kanji_鶴"
+  ],
+  "cards": [
+    {
+      "id": "yamagata_r01",
+      "title": "A weather journal",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{山形|やまがた}に{行|い}きました。",
+          "en": "I went to Yamagata."
+        },
+        {
+          "type": "text",
+          "text": "Kana: やまがたにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{昨日|きのう}は{雨|あめ}でした。",
+          "en": "It was rainy yesterday."
+        },
+        {
+          "type": "text",
+          "text": "Kana: きのうはあめでした。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{今日|きょう}は{晴|は}れです。",
+          "en": "It is clear today."
+        },
+        {
+          "type": "text",
+          "text": "Kana: きょうははれです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "Yesterday/today are relative to this fictional journal. 昨日/晴れ are assisted words, not new formal kanji assignments."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r02",
+      "title": "Snow in a picture",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{写真|しゃしん}は{山|やま}の{写真|しゃしん}です。",
+          "en": "This photograph is a photograph of a mountain."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このしゃしんはやまのしゃしんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{山|やま}に{雪|ゆき}があります。",
+          "en": "There is snow on the mountain."
+        },
+        {
+          "type": "text",
+          "text": "Kana: やまにゆきがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{雪|ゆき}は{白|しろ}いです。",
+          "en": "The snow is white."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ゆきはしろいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The invented mountain picture supplies the context. 雪’s 雨 radical reconnects with 電; 白い is review."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r03",
+      "title": "A reason and a pause",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{日|ひ}は{雨|あめ}です。",
+          "en": "This day is rainy."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このひはあめです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "ですから、{店|みせ}で{休|やす}みます。",
+          "en": "So I rest at a shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ですから、みせでやすみます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは{元気|げんき}です。",
+          "en": "My friend is well/energetic."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちはげんきです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "This is a separately described day, so it does not contradict R01’s clear “today.” ですから gives the reason-to-result connection. 元 is assisted in 元気."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r04",
+      "title": "Seeing and listening in Tsuruoka",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{鶴岡|つるおか}に{行|い}きました。",
+          "en": "I went to Tsuruoka."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つるおかにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{白|しろ}い{鳥|とり}を{見|み}ました。",
+          "en": "I saw a white bird."
+        },
+        {
+          "type": "text",
+          "text": "Kana: しろいとりをみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{鳥|とり}の{声|こえ}を{聞|き}きました。",
+          "en": "I listened to the bird’s call."
+        },
+        {
+          "type": "text",
+          "text": "Kana: とりのこえをききました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "鶴/岡/声 are assisted. The story does not identify the species as a crane merely from the city name."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r05",
+      "title": "Parts of a bird illustration",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{鳥|とり}には{足|あし}が{二|ふた}つあります。",
+          "en": "This bird has two legs."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このとりにはあしがふたつあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{目|め}も{二|ふた}つあります。",
+          "en": "It also has two eyes."
+        },
+        {
+          "type": "text",
+          "text": "Kana: めもふたつあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{鳥|とり}がいます。",
+          "en": "There is a bird."
+        },
+        {
+          "type": "text",
+          "text": "Kana: とりがいます。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The first two describe body parts with あります; the last describes a live bird with います. The clearly supplied illustration avoids a medical/anatomical guessing exercise."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r06",
+      "title": "Asking a friend",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちに{駅|えき}の{場所|ばしょ}を{聞|き}きました。",
+          "en": "I asked a friend about the station’s location."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちにえきのばしょをききました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「{駅|えき}はどこですか。」",
+          "en": "“Where is the station?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「えきはどこですか。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「あそこです。」",
+          "en": "“It is over there.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「あそこです。」"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The quoted questions/replies are direct dialogue, not unintroduced reported-speech grammar. Person に and information を help distinguish asking from listening."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r07",
+      "title": "A house in Sakata",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{酒田|さかた}に{行|い}きました。",
+          "en": "I went to Sakata."
+        },
+        {
+          "type": "text",
+          "text": "Kana: さかたにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "これは{友|とも}だちの{家|いえ}です。",
+          "en": "This is my friend’s house."
+        },
+        {
+          "type": "text",
+          "text": "Kana: これはともだちのいえです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{家|いえ}は{新|あたら}しいです。",
+          "en": "This house is new."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このいえはあたらしいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The house and friend are invented. 家 is いえ in this house description; its home reading うち appears below."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r08",
+      "title": "A current residence",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは{酒田|さかた}に{住|す}んでいます。",
+          "en": "My friend lives in Sakata."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちはさかたにすんでいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「どこに{住|す}んでいますか。」",
+          "en": "“Where do you live?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「どこにすんでいますか。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「この{町|まち}に{住|す}んでいます。」",
+          "en": "“I live in this town.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「このまちにすんでいます。」"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "住んでいます is the explicitly taught current-residence pattern. The で inside 住んで is a verb-form part, not an action-location particle."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r09",
+      "title": "Returning home",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちに{会|あ}いました。",
+          "en": "I met my friend."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちにあいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "そして、{夜|よる}、{家|うち}に{帰|かえ}りました。",
+          "en": "Then I returned home at night."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そして、よる、うちにかえりました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{電車|でんしゃ}で{帰|かえ}りました。",
+          "en": "I returned by train."
+        },
+        {
+          "type": "text",
+          "text": "Kana: でんしゃでかえりました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The narrator visits; the friend resides. 家 is modelled as うち in the home expression; いえ is also a natural reading in this context."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r10",
+      "title": "What this part of the trip taught",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{山形|やまがた}で{山|やま}の{写真|しゃしん}を{見|み}ました。",
+          "en": "I looked at a mountain photograph in Yamagata."
+        },
+        {
+          "type": "text",
+          "text": "Kana: やまがたでやまのしゃしんをみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{鳥|とり}の{声|こえ}も{聞|き}きました。",
+          "en": "I also listened to a bird’s call."
+        },
+        {
+          "type": "text",
+          "text": "Kana: とりのこえもききました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{福島|ふくしま}です。",
+          "en": "Next is Fukushima."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはふくしまです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "This is a summary of the prefecture journey. 福島 is a helped preview; the name does not tell us that the city is an island."
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r11",
+      "title": "Assisted Reading, Then Continuous Rereading",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Pass 1: use the word readings and English assistance. Pass 2: read the same Japanese below, hide translations, and name the place, action, relationship and time/frequency in each passage. Keep furigana available for encounter characters. Pass 3: try the ten reading-comprehension questions; after an error, return to the referenced story card. Do not require unintroduced grammar or rare name readings."
+        },
+        {
+          "type": "text",
+          "text": "**R01.** {山形|やまがた}に{行|い}きました。 {昨日|きのう}は{雨|あめ}でした。 {今日|きょう}は{晴|は}れです。"
+        },
+        {
+          "type": "text",
+          "text": "**R02.** この{写真|しゃしん}は{山|やま}の{写真|しゃしん}です。 {山|やま}に{雪|ゆき}があります。 {雪|ゆき}は{白|しろ}いです。"
+        },
+        {
+          "type": "text",
+          "text": "**R03.** この{日|ひ}は{雨|あめ}です。 ですから、{店|みせ}で{休|やす}みます。 {友|とも}だちは{元気|げんき}です。"
+        },
+        {
+          "type": "text",
+          "text": "**R04.** {鶴岡|つるおか}に{行|い}きました。 {白|しろ}い{鳥|とり}を{見|み}ました。 {鳥|とり}の{声|こえ}を{聞|き}きました。"
+        },
+        {
+          "type": "text",
+          "text": "**R05.** この{鳥|とり}には{足|あし}が{二|ふた}つあります。 {目|め}も{二|ふた}つあります。 {鳥|とり}がいます。"
+        },
+        {
+          "type": "text",
+          "text": "**R06.** {友|とも}だちに{駅|えき}の{場所|ばしょ}を{聞|き}きました。 「{駅|えき}はどこですか。」 「あそこです。」"
+        },
+        {
+          "type": "text",
+          "text": "**R07.** {酒田|さかた}に{行|い}きました。 これは{友|とも}だちの{家|いえ}です。 この{家|いえ}は{新|あたら}しいです。"
+        },
+        {
+          "type": "text",
+          "text": "**R08.** {友|とも}だちは{酒田|さかた}に{住|す}んでいます。 「どこに{住|す}んでいますか。」 「この{町|まち}に{住|す}んでいます。」"
+        },
+        {
+          "type": "text",
+          "text": "**R09.** {友|とも}だちに{会|あ}いました。 そして、{夜|よる}、{家|うち}に{帰|かえ}りました。 {電車|でんしゃ}で{帰|かえ}りました。"
+        },
+        {
+          "type": "text",
+          "text": "**R10.** {山形|やまがた}で{山|やま}の{写真|しゃしん}を{見|み}ました。 {鳥|とり}の{声|こえ}も{聞|き}きました。 {次|つぎ}は{福島|ふくしま}です。"
+        }
+      ]
+    },
+    {
+      "id": "yamagata_r12",
+      "title": "Reading Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Weather nouns and adjectives use different endings. ですから links reason and result. A live bird uses います while its specified body parts can use あります. 聞く can mean listen or ask. Being in a place differs from living there with 住んでいます. 帰る means returning. The next prefecture is Fukushima."
+        },
+        {
+          "type": "text",
+          "text": "**Self-check:** Retell one event using its learned words. Choose one reused component connection. Explain one particle using the sentence, rather than a fixed English gloss. Reading completion means assisted practice and comprehension evidence, not automatic formal mastery of every encountered character."
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Yamagata reading complete",
+    "nextText": "Next: Yamagata Test"
+  }
+}

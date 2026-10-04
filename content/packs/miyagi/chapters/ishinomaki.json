@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "ishinomaki",
+  "name": "石巻",
+  "nameEn": "Ishinomaki",
+  "reading": "いしのまき",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "miyagi/matsushima"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "ishinomaki_l01",
+      "file": "lessons/ishinomaki_l01.json"
+    }
+  ]
+}

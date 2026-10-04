@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "morioka",
+  "name": "盛岡",
+  "nameEn": "Morioka",
+  "reading": "もりおか",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "morioka_l01",
+      "file": "lessons/morioka_l01.json"
+    }
+  ]
+}

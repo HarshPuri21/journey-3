@@ -1,0 +1,548 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "aomori_reading",
+  "number": 4,
+  "title": "Aomori Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_九",
+    "kanji_二",
+    "kanji_五",
+    "kanji_人",
+    "kanji_今",
+    "kanji_何",
+    "kanji_入",
+    "kanji_八",
+    "kanji_公",
+    "kanji_円",
+    "kanji_写",
+    "kanji_出",
+    "kanji_分",
+    "kanji_前",
+    "kanji_北",
+    "kanji_十",
+    "kanji_午",
+    "kanji_半",
+    "kanji_口",
+    "kanji_園",
+    "kanji_岩",
+    "kanji_店",
+    "kanji_弘",
+    "kanji_後",
+    "kanji_戸",
+    "kanji_手",
+    "kanji_時",
+    "kanji_木",
+    "kanji_林",
+    "kanji_桜",
+    "kanji_森",
+    "kanji_次",
+    "kanji_水",
+    "kanji_海",
+    "kanji_百",
+    "kanji_真",
+    "kanji_行",
+    "kanji_見",
+    "kanji_買",
+    "kanji_道",
+    "kanji_青",
+    "kanji_食",
+    "kanji_魚"
+  ],
+  "cards": [
+    {
+      "id": "aomori_r01",
+      "title": "From Hokkaido to Aomori",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{北海道|ほっかいどう}から{青森|あおもり}に{行|い}きました。",
+          "en": "I went from Hokkaido to Aomori."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ほっかいどうからあおもりにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{青森|あおもり}で{写真|しゃしん}を{見|み}ました。",
+          "en": "I looked at photographs in Aomori."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あおもりでしゃしんをみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{写真|しゃしん}はきれいです。",
+          "en": "This photograph is beautiful."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このしゃしんはきれいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "から = from; 写真 = photograph; この + noun. Recall the Hokkaido travel and photograph examples."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r02",
+      "title": "Tree shapes in a picture",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "これは{林|はやし}です。",
+          "en": "This is a grove."
+        },
+        {
+          "type": "text",
+          "text": "Kana: これははやしです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "あの{写真|しゃしん}は{森|もり}の{写真|しゃしん}です。",
+          "en": "That photograph over there is a photograph of a forest."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あのしゃしんはもりのしゃしんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{森|もり}に{木|き}があります。",
+          "en": "There are trees in the forest."
+        },
+        {
+          "type": "text",
+          "text": "Kana: もりにきがあります。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "林 = grove; 森 = forest; 木 = tree. These are imagined pictures for our story, not a claim about a specific attraction."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r03",
+      "title": "At an apple shop",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{店|みせ}に{入|はい}りました。",
+          "en": "I entered this shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このみせにはいりました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "このりんごは{百円|ひゃくえん}です。",
+          "en": "This apple is 100 yen."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このりんごはひゃくえんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "りんごを{二|ふた}つ{買|か}いました。",
+          "en": "I bought two apples."
+        },
+        {
+          "type": "text",
+          "text": "Kana: りんごをふたつかいました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "入る = enter; 買いました = bought; 二つ = two items. The price is a fictional unit price in this scene."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r04",
+      "title": "Food and water",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}でりんごを{食|た}べました。",
+          "en": "I ate an apple at the shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせでりんごをたべました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "りんごと{水|みず}を{買|か}いました。",
+          "en": "I bought apples and water."
+        },
+        {
+          "type": "text",
+          "text": "Kana: りんごとみずをかいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "このりんごは{青|あお}いりんごです。",
+          "en": "This apple is a green apple."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このりんごはあおいりんごです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "と joins the things bought; 青いりんご is an established colour expression. Do not interpret で as the destination here."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r05",
+      "title": "A morning plan in Hirosaki",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{午前|ごぜん}{九時半|くじはん}に{弘前|ひろさき}に{行|い}きました。",
+          "en": "I went to Hirosaki at 9:30 a.m."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ごぜんくじはんにひろさきにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{九時半|くじはん}から{十時|じゅうじ}まで{公園|こうえん}にいました。",
+          "en": "I was in the park from 9:30 until ten."
+        },
+        {
+          "type": "text",
+          "text": "Kana: くじはんからじゅうじまでこうえんにいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{公園|こうえん}で{桜|さくら}を{見|み}ました。",
+          "en": "I saw cherry blossoms in the park."
+        },
+        {
+          "type": "text",
+          "text": "Kana: こうえんでさくらをみました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "公園 = park; 桜 = cherry blossoms, an encounter. いました is the polite past of います; explicitly learn this assisted extension here. This is a fictional spring visit, not opening-hour information."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r06",
+      "title": "A clock and a question",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "「{今|いま}、{何時|なんじ}ですか。」",
+          "en": "“What time is it now?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「いま、なんじですか。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「{十時五分|じゅうじごふん}です。」",
+          "en": "“It is 10:05.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「じゅうじごふんです。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{午後|ごご}{三時|さんじ}に{店|みせ}に{行|い}きました。",
+          "en": "I went to a shop at 3 p.m."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ごごさんじにみせにいきました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "五分 = ごふん; 午後 = p.m. The quoted clock and later visit are two different moments in the story."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r07",
+      "title": "Fish in Hachinohe",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{八戸|はちのへ}に{行|い}きました。",
+          "en": "I went to Hachinohe."
+        },
+        {
+          "type": "text",
+          "text": "Kana: はちのへにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{海|うみ}に{魚|さかな}がいます。",
+          "en": "There are fish in the sea."
+        },
+        {
+          "type": "text",
+          "text": "Kana: うみにさかながいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{八戸|はちのへ}で{魚|さかな}を{食|た}べました。",
+          "en": "I ate fish in Hachinohe."
+        },
+        {
+          "type": "text",
+          "text": "Kana: はちのへでさかなをたべました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "Fish alive in the sea → います; fish eaten → 食べました. 海 is review from the first Hokkaido lesson."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r08",
+      "title": "Entrance and exit",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{店|みせ}の{入り口|いりぐち}はここです。",
+          "en": "This shop’s entrance is here."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このみせのいりぐちはここです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}に{入|はい}りました。",
+          "en": "I entered the shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせにはいりました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}を{出|で}ました。",
+          "en": "I left the shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせをでました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "入り口 = entrance; 出口 = exit (review even though this line uses 出ました). ここ was encountered in Hokkaido reading; full here/there/where practice comes in Morioka."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r09",
+      "title": "People and choosing",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}に{二人|ふたり}います。",
+          "en": "There are two people in the shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせにふたりいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「どのりんごですか。」",
+          "en": "“Which apple is it?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「どのりんごですか。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「このりんごです。」",
+          "en": "“This apple.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「このりんごです。」"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "二人 counts people; 二つ counts items. どの and この are paired with the noun."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r10",
+      "title": "The next prefecture",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{青森|あおもり}、{弘前|ひろさき}、{八戸|はちのへ}に{行|い}きました。",
+          "en": "I went to Aomori, Hirosaki, and Hachinohe."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あおもり、ひろさき、はちのへにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "りんごと{魚|さかな}を{食|た}べました。",
+          "en": "I ate apples and fish."
+        },
+        {
+          "type": "text",
+          "text": "Kana: りんごとさかなをたべました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{岩手|いわて}です。",
+          "en": "Next is Iwate."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはいわてです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "次 = next, reviewed from Hokkaido; 岩手 is a preview name, with the full breakdown coming at Morioka."
+        }
+      ]
+    },
+    {
+      "id": "aomori_r11",
+      "title": "Assisted Reading and Rereading",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Read one story card with furigana and English assistance. Identify the location, the action, the time/count if there is one, and each particle’s job. Reread the Japanese with the English covered. Then hide or ignore furigana for words you recognise. Restore assistance for unfamiliar words. Recognising a preview kanji is optional; guessing its reading from shape is not required."
+        },
+        {
+          "type": "text",
+          "text": "**Continuous Japanese rereading:**"
+        },
+        {
+          "type": "text",
+          "text": "{北海道|ほっかいどう}から{青森|あおもり}に{行|い}きました。{青森|あおもり}で{写真|しゃしん}を{見|み}ました。この{写真|しゃしん}はきれいです。"
+        },
+        {
+          "type": "text",
+          "text": "これは{林|はやし}です。あの{写真|しゃしん}は{森|もり}の{写真|しゃしん}です。{森|もり}に{木|き}があります。"
+        },
+        {
+          "type": "text",
+          "text": "この{店|みせ}に{入|はい}りました。このりんごは{百円|ひゃくえん}です。りんごを{二|ふた}つ{買|か}いました。"
+        },
+        {
+          "type": "text",
+          "text": "{店|みせ}でりんごを{食|た}べました。りんごと{水|みず}を{買|か}いました。このりんごは{青|あお}いりんごです。"
+        },
+        {
+          "type": "text",
+          "text": "{午前|ごぜん}{九時半|くじはん}に{弘前|ひろさき}に{行|い}きました。{九時半|くじはん}から{十時|じゅうじ}まで{公園|こうえん}にいました。{公園|こうえん}で{桜|さくら}を{見|み}ました。"
+        },
+        {
+          "type": "text",
+          "text": "「{今|いま}、{何時|なんじ}ですか。」「{十時五分|じゅうじごふん}です。」{午後|ごご}{三時|さんじ}に{店|みせ}に{行|い}きました。"
+        },
+        {
+          "type": "text",
+          "text": "{八戸|はちのへ}に{行|い}きました。{海|うみ}に{魚|さかな}がいます。{八戸|はちのへ}で{魚|さかな}を{食|た}べました。"
+        },
+        {
+          "type": "text",
+          "text": "この{店|みせ}の{入り口|いりぐち}はここです。{店|みせ}に{入|はい}りました。{店|みせ}を{出|で}ました。"
+        },
+        {
+          "type": "text",
+          "text": "{店|みせ}に{二人|ふたり}います。「どのりんごですか。」「このりんごです。」"
+        },
+        {
+          "type": "text",
+          "text": "{青森|あおもり}、{弘前|ひろさき}、{八戸|はちのへ}に{行|い}きました。りんごと{魚|さかな}を{食|た}べました。{次|つぎ}は{岩手|いわて}です。"
+        }
+      ]
+    },
+    {
+      "id": "aomori_r12",
+      "title": "Reading Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Locations:** 青森/あおもり; 弘前/ひろさき; 八戸/はちのへ. 北海道 is a review name; 岩手/いわて is the next name to encounter.",
+            "**Words:** 林/はやし; 森/もり; 店/みせ; 買う/かう; 食べる/たべる; 魚/さかな; 入る/はいる; 出る/でる.",
+            "**Counting/time:** 二つ/ふたつ; 二人/ふたり; 九時半/くじはん; 午前/ごぜん; 午後/ごご; 五分/ごふん.",
+            "**Grammar:** この/あの + noun; の; と joining nouns; を; time/destination に; action location で; から/まで.",
+            "**Assisted extension:** いました is “was present/stayed,” the polite past of います.",
+            "**Check meaning:** Compare items and people; compare a.m. and p.m.; compare entering a shop and leaving it."
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Aomori reading complete",
+    "nextText": "Next: Aomori Test"
+  }
+}

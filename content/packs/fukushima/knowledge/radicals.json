@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_niku",
+      "char": "肉",
+      "name": "にく",
+      "nameRomaji": "niku",
+      "meanings": [
+        "meat; flesh"
+      ],
+      "note": "Whole 肉 family; compare with 内 rather than treating all enclosures alike.",
+      "exampleKanji": [
+        "kanji_肉"
+      ]
+    },
+    {
+      "id": "radical_chichi",
+      "char": "父",
+      "name": "ちち",
+      "nameRomaji": "chichi",
+      "meanings": [
+        "father"
+      ],
+      "note": "Whole 父 indexing character; upper separated strokes and lower crossing strokes.",
+      "exampleKanji": [
+        "kanji_父"
+      ]
+    },
+    {
+      "id": "radical_sei",
+      "char": "生",
+      "name": "うまれる・いきる",
+      "nameRomaji": "sei",
+      "meanings": [
+        "life; growth"
+      ],
+      "note": "Whole 生 family; source words 学生/先生 use せい without requiring every reading.",
+      "exampleKanji": [
+        "kanji_生"
+      ]
+    },
+    {
+      "id": "radical_oozato",
+      "char": "阝",
+      "name": "おおざと",
+      "nameRomaji": "oozato",
+      "meanings": [
+        "district; settlement"
+      ],
+      "note": "Right-side form of 邑 in 郡; left-side 阝 belongs to 阜 and is a different family.",
+      "exampleKanji": [
+        "kanji_郡"
+      ]
+    },
+    {
+      "id": "radical_miru",
+      "char": "見",
+      "name": "みる",
+      "nameRomaji": "miru",
+      "meanings": [
+        "see"
+      ],
+      "note": "Selected indexing family in assisted 親. Learn 父親/母親 as supplied whole words.",
+      "exampleKanji": [
+        "kanji_親"
+      ]
+    },
+    {
+      "id": "radical_hou",
+      "char": "方",
+      "name": "ほう",
+      "nameRomaji": "hou",
+      "meanings": [
+        "direction; flag-shaped family"
+      ],
+      "note": "Selected indexing family in assisted 族; learn 家族 / かぞく as a whole word.",
+      "exampleKanji": [
+        "kanji_族"
+      ]
+    },
+    {
+      "id": "radical_rekka",
+      "char": "灬",
+      "name": "れっか",
+      "nameRomaji": "rekka",
+      "meanings": [
+        "fire bottom form"
+      ],
+      "note": "Selected indexing or modern component family; assistance does not imply formal mastery.",
+      "exampleKanji": [
+        "kanji_然"
+      ]
+    },
+    {
+      "id": "radical_boku_action",
+      "char": "攵",
+      "name": "のぶん",
+      "nameRomaji": "boku_action",
+      "meanings": [
+        "action component"
+      ],
+      "note": "Selected indexing family in an assisted classroom word.",
+      "exampleKanji": [
+        "kanji_教"
+      ]
+    }
+  ]
+}

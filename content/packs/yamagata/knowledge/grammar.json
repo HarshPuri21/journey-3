@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_noun_past_negative",
+      "title": "Polite noun past negative",
+      "pattern": "N ではありませんでした",
+      "explanation": "Complete the four polite noun forms. 雨ではありませんでした classifies weather; compare adjective くなかったです and existence ありません."
+    },
+    {
+      "id": "grammar_desukara",
+      "title": "ですから: reason and result",
+      "pattern": "polite statement。ですから、result。",
+      "explanation": "So/therefore connects the supplied reason to a result. It differs from time/source から and from contrast でも or sequence そして."
+    },
+    {
+      "id": "grammar_instrument_de",
+      "title": "で for means or instrument",
+      "pattern": "目/耳 で action",
+      "explanation": "Extends transport で to a means/instrument. Interpret the noun's relationship rather than assigning every で one English gloss."
+    },
+    {
+      "id": "grammar_kiku_person_ni",
+      "title": "に for the person asked",
+      "pattern": "person に information を 聞きます",
+      "explanation": "The asked person uses に, requested information を. Distinguish listening to a sound from asking someone in context."
+    },
+    {
+      "id": "grammar_body_parts_aru",
+      "title": "Body parts with あります",
+      "pattern": "animal には 足 が 二つ あります",
+      "explanation": "The live animal uses います, while specified body parts can use あります. Possession of parts differs from the animal's own existence."
+    },
+    {
+      "id": "grammar_residence_teiru",
+      "title": "Current residence with 住んでいます",
+      "pattern": "place に 住んでいます",
+      "explanation": "住む → 住んで → 住んでいます describes current residence. This first limited て-form + います pattern does not teach general formation for all verbs. で is part of 住んで, not an action-place particle."
+    },
+    {
+      "id": "grammar_residence_ni",
+      "title": "に for residence",
+      "pattern": "place に 住みます / 住んでいます",
+      "explanation": "Place に attaches to the residence verb. Present location います does not itself establish residence; the stated future plan may use 住みます."
+    },
+    {
+      "id": "grammar_kaeru_polite",
+      "title": "Returning in polite forms",
+      "pattern": "帰ります / 帰りません / 帰りました / 帰りませんでした",
+      "explanation": "帰る forms 帰ります, not 帰ます. Returning differs from going and the perspective-dependent 来る. General verb classes come later."
+    }
+  ]
+}

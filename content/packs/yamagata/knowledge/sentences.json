@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_yamagata_r01_s01",
+      "jp": "{山形|やまがた}に{行|い}きました。",
+      "en": "I went to Yamagata.",
+      "tokens": [
+        {
+          "text": "山形",
+          "reading": "やまがた",
+          "vocab": "vocab_山形",
+          "gloss": "Yamagata, assisted next prefecture name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_山",
+        "kanji_形",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r01_s02",
+      "jp": "{昨日|きのう}は{雨|あめ}でした。",
+      "en": "It was rainy yesterday.",
+      "tokens": [
+        {
+          "text": "昨日",
+          "reading": "きのう",
+          "vocab": "vocab_昨日",
+          "gloss": "yesterday"
+        },
+        {
+          "text": "雨",
+          "reading": "あめ",
+          "vocab": "vocab_雨",
+          "gloss": "rain"
+        }
+      ],
+      "kanji": [
+        "kanji_日",
+        "kanji_昨",
+        "kanji_雨"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r01_s03",
+      "jp": "{今日|きょう}は{晴|は}れです。",
+      "en": "It is clear today.",
+      "tokens": [
+        {
+          "text": "今日",
+          "reading": "きょう",
+          "vocab": "vocab_今日",
+          "gloss": "today"
+        },
+        {
+          "text": "晴",
+          "reading": "は"
+        }
+      ],
+      "kanji": [
+        "kanji_今",
+        "kanji_日",
+        "kanji_晴"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r02_s01",
+      "jp": "この{写真|しゃしん}は{山|やま}の{写真|しゃしん}です。",
+      "en": "This photograph is a photograph of a mountain.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "山",
+          "reading": "やま",
+          "vocab": "vocab_山",
+          "gloss": "mountain"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_山",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r02_s02",
+      "jp": "{山|やま}に{雪|ゆき}があります。",
+      "en": "There is snow on the mountain.",
+      "tokens": [
+        {
+          "text": "山",
+          "reading": "やま",
+          "vocab": "vocab_山",
+          "gloss": "mountain"
+        },
+        {
+          "text": "雪",
+          "reading": "ゆき",
+          "vocab": "vocab_雪",
+          "gloss": "snow"
+        }
+      ],
+      "kanji": [
+        "kanji_山",
+        "kanji_雪"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r02_s03",
+      "jp": "{雪|ゆき}は{白|しろ}いです。",
+      "en": "The snow is white.",
+      "tokens": [
+        {
+          "text": "雪",
+          "reading": "ゆき",
+          "vocab": "vocab_雪",
+          "gloss": "snow"
+        },
+        {
+          "text": "白",
+          "reading": "しろ",
+          "vocab": "vocab_白",
+          "gloss": "white, noun"
+        }
+      ],
+      "kanji": [
+        "kanji_白",
+        "kanji_雪"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r03_s01",
+      "jp": "この{日|ひ}は{雨|あめ}です。",
+      "en": "This day is rainy.",
+      "tokens": [
+        {
+          "text": "日",
+          "reading": "ひ"
+        },
+        {
+          "text": "雨",
+          "reading": "あめ",
+          "vocab": "vocab_雨",
+          "gloss": "rain"
+        }
+      ],
+      "kanji": [
+        "kanji_日",
+        "kanji_雨"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r03_s02",
+      "jp": "ですから、{店|みせ}で{休|やす}みます。",
+      "en": "So I rest at a shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "休",
+          "reading": "やす"
+        }
+      ],
+      "kanji": [
+        "kanji_休",
+        "kanji_店"
+      ],
+      "grammar": [
+        "grammar_desukara"
+      ]
+    },
+    {
+      "id": "sent_yamagata_r03_s03",
+      "jp": "{友|とも}だちは{元気|げんき}です。",
+      "en": "My friend is well/energetic.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "元気",
+          "reading": "げんき",
+          "vocab": "vocab_元気",
+          "gloss": "well; energetic, な-adjective"
+        }
+      ],
+      "kanji": [
+        "kanji_元",
+        "kanji_友",
+        "kanji_気"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r04_s01",
+      "jp": "{鶴岡|つるおか}に{行|い}きました。",
+      "en": "I went to Tsuruoka.",
+      "tokens": [
+        {
+          "text": "鶴岡",
+          "reading": "つるおか",
+          "vocab": "vocab_鶴岡",
+          "gloss": "Tsuruoka, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_岡",
+        "kanji_行",
+        "kanji_鶴"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r04_s02",
+      "jp": "{白|しろ}い{鳥|とり}を{見|み}ました。",
+      "en": "I saw a white bird.",
+      "tokens": [
+        {
+          "text": "白",
+          "reading": "しろ",
+          "vocab": "vocab_白",
+          "gloss": "white, noun"
+        },
+        {
+          "text": "鳥",
+          "reading": "とり",
+          "vocab": "vocab_鳥",
+          "gloss": "bird"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_白",
+        "kanji_見",
+        "kanji_鳥"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r04_s03",
+      "jp": "{鳥|とり}の{声|こえ}を{聞|き}きました。",
+      "en": "I listened to the bird’s call.",
+      "tokens": [
+        {
+          "text": "鳥",
+          "reading": "とり",
+          "vocab": "vocab_鳥",
+          "gloss": "bird"
+        },
+        {
+          "text": "声",
+          "reading": "こえ",
+          "vocab": "vocab_声",
+          "gloss": "voice; call, assisted"
+        },
+        {
+          "text": "聞",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_声",
+        "kanji_聞",
+        "kanji_鳥"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r05_s01",
+      "jp": "この{鳥|とり}には{足|あし}が{二|ふた}つあります。",
+      "en": "This bird has two legs.",
+      "tokens": [
+        {
+          "text": "鳥",
+          "reading": "とり",
+          "vocab": "vocab_鳥",
+          "gloss": "bird"
+        },
+        {
+          "text": "足",
+          "reading": "あし",
+          "vocab": "vocab_足",
+          "gloss": "foot; leg"
+        },
+        {
+          "text": "二",
+          "reading": "ふた"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_足",
+        "kanji_鳥"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r05_s02",
+      "jp": "{目|め}も{二|ふた}つあります。",
+      "en": "It also has two eyes.",
+      "tokens": [
+        {
+          "text": "目",
+          "reading": "め",
+          "vocab": "vocab_目",
+          "gloss": "eye"
+        },
+        {
+          "text": "二",
+          "reading": "ふた"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_目"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r05_s03",
+      "jp": "{鳥|とり}がいます。",
+      "en": "There is a bird.",
+      "tokens": [
+        {
+          "text": "鳥",
+          "reading": "とり",
+          "vocab": "vocab_鳥",
+          "gloss": "bird"
+        }
+      ],
+      "kanji": [
+        "kanji_鳥"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r06_s01",
+      "jp": "{友|とも}だちに{駅|えき}の{場所|ばしょ}を{聞|き}きました。",
+      "en": "I asked a friend about the station’s location.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "場所",
+          "reading": "ばしょ",
+          "vocab": "vocab_場所",
+          "gloss": "place"
+        },
+        {
+          "text": "聞",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_場",
+        "kanji_所",
+        "kanji_聞",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r06_s02",
+      "jp": "「{駅|えき}はどこですか。」",
+      "en": "“Where is the station?”",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        }
+      ],
+      "kanji": [
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r06_s03",
+      "jp": "「あそこです。」",
+      "en": "“It is over there.”",
+      "tokens": [],
+      "kanji": [],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r07_s01",
+      "jp": "{酒田|さかた}に{行|い}きました。",
+      "en": "I went to Sakata.",
+      "tokens": [
+        {
+          "text": "酒田",
+          "reading": "さかた",
+          "vocab": "vocab_酒田",
+          "gloss": "Sakata, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_田",
+        "kanji_行",
+        "kanji_酒"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r07_s02",
+      "jp": "これは{友|とも}だちの{家|いえ}です。",
+      "en": "This is my friend’s house.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "家",
+          "reading": "いえ",
+          "vocab": "vocab_家",
+          "gloss": "house; home, taught house-identification reading"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_家"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r07_s03",
+      "jp": "この{家|いえ}は{新|あたら}しいです。",
+      "en": "This house is new.",
+      "tokens": [
+        {
+          "text": "家",
+          "reading": "いえ",
+          "vocab": "vocab_家",
+          "gloss": "house; home, taught house-identification reading"
+        },
+        {
+          "text": "新",
+          "reading": "あたら"
+        }
+      ],
+      "kanji": [
+        "kanji_家",
+        "kanji_新"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r08_s01",
+      "jp": "{友|とも}だちは{酒田|さかた}に{住|す}んでいます。",
+      "en": "My friend lives in Sakata.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "酒田",
+          "reading": "さかた",
+          "vocab": "vocab_酒田",
+          "gloss": "Sakata, whole location name"
+        },
+        {
+          "text": "住",
+          "reading": "す"
+        }
+      ],
+      "kanji": [
+        "kanji_住",
+        "kanji_友",
+        "kanji_田",
+        "kanji_酒"
+      ],
+      "grammar": [
+        "grammar_residence_teiru"
+      ]
+    },
+    {
+      "id": "sent_yamagata_r08_s02",
+      "jp": "「どこに{住|す}んでいますか。」",
+      "en": "“Where do you live?”",
+      "tokens": [
+        {
+          "text": "住",
+          "reading": "す"
+        }
+      ],
+      "kanji": [
+        "kanji_住"
+      ],
+      "grammar": [
+        "grammar_residence_teiru"
+      ]
+    },
+    {
+      "id": "sent_yamagata_r08_s03",
+      "jp": "「この{町|まち}に{住|す}んでいます。」",
+      "en": "“I live in this town.”",
+      "tokens": [
+        {
+          "text": "町",
+          "reading": "まち",
+          "vocab": "vocab_町",
+          "gloss": "town"
+        },
+        {
+          "text": "住",
+          "reading": "す"
+        }
+      ],
+      "kanji": [
+        "kanji_住",
+        "kanji_町"
+      ],
+      "grammar": [
+        "grammar_residence_teiru"
+      ]
+    },
+    {
+      "id": "sent_yamagata_r09_s01",
+      "jp": "{友|とも}だちに{会|あ}いました。",
+      "en": "I met my friend.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_会",
+        "kanji_友"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r09_s02",
+      "jp": "そして、{夜|よる}、{家|うち}に{帰|かえ}りました。",
+      "en": "Then I returned home at night.",
+      "tokens": [
+        {
+          "text": "夜",
+          "reading": "よる",
+          "vocab": "vocab_夜",
+          "gloss": "night"
+        },
+        {
+          "text": "家",
+          "reading": "うち",
+          "vocab": "vocab_家_home",
+          "gloss": "home, taught return-home reading; いえ is also natural"
+        },
+        {
+          "text": "帰",
+          "reading": "かえ"
+        }
+      ],
+      "kanji": [
+        "kanji_夜",
+        "kanji_家",
+        "kanji_帰"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r09_s03",
+      "jp": "{電車|でんしゃ}で{帰|かえ}りました。",
+      "en": "I returned by train.",
+      "tokens": [
+        {
+          "text": "電車",
+          "reading": "でんしゃ",
+          "vocab": "vocab_電車",
+          "gloss": "electric train; train in these scenes"
+        },
+        {
+          "text": "帰",
+          "reading": "かえ"
+        }
+      ],
+      "kanji": [
+        "kanji_帰",
+        "kanji_車",
+        "kanji_電"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r10_s01",
+      "jp": "{山形|やまがた}で{山|やま}の{写真|しゃしん}を{見|み}ました。",
+      "en": "I looked at a mountain photograph in Yamagata.",
+      "tokens": [
+        {
+          "text": "山形",
+          "reading": "やまがた",
+          "vocab": "vocab_山形",
+          "gloss": "Yamagata, assisted next prefecture name"
+        },
+        {
+          "text": "山",
+          "reading": "やま",
+          "vocab": "vocab_山",
+          "gloss": "mountain"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_山",
+        "kanji_形",
+        "kanji_真",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r10_s02",
+      "jp": "{鳥|とり}の{声|こえ}も{聞|き}きました。",
+      "en": "I also listened to a bird’s call.",
+      "tokens": [
+        {
+          "text": "鳥",
+          "reading": "とり",
+          "vocab": "vocab_鳥",
+          "gloss": "bird"
+        },
+        {
+          "text": "声",
+          "reading": "こえ",
+          "vocab": "vocab_声",
+          "gloss": "voice; call, assisted"
+        },
+        {
+          "text": "聞",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_声",
+        "kanji_聞",
+        "kanji_鳥"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_yamagata_r10_s03",
+      "jp": "{次|つぎ}は{福島|ふくしま}です。",
+      "en": "Next is Fukushima.",
+      "tokens": [
+        {
+          "text": "次",
+          "reading": "つぎ",
+          "vocab": "vocab_次",
+          "gloss": "next"
+        },
+        {
+          "text": "福島",
+          "reading": "ふくしま",
+          "vocab": "vocab_福島",
+          "gloss": "Fukushima, assisted next prefecture/city name"
+        }
+      ],
+      "kanji": [
+        "kanji_島",
+        "kanji_次",
+        "kanji_福"
+      ],
+      "grammar": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_particle_wa",
+      "title": "は (wa) - topic marker",
+      "pattern": "X は ...",
+      "explanation": "Marks the topic of the sentence - what we are talking about. Written は, pronounced わ."
+    },
+    {
+      "id": "grammar_desu",
+      "title": "です - is / am / are",
+      "pattern": "X です",
+      "explanation": "The polite ending that links a noun to a statement."
+    },
+    {
+      "id": "grammar_a_wa_b_desu",
+      "title": "A は B です",
+      "pattern": "A は B です",
+      "explanation": "Identifies or classifies the topic: A is B. For geographic location, use A は B にあります。"
+    },
+    {
+      "id": "grammar_particle_wo",
+      "title": "を (o) - object marker",
+      "pattern": "X を verb",
+      "explanation": "Marks the direct object of a verb. Written を, pronounced お."
+    },
+    {
+      "id": "grammar_particle_ni",
+      "title": "に - destination / place",
+      "pattern": "X に 行きます",
+      "explanation": "Marks a destination (go to X) or the place where something exists."
+    },
+    {
+      "id": "grammar_particle_de",
+      "title": "で - place of action",
+      "pattern": "X で verb",
+      "explanation": "Marks the place where an action happens."
+    },
+    {
+      "id": "grammar_particle_no",
+      "title": "の - connecting nouns",
+      "pattern": "A の B",
+      "explanation": "Connects two nouns: A's B (B of A)."
+    },
+    {
+      "id": "grammar_aru",
+      "title": "あります - there is (things)",
+      "pattern": "X が あります",
+      "explanation": "Used for things that are not alive, and for places."
+    },
+    {
+      "id": "grammar_iru",
+      "title": "います - there is (people, animals)",
+      "pattern": "X が います",
+      "explanation": "Used for people and animals."
+    },
+    {
+      "id": "grammar_polite_past",
+      "title": "ました - polite past",
+      "pattern": "行きます → 行きました",
+      "explanation": "The polite past tense: 行きます (go) becomes 行きました (went)."
+    },
+    {
+      "id": "grammar_polite_past_negative",
+      "title": "ませんでした - polite past negative",
+      "pattern": "行きます → 行きませんでした",
+      "explanation": "The polite past negative: 行きませんでした means did not go."
+    },
+    {
+      "id": "grammar_i_adjective",
+      "title": "い-adjectives",
+      "pattern": "adjective + です",
+      "explanation": "Adjectives ending in い (小さい, 美しい) can end a sentence with です."
+    },
+    {
+      "id": "grammar_particle_ka",
+      "title": "か — question",
+      "pattern": "A は B ですか。",
+      "explanation": "Add か to a polite statement to make a question."
+    },
+    {
+      "id": "grammar_particle_ga",
+      "title": "が — subject",
+      "pattern": "N が あります / います。",
+      "explanation": "Marks the subject, including what exists. は sets the topic; が identifies the subject. This is a first distinction, not a complete rule for every context."
+    },
+    {
+      "id": "grammar_particle_mo",
+      "title": "も — also / too",
+      "pattern": "A も ...",
+      "explanation": "Replaces は when adding another topic with the same property: 富良野も美しいです。"
+    },
+    {
+      "id": "grammar_na_adjective",
+      "title": "な-adjectives",
+      "pattern": "きれいな町 / きれいです",
+      "explanation": "Use な before a noun; at the end of a polite sentence use です. きれい ends in い but is a な-adjective. 有名 is also a な-adjective."
+    },
+    {
+      "id": "grammar_i_adjective_negative",
+      "title": "Negative い-adjectives",
+      "pattern": "美しい → 美しくない",
+      "explanation": "Replace final い with くない. Add です for polite speech. いい is irregular: よくない."
+    },
+    {
+      "id": "grammar_masu",
+      "title": "Polite verbs",
+      "pattern": "行く → 行きます",
+      "explanation": "Learn the polite form with each verb: 行きます, 見ます, 飲みます, 登ります. ます expresses present habits or future actions, depending on context."
+    },
+    {
+      "id": "grammar_polite_negative",
+      "title": "ません — polite negative",
+      "pattern": "行きます → 行きません",
+      "explanation": "Replace ます with ません: do not go / will not go."
+    },
+    {
+      "id": "grammar_location_ni_aru",
+      "title": "Location of a place or thing",
+      "pattern": "A は B にあります。",
+      "explanation": "Use にあります to say where a place or non-living thing is located. A は B です identifies A as B; it does not generally mean A is in B."
+    },
+    {
+      "id": "grammar_betsu_no",
+      "title": "別の — another / different",
+      "pattern": "別の + noun",
+      "explanation": "別の場所 means another/different place."
+    },
+    {
+      "id": "grammar_reading_assistance",
+      "title": "Reading preview expressions",
+      "pattern": "から / へ / と / て",
+      "explanation": "Reading-only preview: から means from, へ (pronounced え) means toward/to, and 行くと means if/when you go. 入って joins enter to the following action. These are assisted encounters, not required mastery in this package."
+    }
+  ]
+}

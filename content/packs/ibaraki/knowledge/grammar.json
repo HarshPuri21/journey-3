@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_hours_duration",
+      "title": "Clock time versus elapsed hours",
+      "pattern": "二時に / 二時間 + action",
+      "explanation": "A clock point uses 時 and elementary time に. Duration adds 間 and normally precedes the action without the time-point に. 時間 also names time; interpret the whole phrase."
+    },
+    {
+      "id": "grammar_calendar_words",
+      "title": "Years, weeks, months and dates",
+      "pattern": "今年 / 毎週 / 月曜日 / 四月 / 一日",
+      "explanation": "Whole-word readings matter: 今年ことし, month 四月しがつ/九月くがつ, first date 一日ついたち versus whole-day duration いちにち. Use the complete taught tables and exceptions."
+    },
+    {
+      "id": "grammar_compass_reference",
+      "title": "Compass position versus left/right",
+      "pattern": "駅の東/西/南/北",
+      "explanation": "Compass directions stay fixed in the supplied map; left/right require an orientation. の links the reference point. Exit names use ぐち as whole words."
+    },
+    {
+      "id": "grammar_tatsu_position_ni",
+      "title": "に for a standing position",
+      "pattern": "position に 立ちます",
+      "explanation": "The taught standing-position relation uses に, distinct from waiting activity at a place with で."
+    },
+    {
+      "id": "grammar_matsu_object_wo",
+      "title": "The person waited for",
+      "pattern": "person を 待ちます",
+      "explanation": "The awaited person is the object with を; waiting place uses で and a duration can appear without time-point に."
+    },
+    {
+      "id": "grammar_invitation_masenka",
+      "title": "Invite a shared activity",
+      "pattern": "いっしょに polite stem + ませんか",
+      "explanation": "An explicitly shared-activity scene makes this an invitation, not an ordinary negative factual question. Use the taught stem."
+    },
+    {
+      "id": "grammar_agreement_mashou",
+      "title": "Agree or propose: ましょう",
+      "pattern": "polite stem + ましょう",
+      "explanation": "Let's do the shared action. 待ちます → 待ちましょう; preserve the polite stem. It is not completed-action past."
+    }
+  ]
+}

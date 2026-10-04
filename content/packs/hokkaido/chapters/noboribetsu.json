@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "noboribetsu",
+ "name": "登別",
+ "nameEn": "Noboribetsu",
+ "reading": "のぼりべつ",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/kushiro"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "noboribetsu_l01",
+   "file": "lessons/noboribetsu_l01.json"
+  }
+ ]
+}

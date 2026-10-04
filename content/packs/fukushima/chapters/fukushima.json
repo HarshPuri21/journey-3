@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "fukushima",
+  "name": "福島",
+  "nameEn": "Fukushima City",
+  "reading": "ふくしま",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "fukushima_l01",
+      "file": "lessons/fukushima_l01.json"
+    }
+  ]
+}

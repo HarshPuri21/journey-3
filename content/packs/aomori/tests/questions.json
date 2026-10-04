@@ -1,0 +1,2069 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_aomori_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character means forest?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "森"
+        },
+        {
+          "id": "b",
+          "text": "食"
+        },
+        {
+          "id": "c",
+          "text": "前"
+        },
+        {
+          "id": "d",
+          "text": "口"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_森",
+        "vocab_森"
+      ],
+      "explanation": "森 means forest; its three 木 shapes connect it with trees."
+    },
+    {
+      "id": "q_aomori_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read the word 林 meaning a grove.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "もり"
+        },
+        {
+          "id": "b",
+          "text": "みせ"
+        },
+        {
+          "id": "c",
+          "text": "さかな"
+        },
+        {
+          "id": "d",
+          "text": "はやし"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_林",
+        "vocab_林"
+      ],
+      "explanation": "The standalone grove word 林 is はやし; 森 is もり."
+    },
+    {
+      "id": "q_aomori_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which word means eat?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "買う"
+        },
+        {
+          "id": "b",
+          "text": "出る"
+        },
+        {
+          "id": "c",
+          "text": "食べる"
+        },
+        {
+          "id": "d",
+          "text": "見る"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_食",
+        "vocab_食べる"
+      ],
+      "explanation": "食べる is たべる, eat. Its polite form is 食べます."
+    },
+    {
+      "id": "q_aomori_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 店 meaning shop.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "まえ"
+        },
+        {
+          "id": "b",
+          "text": "みせ"
+        },
+        {
+          "id": "c",
+          "text": "はん"
+        },
+        {
+          "id": "d",
+          "text": "くち"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_店",
+        "vocab_店"
+      ],
+      "explanation": "店 is read みせ in the common standalone shop word."
+    },
+    {
+      "id": "q_aomori_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which word means buy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "買う"
+        },
+        {
+          "id": "b",
+          "text": "食べる"
+        },
+        {
+          "id": "c",
+          "text": "入る"
+        },
+        {
+          "id": "d",
+          "text": "行く"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_買",
+        "vocab_買う"
+      ],
+      "explanation": "買う is かう; 買います is its polite form."
+    },
+    {
+      "id": "q_aomori_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 前 meaning front.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あと"
+        },
+        {
+          "id": "b",
+          "text": "うしろ"
+        },
+        {
+          "id": "c",
+          "text": "はち"
+        },
+        {
+          "id": "d",
+          "text": "まえ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_前",
+        "vocab_前"
+      ],
+      "explanation": "The ordinary front word is まえ; Hirosaki is a whole place-name reading."
+    },
+    {
+      "id": "q_aomori_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which spelling means behind/back?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "前"
+        },
+        {
+          "id": "b",
+          "text": "入口"
+        },
+        {
+          "id": "c",
+          "text": "後ろ"
+        },
+        {
+          "id": "d",
+          "text": "半"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_後",
+        "vocab_後ろ"
+      ],
+      "explanation": "後ろ is うしろ, behind/back."
+    },
+    {
+      "id": "q_aomori_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character in 九時半 expresses half?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "九"
+        },
+        {
+          "id": "b",
+          "text": "半"
+        },
+        {
+          "id": "c",
+          "text": "時"
+        },
+        {
+          "id": "d",
+          "text": "分"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_半",
+        "vocab_九時半"
+      ],
+      "explanation": "半 is はん, half; 九時半 is half past nine."
+    },
+    {
+      "id": "q_aomori_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 魚 as the ordinary word fish.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さかな"
+        },
+        {
+          "id": "b",
+          "text": "みず"
+        },
+        {
+          "id": "c",
+          "text": "はやし"
+        },
+        {
+          "id": "d",
+          "text": "ひと"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_魚",
+        "vocab_魚"
+      ],
+      "explanation": "魚 is さかな; the on reading ギョ is not the standalone word requested."
+    },
+    {
+      "id": "q_aomori_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which word means exit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "入り口"
+        },
+        {
+          "id": "b",
+          "text": "店"
+        },
+        {
+          "id": "c",
+          "text": "魚"
+        },
+        {
+          "id": "d",
+          "text": "出口"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_出",
+        "kanji_口",
+        "vocab_出口"
+      ],
+      "explanation": "出口 is でぐち; 出 is leaving and 口 contributes the opening word."
+    },
+    {
+      "id": "q_aomori_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which component repeats three times in 森?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "水"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "刀"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_森",
+        "radical_ki"
+      ],
+      "explanation": "Three 木 shapes form 森; 木 is the tree/wood component."
+    },
+    {
+      "id": "q_aomori_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which component repeats twice in 林?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "日"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "魚"
+        },
+        {
+          "id": "d",
+          "text": "貝"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_林",
+        "radical_ki"
+      ],
+      "explanation": "林 contains two 木 shapes."
+    },
+    {
+      "id": "q_aomori_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical/component connects 食 with the earlier 館?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "食"
+        },
+        {
+          "id": "b",
+          "text": "弓"
+        },
+        {
+          "id": "c",
+          "text": "氵"
+        },
+        {
+          "id": "d",
+          "text": "皿"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_食",
+        "kanji_館",
+        "radical_shoku"
+      ],
+      "explanation": "館 uses the food component 食, met in Hakodate."
+    },
+    {
+      "id": "q_aomori_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which is the indexing radical of 買?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "口"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "貝"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_買",
+        "radical_kai"
+      ],
+      "explanation": "貝 is the shell radical with a useful connection to value/exchange."
+    },
+    {
+      "id": "q_aomori_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which is the indexing radical of 弘?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "水"
+        },
+        {
+          "id": "b",
+          "text": "金"
+        },
+        {
+          "id": "c",
+          "text": "弓"
+        },
+        {
+          "id": "d",
+          "text": "日"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_弘",
+        "radical_yumi"
+      ],
+      "explanation": "弘 has the bow component 弓; its other visible part participates in historical sound structure."
+    },
+    {
+      "id": "q_aomori_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "The right-side 刂 in 前 is a form of which radical?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "刀"
+        },
+        {
+          "id": "c",
+          "text": "足"
+        },
+        {
+          "id": "d",
+          "text": "魚"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_前",
+        "radical_katana"
+      ],
+      "explanation": "刂 is the side form of 刀, called りっとう."
+    },
+    {
+      "id": "q_aomori_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which familiar radical appears on the left of 時?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "日"
+        },
+        {
+          "id": "b",
+          "text": "月"
+        },
+        {
+          "id": "c",
+          "text": "木"
+        },
+        {
+          "id": "d",
+          "text": "口"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_時",
+        "radical_nichi"
+      ],
+      "explanation": "日 connects 時 to time; learn the complete clock reading separately."
+    },
+    {
+      "id": "q_aomori_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "The lower part of modern 青 resembles 月. Which conclusion is sound?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "青 means moon in every word."
+        },
+        {
+          "id": "b",
+          "text": "青 is always read つき."
+        },
+        {
+          "id": "c",
+          "text": "青 and 月 are the same character."
+        },
+        {
+          "id": "d",
+          "text": "It is a recognition shape, not proof that 青 means moon."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_青",
+        "radical_ao"
+      ],
+      "explanation": "Visible resemblance does not establish a component’s historical meaning or the whole word reading."
+    },
+    {
+      "id": "q_aomori_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which statement about 戸 is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "It is the water radical."
+        },
+        {
+          "id": "b",
+          "text": "It is three trees."
+        },
+        {
+          "id": "c",
+          "text": "It is itself a door radical/character."
+        },
+        {
+          "id": "d",
+          "text": "It is a variant of 魚."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_戸",
+        "radical_to"
+      ],
+      "explanation": "The whole 戸 character connects with a single door leaf; it is an encounter in 八戸."
+    },
+    {
+      "id": "q_aomori_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which open-box-shaped radical indexes 出 and was seen with 函?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "冂"
+        },
+        {
+          "id": "b",
+          "text": "凵"
+        },
+        {
+          "id": "c",
+          "text": "口"
+        },
+        {
+          "id": "d",
+          "text": "日"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "kanji_出",
+        "kanji_函",
+        "radical_ukebako"
+      ],
+      "explanation": "凵 is the open-box-shaped indexing radical; it does not make 出 mean box."
+    },
+    {
+      "id": "q_aomori_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 四時.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よじ"
+        },
+        {
+          "id": "b",
+          "text": "よんじ"
+        },
+        {
+          "id": "c",
+          "text": "しがつ"
+        },
+        {
+          "id": "d",
+          "text": "よっか"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_四時",
+        "kanji_時"
+      ],
+      "explanation": "四時 is よじ; 四月 is しがつ, and 四日 is よっか."
+    },
+    {
+      "id": "q_aomori_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 九時.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "きゅうじ"
+        },
+        {
+          "id": "b",
+          "text": "くがつ"
+        },
+        {
+          "id": "c",
+          "text": "ここのか"
+        },
+        {
+          "id": "d",
+          "text": "くじ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_九時",
+        "kanji_時"
+      ],
+      "explanation": "The nine-o’clock word is くじ."
+    },
+    {
+      "id": "q_aomori_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "九時半 is what time?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "9:00"
+        },
+        {
+          "id": "b",
+          "text": "3:30"
+        },
+        {
+          "id": "c",
+          "text": "9:30"
+        },
+        {
+          "id": "d",
+          "text": "9:05"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_九時半",
+        "kanji_半"
+      ],
+      "explanation": "半 adds half an hour to nine."
+    },
+    {
+      "id": "q_aomori_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 一分 meaning one minute.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いちふん"
+        },
+        {
+          "id": "b",
+          "text": "いっぷん"
+        },
+        {
+          "id": "c",
+          "text": "ひとり"
+        },
+        {
+          "id": "d",
+          "text": "いちじ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_一分",
+        "kanji_分"
+      ],
+      "explanation": "一分 uses the sound-change form いっぷん."
+    },
+    {
+      "id": "q_aomori_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 五分 meaning five minutes.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ごふん"
+        },
+        {
+          "id": "b",
+          "text": "ごぷん"
+        },
+        {
+          "id": "c",
+          "text": "ごじ"
+        },
+        {
+          "id": "d",
+          "text": "いつつ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_五分",
+        "kanji_分"
+      ],
+      "explanation": "The taught five-minute word is ごふん."
+    },
+    {
+      "id": "q_aomori_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 七時.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ななじ"
+        },
+        {
+          "id": "b",
+          "text": "しちがつ"
+        },
+        {
+          "id": "c",
+          "text": "なのか"
+        },
+        {
+          "id": "d",
+          "text": "しちじ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_七時",
+        "kanji_時"
+      ],
+      "explanation": "The course clock form is しちじ."
+    },
+    {
+      "id": "q_aomori_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二つ.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "につ"
+        },
+        {
+          "id": "b",
+          "text": "ふたり"
+        },
+        {
+          "id": "c",
+          "text": "ふたつ"
+        },
+        {
+          "id": "d",
+          "text": "ににん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_二つ",
+        "grammar_counter_tsutsu"
+      ],
+      "explanation": "二つ counts two items and is read ふたつ."
+    },
+    {
+      "id": "q_aomori_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ににん"
+        },
+        {
+          "id": "b",
+          "text": "ふたり"
+        },
+        {
+          "id": "c",
+          "text": "ふたつ"
+        },
+        {
+          "id": "d",
+          "text": "にひと"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_二人",
+        "grammar_counter_people"
+      ],
+      "explanation": "二人 is the special two-people form ふたり."
+    },
+    {
+      "id": "q_aomori_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 一人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ひとり"
+        },
+        {
+          "id": "b",
+          "text": "いちにん"
+        },
+        {
+          "id": "c",
+          "text": "ひとつ"
+        },
+        {
+          "id": "d",
+          "text": "いっぷん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_一人",
+        "grammar_counter_people"
+      ],
+      "explanation": "一人 is the special one-person form ひとり."
+    },
+    {
+      "id": "q_aomori_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is the tenth general item-counting form?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "じゅうつ"
+        },
+        {
+          "id": "b",
+          "text": "とおつ"
+        },
+        {
+          "id": "c",
+          "text": "ここのつ"
+        },
+        {
+          "id": "d",
+          "text": "とお"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_十_count",
+        "grammar_counter_tsutsu"
+      ],
+      "explanation": "The tenth general form is とお, without つ."
+    },
+    {
+      "id": "q_aomori_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is Aomori’s complete place-name reading?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あおはやし"
+        },
+        {
+          "id": "b",
+          "text": "せいしん"
+        },
+        {
+          "id": "c",
+          "text": "あおもり"
+        },
+        {
+          "id": "d",
+          "text": "きたもり"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_青森"
+      ],
+      "explanation": "青森 is the whole location name あおもり."
+    },
+    {
+      "id": "q_aomori_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is Hirosaki’s complete place-name reading?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "こうまえ"
+        },
+        {
+          "id": "b",
+          "text": "ひろさき"
+        },
+        {
+          "id": "c",
+          "text": "ひろまえ"
+        },
+        {
+          "id": "d",
+          "text": "こうさき"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_弘前"
+      ],
+      "explanation": "弘前 is read ひろさき as a whole place name."
+    },
+    {
+      "id": "q_aomori_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is Hachinohe’s complete place-name reading?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はちのへ"
+        },
+        {
+          "id": "b",
+          "text": "はちと"
+        },
+        {
+          "id": "c",
+          "text": "やつと"
+        },
+        {
+          "id": "d",
+          "text": "はちぐち"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_八戸"
+      ],
+      "explanation": "八戸 is はちのへ; the の is part of its reading."
+    },
+    {
+      "id": "q_aomori_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means a.m.?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "午後"
+        },
+        {
+          "id": "b",
+          "text": "前"
+        },
+        {
+          "id": "c",
+          "text": "後ろ"
+        },
+        {
+          "id": "d",
+          "text": "午前"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_午前"
+      ],
+      "explanation": "午前 is ごぜん, a.m.; 午後 is p.m."
+    },
+    {
+      "id": "q_aomori_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means p.m.?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "午前"
+        },
+        {
+          "id": "b",
+          "text": "何時"
+        },
+        {
+          "id": "c",
+          "text": "午後"
+        },
+        {
+          "id": "d",
+          "text": "半"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_午後"
+      ],
+      "explanation": "午後 is ごご, p.m."
+    },
+    {
+      "id": "q_aomori_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which question word asks how much money?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いくつ"
+        },
+        {
+          "id": "b",
+          "text": "いくら"
+        },
+        {
+          "id": "c",
+          "text": "どの"
+        },
+        {
+          "id": "d",
+          "text": "いつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_いくら"
+      ],
+      "explanation": "いくら asks price; いくつ asks item count."
+    },
+    {
+      "id": "q_aomori_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which question word asks the general item count?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いくつ"
+        },
+        {
+          "id": "b",
+          "text": "いくら"
+        },
+        {
+          "id": "c",
+          "text": "何時"
+        },
+        {
+          "id": "d",
+          "text": "どこ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_いくつ",
+        "grammar_counter_tsutsu"
+      ],
+      "explanation": "いくつ is the question word paired with the general item counter."
+    },
+    {
+      "id": "q_aomori_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means entrance?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "出口"
+        },
+        {
+          "id": "b",
+          "text": "森"
+        },
+        {
+          "id": "c",
+          "text": "前"
+        },
+        {
+          "id": "d",
+          "text": "入り口"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_入り口"
+      ],
+      "explanation": "入り口 is いりぐち, entrance."
+    },
+    {
+      "id": "q_aomori_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which phrase gets someone’s attention politely in our shop conversation?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いらっしゃいませ"
+        },
+        {
+          "id": "b",
+          "text": "ごちそうさまでした"
+        },
+        {
+          "id": "c",
+          "text": "すみません"
+        },
+        {
+          "id": "d",
+          "text": "午前"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_すみません"
+      ],
+      "explanation": "すみません is used for “excuse me” in the taught scene."
+    },
+    {
+      "id": "q_aomori_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which phrase in the lesson is said before eating?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ごちそうさまでした"
+        },
+        {
+          "id": "b",
+          "text": "いただきます"
+        },
+        {
+          "id": "c",
+          "text": "いらっしゃいませ"
+        },
+        {
+          "id": "d",
+          "text": "ありがとうございます"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_いただきます"
+      ],
+      "explanation": "いただきます is the customary pre-meal phrase."
+    },
+    {
+      "id": "q_aomori_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “this apple” as a noun phrase.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "このりんご"
+        },
+        {
+          "id": "b",
+          "text": "これりんご"
+        },
+        {
+          "id": "c",
+          "text": "りんごこの"
+        },
+        {
+          "id": "d",
+          "text": "ここりんご"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_demonstrative_noun",
+        "vocab_この"
+      ],
+      "explanation": "この modifies the following noun; これ stands alone."
+    },
+    {
+      "id": "q_aomori_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “I buy apples”: りんご＿＿買います。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "の"
+        },
+        {
+          "id": "c",
+          "text": "から"
+        },
+        {
+          "id": "d",
+          "text": "を"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_particle_wo",
+        "vocab_買う"
+      ],
+      "explanation": "The apples are the object of buying, so use を."
+    },
+    {
+      "id": "q_aomori_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “I eat at the shop”: 店＿＿食べます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "まで"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_particle_de",
+        "vocab_食べる"
+      ],
+      "explanation": "で identifies the place where eating happens."
+    },
+    {
+      "id": "q_aomori_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “at nine”: 九時＿＿行きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "を"
+        },
+        {
+          "id": "d",
+          "text": "の"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_time_ni",
+        "vocab_九時"
+      ],
+      "explanation": "A specific clock time uses に in the taught action pattern."
+    },
+    {
+      "id": "q_aomori_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “from nine until ten.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "九時から十時まで"
+        },
+        {
+          "id": "b",
+          "text": "九時まで十時から"
+        },
+        {
+          "id": "c",
+          "text": "九時を十時に"
+        },
+        {
+          "id": "d",
+          "text": "九時の十時で"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_kara_made"
+      ],
+      "explanation": "から marks the starting point; まで marks the endpoint."
+    },
+    {
+      "id": "q_aomori_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “Which apple?”: ＿＿りんごですか。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "どれ"
+        },
+        {
+          "id": "b",
+          "text": "これ"
+        },
+        {
+          "id": "c",
+          "text": "ここ"
+        },
+        {
+          "id": "d",
+          "text": "どの"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_demonstrative_which",
+        "vocab_どの"
+      ],
+      "explanation": "どの needs a noun; どれ stands alone."
+    },
+    {
+      "id": "q_aomori_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “I enter the shop.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "店で入ります。"
+        },
+        {
+          "id": "b",
+          "text": "店の入ります。"
+        },
+        {
+          "id": "c",
+          "text": "店に入ります。"
+        },
+        {
+          "id": "d",
+          "text": "店まで食べます。"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_enter_leave",
+        "vocab_入る"
+      ],
+      "explanation": "The taught entering pattern is place に 入ります."
+    },
+    {
+      "id": "q_aomori_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “I leave the shop.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "店の出ます。"
+        },
+        {
+          "id": "b",
+          "text": "店を出ます。"
+        },
+        {
+          "id": "c",
+          "text": "店で食べます。"
+        },
+        {
+          "id": "d",
+          "text": "店に買います。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_enter_leave",
+        "vocab_出る"
+      ],
+      "explanation": "を can mark the place being left with 出る."
+    },
+    {
+      "id": "q_aomori_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “I bought two apples.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "りんごを二つ買いました。"
+        },
+        {
+          "id": "b",
+          "text": "りんごに二人買いました。"
+        },
+        {
+          "id": "c",
+          "text": "りんごを二つ買いません。"
+        },
+        {
+          "id": "d",
+          "text": "りんごと二つ行きます。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_counter_tsutsu",
+        "grammar_polite_past",
+        "vocab_買う"
+      ],
+      "explanation": "The object uses を, items use 二つ, and 買いました is past."
+    },
+    {
+      "id": "q_aomori_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In りんごと水を買います, what does と do?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Marks a destination."
+        },
+        {
+          "id": "b",
+          "text": "Marks a clock time."
+        },
+        {
+          "id": "c",
+          "text": "Makes the verb negative."
+        },
+        {
+          "id": "d",
+          "text": "Joins the two things bought."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_noun_to"
+      ],
+      "explanation": "と connects the noun list; を marks that list as the object."
+    },
+    {
+      "id": "q_aomori_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R03 says: りんごを二つ買いました。 What did the narrator buy?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Two people."
+        },
+        {
+          "id": "b",
+          "text": "One fish."
+        },
+        {
+          "id": "c",
+          "text": "Two apples."
+        },
+        {
+          "id": "d",
+          "text": "Ten books."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_二つ",
+        "vocab_買う",
+        "sent_aomori_r03_s01",
+        "sent_aomori_r03_s02",
+        "sent_aomori_r03_s03"
+      ],
+      "explanation": "The line states apples as the object and 二つ as their count."
+    },
+    {
+      "id": "q_aomori_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R03 says: このりんごは百円です。 What is this apple’s stated price?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "1,000 yen."
+        },
+        {
+          "id": "b",
+          "text": "100 yen."
+        },
+        {
+          "id": "c",
+          "text": "10 yen."
+        },
+        {
+          "id": "d",
+          "text": "10,000 yen."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_百円",
+        "sent_aomori_r03_s01",
+        "sent_aomori_r03_s02",
+        "sent_aomori_r03_s03"
+      ],
+      "explanation": "百円 is 100 yen; the exercise price is fictional."
+    },
+    {
+      "id": "q_aomori_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R04 says: りんごと水を買いました。 Which two things were bought?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Apples and water."
+        },
+        {
+          "id": "b",
+          "text": "Fish and books."
+        },
+        {
+          "id": "c",
+          "text": "Trees and flowers."
+        },
+        {
+          "id": "d",
+          "text": "A station and a shop."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_noun_to",
+        "vocab_水",
+        "sent_aomori_r04_s01",
+        "sent_aomori_r04_s02",
+        "sent_aomori_r04_s03"
+      ],
+      "explanation": "と joins りんご and 水."
+    },
+    {
+      "id": "q_aomori_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R05 says: 午前九時半に弘前に行きました。 When was the Hirosaki visit?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "At 9:00 p.m."
+        },
+        {
+          "id": "b",
+          "text": "At 3:30 p.m."
+        },
+        {
+          "id": "c",
+          "text": "At 10:05 a.m."
+        },
+        {
+          "id": "d",
+          "text": "At 9:30 a.m."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_午前",
+        "vocab_九時半",
+        "sent_aomori_r05_s01",
+        "sent_aomori_r05_s02",
+        "sent_aomori_r05_s03"
+      ],
+      "explanation": "午前 means a.m. and 九時半 is 9:30."
+    },
+    {
+      "id": "q_aomori_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R05 says: 九時半から十時まで公園にいました。 When did the stated park stay end?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "At nine."
+        },
+        {
+          "id": "b",
+          "text": "At nine thirty."
+        },
+        {
+          "id": "c",
+          "text": "At ten."
+        },
+        {
+          "id": "d",
+          "text": "At three."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "grammar_kara_made",
+        "vocab_十時",
+        "sent_aomori_r05_s01",
+        "sent_aomori_r05_s02",
+        "sent_aomori_r05_s03"
+      ],
+      "explanation": "十時 follows まで, the endpoint."
+    },
+    {
+      "id": "q_aomori_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R06 answers: 十時五分です。 What does the clock show?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "10:30"
+        },
+        {
+          "id": "b",
+          "text": "10:05"
+        },
+        {
+          "id": "c",
+          "text": "9:05"
+        },
+        {
+          "id": "d",
+          "text": "5:10"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_五分",
+        "kanji_時",
+        "sent_aomori_r06_s01",
+        "sent_aomori_r06_s02",
+        "sent_aomori_r06_s03"
+      ],
+      "explanation": "十時 is ten o’clock and 五分 is five minutes."
+    },
+    {
+      "id": "q_aomori_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R07 says: 海に魚がいます。 Where are the living fish?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In the sea."
+        },
+        {
+          "id": "b",
+          "text": "On a chair."
+        },
+        {
+          "id": "c",
+          "text": "Inside a book."
+        },
+        {
+          "id": "d",
+          "text": "At a clock."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_海",
+        "vocab_魚",
+        "grammar_iru",
+        "sent_aomori_r07_s01",
+        "sent_aomori_r07_s02",
+        "sent_aomori_r07_s03"
+      ],
+      "explanation": "海に gives the fish’s location; います indicates living fish."
+    },
+    {
+      "id": "q_aomori_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R08 says: 店を出ました。 What happened?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The narrator entered the shop."
+        },
+        {
+          "id": "b",
+          "text": "The narrator bought the shop."
+        },
+        {
+          "id": "c",
+          "text": "The narrator did not leave the shop."
+        },
+        {
+          "id": "d",
+          "text": "The narrator left the shop."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_出る",
+        "grammar_enter_leave",
+        "sent_aomori_r08_s01",
+        "sent_aomori_r08_s02",
+        "sent_aomori_r08_s03"
+      ],
+      "explanation": "出ました is the polite past of 出る."
+    },
+    {
+      "id": "q_aomori_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R09 says: 店に二人います。 How many people are there?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One."
+        },
+        {
+          "id": "b",
+          "text": "Three."
+        },
+        {
+          "id": "c",
+          "text": "Two."
+        },
+        {
+          "id": "d",
+          "text": "Ten."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_二人",
+        "grammar_counter_people",
+        "sent_aomori_r09_s01",
+        "sent_aomori_r09_s02",
+        "sent_aomori_r09_s03"
+      ],
+      "explanation": "二人 means two people; its reading is ふたり."
+    },
+    {
+      "id": "q_aomori_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AOM-R10 says: 次は岩手です。 What is the next prefecture?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hokkaido."
+        },
+        {
+          "id": "b",
+          "text": "Iwate."
+        },
+        {
+          "id": "c",
+          "text": "Aomori."
+        },
+        {
+          "id": "d",
+          "text": "Miyagi."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "aomori",
+        "aomori_final"
+      ],
+      "refs": [
+        "vocab_岩手",
+        "vocab_次",
+        "sent_aomori_r10_s01",
+        "sent_aomori_r10_s02",
+        "sent_aomori_r10_s03"
+      ],
+      "explanation": "次は gives the next destination and 岩手 is assisted with いわて."
+    }
+  ]
+}

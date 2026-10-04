@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_仙",
+      "char": "仙",
+      "meanings": [
+        "immortal",
+        "sage"
+      ],
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_ninben",
+          "role": "classifier",
+          "note": "亻, a side form of 人, beside 山. Learn whole 仙台 / せんだい; encounter character."
+        },
+        {
+          "radical": "radical_yama",
+          "role": "shape",
+          "note": "亻, a side form of 人, beside 山. Learn whole 仙台 / せんだい; encounter character."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "亻, a side form of 人, beside 山. Learn whole 仙台 / せんだい; encounter character."
+    },
+    {
+      "id": "kanji_台",
+      "char": "台",
+      "meanings": [
+        "stand",
+        "platform"
+      ],
+      "onyomi": [
+        "ダイ",
+        "タイ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_kuchi",
+          "role": "classifier",
+          "note": "口 below 厶-shaped upper strokes. Modern spelling is not the full history of 臺; encounter in 仙台."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "口 below 厶-shaped upper strokes. Modern spelling is not the full history of 臺; encounter in 仙台."
+    },
+    {
+      "id": "kanji_電",
+      "char": "電",
+      "meanings": [
+        "electricity"
+      ],
+      "onyomi": [
+        "デン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_ame",
+          "role": "classifier",
+          "note": "雨 above a lower section ending in a curved stroke; historical lightning connection."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_車"
+      ],
+      "notes": "雨 above a lower section ending in a curved stroke; historical lightning connection."
+    },
+    {
+      "id": "kanji_車",
+      "char": "車",
+      "meanings": [
+        "car",
+        "vehicle"
+      ],
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "くるま"
+      ],
+      "components": [
+        {
+          "radical": "radical_kuruma",
+          "role": "classifier",
+          "note": "Whole vehicle-derived form. くるま as standalone car; しゃ in 電車."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_電"
+      ],
+      "notes": "Whole vehicle-derived form. くるま as standalone car; しゃ in 電車."
+    },
+    {
+      "id": "kanji_来",
+      "char": "来",
+      "meanings": [
+        "come"
+      ],
+      "onyomi": [
+        "ライ"
+      ],
+      "kunyomi": [
+        "く",
+        "き"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 indexing in traditional dictionaries; learn 来る / くる but 来ます / きます. Modern shape is not a person-coming-to-tree story."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "木 indexing in traditional dictionaries; learn 来る / くる but 来ます / きます. Modern shape is not a person-coming-to-tree story."
+    },
+    {
+      "id": "kanji_松",
+      "char": "松",
+      "meanings": [
+        "pine"
+      ],
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "まつ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 beside 公, a historical sound component; 公 can be recognised as 八 over 厶. Assisted in 松島."
+        },
+        {
+          "radical": "radical_hachi",
+          "role": "shape",
+          "note": "木 beside 公, a historical sound component; 公 can be recognised as 八 over 厶. Assisted in 松島."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_木"
+      ],
+      "notes": "木 beside 公, a historical sound component; 公 can be recognised as 八 over 厶. Assisted in 松島."
+    },
+    {
+      "id": "kanji_島",
+      "char": "島",
+      "meanings": [
+        "island"
+      ],
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "しま"
+      ],
+      "components": [
+        {
+          "radical": "radical_yama",
+          "role": "classifier",
+          "note": "山 with an upper abbreviated bird-related shape. Learn whole 松島 / まつしま; not a reading formula."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_山"
+      ],
+      "notes": "山 with an upper abbreviated bird-related shape. Learn whole 松島 / まつしま; not a reading formula."
+    },
+    {
+      "id": "kanji_空",
+      "char": "空",
+      "meanings": [
+        "sky",
+        "empty"
+      ],
+      "onyomi": [
+        "クウ"
+      ],
+      "kunyomi": [
+        "そら"
+      ],
+      "components": [
+        {
+          "radical": "radical_ana",
+          "role": "classifier",
+          "note": "穴 (宀 above 八-like strokes) above 工, historical sound structure. Today's independent sky word is そら."
+        },
+        {
+          "radical": "radical_takumi",
+          "role": "shape",
+          "note": "穴 (宀 above 八-like strokes) above 工, historical sound structure. Today's independent sky word is そら."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "穴 (宀 above 八-like strokes) above 工, historical sound structure. Today's independent sky word is そら."
+    },
+    {
+      "id": "kanji_白",
+      "char": "白",
+      "meanings": [
+        "white"
+      ],
+      "onyomi": [
+        "ハク",
+        "ビャク"
+      ],
+      "kunyomi": [
+        "しろ"
+      ],
+      "components": [
+        {
+          "radical": "radical_shiro",
+          "role": "classifier",
+          "note": "Whole 白 indexed under itself. Short extra upper stroke distinguishes it from 日."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_日"
+      ],
+      "notes": "Whole 白 indexed under itself. Short extra upper stroke distinguishes it from 日."
+    },
+    {
+      "id": "kanji_雲",
+      "char": "雲",
+      "meanings": [
+        "cloud"
+      ],
+      "onyomi": [
+        "ウン"
+      ],
+      "kunyomi": [
+        "くも"
+      ],
+      "components": [
+        {
+          "radical": "radical_ame",
+          "role": "classifier",
+          "note": "雨 above 云-like lower strokes; assisted scenery word, not formal mastery."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "雨 above 云-like lower strokes; assisted scenery word, not formal mastery."
+    },
+    {
+      "id": "kanji_市",
+      "char": "市",
+      "meanings": [
+        "city",
+        "market"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "いち"
+      ],
+      "components": [
+        {
+          "radical": "radical_haba",
+          "role": "classifier",
+          "note": "Top 亠-like strokes over 巾-like lower section; selected 巾. Named-city suffix is し."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Top 亠-like strokes over 巾-like lower section; selected 巾. Named-city suffix is し."
+    },
+    {
+      "id": "kanji_村",
+      "char": "村",
+      "meanings": [
+        "village"
+      ],
+      "onyomi": [
+        "ソン"
+      ],
+      "kunyomi": [
+        "むら"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 beside 寸; selected 木. Common independent word is むら."
+        },
+        {
+          "radical": "radical_sun",
+          "role": "shape",
+          "note": "木 beside 寸; selected 木. Common independent word is むら."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_松"
+      ],
+      "notes": "木 beside 寸; selected 木. Common independent word is むら."
+    },
+    {
+      "id": "kanji_新",
+      "char": "新",
+      "meanings": [
+        "new"
+      ],
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "あたら"
+      ],
+      "components": [
+        {
+          "radical": "radical_kin",
+          "role": "classifier",
+          "note": "Modern left 立/木-like pieces beside 斤; selected 斤. Whole adjective 新しい / あたらしい."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_古"
+      ],
+      "notes": "Modern left 立/木-like pieces beside 斤; selected 斤. Whole adjective 新しい / あたらしい."
+    },
+    {
+      "id": "kanji_古",
+      "char": "古",
+      "meanings": [
+        "old"
+      ],
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "ふる"
+      ],
+      "components": [
+        {
+          "radical": "radical_kuchi",
+          "role": "classifier",
+          "note": "十 above 口; selected 口. Old describes our books/photos, not an elderly person."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_新"
+      ],
+      "notes": "十 above 口; selected 口. Old describes our books/photos, not an elderly person."
+    },
+    {
+      "id": "kanji_高",
+      "char": "高",
+      "meanings": [
+        "high",
+        "expensive"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "たか"
+      ],
+      "components": [
+        {
+          "radical": "radical_takai",
+          "role": "classifier",
+          "note": "Whole 高 radical; upper roof/mouth-like shapes and lower enclosure are recognition chunks. Context selects height or price."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_安"
+      ],
+      "notes": "Whole 高 radical; upper roof/mouth-like shapes and lower enclosure are recognition chunks. Context selects height or price."
+    },
+    {
+      "id": "kanji_安",
+      "char": "安",
+      "meanings": [
+        "inexpensive",
+        "peaceful"
+      ],
+      "onyomi": [
+        "アン"
+      ],
+      "kunyomi": [
+        "やす"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukanmuri",
+          "role": "classifier",
+          "note": "宀 above 女; selected 宀. Word 安い means inexpensive in the price scenes."
+        },
+        {
+          "radical": "radical_onna",
+          "role": "shape",
+          "note": "宀 above 女; selected 宀. Word 安い means inexpensive in the price scenes."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_高"
+      ],
+      "notes": "宀 above 女; selected 宀. Word 安い means inexpensive in the price scenes."
+    },
+    {
+      "id": "kanji_田",
+      "char": "田",
+      "meanings": [
+        "cultivated field",
+        "rice paddy"
+      ],
+      "onyomi": [
+        "デン"
+      ],
+      "kunyomi": [
+        "た"
+      ],
+      "components": [
+        {
+          "radical": "radical_ta",
+          "role": "classifier",
+          "note": "Whole enclosed-grid field-derived form. Defined for 秋田 preview here; formally studied in Akita."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole enclosed-grid field-derived form. Defined for 秋田 preview here; formally studied in Akita."
+    },
+    {
+      "id": "kanji_話",
+      "char": "話",
+      "meanings": [
+        "talk; speech"
+      ],
+      "onyomi": [
+        "ワ"
+      ],
+      "kunyomi": [
+        "はな"
+      ],
+      "components": [
+        {
+          "radical": "radical_gonben",
+          "role": "classifier",
+          "note": "言 beside 舌; assisted inside 電話. Independent formal study comes later."
+        }
+      ],
+      "notes": "Assisted character in 電話."
+    }
+  ]
+}

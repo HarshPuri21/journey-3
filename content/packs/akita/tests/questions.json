@@ -1,0 +1,2023 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_akita_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 田んぼ.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "たんぼ"
+        },
+        {
+          "id": "b",
+          "text": "こめ"
+        },
+        {
+          "id": "c",
+          "text": "ごはん"
+        },
+        {
+          "id": "d",
+          "text": "もり"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_田んぼ"
+      ],
+      "explanation": "The common paddy word is たんぼ; its core character is 田."
+    },
+    {
+      "id": "q_akita_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 米 as uncooked rice.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はん"
+        },
+        {
+          "id": "b",
+          "text": "ちゃ"
+        },
+        {
+          "id": "c",
+          "text": "もの"
+        },
+        {
+          "id": "d",
+          "text": "こめ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_米"
+      ],
+      "explanation": "The standalone rice-grain word is こめ."
+    },
+    {
+      "id": "q_akita_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read ご飯.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ごこめ"
+        },
+        {
+          "id": "b",
+          "text": "ごはん"
+        },
+        {
+          "id": "c",
+          "text": "ごめし"
+        },
+        {
+          "id": "d",
+          "text": "ごもの"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_ご飯"
+      ],
+      "explanation": "The taught whole word is ごはん, cooked rice or a meal."
+    },
+    {
+      "id": "q_akita_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character is shared by 食べ物 and 飲み物?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "飯"
+        },
+        {
+          "id": "b",
+          "text": "田"
+        },
+        {
+          "id": "c",
+          "text": "書"
+        },
+        {
+          "id": "d",
+          "text": "物"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "kanji_物",
+        "vocab_食べ物",
+        "vocab_飲み物"
+      ],
+      "explanation": "Both nouns end in 物 / もの, thing."
+    },
+    {
+      "id": "q_akita_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 読む.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よむ"
+        },
+        {
+          "id": "b",
+          "text": "かく"
+        },
+        {
+          "id": "c",
+          "text": "きく"
+        },
+        {
+          "id": "d",
+          "text": "はなす"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_読む"
+      ],
+      "explanation": "読む is よむ, read; it was assisted in Hiraizumi and is formal here."
+    },
+    {
+      "id": "q_akita_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 書く.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よむ"
+        },
+        {
+          "id": "b",
+          "text": "くる"
+        },
+        {
+          "id": "c",
+          "text": "かく"
+        },
+        {
+          "id": "d",
+          "text": "かう"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_書く"
+      ],
+      "explanation": "書く is かく, write."
+    },
+    {
+      "id": "q_akita_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which taught character means sentence?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "字"
+        },
+        {
+          "id": "b",
+          "text": "米"
+        },
+        {
+          "id": "c",
+          "text": "文"
+        },
+        {
+          "id": "d",
+          "text": "夜"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_文"
+      ],
+      "explanation": "文 is ぶん, sentence."
+    },
+    {
+      "id": "q_akita_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 字 as character/letter.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "じ"
+        },
+        {
+          "id": "b",
+          "text": "ぶん"
+        },
+        {
+          "id": "c",
+          "text": "もの"
+        },
+        {
+          "id": "d",
+          "text": "ひる"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_字"
+      ],
+      "explanation": "字 is じ; 文 is the sentence word ぶん."
+    },
+    {
+      "id": "q_akita_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 朝.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ひる"
+        },
+        {
+          "id": "b",
+          "text": "あさ"
+        },
+        {
+          "id": "c",
+          "text": "よる"
+        },
+        {
+          "id": "d",
+          "text": "まい"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_朝"
+      ],
+      "explanation": "朝 is the morning word あさ."
+    },
+    {
+      "id": "q_akita_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 夜 in the taught ordinary word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あさ"
+        },
+        {
+          "id": "b",
+          "text": "ひる"
+        },
+        {
+          "id": "c",
+          "text": "まい"
+        },
+        {
+          "id": "d",
+          "text": "よる"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_夜"
+      ],
+      "explanation": "夜 is よる, night."
+    },
+    {
+      "id": "q_akita_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which grain-related radical appears on the left of 秋?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "雨"
+        },
+        {
+          "id": "c",
+          "text": "馬"
+        },
+        {
+          "id": "d",
+          "text": "禾"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_nogihen",
+        "kanji_秋"
+      ],
+      "explanation": "秋 has 禾/のぎへん beside 火; its name reading is learned as あきた."
+    },
+    {
+      "id": "q_akita_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which statement about 田 is correct?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "田 is three trees."
+        },
+        {
+          "id": "b",
+          "text": "田 and 口 are the same character."
+        },
+        {
+          "id": "c",
+          "text": "田 is itself a field radical/character."
+        },
+        {
+          "id": "d",
+          "text": "田 always reads こめ."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_ta",
+        "kanji_田"
+      ],
+      "explanation": "田 is the complete field-derived form, not a reading formula for 米."
+    },
+    {
+      "id": "q_akita_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical/component links 飯 to 食べる?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "水 / 氵"
+        },
+        {
+          "id": "b",
+          "text": "食 / 飠"
+        },
+        {
+          "id": "c",
+          "text": "人 / 亻"
+        },
+        {
+          "id": "d",
+          "text": "言"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_shoku",
+        "kanji_飯"
+      ],
+      "explanation": "飯 has the left-side food form 飠 of 食."
+    },
+    {
+      "id": "q_akita_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which animal-radical side form is visible in 物?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "亻, a form of 人"
+        },
+        {
+          "id": "b",
+          "text": "牜, a form of 牛"
+        },
+        {
+          "id": "c",
+          "text": "氵, a form of 水"
+        },
+        {
+          "id": "d",
+          "text": "刂, a form of 刀"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_ushi",
+        "kanji_物"
+      ],
+      "explanation": "物 is indexed under 牛, shown as 牜 at the left."
+    },
+    {
+      "id": "q_akita_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is the complete horn-related form in 角?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "月"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "口"
+        },
+        {
+          "id": "d",
+          "text": "角"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_tsuno",
+        "kanji_角"
+      ],
+      "explanation": "角 is itself the horn radical; its interior is not simply 月."
+    },
+    {
+      "id": "q_akita_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical links 館 in 角館 with 館 in 函館?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "馬"
+        },
+        {
+          "id": "b",
+          "text": "貝"
+        },
+        {
+          "id": "c",
+          "text": "食 / 飠"
+        },
+        {
+          "id": "d",
+          "text": "刀"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_shoku",
+        "kanji_館"
+      ],
+      "explanation": "Both contain the food radical 飠 with 官 to the right."
+    },
+    {
+      "id": "q_akita_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which speech radical appears on the left of 読?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "口"
+        },
+        {
+          "id": "b",
+          "text": "耳"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "言"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_gonben",
+        "kanji_読"
+      ],
+      "explanation": "読 has 言/ごんべん on the left; the modern right is 売-shaped."
+    },
+    {
+      "id": "q_akita_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is explained for 書?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "曰 / ひらび・いわく"
+        },
+        {
+          "id": "b",
+          "text": "雨 / あめ"
+        },
+        {
+          "id": "c",
+          "text": "艹 / くさかんむり"
+        },
+        {
+          "id": "d",
+          "text": "馬 / うま"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_hirabi",
+        "kanji_書"
+      ],
+      "explanation": "書 is indexed under 曰, although its lower part resembles 日."
+    },
+    {
+      "id": "q_akita_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which child radical appears below the cover in 字?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "子"
+        },
+        {
+          "id": "b",
+          "text": "人"
+        },
+        {
+          "id": "c",
+          "text": "目"
+        },
+        {
+          "id": "d",
+          "text": "足"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_ko",
+        "kanji_字"
+      ],
+      "explanation": "字 has 子 under 宀; 子 becomes formal study in Aizuwakamatsu."
+    },
+    {
+      "id": "q_akita_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which tree radical appears in 横?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "禾"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "水"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "radical_ki",
+        "kanji_横"
+      ],
+      "explanation": "横 has 木 beside 黄, a historical sound component."
+    },
+    {
+      "id": "q_akita_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二つ in the apple scene.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたり"
+        },
+        {
+          "id": "b",
+          "text": "ににん"
+        },
+        {
+          "id": "c",
+          "text": "につ"
+        },
+        {
+          "id": "d",
+          "text": "ふたつ"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_二つ"
+      ],
+      "explanation": "Two general items is ふたつ."
+    },
+    {
+      "id": "q_akita_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Two apples together cost 三百円. What is the stated total?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "600 yen"
+        },
+        {
+          "id": "b",
+          "text": "100 yen"
+        },
+        {
+          "id": "c",
+          "text": "3,000 yen"
+        },
+        {
+          "id": "d",
+          "text": "300 yen"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_三百円"
+      ],
+      "explanation": "The question explicitly gives 三百円 as the total, not a per-item price."
+    },
+    {
+      "id": "q_akita_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三百円.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さんひゃくえん"
+        },
+        {
+          "id": "b",
+          "text": "さんぜんえん"
+        },
+        {
+          "id": "c",
+          "text": "さんびゃくえん"
+        },
+        {
+          "id": "d",
+          "text": "さんまんえん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_三百円"
+      ],
+      "explanation": "三百 uses さんびゃく."
+    },
+    {
+      "id": "q_akita_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 九時半.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "きゅうじはん"
+        },
+        {
+          "id": "b",
+          "text": "くじはん"
+        },
+        {
+          "id": "c",
+          "text": "くがつはん"
+        },
+        {
+          "id": "d",
+          "text": "ここのかはん"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_九時半"
+      ],
+      "explanation": "The time is half past nine, くじはん."
+    },
+    {
+      "id": "q_akita_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is two people?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "二つ / ふたつ"
+        },
+        {
+          "id": "b",
+          "text": "二時 / にじ"
+        },
+        {
+          "id": "c",
+          "text": "二人 / ふたり"
+        },
+        {
+          "id": "d",
+          "text": "二月 / にがつ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_二人"
+      ],
+      "explanation": "二人 counts people and has the special reading ふたり."
+    },
+    {
+      "id": "q_akita_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which is three general items?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "三つ / みっつ"
+        },
+        {
+          "id": "b",
+          "text": "三人 / さんにん"
+        },
+        {
+          "id": "c",
+          "text": "三時 / さんじ"
+        },
+        {
+          "id": "d",
+          "text": "三月 / さんがつ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_三つ"
+      ],
+      "explanation": "三つ is the general item counter, unlike people, time or month."
+    },
+    {
+      "id": "q_akita_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read the reviewed date 二十日.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "にじゅうにち"
+        },
+        {
+          "id": "b",
+          "text": "とおか"
+        },
+        {
+          "id": "c",
+          "text": "はつか"
+        },
+        {
+          "id": "d",
+          "text": "ふつか"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_二十日"
+      ],
+      "explanation": "二十日 has the special date reading はつか."
+    },
+    {
+      "id": "q_akita_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 六百, reviewed number.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ろっぴゃく"
+        },
+        {
+          "id": "b",
+          "text": "ろくひゃく"
+        },
+        {
+          "id": "c",
+          "text": "ろっせん"
+        },
+        {
+          "id": "d",
+          "text": "むっつ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "kanji_六",
+        "kanji_百"
+      ],
+      "explanation": "Six hundred uses the sound change ろっぴゃく."
+    },
+    {
+      "id": "q_akita_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 八千, reviewed number.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はちせん"
+        },
+        {
+          "id": "b",
+          "text": "はっぴゃく"
+        },
+        {
+          "id": "c",
+          "text": "はっせん"
+        },
+        {
+          "id": "d",
+          "text": "やっつ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "kanji_八",
+        "kanji_千"
+      ],
+      "explanation": "Eight thousand uses はっせん."
+    },
+    {
+      "id": "q_akita_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Which means 3 p.m.?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "午前三時"
+        },
+        {
+          "id": "b",
+          "text": "午後九時"
+        },
+        {
+          "id": "c",
+          "text": "午後三時"
+        },
+        {
+          "id": "d",
+          "text": "三月"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_午後",
+        "vocab_三時"
+      ],
+      "explanation": "午後 is p.m. and 三時 is three o'clock."
+    },
+    {
+      "id": "q_akita_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 秋田.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あきた"
+        },
+        {
+          "id": "b",
+          "text": "しゅうでん"
+        },
+        {
+          "id": "c",
+          "text": "あきまち"
+        },
+        {
+          "id": "d",
+          "text": "こめた"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_秋田"
+      ],
+      "explanation": "The prefecture/city name is あきた."
+    },
+    {
+      "id": "q_akita_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 角館.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "かくのだて"
+        },
+        {
+          "id": "b",
+          "text": "かくかん"
+        },
+        {
+          "id": "c",
+          "text": "つのやかた"
+        },
+        {
+          "id": "d",
+          "text": "かどだて"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_角館"
+      ],
+      "explanation": "The whole location reading is かくのだて."
+    },
+    {
+      "id": "q_akita_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read the city name 横手.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よこで"
+        },
+        {
+          "id": "b",
+          "text": "おうしゅ"
+        },
+        {
+          "id": "c",
+          "text": "よこて"
+        },
+        {
+          "id": "d",
+          "text": "よこまち"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_横手"
+      ],
+      "explanation": "The course city name is よこて, distinguished from other dictionary words of the same spelling."
+    },
+    {
+      "id": "q_akita_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is the noun food?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "食べます"
+        },
+        {
+          "id": "b",
+          "text": "飲みます"
+        },
+        {
+          "id": "c",
+          "text": "書きます"
+        },
+        {
+          "id": "d",
+          "text": "食べ物"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_食べ物"
+      ],
+      "explanation": "食べ物 / たべもの is a noun; the other options are polite actions."
+    },
+    {
+      "id": "q_akita_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is the noun beverage/drink?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "飲みました"
+        },
+        {
+          "id": "b",
+          "text": "飲み物"
+        },
+        {
+          "id": "c",
+          "text": "本"
+        },
+        {
+          "id": "d",
+          "text": "米"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_飲み物"
+      ],
+      "explanation": "飲み物 is のみもの, a beverage."
+    },
+    {
+      "id": "q_akita_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means breakfast?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "昼ご飯"
+        },
+        {
+          "id": "b",
+          "text": "夜ご飯"
+        },
+        {
+          "id": "c",
+          "text": "朝ご飯"
+        },
+        {
+          "id": "d",
+          "text": "田んぼ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_朝ご飯"
+      ],
+      "explanation": "朝ご飯 is あさごはん."
+    },
+    {
+      "id": "q_akita_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means lunch?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "朝ご飯"
+        },
+        {
+          "id": "b",
+          "text": "昼ご飯"
+        },
+        {
+          "id": "c",
+          "text": "毎日"
+        },
+        {
+          "id": "d",
+          "text": "読書"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_昼ご飯"
+      ],
+      "explanation": "昼ご飯 is ひるごはん."
+    },
+    {
+      "id": "q_akita_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 読書.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よみかき"
+        },
+        {
+          "id": "b",
+          "text": "よむかく"
+        },
+        {
+          "id": "c",
+          "text": "どくしょ"
+        },
+        {
+          "id": "d",
+          "text": "どくぶん"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_読書"
+      ],
+      "explanation": "The recognition compound for reading books is どくしょ."
+    },
+    {
+      "id": "q_akita_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 毎日.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "まいひ"
+        },
+        {
+          "id": "b",
+          "text": "ははにち"
+        },
+        {
+          "id": "c",
+          "text": "まいじ"
+        },
+        {
+          "id": "d",
+          "text": "まいにち"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_毎日"
+      ],
+      "explanation": "毎日 is the whole every-day expression まいにち."
+    },
+    {
+      "id": "q_akita_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 時々.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "じじ"
+        },
+        {
+          "id": "b",
+          "text": "じどき"
+        },
+        {
+          "id": "c",
+          "text": "ときとき"
+        },
+        {
+          "id": "d",
+          "text": "ときどき"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "vocab_時々"
+      ],
+      "explanation": "The whole word is ときどき; 々 repeats the preceding character."
+    },
+    {
+      "id": "q_akita_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “buy rice”: 米＿＿買います。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "に"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "へ"
+        },
+        {
+          "id": "d",
+          "text": "から"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_particle_wo"
+      ],
+      "explanation": "Rice is what is bought, so use the object particle を."
+    },
+    {
+      "id": "q_akita_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the polite past of 水です.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "水でした。"
+        },
+        {
+          "id": "b",
+          "text": "水かったです。"
+        },
+        {
+          "id": "c",
+          "text": "水ました。"
+        },
+        {
+          "id": "d",
+          "text": "水くないです。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_noun_past"
+      ],
+      "explanation": "A noun identification uses でした for the polite past."
+    },
+    {
+      "id": "q_akita_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “write a sentence”: 文＿＿書きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "へ"
+        },
+        {
+          "id": "d",
+          "text": "から"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_particle_wo",
+        "vocab_書く"
+      ],
+      "explanation": "文 is the object written, so use を."
+    },
+    {
+      "id": "q_akita_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the writing-surface model: ノート＿＿書きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "へ"
+        },
+        {
+          "id": "d",
+          "text": "から"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_writing_surface_ni"
+      ],
+      "explanation": "The notebook where the writing is put uses に in the taught pattern."
+    },
+    {
+      "id": "q_akita_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the action-place model: 角館＿＿文を書きました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "で"
+        },
+        {
+          "id": "b",
+          "text": "を"
+        },
+        {
+          "id": "c",
+          "text": "の"
+        },
+        {
+          "id": "d",
+          "text": "と"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_particle_de"
+      ],
+      "explanation": "The location of the writing activity is marked で."
+    },
+    {
+      "id": "q_akita_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “did not write,” polite past negative.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "書きません。"
+        },
+        {
+          "id": "b",
+          "text": "書きませんでした。"
+        },
+        {
+          "id": "c",
+          "text": "書きました。"
+        },
+        {
+          "id": "d",
+          "text": "書きます。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_polite_past_negative",
+        "vocab_書く"
+      ],
+      "explanation": "ませんでした gives the past negative; the kanji remains 書."
+    },
+    {
+      "id": "q_akita_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Which taught routine says “every day I drink water”?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "毎日、水を飲みます。"
+        },
+        {
+          "id": "b",
+          "text": "時々、水を飲みます。"
+        },
+        {
+          "id": "c",
+          "text": "夜、水を飲みませんでした。"
+        },
+        {
+          "id": "d",
+          "text": "毎日、水に行きます。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_frequency_basic"
+      ],
+      "explanation": "毎日 expresses every-day recurrence with the ordinary action pattern."
+    },
+    {
+      "id": "q_akita_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In もう本を読みました, what is stated?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The book has not yet been read."
+        },
+        {
+          "id": "b",
+          "text": "The book has already been read."
+        },
+        {
+          "id": "c",
+          "text": "The book will never be read."
+        },
+        {
+          "id": "d",
+          "text": "The book is a meal."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_already_past"
+      ],
+      "explanation": "もう with the taught polite past expresses already completed reading."
+    },
+    {
+      "id": "q_akita_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Give the taught not-yet reply to もう食べましたか.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はい、もう食べました。"
+        },
+        {
+          "id": "b",
+          "text": "毎日、食べます。"
+        },
+        {
+          "id": "c",
+          "text": "いいえ、まだです。"
+        },
+        {
+          "id": "d",
+          "text": "いいえ、来ませんでした。"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_not_yet_reply"
+      ],
+      "explanation": "まだです is the explicitly taught not-yet reply, avoiding unintroduced fuller negative-completion grammar."
+    },
+    {
+      "id": "q_akita_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In 朝、本を読みます, what does 朝 tell us?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The object read."
+        },
+        {
+          "id": "b",
+          "text": "The transport used."
+        },
+        {
+          "id": "c",
+          "text": "The total price."
+        },
+        {
+          "id": "d",
+          "text": "A broad time of day."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "grammar_daily_time"
+      ],
+      "explanation": "朝 gives morning; 本を gives the object of reading."
+    },
+    {
+      "id": "q_akita_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R01: 田んぼに水があります。 What is in the paddy picture?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A telephone."
+        },
+        {
+          "id": "b",
+          "text": "Water."
+        },
+        {
+          "id": "c",
+          "text": "A teacher."
+        },
+        {
+          "id": "d",
+          "text": "A written sentence."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r01_s01",
+        "sent_akita_r01_s02",
+        "sent_akita_r01_s03"
+      ],
+      "explanation": "水 is the stated thing in the rice paddy."
+    },
+    {
+      "id": "q_akita_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R02: 店で米を買いました。 What was bought?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A cooked-rice meal, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "A book."
+        },
+        {
+          "id": "c",
+          "text": "A village."
+        },
+        {
+          "id": "d",
+          "text": "Uncooked rice."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r02_s01",
+        "sent_akita_r02_s02",
+        "sent_akita_r02_s03"
+      ],
+      "explanation": "米 / こめ is the uncooked-rice word in this shop scene."
+    },
+    {
+      "id": "q_akita_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R03: この飲み物は水です。 What is the drink?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Tea."
+        },
+        {
+          "id": "b",
+          "text": "Rice."
+        },
+        {
+          "id": "c",
+          "text": "Water."
+        },
+        {
+          "id": "d",
+          "text": "A photograph."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r03_s01",
+        "sent_akita_r03_s02",
+        "sent_akita_r03_s03"
+      ],
+      "explanation": "The line explicitly identifies the drink as 水."
+    },
+    {
+      "id": "q_akita_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R04 gives 二つ and a total 三百円. How many apples were bought?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One."
+        },
+        {
+          "id": "b",
+          "text": "Three."
+        },
+        {
+          "id": "c",
+          "text": "Ten."
+        },
+        {
+          "id": "d",
+          "text": "Two."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r04_s01",
+        "sent_akita_r04_s02",
+        "sent_akita_r04_s03"
+      ],
+      "explanation": "二つ counts two apples; the price does not change the count."
+    },
+    {
+      "id": "q_akita_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R05: 角館で本を読みました。 Which action happened?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Reading a book."
+        },
+        {
+          "id": "b",
+          "text": "Writing a price label."
+        },
+        {
+          "id": "c",
+          "text": "Buying a rice paddy."
+        },
+        {
+          "id": "d",
+          "text": "Not reading a book."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r05_s01",
+        "sent_akita_r05_s02",
+        "sent_akita_r05_s03"
+      ],
+      "explanation": "読みました is the polite past of 読む."
+    },
+    {
+      "id": "q_akita_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R06: ノートに文を書きました。 Where was the sentence written?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "On a cloud."
+        },
+        {
+          "id": "b",
+          "text": "Inside a rice paddy."
+        },
+        {
+          "id": "c",
+          "text": "In a notebook."
+        },
+        {
+          "id": "d",
+          "text": "On a train ticket explicitly named in the text."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r06_s01",
+        "sent_akita_r06_s02",
+        "sent_akita_r06_s03"
+      ],
+      "explanation": "ノートに marks the notebook surface in the taught writing pattern."
+    },
+    {
+      "id": "q_akita_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R07: この字は大きいです。 What is large?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The sentence's price."
+        },
+        {
+          "id": "b",
+          "text": "The character."
+        },
+        {
+          "id": "c",
+          "text": "The rice paddy."
+        },
+        {
+          "id": "d",
+          "text": "The city population."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r07_s01",
+        "sent_akita_r07_s02",
+        "sent_akita_r07_s03"
+      ],
+      "explanation": "字 is the topic being described as 大きい."
+    },
+    {
+      "id": "q_akita_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R08: 夜、文を書きます。 When does this routine place the writing?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In the morning."
+        },
+        {
+          "id": "b",
+          "text": "At night."
+        },
+        {
+          "id": "c",
+          "text": "At exactly noon, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "At 9:30, explicitly stated."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r08_s01",
+        "sent_akita_r08_s02",
+        "sent_akita_r08_s03"
+      ],
+      "explanation": "夜 is the broad night-time expression."
+    },
+    {
+      "id": "q_akita_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R09 answers the lunch question with いいえ、まだです. Is lunch completed by now?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Yes, already."
+        },
+        {
+          "id": "b",
+          "text": "The sentence gives a price rather than completion."
+        },
+        {
+          "id": "c",
+          "text": "The text says nobody ever eats lunch."
+        },
+        {
+          "id": "d",
+          "text": "No, not yet."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r09_s01",
+        "sent_akita_r09_s02",
+        "sent_akita_r09_s03"
+      ],
+      "explanation": "The taught reply denies completion by now; it does not deny all eating."
+    },
+    {
+      "id": "q_akita_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "AKITA-R10: 次は山形です。 Which prefecture follows?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Yamagata."
+        },
+        {
+          "id": "b",
+          "text": "Miyagi."
+        },
+        {
+          "id": "c",
+          "text": "Akita."
+        },
+        {
+          "id": "d",
+          "text": "Fukushima."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "akita",
+        "akita_final"
+      ],
+      "refs": [
+        "sent_akita_r10_s01",
+        "sent_akita_r10_s02",
+        "sent_akita_r10_s03"
+      ],
+      "explanation": "山形 is the assisted next destination やまがた."
+    }
+  ]
+}

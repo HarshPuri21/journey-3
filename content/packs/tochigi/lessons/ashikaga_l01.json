@@ -1,0 +1,380 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "ashikaga_l01",
+  "number": 3,
+  "title": "Ashikaga — 足利",
+  "goal": "Express likes/dislikes and distinguish preference from skill.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_好"
+  ],
+  "encounterKanji": [
+    "kanji_上",
+    "kanji_下",
+    "kanji_何",
+    "kanji_利",
+    "kanji_口",
+    "kanji_女",
+    "kanji_姉",
+    "kanji_嫌",
+    "kanji_子",
+    "kanji_手",
+    "kanji_日",
+    "kanji_時",
+    "kanji_本",
+    "kanji_白",
+    "kanji_私",
+    "kanji_絵",
+    "kanji_花",
+    "kanji_見",
+    "kanji_語",
+    "kanji_読",
+    "kanji_足",
+    "kanji_那",
+    "kanji_須",
+    "kanji_食",
+    "kanji_魚"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A flower-and-learning setting",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Ashikaga is associated with the historic Ashikaga School and a flower park. Our traveller chooses what to read and discuss. Preference is the language goal; no real opening times or flowering dates are supplied."
+        },
+        {
+          "type": "text",
+          "text": "**足利で花を見ます。** あしかがで はなを みます。 — I look at flowers in Ashikaga."
+        },
+        {
+          "type": "text",
+          "text": "Seeing something and liking it are different claims. The next cards introduce 好き while reusing familiar 花/本/日本語 and the adjective distinction from earlier packages."
+        }
+      ]
+    },
+    {
+      "id": "inside_ashikaga",
+      "title": "Inside 足利",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 足 · **Meaning/reading:** foot/leg; あし · **Radical/components:** 足, あし; upper 口-like part and lower leg-shaped strokes · **Status:** Formal review from Tsuruoka.",
+            "**Character:** 利 · **Meaning/reading:** benefit/sharpness orientation; かが in the name · **Radical/components:** 刀 as 刂, りっとう; 禾 on the left · **Status:** Encounter; whole-name reading is learned, not predicted from ordinary リ."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**足利 / あしかが**. There is no separate written か character: the name reading is exceptional as a whole. The 利 component does not make a new everyday verb “かがる.” Recognising radical 刂 supports shape understanding without requiring rare readings."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_足",
+            "kanji_利"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ashi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_katana"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_nogihen"
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c03",
+      "title": "好: the word 好き",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**好き / すき — liked; fond of, a な-adjective word.** 好 has radical 女, おんなへん, beside 子. These familiar pieces identify the form. They are not a modern rule that only women like children or that a like is determined by gender."
+        },
+        {
+          "type": "text",
+          "text": "**私は花が好きです。** わたしは はなが すきです。 — I like flowers."
+        },
+        {
+          "type": "text",
+          "text": "**私は日本語が好きです。** わたしは にほんごが すきです。 — I like Japanese."
+        },
+        {
+          "type": "text",
+          "text": "Our basic model marks the liked thing with が. 好き is not an い-adjective despite ending in the sound き, and it is not conjugated like 食べます."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_suki_ga"
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c04",
+      "title": "Likes and disliked/not-liked",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**好きではありません / すきではありません — do not like / am not fond of.** **嫌い / きらい — disliked; dislike**, is an assisted な-adjective word despite its final い. 嫌 remains an encounter."
+        },
+        {
+          "type": "text",
+          "text": "**私は魚が好きではありません。** わたしは さかなが すきではありません。 — I do not like fish / am not fond of fish."
+        },
+        {
+          "type": "text",
+          "text": "**私は魚が嫌いです。** わたしは さかなが きらいです。 — I dislike fish."
+        },
+        {
+          "type": "text",
+          "text": "嫌い can sound stronger than a neutral not-liked statement. Personal tastes do not state that something is universally bad, unsafe or impossible to eat."
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c05",
+      "title": "な before a noun",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**好きな花 / すきなはな — a flower I like; 好きな本 / すきなほん — a book I like.** な joins a な-adjective to a noun."
+        },
+        {
+          "type": "text",
+          "text": "**これは私の好きな本です。** これは わたしの すきな ほんです。 — This is a book I like."
+        },
+        {
+          "type": "text",
+          "text": "**好きな花は何ですか。** すきな はなは なんですか。 — What flower do you like?"
+        },
+        {
+          "type": "text",
+          "text": "Compare **白い花 / しろいはな**, white flower: ordinary い-adjectives directly modify nouns. Use 好きな, not 好きい. We keep this as the taught adjective phrase; broader relative-clause grammar is staged later."
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c06",
+      "title": "Skill: 上手 and 下手",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**上手 / じょうず — skilful/good at; 下手 / へた — unskilful/not good at**, both な-adjectives. We reuse 上/下/手 with compound-specific readings. **絵 / え — picture/drawing** is helped."
+        },
+        {
+          "type": "text",
+          "text": "**姉は絵が上手です。** あねは えが じょうずです。 — My older sister is good at drawing."
+        },
+        {
+          "type": "text",
+          "text": "**私は絵が下手です。** わたしは えが へたです。 — I am not good at drawing."
+        },
+        {
+          "type": "text",
+          "text": "The compound readings are not うえて/したて in these skill statements. Describing one's own skills with 上手 may sound self-praising; our positive example talks about the sister instead."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_skill_ga"
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c07",
+      "title": "Preference does not equal skill",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**私は絵が好きです。でも、絵が下手です。** わたしは えが すきです。でも、えが へたです。 — I like drawing. But I am not good at it."
+        },
+        {
+          "type": "text",
+          "text": "**姉は絵が上手です。** あねは えが じょうずです。 — My older sister is good at drawing."
+        },
+        {
+          "type": "text",
+          "text": "好き reports preference; 上手/下手 reports skill. It is possible to enjoy a thing without being skilled at it. These sentences do not teach a productive “can/cannot do” verb construction; ability forms will receive their own lesson later."
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c08",
+      "title": "Four polite な-adjective descriptions",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Meaning:** I like it · **Japanese:** 好きです · **Reading:** すきです",
+            "**Meaning:** I do not like it · **Japanese:** 好きではありません · **Reading:** すきではありません",
+            "**Meaning:** I liked it · **Japanese:** 好きでした · **Reading:** すきでした",
+            "**Meaning:** I did not like it · **Japanese:** 好きではありませんでした · **Reading:** すきではありませんでした"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**子どもの時、魚が好きではありませんでした。** こどもの とき、さかなが すきではありませんでした。 — As a child, I did not like fish. **時 / とき — when/time** is a new useful reading in the helped phrase 子どもの時. Do not invent 好きくなかった from the ordinary い-adjective rule."
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c09",
+      "title": "Ask about preference, invite an action",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**日本語が好きですか。** にほんごが すきですか。 — Do you like Japanese?"
+        },
+        {
+          "type": "text",
+          "text": "**いっしょに日本語の本を読みませんか。** いっしょに にほんごの ほんを よみませんか。 — Would you like to read a Japanese book together?"
+        },
+        {
+          "type": "text",
+          "text": "**はい、読みましょう。** はい、よみましょう。 — Yes, let's read."
+        },
+        {
+          "type": "text",
+          "text": "The liked thing uses が in our model; the book read uses を. Changing predicates changes the relationship of the noun phrase. The invitation's negative-looking ending is still an invitation in this explicit shared-activity context."
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c10",
+      "title": "Preference dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: 何が好きですか。** なにが すきですか。 — What do you like?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 花が好きです。** はなが すきです。 — I like flowers."
+        },
+        {
+          "type": "text",
+          "text": "**A: この花は好きですか。** このはなは すきですか。 — Do you like this flower?"
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、好きです。** はい、すきです。 — Yes, I do."
+        },
+        {
+          "type": "text",
+          "text": "The question can topicalise この花 with は, while the basic introduction used 花が. The test specifies the taught basic sentence when asking for が; it does not label all topical は uses wrong."
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c11",
+      "title": "Practice: preference or skill?",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 足利, 好き, 上手, 下手. **Answers:** あしかが; すき; じょうず; へた.",
+            "Which radical is on 好's left? **Answer:** 女.",
+            "Complete the taught basic model: 私は花＿＿好きです。 **Answer:** が.",
+            "Choose 好きな本 / 好きい本. **Answer:** 好きな本.",
+            "Make 好きです past negative. **Answer:** 好きではありませんでした.",
+            "Does liking drawing prove skill? **Answer:** No; 好き and 上手 describe different things."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ashikaga_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "足利 is あしかが; 利 has 刂. 好き is a な-adjective; use 好きな before a noun, and 好きではありません for the taught negative. 上手/下手 are じょうず/へた and describe skill. Preference, skill and ability are distinct claims. が in the basic like/skill model differs from を with the object of 読む."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “I like flowers, but I do not like fish.” **Model:** 花が好きです。でも、魚が好きではありません。 はなが すきです。でも、さかなが すきではありません。 Next: length and quantity in 那須."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_好"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_読む"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_でも"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_足利"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_好き"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_上手"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_下手"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_那須"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Ashikaga complete",
+    "nextText": "Next: Nasu",
+    "nextChapter": "tochigi/nasu"
+  }
+}

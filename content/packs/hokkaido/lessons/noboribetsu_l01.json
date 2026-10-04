@@ -1,0 +1,766 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "noboribetsu_l01",
+  "number": 9,
+  "title": "Noboribetsu",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_登",
+    "kanji_別",
+    "kanji_山",
+    "kanji_温",
+    "kanji_泉",
+    "kanji_昨",
+    "kanji_有",
+    "kanji_名",
+    "kanji_場",
+    "kanji_所"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Noboribetsu",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{登別|のぼりべつ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "のぼりべつ"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Noboribetsu"
+        },
+        {
+          "type": "text",
+          "text": "Noboribetsu is one of Hokkaido's famous hot-spring destinations, and Jigokudani is one of its major attractions."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "登"
+        },
+        {
+          "type": "text",
+          "text": "**のぼる / とう**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "climb / ascend"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{別|べつ}"
+        },
+        {
+          "type": "text",
+          "text": "**べつ / わかれる**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "separate / different"
+        },
+        {
+          "type": "text",
+          "text": "Together:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{登別|のぼりべつ}"
+        },
+        {
+          "type": "text",
+          "text": "**のぼりべつ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Noboribetsu"
+        }
+      ]
+    },
+    {
+      "id": "inside_noboribetsu",
+      "title": "Inside 登別",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {登別|のぼりべつ}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_登",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_別",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_hatsugashira"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_katana"
+        },
+        {
+          "type": "callout",
+          "text": "登 is filed under 癶 (footsteps): climbing is done on foot. 別 carries 刀 (blade, written 刂 on the right side): to cut apart. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "登",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{登る|のぼる}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "のぼる"
+        },
+        {
+          "type": "text",
+          "text": "**noboru**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "to climb"
+        },
+        {
+          "type": "text",
+          "text": "This is a verb."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{山|やま}に{登ります|のぼります}。"
+        },
+        {
+          "type": "text",
+          "text": "**やまに のぼります。**"
+        },
+        {
+          "type": "text",
+          "text": "**Yama ni noborimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "I climb a mountain."
+        },
+        {
+          "type": "text",
+          "text": "The kanji 登 therefore gives us another useful connection:"
+        },
+        {
+          "type": "text",
+          "text": "**登 → climb → mountain**"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_登る"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_noboribetsu_climb"
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "別",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{別|べつ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "べつ"
+        },
+        {
+          "type": "text",
+          "text": "**betsu**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "different / separate"
+        },
+        {
+          "type": "text",
+          "text": "Example:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{別|べつ}の{場所|ばしょ}"
+        },
+        {
+          "type": "text",
+          "text": "**べつの ばしょ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "another/different place"
+        },
+        {
+          "type": "text",
+          "text": "This introduces another useful grammar pattern:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{別|べつ}の + noun"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "another/different ___"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_場所"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_betsu_no"
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "Past Tense",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You already know:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きます|いきます}"
+        },
+        {
+          "type": "text",
+          "text": "**いきます**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "go / will go"
+        },
+        {
+          "type": "text",
+          "text": "Past:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きました|いきました}"
+        },
+        {
+          "type": "text",
+          "text": "**いきました**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "went"
+        },
+        {
+          "type": "text",
+          "text": "Negative:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きません|いきません}"
+        },
+        {
+          "type": "text",
+          "text": "**いきません**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "do not go / will not go"
+        },
+        {
+          "type": "text",
+          "text": "Past negative:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きませんでした|いきませんでした}"
+        },
+        {
+          "type": "text",
+          "text": "**いきませんでした**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "did not go"
+        },
+        {
+          "type": "text",
+          "text": "This four-part pattern will become extremely important."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_polite_past"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_polite_past_negative"
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "The Four Basic Forms",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きます|いきます}"
+        },
+        {
+          "type": "text",
+          "text": "go / will go"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きません|いきません}"
+        },
+        {
+          "type": "text",
+          "text": "do not go / will not go"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きました|いきました}"
+        },
+        {
+          "type": "text",
+          "text": "went"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きませんでした|いきませんでした}"
+        },
+        {
+          "type": "text",
+          "text": "did not go"
+        },
+        {
+          "type": "text",
+          "text": "We will use this pattern with many verbs."
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "Noboribetsu Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{昨日|きのう}、{登別|のぼりべつ}に{行きました|いきました}。"
+        },
+        {
+          "type": "text",
+          "text": "**きのう、のぼりべつに いきました。**"
+        },
+        {
+          "type": "text",
+          "text": "**Kinō, Noboribetsu ni ikimashita.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Yesterday, I went to Noboribetsu."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{昨日|きのう}"
+        },
+        {
+          "type": "text",
+          "text": "yesterday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{登別|のぼりべつ}"
+        },
+        {
+          "type": "text",
+          "text": "Noboribetsu"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "に"
+        },
+        {
+          "type": "text",
+          "text": "destination"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{行きました|いきました}"
+        },
+        {
+          "type": "text",
+          "text": "went"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_noboribetsu_past"
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "Hot Springs",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{温泉|おんせん}"
+        },
+        {
+          "type": "text",
+          "text": "**おんせん**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "hot spring"
+        },
+        {
+          "type": "text",
+          "text": "This is an encounter word containing kanji we will study more thoroughly later."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "温"
+        },
+        {
+          "type": "text",
+          "text": "warm"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "泉"
+        },
+        {
+          "type": "text",
+          "text": "spring / fountain"
+        },
+        {
+          "type": "text",
+          "text": "Noboribetsu is a perfect place to encounter this vocabulary."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_温泉"
+        }
+      ]
+    },
+    {
+      "id": "card_08",
+      "title": "Describe the Place",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{登別|のぼりべつ}の{温泉|おんせん}は{有名|ゆうめい}です。"
+        },
+        {
+          "type": "text",
+          "text": "**のぼりべつの おんせんは ゆうめいです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Noboribetsu no onsen wa yūmei desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Noboribetsu's hot springs are famous."
+        },
+        {
+          "type": "text",
+          "text": "This sentence combines:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{登別|のぼりべつ}"
+        },
+        {
+          "type": "text",
+          "text": "place"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "の"
+        },
+        {
+          "type": "text",
+          "text": "of / belonging to"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{温泉|おんせん}"
+        },
+        {
+          "type": "text",
+          "text": "hot spring"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "は"
+        },
+        {
+          "type": "text",
+          "text": "topic"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{有名|ゆうめい}"
+        },
+        {
+          "type": "text",
+          "text": "famous"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "です"
+        },
+        {
+          "type": "text",
+          "text": "is"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_noboribetsu_famous"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_na_adjective"
+        }
+      ]
+    },
+    {
+      "id": "card_09",
+      "title": "Review Challenge",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Which sentence means:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "\"Yesterday, I went to Noboribetsu.\""
+        },
+        {
+          "type": "text",
+          "text": "A. {昨日|きのう}、{登別|のぼりべつ}に{行きます|いきます}。\nB. {昨日|きのう}、{登別|のぼりべつ}に{行きました|いきました}。\nC. {今日|きょう}、{登別|のぼりべつ}に{行きました|いきました}。\nD. {昨日|きのう}、{登別|のぼりべつ}に{行きません|いきません}。"
+        },
+        {
+          "type": "text",
+          "text": "Answer:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "B"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "{登別|のぼりべつ} — のぼりべつ — Noboribetsu"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "登 — climb\n{別|べつ} — separate / different"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "{登る|のぼる} — のぼる — climb\n{温泉|おんせん} — おんせん — hot spring\n{昨日|きのう} — きのう — yesterday\n{有名|ゆうめい} — ゆうめい — famous\n{場所|ばしょ} — ばしょ — place"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "{行きます|いきます} — go\n{行きません|いきません} — don't/won't go\n{行きました|いきました} — went\n{行きませんでした|いきませんでした} — didn't go"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "の"
+        },
+        {
+          "type": "text",
+          "text": "N1 の N2"
+        },
+        {
+          "type": "text",
+          "text": "N2 belonging to / associated with N1"
+        }
+      ]
+    }
+  ],
+  "goal": "Learn 登・別 Introduce basic past tense Introduce ました / ませんでした Learn hot-spring vocabulary Begin combining several previously learned structures",
+  "estimatedMinutes": 20,
+  "coreKanji": [],
+  "completion": {
+    "title": "Noboribetsu complete",
+    "nextText": "Next: Hokkaido foundation review and reading"
+  }
+}

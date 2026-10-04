@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "maebashi",
+  "name": "前橋",
+  "nameEn": "Maebashi",
+  "reading": "まえばし",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "maebashi_l01",
+      "file": "lessons/maebashi_l01.json"
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_橋",
+      "char": "橋",
+      "meanings": [
+        "bridge"
+      ],
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "はし"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 beside 喬, historical sound material. Whole 前橋 / まえばし uses ばし."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "木 beside 喬, historical sound material. Whole 前橋 / まえばし uses ばし."
+    },
+    {
+      "id": "kanji_崎",
+      "char": "崎",
+      "meanings": [
+        "cape",
+        "projecting steepness"
+      ],
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "さき"
+      ],
+      "components": [
+        {
+          "radical": "radical_yama",
+          "role": "classifier",
+          "note": "山 beside 奇, historical sound material. Whole 高崎 / たかさき."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "山 beside 奇, historical sound material. Whole 高崎 / たかさき."
+    },
+    {
+      "id": "kanji_草",
+      "char": "草",
+      "meanings": [
+        "grass"
+      ],
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "くさ"
+      ],
+      "components": [
+        {
+          "radical": "radical_kusakanmuri",
+          "role": "classifier",
+          "note": "艹 above 早, historical sound component. Whole 草津 / くさつ."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "艹 above 早, historical sound component. Whole 草津 / くさつ."
+    },
+    {
+      "id": "kanji_持",
+      "char": "持",
+      "meanings": [
+        "hold",
+        "carry",
+        "have"
+      ],
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "も"
+      ],
+      "components": [
+        {
+          "radical": "radical_te",
+          "role": "classifier",
+          "note": "手 side form 扌 beside 寺, historical sound material. Compare 待 with 彳."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "手 side form 扌 beside 寺, historical sound material. Compare 待 with 彳."
+    },
+    {
+      "id": "kanji_服",
+      "char": "服",
+      "meanings": [
+        "clothes"
+      ],
+      "onyomi": [
+        "フク"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_tsuki",
+          "role": "classifier",
+          "note": "Selected modern indexing 月; right-hand forms aid recognition. Historical formation is a separate issue."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Selected modern indexing 月; right-hand forms aid recognition. Historical formation is a separate issue."
+    },
+    {
+      "id": "kanji_乗",
+      "char": "乗",
+      "meanings": [
+        "ride",
+        "board"
+      ],
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "の"
+      ],
+      "components": [
+        {
+          "radical": "radical_no",
+          "role": "classifier",
+          "note": "Selected 丿 indexing family. Central modern shape resembles 禾 with extra strokes; not indexed by spotting 木."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Selected 丿 indexing family. Central modern shape resembles 禾 with extra strokes; not indexed by spotting 木."
+    },
+    {
+      "id": "kanji_座",
+      "char": "座",
+      "meanings": [
+        "sit",
+        "seat"
+      ],
+      "onyomi": [
+        "ザ"
+      ],
+      "kunyomi": [
+        "すわ"
+      ],
+      "components": [
+        {
+          "radical": "radical_madare",
+          "role": "classifier",
+          "note": "广 over person-like forms and 土. 座る / すわる → 座って / すわって."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "广 over person-like forms and 土. 座る / すわる → 座って / すわって."
+    },
+    {
+      "id": "kanji_早",
+      "char": "早",
+      "meanings": [
+        "early"
+      ],
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "はや"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "日 above 十; selected 日. 朝早く is early time, not speed."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "日 above 十; selected 日. 朝早く is early time, not speed."
+    },
+    {
+      "id": "kanji_遅",
+      "char": "遅",
+      "meanings": [
+        "late",
+        "slow"
+      ],
+      "onyomi": [
+        "チ"
+      ],
+      "kunyomi": [
+        "おそ"
+      ],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "classifier",
+          "note": "辶 around an inner 尸/羊-like structure. Context distinguishes lateness from slowness."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "辶 around an inner 尸/羊-like structure. Context distinguishes lateness from slowness."
+    },
+    {
+      "id": "kanji_明",
+      "char": "明",
+      "meanings": [
+        "bright"
+      ],
+      "onyomi": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kunyomi": [
+        "あか"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "日 beside 月; selected 日. Sun/moon is a modern mnemonic, not the complete historical account."
+        },
+        {
+          "radical": "radical_tsuki",
+          "role": "shape",
+          "note": "日 beside 月; selected 日. Sun/moon is a modern mnemonic, not the complete historical account."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "日 beside 月; selected 日. Sun/moon is a modern mnemonic, not the complete historical account."
+    },
+    {
+      "id": "kanji_暗",
+      "char": "暗",
+      "meanings": [
+        "dark"
+      ],
+      "onyomi": [
+        "アン"
+      ],
+      "kunyomi": [
+        "くら"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "日 beside 音, historical sound component. Whole adjective 暗い / くらい."
+        },
+        {
+          "radical": "radical_oto",
+          "role": "shape",
+          "note": "日 beside 音, historical sound component. Whole adjective 暗い / くらい."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "日 beside 音, historical sound component. Whole adjective 暗い / くらい."
+    },
+    {
+      "id": "kanji_着",
+      "char": "着",
+      "meanings": [
+        "wear",
+        "put on"
+      ],
+      "onyomi": [
+        "チャク"
+      ],
+      "kunyomi": [
+        "き"
+      ],
+      "components": [
+        {
+          "radical": "radical_me",
+          "role": "classifier",
+          "note": "目 below a 羊-like upper section; selected 目. 着る / きる is Group 2, distinct from 来る / くる."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "目 below a 羊-like upper section; selected 目. 着る / きる is Group 2, distinct from 来る / くる."
+    },
+    {
+      "id": "kanji_洋",
+      "char": "洋",
+      "meanings": [
+        "Western",
+        "ocean-related"
+      ],
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "classifier",
+          "note": "氵 beside 羊; assisted in 洋服 / ようふく."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "氵 beside 羊; assisted in 洋服 / ようふく."
+    },
+    {
+      "id": "kanji_和",
+      "char": "和",
+      "meanings": [
+        "Japanese-style",
+        "harmony"
+      ],
+      "onyomi": [
+        "ワ"
+      ],
+      "kunyomi": [
+        "やわ"
+      ],
+      "components": [
+        {
+          "radical": "radical_kuchi",
+          "role": "classifier",
+          "note": "禾 beside 口; selected 口. Assisted 和服 / わふく."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "禾 beside 口; selected 口. Assisted 和服 / わふく."
+    },
+    {
+      "id": "kanji_遊",
+      "char": "遊",
+      "meanings": [
+        "play"
+      ],
+      "onyomi": [
+        "ユウ"
+      ],
+      "kunyomi": [
+        "あそ"
+      ],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "classifier",
+          "note": "辶 around an inner 方-like/子 section; assisted verb 遊ぶ explicitly supports ぶ→んで teaching."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "辶 around an inner 方-like/子 section; assisted verb 遊ぶ explicitly supports ぶ→んで teaching."
+    },
+    {
+      "id": "kanji_泳",
+      "char": "泳",
+      "meanings": [
+        "swim"
+      ],
+      "onyomi": [
+        "エイ"
+      ],
+      "kunyomi": [
+        "およ"
+      ],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "classifier",
+          "note": "氵 beside 永; assisted verb 泳ぐ explicitly supports ぐ→いで teaching."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "氵 beside 永; assisted verb 泳ぐ explicitly supports ぐ→いで teaching."
+    },
+    {
+      "id": "kanji_死",
+      "char": "死",
+      "meanings": [
+        "die"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "し"
+      ],
+      "components": [
+        {
+          "radical": "radical_gatsuhen",
+          "role": "classifier",
+          "note": "歹 beside 匕; selected 歹. Assisted 死ぬ explicitly supports the ぬ→んで sound family, not a cultural claim."
+        },
+        {
+          "radical": "radical_hi",
+          "role": "shape",
+          "note": "歹 beside 匕; selected 歹. Assisted 死ぬ explicitly supports the ぬ→んで sound family, not a cultural claim."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "歹 beside 匕; selected 歹. Assisted 死ぬ explicitly supports the ぬ→んで sound family, not a cultural claim."
+    },
+    {
+      "id": "kanji_勉",
+      "char": "勉",
+      "meanings": [
+        "endeavour",
+        "effort"
+      ],
+      "onyomi": [
+        "ベン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_chikara",
+          "role": "classifier",
+          "note": "力 beside a 免-like section; assisted whole 勉強する is explicitly taught."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "力 beside a 免-like section; assisted whole 勉強する is explicitly taught."
+    },
+    {
+      "id": "kanji_強",
+      "char": "強",
+      "meanings": [
+        "strong"
+      ],
+      "onyomi": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "kunyomi": [
+        "つよ"
+      ],
+      "components": [
+        {
+          "radical": "radical_yumi",
+          "role": "classifier",
+          "note": "弓 beside a modern right section with 厶/虫-like shapes; assisted 勉強する."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "弓 beside a modern right section with 厶/虫-like shapes; assisted 勉強する."
+    },
+    {
+      "id": "kanji_屋",
+      "char": "屋",
+      "meanings": [
+        "room",
+        "house"
+      ],
+      "onyomi": [
+        "オク"
+      ],
+      "kunyomi": [
+        "や"
+      ],
+      "components": [
+        {
+          "radical": "radical_shikabane",
+          "role": "classifier",
+          "note": "尸 above 至-like strokes; assisted whole 部屋 / へや."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "尸 above 至-like strokes; assisted whole 部屋 / へや."
+    },
+    {
+      "id": "kanji_窓",
+      "char": "窓",
+      "meanings": [
+        "window"
+      ],
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "まど"
+      ],
+      "components": [
+        {
+          "radical": "radical_ana",
+          "role": "classifier",
+          "note": "穴 above 厶-like and 心 shapes; assisted window word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "穴 above 厶-like and 心 shapes; assisted window word."
+    },
+    {
+      "id": "kanji_度",
+      "char": "度",
+      "meanings": [
+        "time",
+        "occurrence",
+        "degree"
+      ],
+      "onyomi": [
+        "ド",
+        "ト"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_madare",
+          "role": "classifier",
+          "note": "广 over a complex middle and 又 lower shape; assisted 一度 / いちど in もう一度."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "广 over a complex middle and 又 lower shape; assisted 一度 / いちど in もう一度."
+    },
+    {
+      "id": "kanji_速",
+      "char": "速",
+      "meanings": [
+        "fast"
+      ],
+      "onyomi": [
+        "ソク"
+      ],
+      "kunyomi": [
+        "はや"
+      ],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "classifier",
+          "note": "辶 around 束; assisted speed contrast 速い versus early 早い."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "辶 around 束; assisted speed contrast 速い versus early 早い."
+    },
+    {
+      "id": "kanji_埼",
+      "char": "埼",
+      "meanings": [
+        "cape",
+        "projecting land"
+      ],
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "さき"
+      ],
+      "components": [
+        {
+          "radical": "radical_tsuchi",
+          "role": "classifier",
+          "note": "土 beside 奇; assisted next-name 埼玉 / さいたま."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "土 beside 奇; assisted next-name 埼玉 / さいたま."
+    },
+    {
+      "id": "kanji_玉",
+      "char": "玉",
+      "meanings": [
+        "jewel",
+        "ball"
+      ],
+      "onyomi": [
+        "ギョク"
+      ],
+      "kunyomi": [
+        "たま"
+      ],
+      "components": [
+        {
+          "radical": "radical_tama",
+          "role": "classifier",
+          "note": "Whole 玉 indexing character, 王-like form with an extra dot. Assisted next-name 埼玉."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 玉 indexing character, 王-like form with an extra dot. Assisted next-name 埼玉."
+    }
+  ]
+}

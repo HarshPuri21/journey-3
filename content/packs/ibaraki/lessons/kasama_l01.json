@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "kasama_l01",
+  "number": 5,
+  "title": "Kasama — 笠間",
+  "goal": "Describe making/using items and finish a practical invitation plan.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_作",
+    "kanji_使"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_二",
+    "kanji_人",
+    "kanji_今",
+    "kanji_会",
+    "kanji_何",
+    "kanji_傘",
+    "kanji_前",
+    "kanji_十",
+    "kanji_午",
+    "kanji_古",
+    "kanji_土",
+    "kanji_小",
+    "kanji_店",
+    "kanji_後",
+    "kanji_文",
+    "kanji_方",
+    "kanji_日",
+    "kanji_昨",
+    "kanji_時",
+    "kanji_曜",
+    "kanji_月",
+    "kanji_木",
+    "kanji_本",
+    "kanji_栃",
+    "kanji_皿",
+    "kanji_碗",
+    "kanji_私",
+    "kanji_立",
+    "kanji_笠",
+    "kanji_茶",
+    "kanji_語",
+    "kanji_読",
+    "kanji_週",
+    "kanji_間",
+    "kanji_飯"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A making scene",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Kasama is associated with pottery. We use an imaginary beginner workshop to connect useful making and using verbs with familiar objects. The example is not a booking offer or a claim about a particular studio's procedures."
+        },
+        {
+          "type": "text",
+          "text": "**笠間でお皿を作ります。** かさまで おさらを つくります。 — I make a plate in Kasama."
+        },
+        {
+          "type": "text",
+          "text": "お皿 / おさら, plate, is helped; お is a polite prefix, not a separate dictionary word. The formal learning centres on 作 and 使, not every pottery-specific character."
+        }
+      ]
+    },
+    {
+      "id": "inside_kasama",
+      "title": "Inside 笠間",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 笠 · **Meaning/reading:** a woven/conical hat; かさ · **Radical/components:** 竹/⺮, たけかんむり, above 立, a historical sound component · **Status:** Assisted encounter.",
+            "**Character:** 間 · **Meaning/reading:** interval; ま here, カン in 時間 · **Radical/components:** 門, もんがまえ, surrounding 日 · **Status:** Formal review from Mito."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**笠間 / かさま**. 笠 contains the newly studied 立 without itself meaning “stand.” Its かさ is the hat word; **傘 / かさ**, umbrella, is a different helped spelling and remains unscored. Learn 間's ま in the name and かん in 時間 by whole-word context."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_笠",
+            "kanji_間"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_take"
+        }
+      ]
+    },
+    {
+      "id": "kasama_c03",
+      "title": "作: make",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**作る / つくる — make; 作ります / つくります.** 作 has person radical 亻, にんべん, beside 乍, a sound-related component. It differs from yesterday's waiting radical 彳. We do not derive the modern meaning by inventing a story about each stroke."
+        },
+        {
+          "type": "text",
+          "text": "**お皿を作ります。** おさらを つくります。 — I make a plate."
+        },
+        {
+          "type": "text",
+          "text": "**ご飯を作ります。** ごはんを つくります。 — I prepare a meal/cook rice."
+        },
+        {
+          "type": "text",
+          "text": "**作文 / さくぶん — a composition**, a useful compound of 作 and 文. つくる and さく are word-specific readings, not interchangeable pronunciations of the same word."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c04",
+      "title": "使: use",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**使う / つかう — use; 使います / つかいます.** 使 has 亻, にんべん, with 吏 on the right. The right part helps recognition; its historical structure is more complex than a direct modern gloss. Do not confuse 作る's つくる with 使う's つかう."
+        },
+        {
+          "type": "text",
+          "text": "**このお皿を使います。** このおさらを つかいます。 — I use this plate."
+        },
+        {
+          "type": "text",
+          "text": "**日本語を使います。** にほんごを つかいます。 — I use Japanese."
+        },
+        {
+          "type": "text",
+          "text": "The object used takes を. **使いません / つかいません** denies use; it does not by itself say the speaker lacks the ability to use it."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c05",
+      "title": "Four polite forms for both actions",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Verb:** 作る / つくる · **Nonpast:** 作ります / つくります · **Negative:** 作りません / つくりません · **Past:** 作りました / つくりました · **Past negative:** 作りませんでした / つくりませんでした",
+            "**Verb:** 使う / つかう · **Nonpast:** 使います / つかいます · **Negative:** 使いません / つかいません · **Past:** 使いました / つかいました · **Past negative:** 使いませんでした / つかいませんでした"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**昨日、お皿を作りました。** きのう、おさらを つくりました。 — Yesterday I made a plate. A past making action is different from **古いお皿**, an old plate. The object's adjective and the action's tense belong to separate parts of the sentence."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c06",
+      "title": "Invitation and agreement",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**いっしょにお皿を作りませんか。** いっしょに おさらを つくりませんか。 — Would you like to make a plate together?"
+        },
+        {
+          "type": "text",
+          "text": "**はい、作りましょう。** はい、つくりましょう。 — Yes, let's make one."
+        },
+        {
+          "type": "text",
+          "text": "**このお皿を使いましょう。** このおさらを つかいましょう。 — Let's use this plate."
+        },
+        {
+          "type": "text",
+          "text": "作ります→作りませんか / 作りましょう; 使います→使いましょう. Keep the polite stem rather than attaching ましょう directly to 作る or 使う. These are suggestions for our fictional companions, not instructions to remove someone else's property."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c07",
+      "title": "A few useful objects and compounds",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**お皿 / おさら — plate; 茶碗 / ちゃわん — rice bowl/tea bowl according to context; 作文 / さくぶん — composition; 使い方 / つかいかた — way of using/how to use.** 皿/碗/方 are helped encounters. 使い方 is introduced as a whole noun; productive stem＋方 grammar is for later expansion."
+        },
+        {
+          "type": "text",
+          "text": "**これは私の茶碗です。** これは わたしの ちゃわんです。 — This is my bowl."
+        },
+        {
+          "type": "text",
+          "text": "**作文を読みます。** さくぶんを よみます。 — I read a composition."
+        },
+        {
+          "type": "text",
+          "text": "Not every useful word must be a pottery word. The point is to connect one studied character to practical vocabulary beyond the location."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c08",
+      "title": "Point, object and activity place",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**午後二時に店でお皿を作ります。** ごごにじに みせで おさらを つくります。 — At 2 PM I make a plate at the shop."
+        },
+        {
+          "type": "text",
+          "text": "**一時間作ります。** いちじかん つくります。 — I spend one hour making it."
+        },
+        {
+          "type": "text",
+          "text": "Identify に for the time point, で for the activity location and を for the object. The duration has no time-point に in this model. We do not infer how long the real pottery process, including firing, takes from this invented sentence."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c09",
+      "title": "Helped notebook task",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Read: **今週の土曜日、午前十時に笠間で会います。** こんしゅうの どようび、ごぜんじゅうじに かさまで あいます。 — This Saturday we meet in Kasama at 10 AM."
+        },
+        {
+          "type": "text",
+          "text": "Then add: **二時間お皿を作ります。** にじかん おさらを つくります。 — We spend two hours making plates."
+        },
+        {
+          "type": "text",
+          "text": "The schedule belongs to our imaginary notebook. 月/曜/時/間 each carries a different calendar/time function. Reread it first for meaning, then say just the place, weekday, time point and duration separately."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c10",
+      "title": "Making dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: 何を作りますか。** なにを つくりますか。 — What will you make?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 小さいお皿を作ります。** ちいさい おさらを つくります。 — I will make a small plate."
+        },
+        {
+          "type": "text",
+          "text": "**A: この茶碗を使いませんか。** このちゃわんを つかいませんか。 — Would you like to use this bowl?"
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、使いましょう。** はい、つかいましょう。 — Yes, let's use it."
+        },
+        {
+          "type": "text",
+          "text": "何を asks about the object. The agreement uses the same verb as the suggestion. Do not answer a plate-size question with a train-exit direction."
+        }
+      ]
+    },
+    {
+      "id": "kasama_c11",
+      "title": "Practice: make or use?",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 笠間, 作る, 使う, 作文. **Answers:** かさま; つくる; つかう; さくぶん.",
+            "Which radical links 作 and 使? **Answer:** 亻/人.",
+            "Give 作る's polite past. **Answer:** 作りました / つくりました.",
+            "Invite someone to make a plate. **Model:** お皿を作りませんか。",
+            "What is the difference between 二時 and 二時間? **Answer:** 2 o'clock versus two hours.",
+            "Does 日本語を使いません necessarily mean “cannot use Japanese”? **Answer:** No; it says I do not/will not use Japanese in context."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kasama_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "笠間 is かさま. Its 笠 has bamboo over the sound component 立; 間 is the same studied character as 時間. 作る is make, 使う is use. Both have 亻. Use known polite stems for past forms and invitations. A useful compound may have a different reading from the verb, as in 作文 / さくぶん."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “Let's make a small plate.” **Model:** 小さいお皿を作りましょう。 ちいさい おさらを つくりましょう。 Finish Ibaraki's reading and test before moving to 栃木."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_作",
+            "kanji_使"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_小さい"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_使う"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_時間"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_笠間"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_作る"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_作文"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_お皿"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_栃木"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Kasama complete",
+    "nextText": "Next: Ibaraki Reading Journey"
+  }
+}

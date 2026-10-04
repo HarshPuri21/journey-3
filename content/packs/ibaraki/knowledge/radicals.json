@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_kan",
+      "char": "干",
+      "name": "かん",
+      "nameRomaji": "kan",
+      "meanings": [
+        "dry; shield-derived family"
+      ],
+      "note": "Selected indexing family for 年; modern strokes are recognition material.",
+      "exampleKanji": [
+        "kanji_年"
+      ]
+    },
+    {
+      "id": "radical_take",
+      "char": "⺮",
+      "name": "たけかんむり",
+      "nameRomaji": "take",
+      "meanings": [
+        "bamboo"
+      ],
+      "note": "Top form of 竹 in 筑 and 笠; do not infer name readings from bamboo.",
+      "exampleKanji": [
+        "kanji_筑",
+        "kanji_笠"
+      ]
+    },
+    {
+      "id": "radical_nishi",
+      "char": "西",
+      "name": "にし",
+      "nameRomaji": "nishi",
+      "meanings": [
+        "west"
+      ],
+      "note": "Whole 西 indexing family; different from 酉.",
+      "exampleKanji": [
+        "kanji_西"
+      ]
+    },
+    {
+      "id": "radical_tatsu",
+      "char": "立",
+      "name": "たつ",
+      "nameRomaji": "tatsu",
+      "meanings": [
+        "stand"
+      ],
+      "note": "Whole standing-derived form, also visible inside 笠.",
+      "exampleKanji": [
+        "kanji_立"
+      ]
+    },
+    {
+      "id": "radical_gyouninben",
+      "char": "彳",
+      "name": "ぎょうにんべん",
+      "nameRomaji": "gyouninben",
+      "meanings": [
+        "step; movement family"
+      ],
+      "note": "Left radical in 待; contrast 亻 in 作/使/休.",
+      "exampleKanji": [
+        "kanji_待"
+      ]
+    },
+    {
+      "id": "radical_shika",
+      "char": "鹿",
+      "name": "しか",
+      "nameRomaji": "shika",
+      "meanings": [
+        "deer"
+      ],
+      "note": "Whole 鹿 family, not 广 despite the roof-like top.",
+      "exampleKanji": [
+        "kanji_鹿"
+      ]
+    },
+    {
+      "id": "radical_nabebuta",
+      "char": "亠",
+      "name": "なべぶた",
+      "nameRomaji": "nabebuta",
+      "meanings": [
+        "lid-shaped top"
+      ],
+      "note": "Selected indexing family in 京; visible 口 and lower small strokes are other recognition pieces.",
+      "exampleKanji": [
+        "kanji_京"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "hakodate",
+ "name": "函館",
+ "nameEn": "Hakodate",
+ "reading": "はこだて",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/sapporo"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "hakodate_l01",
+   "file": "lessons/hakodate_l01.json"
+  }
+ ]
+}

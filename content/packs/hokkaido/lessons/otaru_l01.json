@@ -1,0 +1,884 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "otaru_l01",
+  "number": 4,
+  "title": "Otaru",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_樽",
+    "kanji_曜",
+    "kanji_今"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Otaru",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{小樽|おたる}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "おたる"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Otaru"
+        },
+        {
+          "type": "text",
+          "text": "Otaru is a historic port city on the Sea of Japan coast. Its canal and historic warehouses make it one of Hokkaido's recognizable destinations."
+        },
+        {
+          "type": "text",
+          "text": "Look at the name:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "小"
+        },
+        {
+          "type": "text",
+          "text": "**しょう / ちいさい**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "small"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "樽"
+        },
+        {
+          "type": "text",
+          "text": "**たる**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "barrel"
+        },
+        {
+          "type": "text",
+          "text": "Together:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{小樽|おたる}"
+        },
+        {
+          "type": "text",
+          "text": "**おたる**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Otaru"
+        }
+      ]
+    },
+    {
+      "id": "inside_otaru",
+      "title": "Inside 小樽",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {小樽|おたる}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_小",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_樽",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_shou"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ki"
+        },
+        {
+          "type": "callout",
+          "text": "小 is its own radical. 樽 carries 木 (wood) - the same component you met in 札. Barrels were made of wood. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "小",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "小"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ちいさい"
+        },
+        {
+          "type": "text",
+          "text": "**chiisai**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "small"
+        },
+        {
+          "type": "text",
+          "text": "You will encounter this word often."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{小さい|ちいさい}{町|まち}"
+        },
+        {
+          "type": "text",
+          "text": "**ちいさい まち**"
+        },
+        {
+          "type": "text",
+          "text": "**chiisai machi**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "small town"
+        },
+        {
+          "type": "text",
+          "text": "Notice:"
+        },
+        {
+          "type": "text",
+          "text": "**{小さい|ちいさい}**"
+        },
+        {
+          "type": "text",
+          "text": "is a Japanese adjective."
+        },
+        {
+          "type": "text",
+          "text": "We will build more adjectives throughout the Journey."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_小さい"
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "The Week Begins with 日",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{日|ひ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "にち / ひ / か"
+        },
+        {
+          "type": "text",
+          "text": "The character originally relates to the sun."
+        },
+        {
+          "type": "text",
+          "text": "It can mean:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "sun / day"
+        },
+        {
+          "type": "text",
+          "text": "Now combine it with:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{曜日|ようび}"
+        },
+        {
+          "type": "text",
+          "text": "**ようび**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "day of the week"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{日曜日|にちようび}"
+        },
+        {
+          "type": "text",
+          "text": "**にちようび**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Sunday"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_日",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_曜日"
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "The Seven Weekday Kanji",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Japanese weekday names use seven important kanji:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{月|つき}"
+        },
+        {
+          "type": "text",
+          "text": "**げつ**"
+        },
+        {
+          "type": "text",
+          "text": "Monday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{火|ひ}"
+        },
+        {
+          "type": "text",
+          "text": "**か**"
+        },
+        {
+          "type": "text",
+          "text": "Tuesday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{水|みず}"
+        },
+        {
+          "type": "text",
+          "text": "**すい**"
+        },
+        {
+          "type": "text",
+          "text": "Wednesday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{木|き}"
+        },
+        {
+          "type": "text",
+          "text": "**もく**"
+        },
+        {
+          "type": "text",
+          "text": "Thursday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{金|かね}"
+        },
+        {
+          "type": "text",
+          "text": "**きん**"
+        },
+        {
+          "type": "text",
+          "text": "Friday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{土|つち}"
+        },
+        {
+          "type": "text",
+          "text": "**ど**"
+        },
+        {
+          "type": "text",
+          "text": "Saturday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{日|ひ}"
+        },
+        {
+          "type": "text",
+          "text": "**にち**"
+        },
+        {
+          "type": "text",
+          "text": "Sunday"
+        },
+        {
+          "type": "text",
+          "text": "Add:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{曜日|ようび}"
+        },
+        {
+          "type": "text",
+          "text": "**ようび**"
+        },
+        {
+          "type": "text",
+          "text": "and you get:"
+        },
+        {
+          "type": "text",
+          "text": "{月曜日|げつようび}\n{火曜日|かようび}\n{水曜日|すいようび}\n{木曜日|もくようび}\n{金曜日|きんようび}\n{土曜日|どようび}\n{日曜日|にちようび}"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_月",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_火",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_水",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_木",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_金",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_土",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "Why These Kanji?",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The weekday characters correspond to traditional associations:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{月|つき}"
+        },
+        {
+          "type": "text",
+          "text": "moon"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{火|ひ}"
+        },
+        {
+          "type": "text",
+          "text": "fire"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{水|みず}"
+        },
+        {
+          "type": "text",
+          "text": "water"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{木|き}"
+        },
+        {
+          "type": "text",
+          "text": "wood/tree"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{金|かね}"
+        },
+        {
+          "type": "text",
+          "text": "metal/gold"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{土|つち}"
+        },
+        {
+          "type": "text",
+          "text": "earth"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{日|ひ}"
+        },
+        {
+          "type": "text",
+          "text": "sun"
+        },
+        {
+          "type": "text",
+          "text": "This is a beautiful example of kanji carrying meaning even inside everyday words."
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "What Day Is It?",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{今日|きょう}は{何曜日|なんようび}ですか。"
+        },
+        {
+          "type": "text",
+          "text": "**きょうは なんようびですか。**"
+        },
+        {
+          "type": "text",
+          "text": "**Kyō wa nan-yōbi desu ka?**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "What day is it today?"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{月曜日|げつようび}です。"
+        },
+        {
+          "type": "text",
+          "text": "**げつようびです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Getsuyōbi desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "It's Monday."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_otaru_weekday"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_otaru_monday"
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "何",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{何|なに}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "なに / なん"
+        },
+        {
+          "type": "text",
+          "text": "**nani / nan**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "what"
+        },
+        {
+          "type": "text",
+          "text": "You have just seen:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{何曜日|なんようび}"
+        },
+        {
+          "type": "text",
+          "text": "**なんようび**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "what day of the week?"
+        },
+        {
+          "type": "text",
+          "text": "This is an important N5 question word."
+        },
+        {
+          "type": "text",
+          "text": "You will encounter:"
+        },
+        {
+          "type": "text",
+          "text": "{何|なに}ですか\nWhat is it?"
+        },
+        {
+          "type": "text",
+          "text": "{何人|なんにん}\nHow many people?"
+        },
+        {
+          "type": "text",
+          "text": "{何時|なんじ}\nWhat time?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_何",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_08",
+      "title": "Otaru Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{小樽|おたる}は{北海道|ほっかいどう}の{町|まち}です。"
+        },
+        {
+          "type": "text",
+          "text": "**おたるは ほっかいどうの まちです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Otaru wa Hokkaidō no machi desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Otaru is a city in Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "And:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{小樽|おたる}はきれいです。"
+        },
+        {
+          "type": "text",
+          "text": "**おたるは きれいです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Otaru wa kirei desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Otaru is beautiful."
+        },
+        {
+          "type": "text",
+          "text": "Here we introduce a **な-adjective**:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "きれい"
+        },
+        {
+          "type": "text",
+          "text": "beautiful / clean"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_otaru_location"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_otaru_beautiful"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_na_adjective"
+        }
+      ]
+    },
+    {
+      "id": "card_09",
+      "title": "Mini Question",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Which one means Wednesday?"
+        },
+        {
+          "type": "text",
+          "text": "A. {月曜日|げつようび}\nB. {火曜日|かようび}\nC. {水曜日|すいようび}\nD. {木曜日|もくようび}"
+        },
+        {
+          "type": "text",
+          "text": "Answer:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "C — {水曜日|すいようび}"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "{小樽|おたる} — おたる — Otaru"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "小 — small\n樽 — barrel"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Weekdays"
+        },
+        {
+          "type": "text",
+          "text": "{月曜日|げつようび} — げつようび — Monday\n{火曜日|かようび} — かようび — Tuesday\n{水曜日|すいようび} — すいようび — Wednesday\n{木曜日|もくようび} — もくようび — Thursday\n{金曜日|きんようび} — きんようび — Friday\n{土曜日|どようび} — どようび — Saturday\n{日曜日|にちようび} — にちようび — Sunday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "{今日|きょう} — きょう — today\n{何|なに} — なに / なん — what\n{曜日|ようび} — ようび — weekday"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "**{今日|きょう}は{何曜日|なんようび}ですか。**"
+        },
+        {
+          "type": "text",
+          "text": "What day is it today?"
+        }
+      ]
+    }
+  ],
+  "goal": "Learn 小・樽 Introduce the seven weekday kanji Learn 月・火・水・木・金・土・日 Understand ようび Introduce basic time/day expressions",
+  "estimatedMinutes": 20,
+  "coreKanji": [
+    "kanji_小",
+    "kanji_日",
+    "kanji_月",
+    "kanji_火",
+    "kanji_水",
+    "kanji_木",
+    "kanji_金",
+    "kanji_土",
+    "kanji_何"
+  ],
+  "completion": {
+    "title": "Otaru complete",
+    "nextText": "Next: Asahikawa",
+    "nextChapter": "hokkaido/asahikawa"
+  }
+}

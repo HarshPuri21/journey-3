@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_茶",
+      "char": "茶",
+      "meanings": [
+        "tea"
+      ],
+      "onyomi": [
+        "チャ",
+        "サ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_kusakanmuri",
+          "role": "classifier",
+          "note": "艹 above person-like middle and tree-like lower strokes. 茶/お茶 is the taught word, not a sum-of-pieces definition."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "艹 above person-like middle and tree-like lower strokes. 茶/お茶 is the taught word, not a sum-of-pieces definition."
+    },
+    {
+      "id": "kanji_肉",
+      "char": "肉",
+      "meanings": [
+        "meat",
+        "flesh"
+      ],
+      "onyomi": [
+        "ニク"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_niku",
+          "role": "classifier",
+          "note": "Whole 肉 radical with enclosed inner strokes; distinguish the shape from 内."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 肉 radical with enclosed inner strokes; distinguish the shape from 内."
+    },
+    {
+      "id": "kanji_牛",
+      "char": "牛",
+      "meanings": [
+        "cow",
+        "cattle"
+      ],
+      "onyomi": [
+        "ギュウ"
+      ],
+      "kunyomi": [
+        "うし"
+      ],
+      "components": [
+        {
+          "radical": "radical_ushi",
+          "role": "classifier",
+          "note": "Whole 牛 character; left-side 牜 is already known from 物. Standalone うし; 牛肉 / ぎゅうにく."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_物"
+      ],
+      "notes": "Whole 牛 character; left-side 牜 is already known from 物. Standalone うし; 牛肉 / ぎゅうにく."
+    },
+    {
+      "id": "kanji_果",
+      "char": "果",
+      "meanings": [
+        "fruit",
+        "result"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "Modern upper 田-like part above 木; selected 木. Learn whole 果物 / くだもの."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_物"
+      ],
+      "notes": "Modern upper 田-like part above 木; selected 木. Learn whole 果物 / くだもの."
+    },
+    {
+      "id": "kanji_鶏",
+      "char": "鶏",
+      "meanings": [
+        "chicken"
+      ],
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [
+        "にわとり"
+      ],
+      "components": [
+        {
+          "radical": "radical_tori",
+          "role": "classifier",
+          "note": "鳥 on the right of a more complex left section; assisted 鶏肉 / とりにく. Distinguish live 鳥 from prepared meat."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "鳥 on the right of a more complex left section; assisted 鶏肉 / とりにく. Distinguish live 鳥 from prepared meat."
+    },
+    {
+      "id": "kanji_津",
+      "char": "津",
+      "meanings": [
+        "harbour"
+      ],
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "つ"
+      ],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "classifier",
+          "note": "氵 beside 聿, historical sound material. Whole 会津 uses あいづ, not あいつ or guessed かいつ."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "氵 beside 聿, historical sound material. Whole 会津 uses あいづ, not あいつ or guessed かいつ."
+    },
+    {
+      "id": "kanji_若",
+      "char": "若",
+      "meanings": [
+        "young"
+      ],
+      "onyomi": [
+        "ジャク"
+      ],
+      "kunyomi": [
+        "わか"
+      ],
+      "components": [
+        {
+          "radical": "radical_kusakanmuri",
+          "role": "classifier",
+          "note": "艹 above a modern 右-like section. Name 会津若松 / あいづわかまつ remains a whole word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "艹 above a modern 右-like section. Name 会津若松 / あいづわかまつ remains a whole word."
+    },
+    {
+      "id": "kanji_族",
+      "char": "族",
+      "meanings": [
+        "family",
+        "clan"
+      ],
+      "onyomi": [
+        "ゾク"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_hou",
+          "role": "classifier",
+          "note": "方 beside a right-hand section containing 矢; assisted whole 家族 / かぞく."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "方 beside a right-hand section containing 矢; assisted whole 家族 / かぞく."
+    },
+    {
+      "id": "kanji_親",
+      "char": "親",
+      "meanings": [
+        "parent"
+      ],
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "おや"
+      ],
+      "components": [
+        {
+          "radical": "radical_miru",
+          "role": "classifier",
+          "note": "見 on the right beside a complex 立/木-like left section; assisted 父親/母親."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "見 on the right beside a complex 立/木-like left section; assisted 父親/母親."
+    },
+    {
+      "id": "kanji_父",
+      "char": "父",
+      "meanings": [
+        "father"
+      ],
+      "onyomi": [
+        "フ"
+      ],
+      "kunyomi": [
+        "ちち"
+      ],
+      "components": [
+        {
+          "radical": "radical_chichi",
+          "role": "classifier",
+          "note": "Whole 父 radical. Own-family description commonly uses ちち; お父さん / おとうさん is a separate whole term."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 父 radical. Own-family description commonly uses ちち; お父さん / おとうさん is a separate whole term."
+    },
+    {
+      "id": "kanji_母",
+      "char": "母",
+      "meanings": [
+        "mother"
+      ],
+      "onyomi": [
+        "ボ"
+      ],
+      "kunyomi": [
+        "はは"
+      ],
+      "components": [
+        {
+          "radical": "radical_haha",
+          "role": "classifier",
+          "note": "Selected 毋/母 family; internal marks distinguish 母 from 毎. お母さん / おかあさん has the long かあ."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Selected 毋/母 family; internal marks distinguish 母 from 毎. お母さん / おかあさん has the long かあ."
+    },
+    {
+      "id": "kanji_子",
+      "char": "子",
+      "meanings": [
+        "child"
+      ],
+      "onyomi": [
+        "シ",
+        "ス"
+      ],
+      "kunyomi": [
+        "こ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ko",
+          "role": "classifier",
+          "note": "Whole child-derived 子 radical, already visible inside 字 and later 学. Taught ordinary noun 子ども / こども."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_字"
+      ],
+      "notes": "Whole child-derived 子 radical, already visible inside 字 and later 学. Taught ordinary noun 子ども / こども."
+    },
+    {
+      "id": "kanji_学",
+      "char": "学",
+      "meanings": [
+        "learn",
+        "study"
+      ],
+      "onyomi": [
+        "ガク"
+      ],
+      "kunyomi": [
+        "まな"
+      ],
+      "components": [
+        {
+          "radical": "radical_ko",
+          "role": "classifier",
+          "note": "子 below 冖-like cover and three upper small strokes. Cover is not 宀. 学生 / がくせい; 学校 / がっこう."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_字",
+        "kanji_校"
+      ],
+      "notes": "子 below 冖-like cover and three upper small strokes. Cover is not 宀. 学生 / がくせい; 学校 / がっこう."
+    },
+    {
+      "id": "kanji_校",
+      "char": "校",
+      "meanings": [
+        "school"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 beside 交, a historical sound element. 学校 has small っ and long こう; not a claim about wooden buildings."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_学"
+      ],
+      "notes": "木 beside 交, a historical sound element. 学校 has small っ and long こう; not a claim about wooden buildings."
+    },
+    {
+      "id": "kanji_先",
+      "char": "先",
+      "meanings": [
+        "ahead",
+        "before"
+      ],
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "さき"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitoashi",
+          "role": "classifier",
+          "note": "Upper earth/step-like strokes above two lower 儿 legs; selected 儿. Teacher word 先生 / せんせい."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_生"
+      ],
+      "notes": "Upper earth/step-like strokes above two lower 儿 legs; selected 儿. Teacher word 先生 / せんせい."
+    },
+    {
+      "id": "kanji_郡",
+      "char": "郡",
+      "meanings": [
+        "district"
+      ],
+      "onyomi": [
+        "グン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_oozato",
+          "role": "classifier",
+          "note": "Right-side 阝, form of 邑, beside 君 as historical sound material. Whole 郡山 / こおりやま has the long おお."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Right-side 阝, form of 邑, beside 君 as historical sound material. Whole 郡山 / こおりやま has the long おお."
+    },
+    {
+      "id": "kanji_国",
+      "char": "国",
+      "meanings": [
+        "country"
+      ],
+      "onyomi": [
+        "コク"
+      ],
+      "kunyomi": [
+        "くに"
+      ],
+      "components": [
+        {
+          "radical": "radical_kunigamae",
+          "role": "classifier",
+          "note": "囗 encloses modern 玉. Differentiate larger surrounding 囗 from standalone 口."
+        },
+        {
+          "radical": "radical_tama",
+          "role": "shape",
+          "note": "囗 encloses modern 玉. Differentiate larger surrounding 囗 from standalone 口."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_外"
+      ],
+      "notes": "囗 encloses modern 玉. Differentiate larger surrounding 囗 from standalone 口."
+    },
+    {
+      "id": "kanji_語",
+      "char": "語",
+      "meanings": [
+        "language",
+        "word"
+      ],
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "かた"
+      ],
+      "components": [
+        {
+          "radical": "radical_gonben",
+          "role": "classifier",
+          "note": "言 beside 吾 (五/口 visible), historical sound structure. Learn 日本語 / にほんご and 英語 / えいご."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_言",
+        "kanji_話"
+      ],
+      "notes": "言 beside 吾 (五/口 visible), historical sound structure. Learn 日本語 / にほんご and 英語 / えいご."
+    },
+    {
+      "id": "kanji_言",
+      "char": "言",
+      "meanings": [
+        "say",
+        "word"
+      ],
+      "onyomi": [
+        "ゲン",
+        "ゴン"
+      ],
+      "kunyomi": [
+        "い"
+      ],
+      "components": [
+        {
+          "radical": "radical_gonben",
+          "role": "classifier",
+          "note": "Whole 言 speech radical with stacked upper strokes and lower 口; 言う / いう and 言います / いいます."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_語",
+        "kanji_話"
+      ],
+      "notes": "Whole 言 speech radical with stacked upper strokes and lower 口; 言う / いう and 言います / いいます."
+    },
+    {
+      "id": "kanji_英",
+      "char": "英",
+      "meanings": [
+        "English",
+        "England-related"
+      ],
+      "onyomi": [
+        "エイ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_kusakanmuri",
+          "role": "classifier",
+          "note": "艹 above 央-like material; assisted in 英語 / えいご."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "艹 above 央-like material; assisted in 英語 / えいご."
+    },
+    {
+      "id": "kanji_全",
+      "char": "全",
+      "meanings": [
+        "whole",
+        "all"
+      ],
+      "onyomi": [
+        "ゼン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_nyuu",
+          "role": "classifier",
+          "note": "Selected 入 indexing family; educational form has a 人-like upper cover above 王-like lower shape. Assisted whole 全然 / ぜんぜん in the taught negative pattern."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Selected 入 indexing family; educational form has a 人-like upper cover above 王-like lower shape. Assisted whole 全然 / ぜんぜん in the taught negative pattern."
+    },
+    {
+      "id": "kanji_然",
+      "char": "然",
+      "meanings": [
+        "so",
+        "thus"
+      ],
+      "onyomi": [
+        "ゼン",
+        "ネン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_rekka",
+          "role": "classifier",
+          "note": "Modern upper flesh/犬-like material above 灬. Assisted in 全然, not a formal independent assignment."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Modern upper flesh/犬-like material above 灬. Assisted in 全然, not a formal independent assignment."
+    },
+    {
+      "id": "kanji_磐",
+      "char": "磐",
+      "meanings": [
+        "large rock"
+      ],
+      "onyomi": [
+        "ハン",
+        "バン"
+      ],
+      "kunyomi": [
+        "いわ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ishi",
+          "role": "classifier",
+          "note": "石 below 般, historical sound component with 舟-like/殳-like shapes. Historical regional 磐城 / いわき does not replace official いわき市."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_岩",
+        "kanji_城"
+      ],
+      "notes": "石 below 般, historical sound component with 舟-like/殳-like shapes. Historical regional 磐城 / いわき does not replace official いわき市."
+    },
+    {
+      "id": "kanji_茨",
+      "char": "茨",
+      "meanings": [
+        "thorn",
+        "briar"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "いばら"
+      ],
+      "components": [
+        {
+          "radical": "radical_kusakanmuri",
+          "role": "classifier",
+          "note": "艹 above 次-like material; assisted next-name 茨城 / いばらき, not a formal assignment."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "艹 above 次-like material; assisted next-name 茨城 / いばらき, not a formal assignment."
+    },
+    {
+      "id": "kanji_教",
+      "char": "教",
+      "meanings": [
+        "teach"
+      ],
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "おし"
+      ],
+      "components": [
+        {
+          "radical": "radical_boku_action",
+          "role": "classifier",
+          "note": "子/孝-like left material beside 攵. Assisted 教室."
+        }
+      ],
+      "notes": "Assisted whole-word spelling; not a formal assignment. 子/孝-like left material beside 攵. Assisted 教室."
+    },
+    {
+      "id": "kanji_室",
+      "char": "室",
+      "meanings": [
+        "room"
+      ],
+      "onyomi": [
+        "シツ"
+      ],
+      "kunyomi": [
+        "むろ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukanmuri",
+          "role": "classifier",
+          "note": "宀 above 至-like strokes. Assisted 教室."
+        }
+      ],
+      "notes": "Assisted whole-word spelling; not a formal assignment. 宀 above 至-like strokes. Assisted 教室."
+    }
+  ]
+}

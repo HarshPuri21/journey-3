@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "kashima",
+  "name": "鹿嶋",
+  "nameEn": "Kashima",
+  "reading": "かしま",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "ibaraki/hitachi"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "kashima_l01",
+      "file": "lessons/kashima_l01.json"
+    }
+  ]
+}

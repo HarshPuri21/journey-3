@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "hanamaki",
+  "name": "花巻",
+  "nameEn": "Hanamaki",
+  "reading": "はなまき",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "iwate/hiraizumi"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "hanamaki_l01",
+      "file": "lessons/hanamaki_l01.json"
+    }
+  ]
+}

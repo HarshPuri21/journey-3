@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_no",
+      "char": "丿",
+      "name": "の",
+      "nameRomaji": "no",
+      "meanings": [
+        "slanting stroke"
+      ],
+      "note": "Selected indexing family for 乗, despite its central 禾-like outline.",
+      "exampleKanji": [
+        "kanji_乗"
+      ]
+    },
+    {
+      "id": "radical_shikabane",
+      "char": "尸",
+      "name": "しかばね",
+      "nameRomaji": "shikabane",
+      "meanings": [
+        "body-shaped cover"
+      ],
+      "note": "Selected indexing family for 屋 in assisted 部屋.",
+      "exampleKanji": [
+        "kanji_屋"
+      ]
+    },
+    {
+      "id": "radical_gatsuhen",
+      "char": "歹",
+      "name": "がつへん",
+      "nameRomaji": "gatsuhen",
+      "meanings": [
+        "death-related family"
+      ],
+      "note": "Left component of assisted 死 in the explicitly taught ぬ→んで family example.",
+      "exampleKanji": [
+        "kanji_死"
+      ]
+    },
+    {
+      "id": "radical_chikara",
+      "char": "力",
+      "name": "ちから",
+      "nameRomaji": "chikara",
+      "meanings": [
+        "power"
+      ],
+      "note": "Indexing family in 勉, assisted in the taught irregular 勉強する.",
+      "exampleKanji": [
+        "kanji_勉"
+      ]
+    }
+  ]
+}

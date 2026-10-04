@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_盛",
+      "char": "盛",
+      "meanings": [
+        "pile up",
+        "flourish"
+      ],
+      "onyomi": [
+        "セイ",
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "も",
+        "さか"
+      ],
+      "components": [
+        {
+          "radical": "radical_sara",
+          "role": "classifier",
+          "note": "皿 below 成; selected 皿, upper 成 explained as historical sound material. Whole 盛岡 / もりおか is an assisted name."
+        },
+        {
+          "radical": "radical_naru",
+          "role": "sound",
+          "note": "皿 below 成; selected 皿, upper 成 explained as historical sound material. Whole 盛岡 / もりおか is an assisted name."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "皿 below 成; selected 皿, upper 成 explained as historical sound material. Whole 盛岡 / もりおか is an assisted name."
+    },
+    {
+      "id": "kanji_岡",
+      "char": "岡",
+      "meanings": [
+        "hill"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "おか"
+      ],
+      "components": [
+        {
+          "radical": "radical_yama",
+          "role": "classifier",
+          "note": "山 inside a surrounding frame and upper strokes; selected 山. Read whole 盛岡."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "山 inside a surrounding frame and upper strokes; selected 山. Read whole 盛岡."
+    },
+    {
+      "id": "kanji_上",
+      "char": "上",
+      "meanings": [
+        "above",
+        "on top"
+      ],
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "うえ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ichi",
+          "role": "classifier",
+          "note": "Horizontal baseline with upper vertical/short stroke; selected 一. Learn positions relative to the named object."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_下"
+      ],
+      "notes": "Horizontal baseline with upper vertical/short stroke; selected 一. Learn positions relative to the named object."
+    },
+    {
+      "id": "kanji_下",
+      "char": "下",
+      "meanings": [
+        "below",
+        "underneath"
+      ],
+      "onyomi": [
+        "カ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "した"
+      ],
+      "components": [
+        {
+          "radical": "radical_ichi",
+          "role": "classifier",
+          "note": "Top horizontal with vertical/downward side stroke; selected 一. Contrast 上."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_上"
+      ],
+      "notes": "Top horizontal with vertical/downward side stroke; selected 一. Contrast 上."
+    },
+    {
+      "id": "kanji_外",
+      "char": "外",
+      "meanings": [
+        "outside"
+      ],
+      "onyomi": [
+        "ガイ",
+        "ゲ"
+      ],
+      "kunyomi": [
+        "そと"
+      ],
+      "components": [
+        {
+          "radical": "radical_yuube",
+          "role": "classifier",
+          "note": "夕 beside 卜; selected 夕. Components are recognition aids, not a literal outside definition."
+        },
+        {
+          "radical": "radical_boku",
+          "role": "shape",
+          "note": "夕 beside 卜; selected 夕. Components are recognition aids, not a literal outside definition."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_中"
+      ],
+      "notes": "夕 beside 卜; selected 夕. Components are recognition aids, not a literal outside definition."
+    },
+    {
+      "id": "kanji_左",
+      "char": "左",
+      "meanings": [
+        "left"
+      ],
+      "onyomi": [
+        "サ"
+      ],
+      "kunyomi": [
+        "ひだり"
+      ],
+      "components": [
+        {
+          "radical": "radical_takumi",
+          "role": "classifier",
+          "note": "𠂇-like top over 工; selected 工. Relative position needs a reference object."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_右"
+      ],
+      "notes": "𠂇-like top over 工; selected 工. Relative position needs a reference object."
+    },
+    {
+      "id": "kanji_右",
+      "char": "右",
+      "meanings": [
+        "right"
+      ],
+      "onyomi": [
+        "ウ",
+        "ユウ"
+      ],
+      "kunyomi": [
+        "みぎ"
+      ],
+      "components": [
+        {
+          "radical": "radical_kuchi",
+          "role": "classifier",
+          "note": "𠂇-like top over 口; selected 口. Contrast 左."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_左"
+      ],
+      "notes": "𠂇-like top over 口; selected 口. Contrast 左."
+    },
+    {
+      "id": "kanji_平",
+      "char": "平",
+      "meanings": [
+        "flat",
+        "level"
+      ],
+      "onyomi": [
+        "ヘイ",
+        "ビョウ"
+      ],
+      "kunyomi": [
+        "ひら",
+        "たい"
+      ],
+      "components": [
+        {
+          "radical": "radical_ichi",
+          "role": "classifier",
+          "note": "Horizontal/paired upper strokes crossed by a vertical; selected 一. Whole 平泉 / ひらいずみ is assisted."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_泉"
+      ],
+      "notes": "Horizontal/paired upper strokes crossed by a vertical; selected 一. Whole 平泉 / ひらいずみ is assisted."
+    },
+    {
+      "id": "kanji_地",
+      "char": "地",
+      "meanings": [
+        "ground",
+        "land"
+      ],
+      "onyomi": [
+        "チ",
+        "ジ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_tsuchi",
+          "role": "classifier",
+          "note": "土 beside 也; selected 土. Assisted in 地図 / ちず."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "土 beside 也; selected 土. Assisted in 地図 / ちず."
+    },
+    {
+      "id": "kanji_寺",
+      "char": "寺",
+      "meanings": [
+        "temple"
+      ],
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "てら"
+      ],
+      "components": [
+        {
+          "radical": "radical_sun",
+          "role": "classifier",
+          "note": "土-like upper shape above 寸; selected 寸. Assisted map word and recognition material in 時."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "土-like upper shape above 寸; selected 寸. Assisted map word and recognition material in 時."
+    },
+    {
+      "id": "kanji_駅",
+      "char": "駅",
+      "meanings": [
+        "station"
+      ],
+      "onyomi": [
+        "エキ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_umahen",
+          "role": "classifier",
+          "note": "馬 beside 尺; selected 馬. Useful assisted station word before later formal promotion."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "馬 beside 尺; selected 馬. Useful assisted station word before later formal promotion."
+    },
+    {
+      "id": "kanji_静",
+      "char": "静",
+      "meanings": [
+        "quiet"
+      ],
+      "onyomi": [
+        "セイ"
+      ],
+      "kunyomi": [
+        "しず"
+      ],
+      "components": [
+        {
+          "radical": "radical_ao",
+          "role": "classifier",
+          "note": "青 beside 争; selected 青. Supported 静か / しずか, a な-adjective."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "青 beside 争; selected 青. Supported 静か / しずか, a な-adjective."
+    },
+    {
+      "id": "kanji_読",
+      "char": "読",
+      "meanings": [
+        "read"
+      ],
+      "onyomi": [
+        "ドク"
+      ],
+      "kunyomi": [
+        "よ"
+      ],
+      "components": [
+        {
+          "radical": "radical_gonben",
+          "role": "classifier",
+          "note": "言 beside 売-like material; selected 言. Supported 読む, later formally taught."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "言 beside 売-like material; selected 言. Supported 読む, later formally taught."
+    },
+    {
+      "id": "kanji_巻",
+      "char": "巻",
+      "meanings": [
+        "roll",
+        "wind"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "ま"
+      ],
+      "components": [
+        {
+          "radical": "radical_fushizukuri",
+          "role": "classifier",
+          "note": "Modern upper bundled strokes above 己-like lower shape; selected 卩 family. Learn whole 花巻 / はなまき."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Modern upper bundled strokes above 己-like lower shape; selected 卩 family. Learn whole 花巻 / はなまき."
+    },
+    {
+      "id": "kanji_友",
+      "char": "友",
+      "meanings": [
+        "friend"
+      ],
+      "onyomi": [
+        "ユウ"
+      ],
+      "kunyomi": [
+        "とも"
+      ],
+      "components": [
+        {
+          "radical": "radical_mata",
+          "role": "classifier",
+          "note": "Upper crossing strokes above 又; selected 又. 友だち is the taught whole word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Upper crossing strokes above 又; selected 又. 友だち is the taught whole word."
+    },
+    {
+      "id": "kanji_私",
+      "char": "私",
+      "meanings": [
+        "I",
+        "private"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "わたし"
+      ],
+      "components": [
+        {
+          "radical": "radical_nogihen",
+          "role": "classifier",
+          "note": "禾 beside 厶; selected 禾. 私たち is assisted group wording."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "禾 beside 厶; selected 禾. 私たち is assisted group wording."
+    },
+    {
+      "id": "kanji_会",
+      "char": "会",
+      "meanings": [
+        "meet"
+      ],
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [
+        "あ"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitoyane",
+          "role": "classifier",
+          "note": "人-like upper cover above 云-like material; selected 人. Word 会う / あう uses the meeting partner に."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "人-like upper cover above 云-like material; selected 人. Word 会う / あう uses the meeting partner に."
+    },
+    {
+      "id": "kanji_宮",
+      "char": "宮",
+      "meanings": [
+        "shrine",
+        "palace"
+      ],
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "みや"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukanmuri",
+          "role": "classifier",
+          "note": "宀 above two linked 口-like forms; selected 宀. Next-name 宮城 remains assisted."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "宀 above two linked 口-like forms; selected 宀. Next-name 宮城 remains assisted."
+    },
+    {
+      "id": "kanji_城",
+      "char": "城",
+      "meanings": [
+        "castle"
+      ],
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "しろ"
+      ],
+      "components": [
+        {
+          "radical": "radical_tsuchi",
+          "role": "classifier",
+          "note": "土 beside 成; selected 土. Used as an assisted character in next-name 宮城 / みやぎ."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "土 beside 成; selected 土. Used as an assisted character in next-name 宮城 / みやぎ."
+    },
+    {
+      "id": "kanji_誰",
+      "char": "誰",
+      "meanings": [
+        "who"
+      ],
+      "onyomi": [],
+      "kunyomi": [
+        "だれ"
+      ],
+      "components": [
+        {
+          "radical": "radical_gonben",
+          "role": "classifier",
+          "note": "言 beside 隹; selected 言. 誰 / だれ is the taught assisted question word."
+        }
+      ],
+      "notes": "Assisted character; not a new core assignment."
+    }
+  ]
+}

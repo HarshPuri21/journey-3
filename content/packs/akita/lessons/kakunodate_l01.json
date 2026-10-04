@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "kakunodate_l01",
+  "number": 2,
+  "title": "Kakunodate — 角館",
+  "goal": "Recognise reading/writing words and distinguish characters from sentences.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_読",
+    "kanji_書",
+    "kanji_文",
+    "kanji_字"
+  ],
+  "encounterKanji": [
+    "kanji_函",
+    "kanji_大",
+    "kanji_日",
+    "kanji_月",
+    "kanji_本",
+    "kanji_漢",
+    "kanji_田",
+    "kanji_短",
+    "kanji_秋",
+    "kanji_紙",
+    "kanji_角",
+    "kanji_食",
+    "kanji_飯",
+    "kanji_館"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A Place for a Short Travel Note",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Kakunodate is known for its preserved samurai-residence district. It is a historic district within present-day Semboku, and remains the fixed location lesson in the course plan. We will read a simple book and write one short travel note; we will not introduce difficult historical titles."
+        },
+        {
+          "type": "text",
+          "text": "**角館で本を読みます。** かくのだてで ほんを よみます。 — I read a book in Kakunodate."
+        },
+        {
+          "type": "text",
+          "text": "読む was assisted in Hiraizumi. Today the spelling becomes formal study, together with the writing words that make a simple notebook activity possible."
+        }
+      ]
+    },
+    {
+      "id": "inside_kakunodate",
+      "title": "Inside 角館",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 角 · **Orientation meaning/reading:** horn; corner/angle; つの/かど, カク · **Radical/components:** 角, つのへん/かく; whole horn-derived form · **Role:** Encounter. Its interior resembles other shapes but is not simply 月.",
+            "**Character:** 館 · **Orientation meaning/reading:** building/hall; カン; だて here · **Radical/components:** 食 in 飠/しょくへん form, plus 官, a historical sound component · **Role:** Review encounter from 函館."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**角館 / かくのだて** is learned as a whole. The name's の and だて cannot be inferred by reading every character in isolation. **函館 / はこだて** and 角館 share 館. The food radical inside a hall character is a knowledge connection, not a requirement that the building must be a restaurant."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_角",
+            "kanji_館"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_shoku"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tsuno"
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c03",
+      "title": "読む Becomes a Formal Word",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**読む / よむ — read; 読みます / よみます — read/will read.** 読 has radical **言**, ごんべん, and a right **売**-shaped section in the modern form. The right side belongs to a historical sound structure; recognise its modern shape rather than defining reading as “selling words.”"
+        },
+        {
+          "type": "text",
+          "text": "**本を読みます。** ほんを よみます。 — I read a book."
+        },
+        {
+          "type": "text",
+          "text": "**この本は読みません。** この ほんは よみません。 — I do not read this book, with the book made the topic."
+        },
+        {
+          "type": "text",
+          "text": "読む/読みました/読みませんでした retain 読 while the kana ending changes. Review the polite verb pattern; we are not teaching a new reading for every inflected form."
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c04",
+      "title": "書く: A New Action",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**書く / かく — write; 書きます / かきます — write/will write.** 書 is indexed under **曰**, ひらび/いわく. The upper **聿**-like brush/hand shape is a recognition and writing-related connection. The lower section resembles 日 but indexing 曰 and ordinary 日 are not automatically the same component."
+        },
+        {
+          "type": "text",
+          "text": "**ノートに書きます。** ノートに かきます。 — I write in a notebook."
+        },
+        {
+          "type": "text",
+          "text": "ノート is a notebook, written in katakana. に marks the surface/place where writing is put, while **角館で書きます** uses で for the location of the writing action. Different nouns lead to different relationships; the lesson gives clear examples rather than a universal rule for every writing context."
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c05",
+      "title": "文: A Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**文 / ぶん — sentence; 短い文 / みじかいぶん — a short sentence.** 短い is assisted vocabulary for this phrase; 短 is not formal study here. 文 is its own radical, ぶん. Recognise the whole crossing shape, not a forced sum of ordinary modern component meanings."
+        },
+        {
+          "type": "text",
+          "text": "**文を読みます。** ぶんを よみます。 — I read a sentence."
+        },
+        {
+          "type": "text",
+          "text": "**文を書きます。** ぶんを かきます。 — I write a sentence."
+        },
+        {
+          "type": "text",
+          "text": "A sentence communicates a complete thought in this activity. Today's examples contain full predicate endings such as です or ました; we do not demand a technical grammar analysis of every kind of Japanese sentence."
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c06",
+      "title": "字: A Character",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**字 / じ — character/letter; 漢字 / かんじ — kanji; 文字 / もじ — character(s), writing.** 漢 is an assisted character inside the familiar whole word 漢字."
+        },
+        {
+          "type": "text",
+          "text": "字 has radical **子**, こ, under **宀**, うかんむり. These are visible recognition pieces. A remembered child-under-roof image is not enough to explain all uses of 字."
+        },
+        {
+          "type": "text",
+          "text": "**この字は大きいです。** この じは おおきいです。 — This character is large."
+        },
+        {
+          "type": "text",
+          "text": "**漢字を書きます。** かんじを かきます。 — I write kanji."
+        },
+        {
+          "type": "text",
+          "text": "Distinguish 文 / ぶん, a sentence, from 字 / じ, a character. A sentence can contain several characters, kana and punctuation. 文字 is もじ as a whole word, not simply the standalone 文 reading plus じ."
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c07",
+      "title": "A Connected Word Pair",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**読書 / どくしょ — reading books.** This is a useful recognition compound of 読 and 書. It gives an on-reading connection; the action **本を読む** still uses よむ."
+        },
+        {
+          "type": "text",
+          "text": "Compare:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "読む / よむ — to read.",
+            "書く / かく — to write.",
+            "読書 / どくしょ — reading books, a noun."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "We do not require する grammar to use the noun here. **これは読書の本です** would describe a book about reading and is not our necessary model. Prefer the already natural **本を読みます** for an action. Recognise a useful compound without forcing it into a sentence that introduces another unexplained construction."
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c08",
+      "title": "Object, Surface and Action Place",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**角館でノートに文を書きました。** かくのだてで ノートに ぶんを かきました。 — I wrote a sentence in a notebook in Kakunodate."
+        },
+        {
+          "type": "text",
+          "text": "Group it: 角館で / ノートに / 文を / 書きました. The place of the activity is marked で; the notebook where the writing is put uses に; the sentence written uses を; the verb gives past time."
+        },
+        {
+          "type": "text",
+          "text": "**紙 / かみ — paper**, with assisted 紙. **紙に字を書きます。** かみに じを かきます。 — I write a character on paper. We teach the whole word, while the difficult character remains helped."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_writing_surface_ni"
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c09",
+      "title": "A Note We Can Already Understand",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Write this fictional diary sentence:"
+        },
+        {
+          "type": "text",
+          "text": "**秋田でご飯を食べました。** あきたで ごはんを たべました。 — I ate a meal in Akita."
+        },
+        {
+          "type": "text",
+          "text": "Then read it: **この文を読みます。** この ぶんを よみます。 — I read this sentence."
+        },
+        {
+          "type": "text",
+          "text": "Identify **秋田**, the place; **で**, action location; **ご飯を**, object; **食べました**, completed action. Writing and reading reinforce the same prior knowledge. We do not insert a difficult word merely to include each new character in one sentence. A useful note can be short and accurate."
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c10",
+      "title": "The Four Endings Return",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Action:** read · **Nonpast:** 読みます · **Negative:** 読みません · **Past:** 読みました · **Past negative:** 読みませんでした",
+            "**Action:** write · **Nonpast:** 書きます · **Negative:** 書きません · **Past:** 書きました · **Past negative:** 書きませんでした"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Readings: よみます/よみません/よみました/よみませんでした; かきます/かきません/かきました/かきませんでした."
+        },
+        {
+          "type": "text",
+          "text": "**本は読みました。でも、文は書きませんでした。** ほんは よみました。でも、ぶんは かきませんでした。 — I read the book. But I did not write a sentence."
+        },
+        {
+          "type": "text",
+          "text": "は makes the contrasted objects topics. Do not teach that は can only appear once or only name a person. The ending, not the object topic, determines whether the action occurred."
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c11",
+      "title": "Practice: Read and Write",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 角館 and recall the other 館 place name from Hokkaido. **Answer:** かくのだて; 函館 / はこだて.",
+            "Read 読む, 書く, 文, 字. **Answer:** よむ, かく, ぶん, じ.",
+            "Which is the compound どくしょ? **Answer:** 読書.",
+            "Complete “write a sentence”: 文＿書きます。 **Answer:** を.",
+            "Complete “write in a notebook”: ノート＿書きます。 **Answer:** に.",
+            "Make 書きます past negative. **Answer:** 書きませんでした / かきませんでした."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kakunodate_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "角館 is かくのだて; 館 reconnects with Hakodate. 読む/書く are よむ/かく. 文 is a sentence; 字 is a character; 漢字 and 文字 are whole words. 読書 is どくしょ. 書 is indexed under 曰, despite its lower section resembling 日. A writing activity can contain object を, surface に, and action place で."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I wrote a sentence in a notebook.” **Model:** ノートに文を書きました。 Continue to Yokote and give the note a daily time structure."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_読",
+            "kanji_書",
+            "kanji_文",
+            "kanji_字"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_読む"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_角館"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_書く"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_文字"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_漢字"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_読書"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_ノート"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Kakunodate complete",
+    "nextText": "Next: Yokote",
+    "nextChapter": "akita/yokote"
+  }
+}

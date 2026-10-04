@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_aomori_r01_s01",
+      "jp": "{北海道|ほっかいどう}から{青森|あおもり}に{行|い}きました。",
+      "en": "I went from Hokkaido to Aomori.",
+      "tokens": [
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "vocab": "vocab_北海道",
+          "gloss": "Hokkaido"
+        },
+        {
+          "text": "青森",
+          "reading": "あおもり",
+          "vocab": "vocab_青森",
+          "gloss": "Aomori"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_北",
+        "kanji_森",
+        "kanji_海",
+        "kanji_行",
+        "kanji_道",
+        "kanji_青"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r01_s02",
+      "jp": "{青森|あおもり}で{写真|しゃしん}を{見|み}ました。",
+      "en": "I looked at photographs in Aomori.",
+      "tokens": [
+        {
+          "text": "青森",
+          "reading": "あおもり",
+          "vocab": "vocab_青森",
+          "gloss": "Aomori"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_森",
+        "kanji_真",
+        "kanji_見",
+        "kanji_青"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r01_s03",
+      "jp": "この{写真|しゃしん}はきれいです。",
+      "en": "This photograph is beautiful.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r02_s01",
+      "jp": "これは{林|はやし}です。",
+      "en": "This is a grove.",
+      "tokens": [
+        {
+          "text": "林",
+          "reading": "はやし",
+          "vocab": "vocab_林",
+          "gloss": "grove; woods"
+        }
+      ],
+      "kanji": [
+        "kanji_林"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r02_s02",
+      "jp": "あの{写真|しゃしん}は{森|もり}の{写真|しゃしん}です。",
+      "en": "That photograph over there is a photograph of a forest.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "森",
+          "reading": "もり",
+          "vocab": "vocab_森",
+          "gloss": "forest"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_森",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r02_s03",
+      "jp": "{森|もり}に{木|き}があります。",
+      "en": "There are trees in the forest.",
+      "tokens": [
+        {
+          "text": "森",
+          "reading": "もり",
+          "vocab": "vocab_森",
+          "gloss": "forest"
+        },
+        {
+          "text": "木",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_木",
+        "kanji_森"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r03_s01",
+      "jp": "この{店|みせ}に{入|はい}りました。",
+      "en": "I entered this shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "入",
+          "reading": "はい"
+        }
+      ],
+      "kanji": [
+        "kanji_入",
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r03_s02",
+      "jp": "このりんごは{百円|ひゃくえん}です。",
+      "en": "This apple is 100 yen.",
+      "tokens": [
+        {
+          "text": "百円",
+          "reading": "ひゃくえん",
+          "vocab": "vocab_百円",
+          "gloss": "100 yen"
+        }
+      ],
+      "kanji": [
+        "kanji_円",
+        "kanji_百"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r03_s03",
+      "jp": "りんごを{二|ふた}つ{買|か}いました。",
+      "en": "I bought two apples.",
+      "tokens": [
+        {
+          "text": "二",
+          "reading": "ふた"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_買"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r04_s01",
+      "jp": "{店|みせ}でりんごを{食|た}べました。",
+      "en": "I ate an apple at the shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        }
+      ],
+      "kanji": [
+        "kanji_店",
+        "kanji_食"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r04_s02",
+      "jp": "りんごと{水|みず}を{買|か}いました。",
+      "en": "I bought apples and water.",
+      "tokens": [
+        {
+          "text": "水",
+          "reading": "みず",
+          "vocab": "vocab_水",
+          "gloss": "water"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        }
+      ],
+      "kanji": [
+        "kanji_水",
+        "kanji_買"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r04_s03",
+      "jp": "このりんごは{青|あお}いりんごです。",
+      "en": "This apple is a green apple.",
+      "tokens": [
+        {
+          "text": "青",
+          "reading": "あお"
+        }
+      ],
+      "kanji": [
+        "kanji_青"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r05_s01",
+      "jp": "{午前|ごぜん}{九時半|くじはん}に{弘前|ひろさき}に{行|い}きました。",
+      "en": "I went to Hirosaki at 9:30 a.m.",
+      "tokens": [
+        {
+          "text": "午前",
+          "reading": "ごぜん",
+          "vocab": "vocab_午前",
+          "gloss": "a.m.; morning"
+        },
+        {
+          "text": "九時半",
+          "reading": "くじはん",
+          "vocab": "vocab_九時半",
+          "gloss": "nine thirty"
+        },
+        {
+          "text": "弘前",
+          "reading": "ひろさき",
+          "vocab": "vocab_弘前",
+          "gloss": "Hirosaki, whole place name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_九",
+        "kanji_前",
+        "kanji_午",
+        "kanji_半",
+        "kanji_弘",
+        "kanji_時",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r05_s02",
+      "jp": "{九時半|くじはん}から{十時|じゅうじ}まで{公園|こうえん}にいました。",
+      "en": "I was in the park from 9:30 until ten.",
+      "tokens": [
+        {
+          "text": "九時半",
+          "reading": "くじはん",
+          "vocab": "vocab_九時半",
+          "gloss": "nine thirty"
+        },
+        {
+          "text": "十時",
+          "reading": "じゅうじ",
+          "vocab": "vocab_十時",
+          "gloss": "ten o'clock"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "vocab": "vocab_公園",
+          "gloss": "park, assisted"
+        }
+      ],
+      "kanji": [
+        "kanji_九",
+        "kanji_公",
+        "kanji_十",
+        "kanji_半",
+        "kanji_園",
+        "kanji_時"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r05_s03",
+      "jp": "{公園|こうえん}で{桜|さくら}を{見|み}ました。",
+      "en": "I saw cherry blossoms in the park.",
+      "tokens": [
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "vocab": "vocab_公園",
+          "gloss": "park, assisted"
+        },
+        {
+          "text": "桜",
+          "reading": "さくら",
+          "vocab": "vocab_桜",
+          "gloss": "cherry blossom, assisted"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_公",
+        "kanji_園",
+        "kanji_桜",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r06_s01",
+      "jp": "「{今|いま}、{何時|なんじ}ですか。」",
+      "en": "“What time is it now?”",
+      "tokens": [
+        {
+          "text": "今",
+          "reading": "いま"
+        },
+        {
+          "text": "何時",
+          "reading": "なんじ",
+          "vocab": "vocab_何時",
+          "gloss": "what time"
+        }
+      ],
+      "kanji": [
+        "kanji_今",
+        "kanji_何",
+        "kanji_時"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r06_s02",
+      "jp": "「{十時五分|じゅうじごふん}です。」",
+      "en": "“It is 10:05.”",
+      "tokens": [
+        {
+          "text": "十時五分",
+          "reading": "じゅうじごふん"
+        }
+      ],
+      "kanji": [
+        "kanji_五",
+        "kanji_分",
+        "kanji_十",
+        "kanji_時"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r06_s03",
+      "jp": "{午後|ごご}{三時|さんじ}に{店|みせ}に{行|い}きました。",
+      "en": "I went to a shop at 3 p.m.",
+      "tokens": [
+        {
+          "text": "午後",
+          "reading": "ごご",
+          "vocab": "vocab_午後",
+          "gloss": "p.m.; afternoon"
+        },
+        {
+          "text": "三時",
+          "reading": "さんじ",
+          "vocab": "vocab_三時",
+          "gloss": "three o'clock"
+        },
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_三",
+        "kanji_午",
+        "kanji_店",
+        "kanji_後",
+        "kanji_時",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r07_s01",
+      "jp": "{八戸|はちのへ}に{行|い}きました。",
+      "en": "I went to Hachinohe.",
+      "tokens": [
+        {
+          "text": "八戸",
+          "reading": "はちのへ",
+          "vocab": "vocab_八戸",
+          "gloss": "Hachinohe, whole name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_八",
+        "kanji_戸",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r07_s02",
+      "jp": "{海|うみ}に{魚|さかな}がいます。",
+      "en": "There are fish in the sea.",
+      "tokens": [
+        {
+          "text": "海",
+          "reading": "うみ",
+          "vocab": "vocab_海",
+          "gloss": "sea"
+        },
+        {
+          "text": "魚",
+          "reading": "さかな",
+          "vocab": "vocab_魚",
+          "gloss": "fish"
+        }
+      ],
+      "kanji": [
+        "kanji_海",
+        "kanji_魚"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r07_s03",
+      "jp": "{八戸|はちのへ}で{魚|さかな}を{食|た}べました。",
+      "en": "I ate fish in Hachinohe.",
+      "tokens": [
+        {
+          "text": "八戸",
+          "reading": "はちのへ",
+          "vocab": "vocab_八戸",
+          "gloss": "Hachinohe, whole name"
+        },
+        {
+          "text": "魚",
+          "reading": "さかな",
+          "vocab": "vocab_魚",
+          "gloss": "fish"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        }
+      ],
+      "kanji": [
+        "kanji_八",
+        "kanji_戸",
+        "kanji_食",
+        "kanji_魚"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r08_s01",
+      "jp": "この{店|みせ}の{入り口|いりぐち}はここです。",
+      "en": "This shop’s entrance is here.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "入り口",
+          "reading": "いりぐち",
+          "vocab": "vocab_入り口",
+          "gloss": "entrance"
+        }
+      ],
+      "kanji": [
+        "kanji_入",
+        "kanji_口",
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r08_s02",
+      "jp": "{店|みせ}に{入|はい}りました。",
+      "en": "I entered the shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "入",
+          "reading": "はい"
+        }
+      ],
+      "kanji": [
+        "kanji_入",
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r08_s03",
+      "jp": "{店|みせ}を{出|で}ました。",
+      "en": "I left the shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "出",
+          "reading": "で"
+        }
+      ],
+      "kanji": [
+        "kanji_出",
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r09_s01",
+      "jp": "{店|みせ}に{二人|ふたり}います。",
+      "en": "There are two people in the shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "二人",
+          "reading": "ふたり",
+          "vocab": "vocab_二人",
+          "gloss": "two people"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_人",
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r09_s02",
+      "jp": "「どのりんごですか。」",
+      "en": "“Which apple is it?”",
+      "tokens": [],
+      "kanji": [],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r09_s03",
+      "jp": "「このりんごです。」",
+      "en": "“This apple.”",
+      "tokens": [],
+      "kanji": [],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r10_s01",
+      "jp": "{青森|あおもり}、{弘前|ひろさき}、{八戸|はちのへ}に{行|い}きました。",
+      "en": "I went to Aomori, Hirosaki, and Hachinohe.",
+      "tokens": [
+        {
+          "text": "青森",
+          "reading": "あおもり",
+          "vocab": "vocab_青森",
+          "gloss": "Aomori"
+        },
+        {
+          "text": "弘前",
+          "reading": "ひろさき",
+          "vocab": "vocab_弘前",
+          "gloss": "Hirosaki, whole place name"
+        },
+        {
+          "text": "八戸",
+          "reading": "はちのへ",
+          "vocab": "vocab_八戸",
+          "gloss": "Hachinohe, whole name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_八",
+        "kanji_前",
+        "kanji_弘",
+        "kanji_戸",
+        "kanji_森",
+        "kanji_行",
+        "kanji_青"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r10_s02",
+      "jp": "りんごと{魚|さかな}を{食|た}べました。",
+      "en": "I ate apples and fish.",
+      "tokens": [
+        {
+          "text": "魚",
+          "reading": "さかな",
+          "vocab": "vocab_魚",
+          "gloss": "fish"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        }
+      ],
+      "kanji": [
+        "kanji_食",
+        "kanji_魚"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_aomori_r10_s03",
+      "jp": "{次|つぎ}は{岩手|いわて}です。",
+      "en": "Next is Iwate.",
+      "tokens": [
+        {
+          "text": "次",
+          "reading": "つぎ",
+          "vocab": "vocab_次",
+          "gloss": "next"
+        },
+        {
+          "text": "岩手",
+          "reading": "いわて",
+          "vocab": "vocab_岩手",
+          "gloss": "Iwate, next prefecture name"
+        }
+      ],
+      "kanji": [
+        "kanji_岩",
+        "kanji_手",
+        "kanji_次"
+      ],
+      "grammar": []
+    }
+  ]
+}

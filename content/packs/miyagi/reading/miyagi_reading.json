@@ -1,0 +1,547 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "miyagi_reading",
+  "number": 5,
+  "title": "Miyagi Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_九",
+    "kanji_仙",
+    "kanji_円",
+    "kanji_写",
+    "kanji_前",
+    "kanji_半",
+    "kanji_友",
+    "kanji_古",
+    "kanji_台",
+    "kanji_城",
+    "kanji_安",
+    "kanji_宮",
+    "kanji_山",
+    "kanji_岩",
+    "kanji_島",
+    "kanji_巻",
+    "kanji_市",
+    "kanji_店",
+    "kanji_手",
+    "kanji_新",
+    "kanji_時",
+    "kanji_木",
+    "kanji_本",
+    "kanji_村",
+    "kanji_来",
+    "kanji_松",
+    "kanji_次",
+    "kanji_水",
+    "kanji_海",
+    "kanji_田",
+    "kanji_町",
+    "kanji_白",
+    "kanji_百",
+    "kanji_真",
+    "kanji_石",
+    "kanji_私",
+    "kanji_秋",
+    "kanji_空",
+    "kanji_行",
+    "kanji_見",
+    "kanji_買",
+    "kanji_車",
+    "kanji_近",
+    "kanji_遠",
+    "kanji_雲",
+    "kanji_電",
+    "kanji_青",
+    "kanji_駅",
+    "kanji_高"
+  ],
+  "cards": [
+    {
+      "id": "miyagi_r01",
+      "title": "Reaching Sendai",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{岩手|いわて}から{仙台|せんだい}に{行|い}きました。",
+          "en": "I went from Iwate to Sendai."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いわてからせんだいにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{電車|でんしゃ}で{行|い}きました。",
+          "en": "I went by train."
+        },
+        {
+          "type": "text",
+          "text": "Kana: でんしゃでいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{仙台|せんだい}は{宮城|みやぎ}の{市|し}です。",
+          "en": "Sendai is a city in Miyagi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: せんだいはみやぎのしです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The narrated trip is fictional. 電車で gives the means; 仙台に gives the destination. 市 is the city word from Ishinomaki."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r02",
+      "title": "A friend comes to the meeting point",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{私|わたし}は{駅|えき}にいます。",
+          "en": "I am at the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: わたしはえきにいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは{九時半|くじはん}に{駅|えき}に{来|き}ました。",
+          "en": "My friend came to the station at 9:30."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちはくじはんにえきにきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちも{電車|でんしゃ}で{来|き}ました。",
+          "en": "My friend also came by train."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちもでんしゃできました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The narrator is already at the meeting point, making 来ました appropriate. 来る = くる; 来ました = きました."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r03",
+      "title": "A shop in front of the station",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{駅|えき}の{前|まえ}に{店|みせ}があります。",
+          "en": "There is a shop in front of the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: えきのまえにみせがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{店|みせ}で{水|みず}を{買|か}いました。",
+          "en": "I bought water at this shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このみせでみずをかいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "そして、{友|とも}だちと{松島|まつしま}へ{行|い}きました。",
+          "en": "Then I went to Matsushima with my friend."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そして、ともだちとまつしまへいきました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "へ is written へ and pronounced え. と marks the companion; the story does not specify a real transport schedule."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r04",
+      "title": "Sky and cloud in Matsushima",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{松島|まつしま}で{海|うみ}を{見|み}ました。",
+          "en": "I looked at the sea in Matsushima."
+        },
+        {
+          "type": "text",
+          "text": "Kana: まつしまでうみをみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{空|そら}は{青|あお}いです。",
+          "en": "The sky is blue."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そらはあおいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "あの{雲|くも}は{白|しろ}いです。",
+          "en": "That cloud over there is white."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あのくもはしろいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "雲 is an assisted word, くも. The present descriptions portray the view within this fictional journal; they are not a current forecast."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r05",
+      "title": "A nature photograph",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{写真|しゃしん}は{島|しま}の{写真|しゃしん}です。",
+          "en": "This photograph is a photograph of an island."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このしゃしんはしまのしゃしんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{島|しま}に{木|き}があります。",
+          "en": "There are trees on the island."
+        },
+        {
+          "type": "text",
+          "text": "Kana: しまにきがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "あの{山|やま}は{高|たか}いです。",
+          "en": "That mountain over there is high."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あのやまはたかいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The imaginary photograph and view supply the references. 高い describes height here, not a price."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r06",
+      "title": "Books in Ishinomaki",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{石巻|いしのまき}に{行|い}きました。",
+          "en": "I went to Ishinomaki."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いしのまきにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{本|ほん}は{新|あたら}しいです。",
+          "en": "This book is new."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このほんはあたらしいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "その{本|ほん}は{古|ふる}いです。",
+          "en": "That book is old."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そのほんはふるいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "新しい/古い are い-adjectives. の in いしのまき belongs to the name reading and is not separately written in 石巻."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r07",
+      "title": "Two photographs of places",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{写真|しゃしん}は{町|まち}の{写真|しゃしん}です。",
+          "en": "This photograph is a photograph of a town."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このしゃしんはまちのしゃしんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "その{写真|しゃしん}は{村|むら}の{写真|しゃしん}です。",
+          "en": "That photograph is a photograph of a village."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そのしゃしんはむらのしゃしんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{石巻市|いしのまきし}は{宮城|みやぎ}にあります。",
+          "en": "Ishinomaki City is in Miyagi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いしのまきしはみやぎにあります。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The photos are fictional. Ordinary 町/まち and 村/むら are different place words; 市 is し in 石巻市."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r08",
+      "title": "A fictional Shiroishi map",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{白石|しろいし}に{行|い}きました。",
+          "en": "I went to Shiroishi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: しろいしにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{店|みせ}は{駅|えき}に{近|ちか}いです。",
+          "en": "This shop is near the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このみせはえきにちかいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "あの{店|みせ}は{駅|えき}から{遠|とお}いです。",
+          "en": "That shop over there is far from the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あのみせはえきからとおいです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "The relative distances belong to an invented map. 近い/遠い need a reference point; they do not state prices."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r09",
+      "title": "Choosing a book",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{本|ほん}は{三百円|さんびゃくえん}です。",
+          "en": "This book is 300 yen."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このほんはさんびゃくえんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{白石|しろいし}で{安|やす}い{本|ほん}を{買|か}いました。",
+          "en": "I bought an inexpensive book in Shiroishi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: しろいしでやすいほんをかいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "その{本|ほん}は{高|たか}くなかったです。",
+          "en": "That book was not expensive."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そのほんはたかくなかったです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "300 yen is a fictional price. 高くなかったです is an adjective past negative; 買いました puts the buying action in the past."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r10",
+      "title": "Leaving Miyagi",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{宮城|みやぎ}で{海|うみ}と{山|やま}を{見|み}ました。",
+          "en": "I saw the sea and mountains in Miyagi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みやぎでうみとやまをみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちも{写真|しゃしん}を{見|み}ました。",
+          "en": "My friend also looked at photographs."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちもしゃしんをみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{秋田|あきた}です。",
+          "en": "Next is Akita."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはあきたです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "次 is reviewed as an assisted next-destination word. 秋田 is a helped preview of the next prefecture."
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r11",
+      "title": "Assisted Reading, Then Continuous Rereading",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Pass 1: use the word readings and English assistance. Pass 2: read the same Japanese below, hide translations, and name the place, action, relationship and time/frequency in each passage. Keep furigana available for encounter characters. Pass 3: try the ten reading-comprehension questions; after an error, return to the referenced story card. Do not require unintroduced grammar or rare name readings."
+        },
+        {
+          "type": "text",
+          "text": "**R01.** {岩手|いわて}から{仙台|せんだい}に{行|い}きました。 {電車|でんしゃ}で{行|い}きました。 {仙台|せんだい}は{宮城|みやぎ}の{市|し}です。"
+        },
+        {
+          "type": "text",
+          "text": "**R02.** {私|わたし}は{駅|えき}にいます。 {友|とも}だちは{九時半|くじはん}に{駅|えき}に{来|き}ました。 {友|とも}だちも{電車|でんしゃ}で{来|き}ました。"
+        },
+        {
+          "type": "text",
+          "text": "**R03.** {駅|えき}の{前|まえ}に{店|みせ}があります。 この{店|みせ}で{水|みず}を{買|か}いました。 そして、{友|とも}だちと{松島|まつしま}へ{行|い}きました。"
+        },
+        {
+          "type": "text",
+          "text": "**R04.** {松島|まつしま}で{海|うみ}を{見|み}ました。 {空|そら}は{青|あお}いです。 あの{雲|くも}は{白|しろ}いです。"
+        },
+        {
+          "type": "text",
+          "text": "**R05.** この{写真|しゃしん}は{島|しま}の{写真|しゃしん}です。 {島|しま}に{木|き}があります。 あの{山|やま}は{高|たか}いです。"
+        },
+        {
+          "type": "text",
+          "text": "**R06.** {石巻|いしのまき}に{行|い}きました。 この{本|ほん}は{新|あたら}しいです。 その{本|ほん}は{古|ふる}いです。"
+        },
+        {
+          "type": "text",
+          "text": "**R07.** この{写真|しゃしん}は{町|まち}の{写真|しゃしん}です。 その{写真|しゃしん}は{村|むら}の{写真|しゃしん}です。 {石巻市|いしのまきし}は{宮城|みやぎ}にあります。"
+        },
+        {
+          "type": "text",
+          "text": "**R08.** {白石|しろいし}に{行|い}きました。 この{店|みせ}は{駅|えき}に{近|ちか}いです。 あの{店|みせ}は{駅|えき}から{遠|とお}いです。"
+        },
+        {
+          "type": "text",
+          "text": "**R09.** この{本|ほん}は{三百円|さんびゃくえん}です。 {白石|しろいし}で{安|やす}い{本|ほん}を{買|か}いました。 その{本|ほん}は{高|たか}くなかったです。"
+        },
+        {
+          "type": "text",
+          "text": "**R10.** {宮城|みやぎ}で{海|うみ}と{山|やま}を{見|み}ました。 {友|とも}だちも{写真|しゃしん}を{見|み}ました。 {次|つぎ}は{秋田|あきた}です。"
+        }
+      ]
+    },
+    {
+      "id": "miyagi_r12",
+      "title": "Reading Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Follow companion と, means/action-place で, direction へ and time/destination に separately. Read 来ました as きました. Nature, city categories, new/old, distance and price descriptions need the stated noun/context. A past verb and a past adjective use different endings. The next prefecture is Akita."
+        },
+        {
+          "type": "text",
+          "text": "**Self-check:** Retell one event using its learned words. Choose one reused component connection. Explain one particle using the sentence, rather than a fixed English gloss. Reading completion means assisted practice and comprehension evidence, not automatic formal mastery of every encountered character."
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Miyagi reading complete",
+    "nextText": "Next: Miyagi Test"
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "hanamaki_l01",
+  "number": 3,
+  "title": "Hanamaki — 花巻",
+  "goal": "Formally study a flower character met earlier, travel with a friend, and describe a short visit in the past.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_花",
+    "kanji_友",
+    "kanji_私",
+    "kanji_会"
+  ],
+  "encounterKanji": [
+    "kanji_九",
+    "kanji_二",
+    "kanji_人",
+    "kanji_今",
+    "kanji_休",
+    "kanji_入",
+    "kanji_公",
+    "kanji_半",
+    "kanji_園",
+    "kanji_城",
+    "kanji_宮",
+    "kanji_巻",
+    "kanji_店",
+    "kanji_弘",
+    "kanji_日",
+    "kanji_昨",
+    "kanji_時",
+    "kanji_本",
+    "kanji_森",
+    "kanji_水",
+    "kanji_泉",
+    "kanji_温",
+    "kanji_行",
+    "kanji_見",
+    "kanji_誰",
+    "kanji_青",
+    "kanji_食",
+    "kanji_魚"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Another Familiar Connection",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "花巻",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "はなまき — Hanamaki"
+        },
+        {
+          "type": "text",
+          "text": "Hanamaki is associated with hot springs and the writer Miyazawa Kenji. The cultural context supports a quiet journey-with-a-friend scene; the story below is our own fictional learner story, not a retelling of his work."
+        },
+        {
+          "type": "text",
+          "text": "**花巻に行きます。**\nはなまきに いきます。\nI go / will go to Hanamaki."
+        },
+        {
+          "type": "text",
+          "text": "The first character is one you encountered around Hirosaki's blossoms. The hot-spring word connects back to Noboribetsu. Two earlier parts of the Journey meet in one new location."
+        }
+      ]
+    },
+    {
+      "id": "inside_hanamaki",
+      "title": "Inside 花巻",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Kanji:** 花 · **Useful meaning/readings:** flower; はな; on カ · **Radical and components:** Radical 艹, くさかんむり, the grass/plant top. 化 below supplies a historical sound element · **Learning role:** Core. The plant top is a meaning clue; it does not tell us the full name reading.",
+            "**Kanji:** 巻 · **Useful meaning/readings:** roll; wind; まく/まき; on カン · **Radical and components:** Historical indexing family 卩/㔾, ふしづくり/まげわりふ; some dictionaries classify modern 巻 under 己, おのれ. Modern upper 龹-like strokes and lower 己-shaped curl are recognition chunks · **Learning role:** Encounter. Compare the lower 㔾-like part in older 卷 with the 己-shaped part in modern 巻. Dictionary indexing can follow history or the modern shape. Neither approach means “self” explains every use of 巻; do not read the city name by adding component glosses."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**花巻 / はなまき**. This spelling gives us useful kanji to inspect, but “flower roll” is not a verified etymology of Hanamaki's name."
+        },
+        {
+          "type": "text",
+          "text": "化 is visible inside 花, with 亻 and 匕 shapes. Those are helpful nested recognition pieces. We are not teaching that the “person + spoon” English meanings produce the meaning “flower.”"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_花",
+            "kanji_巻"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_fushizukuri"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kusakanmuri"
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c03",
+      "title": "花 Returns as a Studied Character",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**花** — はな — flower.\n**花見** — はなみ — flower viewing, especially cherry-blossom viewing in the customary expression."
+        },
+        {
+          "type": "text",
+          "text": "You first encountered 花 with the Hirosaki park scene. Now study it deliberately. **花 + 見** combines today's flower character with 見 from Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "**公園で花を見ます。**\nこうえんで はなを みます。\nI look at flowers in the park."
+        },
+        {
+          "type": "text",
+          "text": "**花見に行きます。**\nはなみに いきます。\nI go to view the blossoms."
+        },
+        {
+          "type": "text",
+          "text": "The examples are possible practice activities, not a claim that every Hanamaki park always has flowering cherry trees. Seeing 花 in a name also does not mean the location is defined only by flowers."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c04",
+      "title": "友: A Friend",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**友だち** — ともだち — friend.\n**友** — とも; common on reading ユウ."
+        },
+        {
+          "type": "text",
+          "text": "友 is indexed under **又**, また. The modern upper-left hand-like shape and lower 又 can be recognised together. A “hands connecting” mnemonic helps remember friendship; do not treat every modern component gloss as a literal definition of every word using 友."
+        },
+        {
+          "type": "text",
+          "text": "**友だちがいます。**\nともだちが います。\nI have a friend / there is a friend."
+        },
+        {
+          "type": "text",
+          "text": "Existence wording can express having someone in your life in the appropriate context. In a map scene the same words may mean a friend is present there. Read the context rather than assigning one rigid English phrase to います."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c05",
+      "title": "私: I / Me",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**私** — わたし — I; me."
+        },
+        {
+          "type": "text",
+          "text": "私 uses **禾**, のぎへん when on the left, as its radical, and **厶** on the right. Recognise the shapes; their visible grain/private associations are not a simple explanation of how the everyday pronoun means “I.” 厶 is a shape you saw in 弘, but a shared shape does not force a shared reading or semantic role."
+        },
+        {
+          "type": "text",
+          "text": "**私は青森に行きました。**\nわたしは あおもりに いきました。\nI went to Aomori."
+        },
+        {
+          "type": "text",
+          "text": "Japanese often omits 私 when it is clear who is speaking. **青森に行きました** can already mean “I went to Aomori” in a personal account. Do not insert 私 into every sentence simply because English needs “I.”"
+        },
+        {
+          "type": "text",
+          "text": "**私の本** — わたしの ほん — my book. This reuses の to express a relationship/possession."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c06",
+      "title": "と for a Companion",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You learned **りんごと水**: apples **and** water.\nNow learn **友だちと**: **with** a friend."
+        },
+        {
+          "type": "text",
+          "text": "**友だちと花巻に行きます。**\nともだちと はなまきに いきます。\nI go / will go to Hanamaki with a friend."
+        },
+        {
+          "type": "text",
+          "text": "**友だちと魚を食べます。**\nともだちと さかなを たべます。\nI eat fish with a friend."
+        },
+        {
+          "type": "text",
+          "text": "と marks the companion in the action. The object of eating still uses を, and the destination still uses に."
+        },
+        {
+          "type": "text",
+          "text": "Contrast **私と友だち** (me and my friend, a joined noun phrase) with **友だちと行きます** (go with my friend). The same particle has two related uses; its surrounding words tell us which use is active."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c07",
+      "title": "会う: Meeting Someone",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**会う** — あう — meet.\n**会います** — あいます — meet / will meet."
+        },
+        {
+          "type": "text",
+          "text": "会 is indexed under **人**, ひと. Its modern upper 人-like shape and lower 云-shaped section help distinguish it from other characters. The lower shape is not an instruction to translate the word as “cloud.” Our goal is to recognise 会 in a useful verb."
+        },
+        {
+          "type": "text",
+          "text": "**友だちに会います。**\nともだちに あいます。\nI meet / will meet a friend."
+        },
+        {
+          "type": "text",
+          "text": "With this verb, **に marks the person you meet**. In the companion sentence **友だちと行きます**, と marks the person who accompanies you. For our beginner examples, practise this distinction without claiming that 会う can never occur with と in other constructions."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c08",
+      "title": "Add a Time and Place",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**九時に公園で友だちに会います。**\nくじに こうえんで ともだちに あいます。\nI meet a friend in the park at nine."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "九時に — at nine: time.",
+            "公園で — in the park: place of the meeting action.",
+            "友だちに — a friend: the person met.",
+            "会います — meet."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The repeated に is not a mistake. Its jobs differ because the words before it differ."
+        },
+        {
+          "type": "text",
+          "text": "Do not memorise only the whole string. Change 九時 to 九時半. Then change 公園 to 店. Each change reuses a component of knowledge introduced earlier in the Journey."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c09",
+      "title": "Who? and Two People",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**誰** — だれ — who? The word is core; the character is assisted."
+        },
+        {
+          "type": "text",
+          "text": "**誰と行きますか。**\nだれと いきますか。\nWho will you go with?"
+        },
+        {
+          "type": "text",
+          "text": "**友だちと行きます。**\nともだちと いきます。\nI will go with a friend."
+        },
+        {
+          "type": "text",
+          "text": "**私と友だちは二人です。**\nわたしと ともだちは ふたりです。\nMy friend and I make two people."
+        },
+        {
+          "type": "text",
+          "text": "The と in 私と友だち joins nouns. 二人 is read ふたり, just as in Hachinohe. The personal account adds perspective without replacing the counting system."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c10",
+      "title": "The Same Verb, Four Endings",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Japanese:** 会います · **Reading:** あいます · **Meaning:** meet / will meet",
+            "**Japanese:** 会いません · **Reading:** あいません · **Meaning:** do not / will not meet",
+            "**Japanese:** 会いました · **Reading:** あいました · **Meaning:** met",
+            "**Japanese:** 会いませんでした · **Reading:** あいませんでした · **Meaning:** did not meet"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**昨日、友だちに会いました。**\nきのう、ともだちに あいました。\nYesterday, I met a friend."
+        },
+        {
+          "type": "text",
+          "text": "The character 会 stays the same. You learned this four-part polite pattern through 行く in Noboribetsu. Reusing it with another verb helps it become a real pattern rather than four isolated flashcards."
+        },
+        {
+          "type": "text",
+          "text": "**今日は会いません。**\nきょうは あいません。\nI will not meet [them] today."
+        },
+        {
+          "type": "text",
+          "text": "The omitted person can be understood from the previous sentence. Negative nonpast and negative past mean different things; keep the time word in view."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c11",
+      "title": "A Short Hanamaki Account",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**昨日、友だちと花巻に行きました。**\nきのう、ともだちと はなまきに いきました。\nYesterday, I went to Hanamaki with a friend."
+        },
+        {
+          "type": "text",
+          "text": "**花巻に温泉があります。**\nはなまきに おんせんが あります。\nThere are hot springs in Hanamaki."
+        },
+        {
+          "type": "text",
+          "text": "**私たちは温泉に入りました。そして、休みました。**\nわたしたちは おんせんに はいりました。そして、やすみました。\nWe entered a hot spring. Then we rested."
+        },
+        {
+          "type": "text",
+          "text": "私たち / わたしたち means we; the -たち group expression is an assisted encounter rather than a new general plural rule. Entering a hot spring uses に. Resting uses a familiar polite past. This fictional story deliberately returns to Noboribetsu vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c12",
+      "title": "Practice: A Friend and a Journey",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**Practice:**"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Complete “with a friend”: 友だち＿＿行きます。 A. と / B. を / C. で.",
+            "Complete the taught meeting pattern: 友だち＿＿会います。 A. を / B. に / C. で.",
+            "Which means “did not meet”? 会いません / 会いませんでした.",
+            "Which earlier lesson first previewed 花 in this manuscript?"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Answers:** 1 と: companion. 2 に: person met in this pattern. 3 会いませんでした. 4 Hirosaki, with blossoms/flowers."
+        }
+      ]
+    },
+    {
+      "id": "hanamaki_c13",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "花巻 = はなまき; 花 is now studied, 巻 remains encounter.",
+            "花/はな → 花見/はなみ; 艹 is the plant radical.",
+            "友だち = ともだち; 私 = わたし; 会う = あう.",
+            "友だちと行きます versus 友だちに会います.",
+            "九時に公園で友だちに会います: time / action location / person met.",
+            "誰と行きますか; 二人 = ふたり.",
+            "会いました and 会いませんでした reuse Hokkaido's verb endings.",
+            "温泉 and entering/resting tie the new lesson back to Hokkaido."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**Iwate's three location lessons are complete. Continue to the Iwate Reading Journey and test. The next prefecture is Miyagi / 宮城.**"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_花",
+            "kanji_友",
+            "kanji_私",
+            "kanji_会"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_温泉"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_九時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_公園"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_花巻"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_花見"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_友だち"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_会う"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_宮城"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Hanamaki complete",
+    "nextText": "Next: Iwate Reading Journey"
+  }
+}

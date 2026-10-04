@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "utsunomiya_l01",
+  "number": 1,
+  "title": "Utsunomiya — 宇都宮",
+  "goal": "Introduce four sibling relationships with appropriate own-family/polite terms.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_兄",
+    "kanji_姉",
+    "kanji_弟",
+    "kanji_妹"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_三",
+    "kanji_人",
+    "kanji_会",
+    "kanji_住",
+    "kanji_何",
+    "kanji_先",
+    "kanji_午",
+    "kanji_口",
+    "kanji_古",
+    "kanji_四",
+    "kanji_土",
+    "kanji_城",
+    "kanji_女",
+    "kanji_子",
+    "kanji_学",
+    "kanji_宇",
+    "kanji_宮",
+    "kanji_家",
+    "kanji_市",
+    "kanji_待",
+    "kanji_後",
+    "kanji_新",
+    "kanji_族",
+    "kanji_日",
+    "kanji_時",
+    "kanji_曜",
+    "kanji_本",
+    "kanji_来",
+    "kanji_母",
+    "kanji_父",
+    "kanji_生",
+    "kanji_私",
+    "kanji_行",
+    "kanji_話",
+    "kanji_読",
+    "kanji_週",
+    "kanji_都",
+    "kanji_食",
+    "kanji_飯"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A family meeting in Utsunomiya",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**Prefecture-name breakdown:** 栃: radical 木, きへん; right side 厉-shaped, with 厂 above 万. とち is the Japanese horse-chestnut tree word. Its detailed origin is uncertain in the consulted dictionary, so these are modern recognition pieces, not a claimed etymology. 木: its own tree radical, き; formal review. 栃木 is とちぎ, with ぎ in this learned name. 栃 remains assisted."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_栃",
+            "kanji_木"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Utsunomiya is known for gyoza. Our fictional traveller meets siblings here. Food provides the setting; the language goal extends the parents/children vocabulary taught in Aizuwakamatsu."
+        },
+        {
+          "type": "text",
+          "text": "**宇都宮で兄に会います。** うつのみやで あにに あいます。 — I meet my older brother in Utsunomiya."
+        },
+        {
+          "type": "text",
+          "text": "The relation belongs to the speaker in this sentence. “Older/younger” compares siblings' ages; it does not mean old versus new like 古い/新しい. We do not infer who somebody is from a photograph alone."
+        }
+      ]
+    },
+    {
+      "id": "inside_utsunomiya",
+      "title": "Inside 宇都宮",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 宇 · **Meaning/reading here:** roof/space; う · **Radical/components:** 宀, うかんむり; 于 historically supplies sound · **Status:** Encounter.",
+            "**Character:** 都 · **Meaning/reading here:** capital/city; つ · **Radical/components:** 邑 as right 阝, おおざと; 者 sound component · **Status:** Encounter; right 阝 differs from left 阝/阜.",
+            "**Character:** 宮 · **Meaning/reading here:** shrine/palace; みや · **Radical/components:** 宀 above 呂-shaped section, historically a shortened sound component · **Status:** Encounter review from 宮城."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**宇都宮 / うつのみや** includes の in the name reading without a separate written の. Learn the full name; the component glosses do not prove how the city was named."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_宇",
+            "kanji_都",
+            "kanji_宮"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_oozato"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ukanmuri"
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c03",
+      "title": "兄 and 姉: older siblings",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**兄 / あに — my older brother; 姉 / あね — my older sister.** 兄 has radical 儿, にんにょう, below 口. 姉 has radical 女, おんなへん, beside 市-shaped strokes. “Woman plus city” is a recognition description, not an invented explanation of sisterhood."
+        },
+        {
+          "type": "text",
+          "text": "**兄は学生です。** あには がくせいです。 — My older brother is a student."
+        },
+        {
+          "type": "text",
+          "text": "**姉は先生です。** あねは せんせいです。 — My older sister is a teacher."
+        },
+        {
+          "type": "text",
+          "text": "These occupations are fictional, not gender roles. 兄/姉 are the standard own-family terms when speaking to someone outside the family."
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c04",
+      "title": "弟 and 妹: younger siblings",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**弟 / おとうと — my younger brother; 妹 / いもうと — my younger sister.** 弟 has radical 弓, ゆみ, within its modern layered strokes; 妹 has 女 beside 未, a historical sound component. 未 differs from 末 in the relative lengths of the two upper horizontals."
+        },
+        {
+          "type": "text",
+          "text": "**弟は日本に住んでいます。** おとうとは にほんに すんでいます。 — My younger brother lives in Japan."
+        },
+        {
+          "type": "text",
+          "text": "**妹は本を読みます。** いもうとは ほんを よみます。 — My younger sister reads books."
+        },
+        {
+          "type": "text",
+          "text": "おとうと and いもうと are complete word readings. Do not force a shared と segment into a rule for other family characters."
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c05",
+      "title": "Your family and someone else's",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Own-family description to an outsider:** 兄 / あに · **Polite/reference term for someone else's family:** お兄さん · **Reading:** おにいさん",
+            "**Own-family description to an outsider:** 姉 / あね · **Polite/reference term for someone else's family:** お姉さん · **Reading:** おねえさん",
+            "**Own-family description to an outsider:** 弟 / おとうと · **Polite/reference term for someone else's family:** 弟さん · **Reading:** おとうとさん",
+            "**Own-family description to an outsider:** 妹 / いもうと · **Polite/reference term for someone else's family:** 妹さん · **Reading:** いもうとさん"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**お兄さんは学生ですか。** おにいさんは がくせいですか。 — Is your older brother a student?"
+        },
+        {
+          "type": "text",
+          "text": "**はい、兄は学生です。** はい、あには がくせいです。 — Yes, my older brother is a student."
+        },
+        {
+          "type": "text",
+          "text": "Family members may address each other using お兄さん/お姉さん too. Context controls choice; the table is not a ban on those words inside one's own family."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_siblings_context"
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c06",
+      "title": "No confusion between parents and siblings",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Review **父 / ちち**, my father; **母 / はは**, my mother; **子ども / こども**, child. **兄弟 / きょうだい — siblings/brothers**, useful whole compound, often used more broadly than literal brothers in ordinary contexts. **家族 / かぞく — family** is helped; 族 remains an encounter."
+        },
+        {
+          "type": "text",
+          "text": "**家族は四人です。** かぞくは よにんです。 — My family has four people."
+        },
+        {
+          "type": "text",
+          "text": "**兄弟は三人です。** きょうだいは さんにんです。 — There are three of us siblings."
+        },
+        {
+          "type": "text",
+          "text": "The narrator is included in this stated siblings count. Do not assume every other “siblings” count always excludes or includes the speaker without context."
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c07",
+      "title": "Who and how many?",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**だれ — who; 何人 / なんにん — how many people.** Pronunciation distinguishes the number question from 何 / なに in 何を読みますか."
+        },
+        {
+          "type": "text",
+          "text": "**この人はだれですか。** このひとは だれですか。 — Who is this person?"
+        },
+        {
+          "type": "text",
+          "text": "**姉です。** あねです。 — It is my older sister."
+        },
+        {
+          "type": "text",
+          "text": "**家族は何人ですか。** かぞくは なんにんですか。 — How many people are in your family?"
+        },
+        {
+          "type": "text",
+          "text": "**四人です。** よにんです。 — Four people."
+        },
+        {
+          "type": "text",
+          "text": "Use introductions or stated relationships; appearance is insufficient to identify a sister rather than a friend."
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c08",
+      "title": "Family action and partner particles",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**兄とご飯を食べます。** あにと ごはんを たべます。 — I eat a meal with my older brother."
+        },
+        {
+          "type": "text",
+          "text": "**姉に会います。** あねに あいます。 — I meet my older sister."
+        },
+        {
+          "type": "text",
+          "text": "**弟を待ちます。** おとうとを まちます。 — I wait for my younger brother."
+        },
+        {
+          "type": "text",
+          "text": "**妹と話します。** いもうとと はなします。 — I talk with my younger sister."
+        },
+        {
+          "type": "text",
+          "text": "The same family noun can take と, に or を according to its relationship with the verb. English “with/for” is not a reliable one-particle translation rule."
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c09",
+      "title": "Reuse the calendar",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**来週の土曜日に兄と宇都宮に行きます。** らいしゅうの どようびに あにと うつのみやに いきます。 — Next Saturday I go to Utsunomiya with my older brother."
+        },
+        {
+          "type": "text",
+          "text": "**午後一時に姉に会います。** ごごいちじに あねに あいます。 — I meet my older sister at 1 PM."
+        },
+        {
+          "type": "text",
+          "text": "This fictional plan contains two kinds of に: calendar/clock time and the person met. Read each phrase by its role; multiple に in a sentence are not automatically an error."
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c10",
+      "title": "A family dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: この人はだれですか。** このひとは だれですか。 — Who is this person?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 妹です。** いもうとです。 — She is my younger sister."
+        },
+        {
+          "type": "text",
+          "text": "**A: 妹さんは学生ですか。** いもうとさんは がくせいですか。 — Is your younger sister a student?"
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、学生です。** はい、がくせいです。 — Yes, she is."
+        },
+        {
+          "type": "text",
+          "text": "The listener switches to 妹さん when referring politely to the speaker's sister. The reply can omit the already understood topic; repeating 私の妹 in every line is unnecessary."
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c11",
+      "title": "Practice: relationship and context",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 宇都宮. **Answer:** うつのみや, including spoken の.",
+            "Read 兄, 姉, 弟, 妹. **Answers:** あに; あね; おとうと; いもうと.",
+            "What radical links 姉 and 妹? **Answer:** 女.",
+            "Politely ask about someone else's older sister. **Model:** お姉さんは学生ですか。",
+            "Read 四人 and 何人. **Answers:** よにん; なんにん.",
+            "Complete the waiting model: 弟＿＿待ちます。 **Answer:** を."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "utsunomiya_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "宇都宮 is うつのみや. 兄/姉 are older siblings; 弟/妹 are younger siblings. Own-family terms and polite references differ: あに versus おにいさん, あね versus おねえさん. 姉/妹 share 女; 弟 is indexed under 弓. Read the speaker's relationship rather than guessing it from a picture."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “My younger sister is a student.” **Model:** 妹は学生です。 いもうとは がくせいです。 Next, Nikko adds everyday words for people and children."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_兄",
+            "kanji_姉",
+            "kanji_弟",
+            "kanji_妹"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_もう"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_学生"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_宇都宮"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Utsunomiya complete",
+    "nextText": "Next: Nikko",
+    "nextChapter": "tochigi/nikko"
+  }
+}

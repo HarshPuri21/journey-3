@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "tsukuba_l01",
+  "number": 2,
+  "title": "Tsukuba — つくば",
+  "goal": "Read year/week/month/day labels and an elementary calendar.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_年",
+    "kanji_週",
+    "kanji_曜"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_七",
+    "kanji_三",
+    "kanji_九",
+    "kanji_二",
+    "kanji_五",
+    "kanji_今",
+    "kanji_会",
+    "kanji_何",
+    "kanji_先",
+    "kanji_八",
+    "kanji_六",
+    "kanji_前",
+    "kanji_十",
+    "kanji_午",
+    "kanji_去",
+    "kanji_四",
+    "kanji_土",
+    "kanji_学",
+    "kanji_山",
+    "kanji_市",
+    "kanji_後",
+    "kanji_日",
+    "kanji_時",
+    "kanji_月",
+    "kanji_木",
+    "kanji_本",
+    "kanji_来",
+    "kanji_校",
+    "kanji_毎",
+    "kanji_水",
+    "kanji_波",
+    "kanji_火",
+    "kanji_筑",
+    "kanji_行",
+    "kanji_語",
+    "kanji_読",
+    "kanji_金",
+    "kanji_間"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A calendar in a science city",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Tsukuba is associated with research institutions and Mount Tsukuba. Its current municipal name is **つくば市**, written in hiragana. We plan an imaginary study visit using a calendar rather than a real institution's schedule."
+        },
+        {
+          "type": "text",
+          "text": "**つくばで日本語を読みます。** つくばで にほんごを よみます。 — I read Japanese in Tsukuba."
+        },
+        {
+          "type": "text",
+          "text": "The learner already knows numbers and 日/月. Calendar readings do not always equal those characters' standalone readings. This lesson deliberately teaches the exceptions as words."
+        }
+      ]
+    },
+    {
+      "id": "inside_tsukuba",
+      "title": "Hiragana name and related 筑波",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 筑 · **Meaning/reading orientation:** a traditional instrument; チク/ツク, つく here · **Radical/components:** 竹/⺮, たけかんむり; below 巩, recognisable as 工 plus a 凡-like section · **Status:** Assisted encounter. Formation is not simply “bamboo makes the sound つく.”",
+            "**Character:** 波 · **Meaning/reading orientation:** wave; なみ/ハ, ば here · **Radical/components:** 水 as 氵, さんずい; 皮 supplies historical sound · **Status:** Assisted encounter."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**筑波山 / つくばさん — Mount Tsukuba**, related place word. **つくば** stays the modern city label. 学校's 校 and 筑波's 筑 are different despite both having many strokes; recognise their components and learn the whole name."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_筑",
+            "kanji_波"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_sanzui"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_take"
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c03",
+      "title": "年: this year and next year",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**年 / とし・ネン — year; 今年 / ことし — this year; 来年 / らいねん — next year; 去年 / きょねん — last year.** 年 is indexed under 干, かん; its modern crossing strokes form one character. Do not claim that the visible strokes describe a calendar's historical origin. 去 is helped here."
+        },
+        {
+          "type": "text",
+          "text": "**今年、日本語を読みます。** ことし、にほんごを よみます。 — This year I read/will read Japanese."
+        },
+        {
+          "type": "text",
+          "text": "**来年、日本に行きます。** らいねん、にほんに いきます。 — Next year I will go to Japan."
+        },
+        {
+          "type": "text",
+          "text": "Learn 今年 as ことし; “今＋年” does not automatically produce こんねん in our beginner word."
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c04",
+      "title": "週: weeks",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**今週 / こんしゅう — this week; 先週 / せんしゅう — last week; 来週 / らいしゅう — next week; 毎週 / まいしゅう — every week.** 週 has movement radical 辶, しんにょう, around 周, a sound component. 周's frame and mouth-like part help recognition; they are not separate vocabulary requirements."
+        },
+        {
+          "type": "text",
+          "text": "**毎週、本を読みます。** まいしゅう、ほんを よみます。 — I read a book every week."
+        },
+        {
+          "type": "text",
+          "text": "**先週、つくばに来ました。** せんしゅう、つくばに きました。 — I came to Tsukuba last week."
+        },
+        {
+          "type": "text",
+          "text": "Use the relative week as the time frame; keep the verb's tense meaningful."
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c05",
+      "title": "曜: all seven weekdays",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "曜 has radical 日, ひへん; right side 翟 has a 羽-like upper part and 隹 below. These recognition parts do not mean every weekday is a bird. **曜日 / ようび — day of the week; 何曜日 / なんようび — which weekday.**"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Japanese:** 月曜日 · **Reading:** げつようび · **Day:** Monday",
+            "**Japanese:** 火曜日 · **Reading:** かようび · **Day:** Tuesday",
+            "**Japanese:** 水曜日 · **Reading:** すいようび · **Day:** Wednesday",
+            "**Japanese:** 木曜日 · **Reading:** もくようび · **Day:** Thursday",
+            "**Japanese:** 金曜日 · **Reading:** きんようび · **Day:** Friday",
+            "**Japanese:** 土曜日 · **Reading:** どようび · **Day:** Saturday",
+            "**Japanese:** 日曜日 · **Reading:** にちようび · **Day:** Sunday"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**月曜日に行きます。** げつようびに いきます。 — I will go on Monday. 日 in 曜日 is び, not にち in every compound."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_calendar_words"
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c06",
+      "title": "Months: がつ, not げつ here",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Month:** 1 · **Japanese/reading:** 一月 / いちがつ · **Month:** 7 · **Japanese/reading:** 七月 / しちがつ",
+            "**Month:** 2 · **Japanese/reading:** 二月 / にがつ · **Month:** 8 · **Japanese/reading:** 八月 / はちがつ",
+            "**Month:** 3 · **Japanese/reading:** 三月 / さんがつ · **Month:** 9 · **Japanese/reading:** 九月 / くがつ",
+            "**Month:** 4 · **Japanese/reading:** 四月 / しがつ · **Month:** 10 · **Japanese/reading:** 十月 / じゅうがつ",
+            "**Month:** 5 · **Japanese/reading:** 五月 / ごがつ · **Month:** 11 · **Japanese/reading:** 十一月 / じゅういちがつ",
+            "**Month:** 6 · **Japanese/reading:** 六月 / ろくがつ · **Month:** 12 · **Japanese/reading:** 十二月 / じゅうにがつ"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**四月に行きます。** しがつに いきます。 — I will go in April. 四月 is しがつ, while 四時 is よじ. **何月 / なんがつ** asks which month; **毎月 / まいつき** means every month. Learn the counter context before choosing a number reading."
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c07",
+      "title": "Dates: the first ten and the twentieth",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Written date:** 一日, 1st · **Reading:** ついたち · **Written date:** 六日, 6th · **Reading:** むいか",
+            "**Written date:** 二日, 2nd · **Reading:** ふつか · **Written date:** 七日, 7th · **Reading:** なのか",
+            "**Written date:** 三日, 3rd · **Reading:** みっか · **Written date:** 八日, 8th · **Reading:** ようか",
+            "**Written date:** 四日, 4th · **Reading:** よっか · **Written date:** 九日, 9th · **Reading:** ここのか",
+            "**Written date:** 五日, 5th · **Reading:** いつか · **Written date:** 十日, 10th · **Reading:** とおか",
+            "**Written date:** 二十日, 20th · **Reading:** はつか · **Written date:** 何日, which date · **Reading:** なんにち"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "These readings are for calendar dates. 一日 can be いちにち for a whole day as a duration; the **first of the month** is ついたち. 四日 is よっか, not the clock-hour よじ. Reread this card in short batches; recognition of exceptions takes practice."
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c08",
+      "title": "Later dates and a full date",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Ordinary later dates use number＋にち: 十一日 / じゅういちにち, 十二日 / じゅうににち, 十三日 / じゅうさんにち, 十五日 / じゅうごにち, 十六日 / じゅうろくにち, 十七日 / じゅうしちにち, 十八日 / じゅうはちにち, 十九日 / じゅうくにち, 二十一日 / にじゅういちにち. Important exceptions: **十四日 / じゅうよっか; 二十四日 / にじゅうよっか**. 二十日 remains はつか. Other dates 22–31 follow the number＋にち model, retaining 27th にじゅうしちにち and 29th にじゅうくにち."
+        },
+        {
+          "type": "text",
+          "text": "**四月二十日に会います。** しがつはつかに あいます。 — We meet on April 20. This is a fictional date; no year or actual weekday is claimed."
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c09",
+      "title": "Read the plan, not just the number",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**今週の金曜日に会います。** こんしゅうの きんようびに あいます。 — We meet this Friday."
+        },
+        {
+          "type": "text",
+          "text": "**午前十時から十二時までです。** ごぜんじゅうじから じゅうにじまでです。 — It is from 10 AM until twelve noon."
+        },
+        {
+          "type": "text",
+          "text": "**二時間日本語を読みます。** にじかん にほんごを よみます。 — We read Japanese for two hours."
+        },
+        {
+          "type": "text",
+          "text": "の links 今週 to 金曜日; に marks the meeting date/time. No arithmetic trick changes 十二時 into a twelve-hour duration. Use 間 when stating the duration."
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c10",
+      "title": "Calendar dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: 来週の何曜日に行きますか。** らいしゅうの なんようびに いきますか。 — Which day next week will you go?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 水曜日に行きます。** すいようびに いきます。 — I will go on Wednesday."
+        },
+        {
+          "type": "text",
+          "text": "**A: 何時に会いますか。** なんじに あいますか。 — At what time will we meet?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 午後一時に会います。** ごごいちじに あいます。 — We will meet at 1 PM."
+        },
+        {
+          "type": "text",
+          "text": "Ask 何月 for the month, 何日 for the date, 何曜日 for the weekday, 何時 for the clock. These questions request different parts of a calendar entry."
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c11",
+      "title": "Practice: one number, several counters",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "What is the modern city spelling? **Answer:** つくば; 筑波 belongs to related/historical names, including 筑波山.",
+            "Read 今年, 来週, 毎週. **Answers:** ことし; らいしゅう; まいしゅう.",
+            "Read 水曜日 and 四月. **Answers:** すいようび; しがつ.",
+            "Read the first, fourth and twentieth dates. **Answers:** ついたち; よっか; はつか.",
+            "Read 二十四日. **Answer:** にじゅうよっか.",
+            "Ask “which weekday?” **Answer:** 何曜日ですか。なんようびですか。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tsukuba_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Keep つくば as the current city label. 年/週/曜 organise the calendar. 今年 is ことし; relative weeks use しゅう. 曜日 is ようび. Calendar months use がつ; 四月/七月/九月 are しがつ/しちがつ/くがつ. Dates have taught exceptions, especially ついたち, よっか and はつか."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “We meet next Wednesday at 1 PM.” **Model:** 来週の水曜日、午後一時に会います。 らいしゅうの すいようび、ごごいちじに あいます。 The date material is dense: reread cards 6–8 before the prefecture test."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_年",
+            "kanji_週",
+            "kanji_曜"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_水曜日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_四月"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_七月"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_九月"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_曜日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午後"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_今年"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_つくば"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_来週"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Tsukuba complete",
+    "nextText": "Next: Hitachi",
+    "nextChapter": "ibaraki/hitachi"
+  }
+}

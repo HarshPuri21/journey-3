@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "chitose",
+ "name": "千歳",
+ "nameEn": "Chitose",
+ "reading": "ちとせ",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/hakodate"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "chitose_l01",
+   "file": "lessons/chitose_l01.json"
+  }
+ ]
+}

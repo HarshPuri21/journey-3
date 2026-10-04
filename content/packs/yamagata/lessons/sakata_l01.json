@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "sakata_l01",
+  "number": 3,
+  "title": "Sakata — 酒田",
+  "goal": "Distinguish visiting, living somewhere and returning home.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_住",
+    "kanji_家",
+    "kanji_帰"
+  ],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_人",
+    "kanji_今",
+    "kanji_会",
+    "kanji_午",
+    "kanji_友",
+    "kanji_夜",
+    "kanji_後",
+    "kanji_時",
+    "kanji_本",
+    "kanji_来",
+    "kanji_水",
+    "kanji_田",
+    "kanji_町",
+    "kanji_私",
+    "kanji_行",
+    "kanji_読",
+    "kanji_車",
+    "kanji_酒",
+    "kanji_電"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A City with a Trading Past",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Sakata is a coastal city with a history of trade and cultural connections reflected in places such as Somaro. Our lesson uses an invented resident and home. We will talk about where someone lives, not imply that the traveller permanently moves to every course stop."
+        },
+        {
+          "type": "text",
+          "text": "**酒田に行きました。** さかたに いきました。 — I went to Sakata."
+        },
+        {
+          "type": "text",
+          "text": "An action of visiting is different from an ongoing place of residence. Japanese gives us different words and forms for these situations. The familiar movement particles help us connect them without treating 行く, 来る and 帰る as synonyms."
+        }
+      ]
+    },
+    {
+      "id": "inside_sakata",
+      "title": "Inside 酒田",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 酒 · **Useful meaning/reading:** alcoholic drink; さけ/さか, シュ · **Radical/components:** Indexing radical **酉**, ひよみのとり, on the right; 氵, さんずい, is visible on the left · **Role:** Encounter. Visible water component and indexing radical are distinct.",
+            "**Character:** 田 · **Useful meaning/reading:** field/paddy; た, デン · **Radical/components:** 田, た; field-derived whole form · **Role:** Review from Akita."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**酒田 / さかた**. Note **さか**, not the ordinary standalone さけ word. 酉 is an older vessel-related shape, different from **西**. Do not assume every character with 氵 is indexed under 水: 酒 is a useful counterexample. The lesson does not require drinking alcohol or historical naming trivia."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_酒",
+            "kanji_田"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_sanzui"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ta"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tori_vessel"
+        }
+      ]
+    },
+    {
+      "id": "sakata_c03",
+      "title": "家: House and Home",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**家 / いえ — house; 家 / うち — home, in familiar everyday expressions.** Radical **宀**, うかんむり, above **豕**, a pig-shaped historical component. A roof is a useful building clue, but “every house contains a pig” is not a rule about modern houses."
+        },
+        {
+          "type": "text",
+          "text": "**これは家です。** これは いえです。 — This is a house."
+        },
+        {
+          "type": "text",
+          "text": "**私の家 / わたしのいえ — my house/home.** The word's reading depends on its use. We use **家に帰ります / うちにかえります** for returning home in the main model; **いえにかえります** is also natural. The app should not mark either supported home reading wrong merely because a different model was shown."
+        }
+      ]
+    },
+    {
+      "id": "sakata_c04",
+      "title": "住む: Reside",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**住む / すむ — live/reside; 住みます / すみます — live/will live, polite.** Radical **人** in **亻**, にんべん, with **主**, a historical sound element. The person component is useful, while the whole word supplies the meaning."
+        },
+        {
+          "type": "text",
+          "text": "**酒田に住みます。** さかたに すみます。 — I will live in Sakata, in a stated future plan."
+        },
+        {
+          "type": "text",
+          "text": "Use place **に** for residence in this pattern. **酒田で本を読みます** uses で for a separate reading activity. To state a current residence naturally, we need the form in the next card; do not make every residence sentence a future plan just to avoid explaining the grammar."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_residence_ni"
+        }
+      ]
+    },
+    {
+      "id": "sakata_c05",
+      "title": "住んでいます: A Continuing State",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**住む → 住んで → 住んでいます**; readings **すむ → すんで → すんでいます**."
+        },
+        {
+          "type": "text",
+          "text": "**友だちは酒田に住んでいます。** ともだちは さかたに すんでいます。 — My friend lives in Sakata."
+        },
+        {
+          "type": "text",
+          "text": "This is a first, limited introduction to **verb て-form + います** describing a continuing state. For 住む the connecting form is **住んで**, not **住みて**. The で belongs to the verb form; it is not a separate action-location particle."
+        },
+        {
+          "type": "text",
+          "text": "The formal production target here is the taught residence pattern. We are not claiming that every verb's て-form or every ongoing-action use has been taught. General formation, requests and broader progressive usage come later in the Journey."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_residence_teiru"
+        }
+      ]
+    },
+    {
+      "id": "sakata_c06",
+      "title": "Ask Where Someone Lives",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**どこに住んでいますか。** どこに すんでいますか。 — Where do you live?"
+        },
+        {
+          "type": "text",
+          "text": "**酒田に住んでいます。** さかたに すんでいます。 — I live in Sakata."
+        },
+        {
+          "type": "text",
+          "text": "**友だちはこの町に住んでいます。** ともだちは この まちに すんでいます。 — My friend lives in this town."
+        },
+        {
+          "type": "text",
+          "text": "どこ asks the place; に connects it to the residence verb. The answer can omit 私 when the speaker is clear. This is a normal conversation about residence, while **今、酒田にいます / いま、さかたにいます**, I am in Sakata now, only states present location. Being there today does not establish living there."
+        }
+      ]
+    },
+    {
+      "id": "sakata_c07",
+      "title": "帰る: Return",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**帰る / かえる — return; go home; 帰ります / かえります — return/will return.** Modern 帰 is indexed under **巾**, はば. It has a left 刂-like section and a right 帚-related section containing a lower 巾 shape. These are recognition pieces; the modern left resemblance does not make 刀 the indexing radical here."
+        },
+        {
+          "type": "text",
+          "text": "**家に帰ります。** うちに かえります。 — I go home."
+        },
+        {
+          "type": "text",
+          "text": "**家へ帰ります。** うちえ かえります。 — I return toward/to home."
+        },
+        {
+          "type": "text",
+          "text": "Compare 来ます / きます. The English gloss “come home” may be natural from a particular viewpoint, but our Japanese returning verb remains 帰る. Do not substitute its reading with 来る's irregular forms."
+        }
+      ]
+    },
+    {
+      "id": "sakata_c08",
+      "title": "Four Returning Forms",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Form:** 帰ります · **Reading:** かえります · **Meaning:** return/will return",
+            "**Form:** 帰りません · **Reading:** かえりません · **Meaning:** do not/will not return",
+            "**Form:** 帰りました · **Reading:** かえりました · **Meaning:** returned",
+            "**Form:** 帰りませんでした · **Reading:** かえりませんでした · **Meaning:** did not return"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Although 帰る ends in る, its polite form is **帰ります**, not 帰ます. Do not infer a full verb class from the last kana alone. We are practising the supplied whole forms; systematic verb grouping will be taught later."
+        },
+        {
+          "type": "text",
+          "text": "**夜、家に帰りました。** よる、うちに かえりました。 — I returned home at night."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_kaeru_polite"
+        }
+      ]
+    },
+    {
+      "id": "sakata_c09",
+      "title": "Add Means, Time and Destination",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**午後三時に電車で家に帰ります。** ごご さんじに でんしゃで うちに かえります。 — I return home by train at 3 p.m."
+        },
+        {
+          "type": "text",
+          "text": "Group it: 午後三時に = exact time; 電車で = means; 家に = destination; 帰ります = returning action. This sentence is a fictional plan. No real service is promised."
+        },
+        {
+          "type": "text",
+          "text": "**車で帰りました。** くるまで かえりました。 — I returned by car."
+        },
+        {
+          "type": "text",
+          "text": "A short answer can omit the known time and destination. The kanji's ordinary car reading is くるま, while 電車 uses しゃ. Cumulative grammar grows through relationships rather than requiring a new particle every lesson."
+        }
+      ]
+    },
+    {
+      "id": "sakata_c10",
+      "title": "A Visitor and a Resident",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**私は酒田に行きました。友だちは酒田に住んでいます。** わたしは さかたに いきました。ともだちは さかたに すんでいます。 — I went to Sakata. My friend lives in Sakata."
+        },
+        {
+          "type": "text",
+          "text": "**友だちに会いました。そして、夜、家に帰りました。** ともだちに あいました。そして、よる、うちに かえりました。 — I met my friend. Then I returned home at night."
+        },
+        {
+          "type": "text",
+          "text": "The narrator is a visitor; the friend is a resident. The ongoing residence form does not mean the friend is merely making a short trip. This scene clarifies the three relationships instead of using a location name as a reason to imply a permanent move."
+        }
+      ]
+    },
+    {
+      "id": "sakata_c11",
+      "title": "Practice: Location, Residence, Return",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 酒田 and 家 in “house.” **Answer:** さかた; いえ.",
+            "What is 酒's indexing radical despite its visible 氵? **Answer:** 酉.",
+            "Complete the current-residence form: 住む → ＿＿います. **Answer:** 住んで; 住んでいます / すんでいます.",
+            "Complete 酒田＿住んでいます. **Answer:** に.",
+            "Make 帰ります past. **Answer:** 帰りました / かえりました.",
+            "Does 今、酒田にいます establish residence? **Answer:** No; it only states being there now."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sakata_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "酒田 is さかた. 酒 is indexed under 酉, even though 氵 is visible. 家 can be いえ for a house and うち for home; both readings occur in natural home expressions. Current residence uses the taught **place に住んでいます**. 帰る is かえる; 帰ります is かえります. Visiting, residing and returning are different."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “My friend lives in Sakata. I returned home by train.” **Model:** 友だちは酒田に住んでいます。電車で家に帰りました。 Yamagata's three lessons are complete. Read/test, then Fukushima."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_住",
+            "kanji_家",
+            "kanji_帰"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_友だち"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_電車"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_酒田"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_帰る"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Sakata complete",
+    "nextText": "Next: Yamagata Reading Journey"
+  }
+}

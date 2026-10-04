@@ -1,0 +1,373 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "minakami_l01",
+  "number": 4,
+  "title": "Minakami — みなかみ",
+  "goal": "Describe brightness and distinguish location, current activity and state.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_明",
+    "kanji_暗"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_上",
+    "kanji_今",
+    "kanji_住",
+    "kanji_何",
+    "kanji_作",
+    "kanji_兄",
+    "kanji_前",
+    "kanji_名",
+    "kanji_埼",
+    "kanji_外",
+    "kanji_夜",
+    "kanji_姉",
+    "kanji_家",
+    "kanji_少",
+    "kanji_屋",
+    "kanji_山",
+    "kanji_帰",
+    "kanji_待",
+    "kanji_持",
+    "kanji_文",
+    "kanji_日",
+    "kanji_書",
+    "kanji_月",
+    "kanji_服",
+    "kanji_本",
+    "kanji_来",
+    "kanji_水",
+    "kanji_玉",
+    "kanji_町",
+    "kanji_着",
+    "kanji_私",
+    "kanji_窓",
+    "kanji_立",
+    "kanji_読",
+    "kanji_部",
+    "kanji_音",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A mountain-and-water setting",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "The current municipality is **みなかみ町**, written in hiragana. Its tourism context includes mountains, rivers and hot springs. Our imaginary traveller looks from a room at the scenery and finishes a notebook."
+        },
+        {
+          "type": "text",
+          "text": "**みなかみに来ました。** みなかみに きました。 — I came to Minakami."
+        },
+        {
+          "type": "text",
+          "text": "The route's fixed location is retained as one lesson. A location in the app can be a town or area rather than a city. We conclude Gunma with brightness words and a review of the different meanings learned for existence and ています."
+        }
+      ]
+    },
+    {
+      "id": "inside_minakami",
+      "title": "Modern みなかみ and related 水上",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 水 · **Meaning/reading orientation:** water; みな in this related name · **Radical/components:** 水, みず; whole form · **Status:** Formal review; exceptional name reading helped.",
+            "**Character:** 上 · **Meaning/reading orientation:** above/up; かみ in this name · **Radical/components:** 一, いち, with upright and shorter stroke above baseline · **Status:** Formal review; name reading helped."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**水上 / みなかみ** appears in related district/station/hot-spring names, including **水上駅 / みなかみえき**. It does not replace the current municipality's **みなかみ町** label. Ordinary words remain **水 / みず** and **上 / うえ**; do not call the place みずうえ."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_水",
+            "kanji_上"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ichi"
+        }
+      ]
+    },
+    {
+      "id": "minakami_c03",
+      "title": "明: bright",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**明るい / あかるい — bright.** 明 has radical 日, ひへん, beside 月. “Sun and moon” is a helpful modern recognition mnemonic; it is not a complete account of every historical form or every meaning."
+        },
+        {
+          "type": "text",
+          "text": "**この部屋は明るいです。** このへやは あかるいです。 — This room is bright."
+        },
+        {
+          "type": "text",
+          "text": "**部屋 / へや — room**, helped vocabulary. **明るい部屋 / あかるいへや — a bright room.** Ordinary い-adjective rules apply: **明るくない / あかるくない**, not bright; **明るかった / あかるかった**, was bright. Our literal lighting context avoids the separate personality sense “cheerful.”"
+        }
+      ]
+    },
+    {
+      "id": "minakami_c04",
+      "title": "暗: dark",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**暗い / くらい — dark.** 暗 has radical 日, ひへん, beside 音, a historical sound component. 音 has 立 over 日-like strokes; it is not two separate syllables to pronounce inside 暗."
+        },
+        {
+          "type": "text",
+          "text": "**この部屋は暗いです。** このへやは くらいです。 — This room is dark."
+        },
+        {
+          "type": "text",
+          "text": "**夜、外は暗いです。** よる、そとは くらいです。 — At night it is dark outside."
+        },
+        {
+          "type": "text",
+          "text": "**暗くなかったです / くらくなかったです — was not dark.** We describe an invented room/day. Actual sunrise times or visibility at a trail are not supplied by these adjective examples."
+        }
+      ]
+    },
+    {
+      "id": "minakami_c05",
+      "title": "Describe the room and the things in it",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**部屋にいすがあります。** へやに いすが あります。 — There is a chair in the room."
+        },
+        {
+          "type": "text",
+          "text": "**窓があります。** まどが あります。 — There is a window."
+        },
+        {
+          "type": "text",
+          "text": "**窓の外に山があります。** まどの そとに やまが あります。 — There is a mountain outside the window."
+        },
+        {
+          "type": "text",
+          "text": "**窓 / まど — window**, helped; its character remains an encounter. Existence あります reports the chair/window/mountain. 明るい describes a quality. Neither automatically tells us what a person is doing."
+        }
+      ]
+    },
+    {
+      "id": "minakami_c06",
+      "title": "A person exists; a person acts",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**部屋に兄がいます。** へやに あにが います。 — My older brother is in the room."
+        },
+        {
+          "type": "text",
+          "text": "**兄は部屋で本を読んでいます。** あには へやで ほんを よんでいます。 — My older brother is reading a book in the room."
+        },
+        {
+          "type": "text",
+          "text": "The first is location/existence with に＋います. The second is an activity with で＋読んでいます. Do not treat the ending います in both as evidence that both predicates merely mean “is located.” The te-form links the activity verb to the construction."
+        }
+      ]
+    },
+    {
+      "id": "minakami_c07",
+      "title": "Continuing states, with explicit verbs",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**兄はみなかみに住んでいます。** あには みなかみに すんでいます。 — My older brother lives in Minakami."
+        },
+        {
+          "type": "text",
+          "text": "**姉は服を着ています。** あねは ふくを きています。 — My older sister is wearing clothes."
+        },
+        {
+          "type": "text",
+          "text": "**私はかばんを持っています。** わたしは かばんを もっています。 — I am holding/carrying a bag."
+        },
+        {
+          "type": "text",
+          "text": "住んでいます is residence, 着ています in this context is the state of wearing, and 持っています is holding/possession by context. These readings were introduced with the individual verbs. Do not extend a single English “is doing” translation to every state verb."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_continuing_states"
+        }
+      ]
+    },
+    {
+      "id": "minakami_c08",
+      "title": "Adjective and activity together",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**部屋は明るいです。姉は本を読んでいます。** へやは あかるいです。あねは ほんを よんでいます。 — The room is bright. My older sister is reading a book."
+        },
+        {
+          "type": "text",
+          "text": "**外は暗いです。でも、兄はまだ駅で待っています。** そとは くらいです。でも、あには まだ えきで まっています。 — It is dark outside. But my older brother is still waiting at the station."
+        },
+        {
+          "type": "text",
+          "text": "The first clause gives the environment; the next gives activity. These are fictional alternatives, not one continuous scene placing the brother in two locations at the same time."
+        }
+      ]
+    },
+    {
+      "id": "minakami_c09",
+      "title": "A completed notebook sequence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**本を読んで、名前を書きました。** ほんを よんで、なまえを かきました。 — I read the book and wrote my name."
+        },
+        {
+          "type": "text",
+          "text": "**もう作文を読みました。** もう さくぶんを よみました。 — I have already read the composition."
+        },
+        {
+          "type": "text",
+          "text": "**まだ家に帰っていません。** まだ いえに かえっていません。 — I have not returned home yet."
+        },
+        {
+          "type": "text",
+          "text": "帰る is Group 1 and gives 帰って. The final completed action uses 書きました; the not-yet return uses 帰っていません. These different endings let a short story distinguish what is done from what remains."
+        }
+      ]
+    },
+    {
+      "id": "minakami_c10",
+      "title": "A final repair dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: この部屋は明るいですか。** このへやは あかるいですか。 — Is this room bright?"
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、明るいです。** はい、あかるいです。 — Yes, it is bright."
+        },
+        {
+          "type": "text",
+          "text": "**A: 今、何をしていますか。** いま、なにを していますか。 — What are you doing now?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 作文を読んでいます。少し待ってください。** さくぶんを よんでいます。すこし まってください。 — I am reading a composition. Please wait a little."
+        },
+        {
+          "type": "text",
+          "text": "The answer gives an activity and then an action request. Waiting is requested of the listener, while the reading describes the speaker."
+        }
+      ]
+    },
+    {
+      "id": "minakami_c11",
+      "title": "Practice: identify the predicate",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "What is the modern town label? **Answer:** みなかみ町; related 水上 is read みなかみ.",
+            "Read 明るい, 暗い. **Answers:** あかるい; くらい.",
+            "What radical links 明 and 暗? **Answer:** 日.",
+            "Choose the activity-place particle: 部屋＿＿本を読んでいます。 **Answer:** で.",
+            "Make 暗いです past negative. **Answer:** 暗くなかったです.",
+            "Say “I have not returned home yet.” **Model:** まだ家に帰っていません。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "minakami_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "みなかみ is the current hiragana label; 水上 is a related spelling read みなかみ. 明るい/暗い describe brightness/darkness and share 日. Existence に＋います differs from an activity's で＋Vています. Continuing state verbs can use ています too. The te-form is selected by the verb's group; following endings give progress, completion contrast, requests or sentence linkage."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “I am reading a book in a bright room.” **Model:** 明るい部屋で本を読んでいます。 あかるい へやで ほんを よんでいます。 Finish Gunma's reading and test. The next package begins 埼玉 / さいたま, kept as an assisted preview."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_明",
+            "kanji_暗"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_みなかみ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_水上"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_明るい"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_暗い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_部屋"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_埼玉"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Minakami complete",
+    "nextText": "Next: Gunma Reading Journey"
+  }
+}

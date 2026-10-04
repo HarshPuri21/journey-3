@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "gunma_reading",
+  "number": 5,
+  "title": "Gunma Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_中",
+    "kanji_乗",
+    "kanji_九",
+    "kanji_二",
+    "kanji_今",
+    "kanji_会",
+    "kanji_住",
+    "kanji_作",
+    "kanji_兄",
+    "kanji_分",
+    "kanji_前",
+    "kanji_十",
+    "kanji_午",
+    "kanji_友",
+    "kanji_埼",
+    "kanji_外",
+    "kanji_夜",
+    "kanji_姉",
+    "kanji_家",
+    "kanji_少",
+    "kanji_屋",
+    "kanji_山",
+    "kanji_崎",
+    "kanji_帰",
+    "kanji_店",
+    "kanji_度",
+    "kanji_座",
+    "kanji_待",
+    "kanji_後",
+    "kanji_持",
+    "kanji_文",
+    "kanji_新",
+    "kanji_早",
+    "kanji_明",
+    "kanji_時",
+    "kanji_暗",
+    "kanji_服",
+    "kanji_朝",
+    "kanji_本",
+    "kanji_来",
+    "kanji_橋",
+    "kanji_次",
+    "kanji_水",
+    "kanji_津",
+    "kanji_玉",
+    "kanji_着",
+    "kanji_私",
+    "kanji_窓",
+    "kanji_聞",
+    "kanji_草",
+    "kanji_行",
+    "kanji_言",
+    "kanji_読",
+    "kanji_買",
+    "kanji_車",
+    "kanji_遅",
+    "kanji_部",
+    "kanji_電",
+    "kanji_食",
+    "kanji_飯",
+    "kanji_駅",
+    "kanji_高"
+  ],
+  "cards": [
+    {
+      "id": "gunma_r01",
+      "title": "Maebashi: a current activity",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{前橋|まえばし}に{来|き}ました。",
+          "en": "I came to Maebashi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: まえばしにきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{今|いま}、{駅|えき}で{本|ほん}を{読|よ}んでいます。",
+          "en": "Now I am reading a book at the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いま、えきでほんをよんでいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{兄|あに}は{前橋|まえばし}に{住|す}んでいます。",
+          "en": "My older brother lives in Maebashi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あにはまえばしにすんでいます。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What is the narrator doing now?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Reading a book at the station. The brother's residence is a different state statement."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r02",
+      "title": "Maebashi: clothes and a bag",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{姉|あね}は{新|あたら}しい{服|ふく}を{着|き}ています。",
+          "en": "My older sister is wearing new clothes."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あねはあたらしいふくをきています。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{私|わたし}はかばんを{持|も}っています。",
+          "en": "I am holding/carrying a bag."
+        },
+        {
+          "type": "text",
+          "text": "Kana: わたしはかばんをもっています。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "かばんの{中|なか}に{本|ほん}があります。",
+          "en": "There is a book inside the bag."
+        },
+        {
+          "type": "text",
+          "text": "Kana: かばんのなかにほんがあります。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What is inside the bag?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** A book. 着ています states wearing in this context."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r03",
+      "title": "Takasaki: board and go",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{電車|でんしゃ}に{乗|の}って、{高崎|たかさき}に{行|い}きました。",
+          "en": "I boarded a train and went to Takasaki."
+        },
+        {
+          "type": "text",
+          "text": "Kana: でんしゃにのって、たかさきにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{電車|でんしゃ}で{友|とも}だちに{会|あ}いました。",
+          "en": "I met my friend on the train."
+        },
+        {
+          "type": "text",
+          "text": "Kana: でんしゃでともだちにあいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "いすに{座|すわ}りました。",
+          "en": "I sat on a chair/seat."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いすにすわりました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** How did the narrator reach Takasaki?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** By boarding and travelling on a train. In the second line 電車で is the place of meeting."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r04",
+      "title": "Takasaki: a request",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは「{少|すこ}し{待|ま}ってください」と{言|い}いました。",
+          "en": "My friend said, “Please wait a little.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちは「すこしまってください」といいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{私|わたし}は{駅|えき}で{待|ま}ちました。",
+          "en": "I waited at the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: わたしはえきでまちました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは{水|みず}を{買|か}いました。",
+          "en": "My friend bought water."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちはみずをかいました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What action did the friend request?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Waiting a little."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r05",
+      "title": "Takasaki: repair the time",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "「もう{一度|いちど}{言|い}ってください」と{言|い}いました。",
+          "en": "I said, “Please say it one more time.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「もういちどいってください」といいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは「{午後二時|ごごにじ}です」と{言|い}いました。",
+          "en": "My friend said, “It is 2 PM.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちは「ごごにじです」といいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{二時|にじ}に{店|みせ}に{行|い}きました。",
+          "en": "We went to the shop at two."
+        },
+        {
+          "type": "text",
+          "text": "Kana: にじにみせにいきました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What time did the friend repeat?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** 2 PM. 一度 is the helped phrase's once/one-time word."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r06",
+      "title": "Kusatsu: early arrival",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{朝|あさ}{早|はや}く{草津|くさつ}に{来|き}ました。",
+          "en": "I came to Kusatsu early in the morning."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あさはやくくさつにきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{午前九時|ごぜんくじ}に{本|ほん}を{読|よ}んでいました。",
+          "en": "At 9 AM I was reading a book."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ごぜんくじにほんをよんでいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{十分|じゅっぷん}{読|よ}みました。",
+          "en": "I read for ten minutes."
+        },
+        {
+          "type": "text",
+          "text": "Kana: じゅっぷんよみました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What was the narrator doing at 9 AM?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Reading a book; the sentence uses the past progressive."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r07",
+      "title": "Kusatsu: not yet eaten",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは「もうご{飯|はん}を{食|た}べましたか」と{聞|き}きました。",
+          "en": "My friend asked, “Have you eaten your meal yet?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちは「もうごはんをたべましたか」とききました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「いいえ、まだ{食|た}べていません」と{言|い}いました。",
+          "en": "I said, “No, I have not eaten yet.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「いいえ、まだたべていません」といいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「いっしょに{食|た}べましょう」と{言|い}いました。",
+          "en": "I said, “Let's eat together.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「いっしょにたべましょう」といいました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Has the narrator eaten at the moment of the reply?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** No; まだ食べていません states not yet completed eating."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r08",
+      "title": "Kusatsu: already eaten",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}でご{飯|はん}を{食|た}べました。",
+          "en": "I ate a meal at the shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせでごはんをたべました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "もうご{飯|はん}を{食|た}べました。",
+          "en": "I have already eaten my meal."
+        },
+        {
+          "type": "text",
+          "text": "Kana: もうごはんをたべました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{夜|よる}{遅|おそ}く{駅|えき}に{帰|かえ}りました。",
+          "en": "I returned to the station late at night."
+        },
+        {
+          "type": "text",
+          "text": "Kana: よるおそくえきにかえりました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** How does eating's completion now differ from R07?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** It is already completed now; R07 said not yet."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r09",
+      "title": "Minakami: a bright room",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "みなかみの{部屋|へや}は{明|あか}るいです。",
+          "en": "The room in Minakami is bright."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みなかみのへやはあかるいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{窓|まど}の{外|そと}に{山|やま}があります。",
+          "en": "There is a mountain outside the window."
+        },
+        {
+          "type": "text",
+          "text": "Kana: まどのそとにやまがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{部屋|へや}で{作文|さくぶん}を{読|よ}んでいます。",
+          "en": "I am reading a composition in the room."
+        },
+        {
+          "type": "text",
+          "text": "Kana: へやでさくぶんをよんでいます。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What quality is given for the room?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** It is bright; 明るい. 部屋 and 窓 remain helped vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r10",
+      "title": "Minakami: finish and continue",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{外|そと}は{暗|くら}いです。",
+          "en": "It is dark outside."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そとはくらいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "まだ{家|いえ}に{帰|かえ}っていません。",
+          "en": "I have not returned home yet."
+        },
+        {
+          "type": "text",
+          "text": "Kana: まだいえにかえっていません。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{埼玉|さいたま}です。",
+          "en": "Next is Saitama."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはさいたまです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What remains incomplete?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Returning home. 埼玉 / さいたま is an assisted next-package preview."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r11",
+      "title": "Two complete rereadings",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "First reread all ten story cards using furigana, keeping each three-line scene together. Say the place/time, person or thing, and predicate before translating. Then use the continuous Japanese pass below. If a helped character blocks comprehension, return to its full word rather than trying every dictionary reading."
+        },
+        {
+          "type": "text",
+          "text": "前橋に来ました。今、駅で本を読んでいます。兄は前橋に住んでいます。"
+        },
+        {
+          "type": "text",
+          "text": "姉は新しい服を着ています。私はかばんを持っています。かばんの中に本があります。"
+        },
+        {
+          "type": "text",
+          "text": "電車に乗って、高崎に行きました。電車で友だちに会いました。いすに座りました。"
+        },
+        {
+          "type": "text",
+          "text": "友だちは「少し待ってください」と言いました。私は駅で待ちました。友だちは水を買いました。"
+        },
+        {
+          "type": "text",
+          "text": "「もう一度言ってください」と言いました。友だちは「午後二時です」と言いました。二時に店に行きました。"
+        },
+        {
+          "type": "text",
+          "text": "朝早く草津に来ました。午前九時に本を読んでいました。十分読みました。"
+        },
+        {
+          "type": "text",
+          "text": "友だちは「もうご飯を食べましたか」と聞きました。「いいえ、まだ食べていません」と言いました。「いっしょに食べましょう」と言いました。"
+        },
+        {
+          "type": "text",
+          "text": "店でご飯を食べました。もうご飯を食べました。夜遅く駅に帰りました。"
+        },
+        {
+          "type": "text",
+          "text": "みなかみの部屋は明るいです。窓の外に山があります。部屋で作文を読んでいます。"
+        },
+        {
+          "type": "text",
+          "text": "外は暗いです。まだ家に帰っていません。次は埼玉です。"
+        },
+        {
+          "type": "text",
+          "text": "The continuous pass is the same complete story, with no extra unintroduced sentences. Use it for an optional reduced-assistance reading after the fully assisted version."
+        }
+      ]
+    },
+    {
+      "id": "gunma_r12",
+      "title": "Retell and recall",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Retell one existence sentence, one current action and one continuing state. Reconstruct a request with te-form＋ください. Contrast まだ食べていません with もう食べました and describe the room brightness. Give the te-form of each action you retell."
+        },
+        {
+          "type": "text",
+          "text": "**Model anchors:** 今、本を読んでいます。 / いま、ほんを よんでいます。 — I am reading now. 少し待ってください。 / すこし まってください。 — Please wait a little. まだ家に帰っていません。 / まだ いえに かえっていません。 — I have not returned home yet."
+        },
+        {
+          "type": "text",
+          "text": "**Completion:** Finish the reading and its checkpoints, then take the prefecture test. Revisit a mistaken line using the review targets in the answer key. A reading completion mark records an attempted study pass, not permanent mastery of every assisted character."
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Gunma reading complete",
+    "nextText": "Next: Gunma Test"
+  }
+}

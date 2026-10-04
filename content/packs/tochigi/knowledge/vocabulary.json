@@ -1,0 +1,535 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_宇都宮",
+      "word": "宇都宮",
+      "reading": "うつのみや",
+      "meanings": [
+        "Utsunomiya, whole location name with spoken の"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_宇",
+        "kanji_宮",
+        "kanji_都"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r01_s01"
+      ]
+    },
+    {
+      "id": "vocab_姉",
+      "word": "姉",
+      "reading": "あね",
+      "meanings": [
+        "older sister, own-family term in supplied context"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_姉"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r04_s02",
+        "sent_tochigi_r04_s03",
+        "sent_tochigi_r06_s03",
+        "sent_tochigi_r07_s03",
+        "sent_tochigi_r08_s03"
+      ]
+    },
+    {
+      "id": "vocab_弟",
+      "word": "弟",
+      "reading": "おとうと",
+      "meanings": [
+        "younger brother"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_弟"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_妹",
+      "word": "妹",
+      "reading": "いもうと",
+      "meanings": [
+        "younger sister"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_妹"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r02_s01",
+        "sent_tochigi_r02_s02",
+        "sent_tochigi_r03_s01"
+      ]
+    },
+    {
+      "id": "vocab_お兄さん",
+      "word": "お兄さん",
+      "reading": "おにいさん",
+      "meanings": [
+        "older brother, polite/familiar reference according to context"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_兄"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r03_s02"
+      ]
+    },
+    {
+      "id": "vocab_お姉さん",
+      "word": "お姉さん",
+      "reading": "おねえさん",
+      "meanings": [
+        "older sister, polite/familiar reference according to context"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_姉"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_弟さん",
+      "word": "弟さん",
+      "reading": "おとうとさん",
+      "meanings": [
+        "someone else's younger brother, polite reference"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_弟"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_妹さん",
+      "word": "妹さん",
+      "reading": "いもうとさん",
+      "meanings": [
+        "someone else's younger sister, polite reference"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_妹"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_兄弟",
+      "word": "兄弟",
+      "reading": "きょうだい",
+      "meanings": [
+        "siblings; brothers, according to context"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_兄",
+        "kanji_弟"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_四人",
+      "word": "四人",
+      "reading": "よにん",
+      "meanings": [
+        "four people"
+      ],
+      "pos": "counter",
+      "kanji": [
+        "kanji_人",
+        "kanji_四"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_日光",
+      "word": "日光",
+      "reading": "にっこう",
+      "meanings": [
+        "Nikko, place name; same spelling can mean sunlight in context"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_光",
+        "kanji_日"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_光",
+      "word": "光",
+      "reading": "ひかり",
+      "meanings": [
+        "light, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_光"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_男",
+      "word": "男",
+      "reading": "おとこ",
+      "meanings": [
+        "man; male"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_男"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r05_s01"
+      ]
+    },
+    {
+      "id": "vocab_男の人",
+      "word": "男の人",
+      "reading": "おとこのひと",
+      "meanings": [
+        "man, adult description"
+      ],
+      "pos": "phrase",
+      "kanji": [
+        "kanji_人",
+        "kanji_男"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_男の子",
+      "word": "男の子",
+      "reading": "おとこのこ",
+      "meanings": [
+        "boy"
+      ],
+      "pos": "phrase",
+      "kanji": [
+        "kanji_子",
+        "kanji_男"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r05_s01"
+      ]
+    },
+    {
+      "id": "vocab_女",
+      "word": "女",
+      "reading": "おんな",
+      "meanings": [
+        "woman; female"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_女"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r04_s02",
+        "sent_tochigi_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_女の人",
+      "word": "女の人",
+      "reading": "おんなのひと",
+      "meanings": [
+        "woman, adult description"
+      ],
+      "pos": "phrase",
+      "kanji": [
+        "kanji_人",
+        "kanji_女"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r04_s02"
+      ]
+    },
+    {
+      "id": "vocab_女の子",
+      "word": "女の子",
+      "reading": "おんなのこ",
+      "meanings": [
+        "girl"
+      ],
+      "pos": "phrase",
+      "kanji": [
+        "kanji_女",
+        "kanji_子"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_神社",
+      "word": "神社",
+      "reading": "じんじゃ",
+      "meanings": [
+        "shrine, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_社",
+        "kanji_神"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_お寺",
+      "word": "お寺",
+      "reading": "おてら",
+      "meanings": [
+        "temple, common polite prefix"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_寺"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_足利",
+      "word": "足利",
+      "reading": "あしかが",
+      "meanings": [
+        "Ashikaga, whole exceptional location reading"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_利",
+        "kanji_足"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r06_s01"
+      ]
+    },
+    {
+      "id": "vocab_好き",
+      "word": "好き",
+      "reading": "すき",
+      "meanings": [
+        "like; fond, な-adjective"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_好"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r06_s02",
+        "sent_tochigi_r06_s03",
+        "sent_tochigi_r07_s01",
+        "sent_tochigi_r08_s01"
+      ]
+    },
+    {
+      "id": "vocab_嫌い",
+      "word": "嫌い",
+      "reading": "きらい",
+      "meanings": [
+        "dislike, assisted な-adjective"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_嫌"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_上手",
+      "word": "上手",
+      "reading": "じょうず",
+      "meanings": [
+        "skilled; good at, な-adjective"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_上",
+        "kanji_手"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r07_s03"
+      ]
+    },
+    {
+      "id": "vocab_下手",
+      "word": "下手",
+      "reading": "へた",
+      "meanings": [
+        "unskilled; poor at, な-adjective"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_下",
+        "kanji_手"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r07_s02"
+      ]
+    },
+    {
+      "id": "vocab_絵",
+      "word": "絵",
+      "reading": "え",
+      "meanings": [
+        "picture; drawing, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_絵"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r07_s01",
+        "sent_tochigi_r07_s02",
+        "sent_tochigi_r07_s03"
+      ]
+    },
+    {
+      "id": "vocab_那須",
+      "word": "那須",
+      "reading": "なす",
+      "meanings": [
+        "Nasu, whole location name; separate from eggplant word なす"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_那",
+        "kanji_須"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_長い",
+      "word": "長い",
+      "reading": "ながい",
+      "meanings": [
+        "long"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_長"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_多い",
+      "word": "多い",
+      "reading": "おおい",
+      "meanings": [
+        "many; a lot, qualitative"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_多"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_少ない",
+      "word": "少ない",
+      "reading": "すくない",
+      "meanings": [
+        "few; little, qualitative"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_少"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_少し",
+      "word": "少し",
+      "reading": "すこし",
+      "meanings": [
+        "a little, amount of an action"
+      ],
+      "pos": "adverb",
+      "kanji": [
+        "kanji_少"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_たくさん",
+      "word": "たくさん",
+      "reading": "たくさん",
+      "meanings": [
+        "a lot; many, quantity word"
+      ],
+      "pos": "adverb",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_午後一時",
+      "word": "午後一時",
+      "reading": "ごごいちじ",
+      "meanings": [
+        "one p.m."
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_一",
+        "kanji_午",
+        "kanji_後",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r02_s01"
+      ]
+    },
+    {
+      "id": "vocab_八百円",
+      "word": "八百円",
+      "reading": "はっぴゃくえん",
+      "meanings": [
+        "eight hundred yen, cumulative sound-change review"
+      ],
+      "pos": "price",
+      "kanji": [
+        "kanji_八",
+        "kanji_円",
+        "kanji_百"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_群馬",
+      "word": "群馬",
+      "reading": "ぐんま",
+      "meanings": [
+        "Gunma, assisted next prefecture name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_群",
+        "kanji_馬"
+      ],
+      "exampleSentences": [
+        "sent_tochigi_r10_s03"
+      ]
+    }
+  ]
+}

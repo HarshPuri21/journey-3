@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "packManifest",
+  "packId": "iwate",
+  "type": "prefecture",
+  "contentVersion": 1,
+  "engineSchemaMin": 1,
+  "title": "岩手",
+  "titleEn": "Iwate",
+  "cover": "assets/cover.png",
+  "assets": [
+    "assets/cover.png"
+  ],
+  "dependencies": [
+    "hokkaido",
+    "aomori"
+  ],
+  "unlock": [
+    {
+      "type": "prefectureComplete",
+      "ref": "aomori"
+    }
+  ],
+  "completion": [
+    {
+      "type": "testPassed",
+      "ref": "iwate/iwate_final"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "morioka",
+      "file": "chapters/morioka.json",
+      "map": {
+        "x": 0.2,
+        "y": 0.25
+      }
+    },
+    {
+      "id": "hiraizumi",
+      "file": "chapters/hiraizumi.json",
+      "map": {
+        "x": 0.5,
+        "y": 0.52
+      }
+    },
+    {
+      "id": "hanamaki",
+      "file": "chapters/hanamaki.json",
+      "map": {
+        "x": 0.8,
+        "y": 0.78
+      }
+    }
+  ],
+  "knowledge": {
+    "kanji": "knowledge/kanji.json",
+    "radicals": "knowledge/radicals.json",
+    "vocabulary": "knowledge/vocabulary.json",
+    "grammar": "knowledge/grammar.json",
+    "sentences": "knowledge/sentences.json"
+  },
+  "questionBank": "tests/questions.json",
+  "reading": {
+    "id": "iwate_reading",
+    "title": "Iwate Reading Journey",
+    "file": "reading/iwate_reading.json",
+    "unlock": [
+      {
+        "type": "chapterComplete",
+        "ref": "iwate/hanamaki"
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": "iwate_final",
+      "title": "Iwate Test",
+      "questionCount": 30,
+      "passRatio": 0.7,
+      "tags": [
+        "iwate_final"
+      ],
+      "quotas": {
+        "kanji": 5,
+        "radical": 5,
+        "numbers": 5,
+        "vocabulary": 5,
+        "grammar": 5,
+        "reading": 5
+      },
+      "unlock": [
+        {
+          "type": "lessonComplete",
+          "ref": "iwate/iwate_reading"
+        }
+      ]
+    }
+  ],
+  "completionCriteria": [
+    "Read the three location names as complete words.",
+    "Recognise the assigned core words and their sentence roles.",
+    "Retrieve the taught radicals and modern component distinctions.",
+    "Complete the three location lessons and the thirty-sentence reading.",
+    "Pass the thirty-question prefecture assessment at 21/30."
+  ]
+}

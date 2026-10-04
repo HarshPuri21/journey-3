@@ -1,0 +1,737 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "sapporo_l01",
+  "number": 1,
+  "title": "Welcome to Kanji",
+  "goal": "Understand what kanji are, why they are used, how kanji can be broken into smaller parts, and how Japanese readings work.",
+  "estimatedMinutes": 12,
+  "coreKanji": [
+    "kanji_北",
+    "kanji_海",
+    "kanji_道"
+  ],
+  "encounterKanji": [
+    "kanji_札",
+    "kanji_幌",
+    "kanji_町",
+    "kanji_日",
+    "kanji_本"
+  ],
+  "cards": [
+    {
+      "id": "welcome_to_hokkaido",
+      "title": "Welcome to Hokkaido",
+      "kind": "intro",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "display",
+          "jp": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido"
+        },
+        {
+          "type": "text",
+          "text": "Welcome to the N5 Kanji Journey."
+        },
+        {
+          "type": "text",
+          "text": "Our journey begins in **Hokkaido**, the northernmost of Japan's four main islands."
+        },
+        {
+          "type": "text",
+          "text": "You will travel across Japan from north to south, learning Japanese through the places you visit."
+        },
+        {
+          "type": "text",
+          "text": "But before we start learning lots of kanji, there is something important you need to understand:"
+        },
+        {
+          "type": "heading",
+          "text": "What exactly is a kanji?",
+          "level": 2
+        },
+        {
+          "type": "text",
+          "text": "Japanese uses several writing systems. **ひらがな** and **カタカナ** are phonetic writing systems: their characters mainly represent sounds."
+        },
+        {
+          "type": "text",
+          "text": "**{漢字|かんじ}**, on the other hand, are characters that carry meaning."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_北",
+            "kanji_海",
+            "kanji_道"
+          ],
+          "show": [
+            "meaning"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Kanji give us information about both **what something means** and, depending on the word, **how it is read**."
+        },
+        {
+          "type": "text",
+          "text": "You don't need to memorize every kanji as a meaningless shape. Throughout this Journey, we will learn to look inside them."
+        }
+      ]
+    },
+    {
+      "id": "our_first_kanji",
+      "title": "Our First Kanji",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Let's look at the name of the place we are visiting."
+        },
+        {
+          "type": "display",
+          "jp": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaidō"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_北",
+            "kanji_海",
+            "kanji_道"
+          ],
+          "show": [
+            "meaning"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "North + Sea + Way",
+          "title": "Very literally",
+          "tone": "info"
+        },
+        {
+          "type": "callout",
+          "text": "A kanji can have a meaning by itself, but its reading depends on the word it appears in.",
+          "title": "First important lesson",
+          "tone": "tip"
+        },
+        {
+          "type": "text",
+          "text": "We are going to see this again and again."
+        }
+      ]
+    },
+    {
+      "id": "readings_vary",
+      "title": "Kanji Are Not Always One Sound",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "display",
+          "jp": "北"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_北",
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "You may encounter this character with different readings. On its own it is **きた** (north):"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_北"
+        },
+        {
+          "type": "text",
+          "text": "But 北 can also have an **on'yomi** reading, **ホク**:"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_北部"
+        },
+        {
+          "type": "text",
+          "text": "And in 北海道 the reading becomes **ほっ** rather than simply ほく:"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_北海道"
+        },
+        {
+          "type": "callout",
+          "text": "Kanji readings are not always predictable from one simple rule.",
+          "title": "Warning",
+          "tone": "warning"
+        },
+        {
+          "type": "text",
+          "text": "We will learn useful patterns that help us make good guesses, but Japanese has exceptions and sound changes."
+        }
+      ]
+    },
+    {
+      "id": "onyomi_kunyomi",
+      "title": "On'yomi and Kun'yomi",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A kanji can have two broad types of readings."
+        },
+        {
+          "type": "display",
+          "jp": "訓読み",
+          "reading": "くんよみ",
+          "gloss": "kun'yomi"
+        },
+        {
+          "type": "text",
+          "text": "Generally the Japanese reading tied to the character's native Japanese word. For 北, **きた** is a kun'yomi reading."
+        },
+        {
+          "type": "display",
+          "jp": "音読み",
+          "reading": "おんよみ",
+          "gloss": "on'yomi"
+        },
+        {
+          "type": "text",
+          "text": "A reading that came from the historical adoption of Chinese pronunciations. For 北, **ホク** is an on'yomi reading."
+        },
+        {
+          "type": "heading",
+          "text": "A useful beginner pattern",
+          "level": 3
+        },
+        {
+          "type": "text",
+          "text": "In a compound word, **on'yomi is often used** (北部 → ほくぶ). As a native Japanese word, **kun'yomi is often used** (北 → きた)."
+        },
+        {
+          "type": "callout",
+          "text": "These are useful patterns, but they are NOT absolute rules. Your goal is not to memorize a fake formula - it is to gradually get good at recognizing patterns.",
+          "title": "Patterns, not rules",
+          "tone": "warning"
+        }
+      ]
+    },
+    {
+      "id": "kanji_have_parts",
+      "title": "Kanji Have Parts",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_北",
+            "kanji_海",
+            "kanji_道"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "They may look complicated at first, but kanji are often made from smaller components."
+        },
+        {
+          "type": "text",
+          "text": "These components can sometimes give us clues about:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "meaning",
+            "pronunciation",
+            "category",
+            "shape",
+            "historical origin"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "This is where **radicals** become useful."
+        }
+      ]
+    },
+    {
+      "id": "what_is_a_radical",
+      "title": "What Is a Radical?",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "A **radical** is a component traditionally used to classify and index kanji. In learning, people often use the word more loosely for an important component inside a kanji."
+        },
+        {
+          "type": "callout",
+          "text": "Radical ≠ always 'the meaning of the kanji'",
+          "title": "An important distinction",
+          "tone": "info"
+        },
+        {
+          "type": "text",
+          "text": "Sometimes a component gives a strong meaning clue. Sometimes it gives a pronunciation clue. Sometimes it mainly helps identify the character."
+        },
+        {
+          "type": "callout",
+          "text": "Don't think 'I know the radical, so I know the whole kanji.' Think: 'This part may give me a clue.'",
+          "tone": "quote"
+        }
+      ]
+    },
+    {
+      "id": "water_component",
+      "title": "The Water Component",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "kanjiRef",
+          "id": "kanji_海",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_sanzui"
+        },
+        {
+          "type": "text",
+          "text": "It is a shortened form of 水, and you will see it in many kanji connected with water or liquid:"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_海",
+            "kanji_河",
+            "kanji_池",
+            "kanji_湖"
+          ],
+          "show": [
+            "meaning"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "The component doesn't guarantee the meaning, but it gives a useful clue: 'This kanji may have something to do with water.'",
+          "tone": "tip"
+        },
+        {
+          "type": "text",
+          "text": "You have already learned something that will be useful far beyond Hokkaido."
+        }
+      ]
+    },
+    {
+      "id": "way_component",
+      "title": "The Way Component",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "kanjiRef",
+          "id": "kanji_道",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_shinnyou"
+        },
+        {
+          "type": "text",
+          "text": "You will meet 辶 many times during your journey. For example:"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_近",
+            "kanji_通",
+            "kanji_遠"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "what_about_north",
+      "title": "What About 北?",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "kanjiRef",
+          "id": "kanji_北",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_hi"
+        },
+        {
+          "type": "text",
+          "text": "The structure of 北 is different from 海 and 道. Its traditional radical is 匕, but this does **not** mean 匕 = north."
+        },
+        {
+          "type": "text",
+          "text": "The ancient form showed people positioned back-to-back, and the character later came to mean 'north'."
+        },
+        {
+          "type": "callout",
+          "text": "Not every part of a kanji tells you its meaning.",
+          "title": "Another important lesson",
+          "tone": "tip"
+        },
+        {
+          "type": "text",
+          "text": "Understanding a kanji can mean learning:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "its components",
+            "its history",
+            "its meaning",
+            "its readings",
+            "the words where it appears"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a_second_place_name",
+      "title": "A Second Place Name",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "We have arrived at our first city."
+        },
+        {
+          "type": "display",
+          "jp": "札幌",
+          "reading": "さっぽろ",
+          "gloss": "Sapporo"
+        },
+        {
+          "type": "text",
+          "text": "Sapporo is the capital and largest city of Hokkaido."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_札",
+            "kanji_幌"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_札幌"
+        },
+        {
+          "type": "callout",
+          "text": "A place name may contain kanji that you haven't formally learned yet. 札 and 幌 are **encounter characters**: you have met them, and some will be studied properly later in your Journey.",
+          "title": "That's okay",
+          "tone": "info"
+        }
+      ]
+    },
+    {
+      "id": "inside_sapporo",
+      "title": "Inside 札幌",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Now look inside {札幌|さっぽろ}."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_札",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_幌",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ki"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_haba"
+        },
+        {
+          "type": "callout",
+          "text": "Both parts of 札幌 carry a clue: 木 (wood) in 札 and 巾 (cloth) in 幌. Neither tells you how the name is read - that is something you simply meet and remember. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "first_sentences",
+      "title": "Your First Japanese Sentences",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Now let's use some of today's kanji."
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_kore_wa_hokkaido_desu",
+          "showBreakdown": true
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_wa_nihon_desu",
+          "showBreakdown": true
+        },
+        {
+          "type": "callout",
+          "tone": "info",
+          "text": "Assisted location example: の means “of”; 北 means “north”; にあります means “is located in/at”. You will practice this pattern more fully in Asahikawa."
+        }
+      ]
+    },
+    {
+      "id": "one_more_step",
+      "title": "One More Step",
+      "kind": "content",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Now let's introduce the city."
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_sapporo_wa_hokkaido_desu",
+          "showBreakdown": true
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_町"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_no"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_a_wa_b_desu"
+        },
+        {
+          "type": "callout",
+          "text": "Sapporo + topic + Hokkaido + の + town/city + です. の connects the place name to 町. This describes Sapporo as a city in Hokkaido; です alone does not express geographic location.",
+          "title": "A small language note",
+          "tone": "info"
+        }
+      ]
+    },
+    {
+      "id": "what_you_noticed",
+      "title": "What You Should Notice",
+      "kind": "review",
+      "scroll": false,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You have already learned several important ideas."
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "北 → north, 海 → sea, 道 → way",
+            "北 can be きた (kun'yomi) or ホク (on'yomi)",
+            "海 contains 氵, the water component",
+            "道 contains 辶, the movement / road component",
+            "You have already met 札幌, even though 札 and 幌 have not been fully studied"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "This is exactly how your Journey will work.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "① Kanji carry meaning",
+          "level": 2
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_北",
+            "kanji_海",
+            "kanji_道"
+          ],
+          "show": [
+            "meaning"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "text": "② Kanji can have multiple readings",
+          "level": 2
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_北",
+          "show": [
+            "readings"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "text": "③ On'yomi and kun'yomi",
+          "level": 2
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "訓読み (kun'yomi): generally native Japanese readings",
+            "音読み (on'yomi): readings historically derived from Chinese pronunciations"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "These are patterns, not perfect rules.",
+          "tone": "warning"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "text": "④ Components can give clues",
+          "level": 2
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "海: 氵 = water component, a clue for water-related kanji",
+            "道: 辶 = movement / road component, a clue for movement and paths",
+            "北: its traditional radical is 匕, but that does not mean 匕 = north"
+          ]
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "text": "⑤ Place names contain kanji too",
+          "level": 2
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_北海道"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_札幌"
+        },
+        {
+          "type": "text",
+          "text": "Some place-name kanji will be familiar. Others will be new. That's okay."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "text": "⑥ You don't have to memorize everything immediately",
+          "level": 2
+        },
+        {
+          "type": "text",
+          "text": "Your Journey distinguishes between:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "学習 - Studied: you have formally learned it",
+            "出会い - Encountered: you have seen it, but haven't fully studied it yet",
+            "未来 - Future: you haven't reached it yet"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "Seeing a future kanji is not a test. It is a preview.",
+          "tone": "tip"
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "title": "You have taken your first step.",
+    "nextText": "Next location: Hakodate - 函館",
+    "nextChapter": "hokkaido/hakodate"
+  },
+  "status": "final"
+}

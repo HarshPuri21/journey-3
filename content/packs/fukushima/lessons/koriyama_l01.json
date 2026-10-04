@@ -1,0 +1,356 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "koriyama_l01",
+  "number": 3,
+  "title": "Koriyama — 郡山",
+  "goal": "Recognise school/student/teacher words and distinguish identity from action.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_学",
+    "kanji_校",
+    "kanji_生",
+    "kanji_先"
+  ],
+  "encounterKanji": [
+    "kanji_人",
+    "kanji_会",
+    "kanji_住",
+    "kanji_何",
+    "kanji_前",
+    "kanji_友",
+    "kanji_名",
+    "kanji_子",
+    "kanji_字",
+    "kanji_室",
+    "kanji_山",
+    "kanji_教",
+    "kanji_文",
+    "kanji_書",
+    "kanji_木",
+    "kanji_本",
+    "kanji_松",
+    "kanji_私",
+    "kanji_聞",
+    "kanji_行",
+    "kanji_読",
+    "kanji_週",
+    "kanji_郡"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A Transport Hub, a Learning Scene",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Koriyama is a transport hub in Fukushima. We will use an invented classroom/learning scene. This is not a claim that a particular school accepts visitors or offers a course."
+        },
+        {
+          "type": "text",
+          "text": "**郡山で文を読みました。** こおりやまで ぶんを よみました。 — I read sentences in Koriyama."
+        },
+        {
+          "type": "text",
+          "text": "Reading and writing were introduced in Kakunodate. Today we name the people and place associated with study. A travel curriculum can add useful everyday situations while keeping exactly the fixed number of location lessons."
+        }
+      ]
+    },
+    {
+      "id": "inside_koriyama",
+      "title": "Inside 郡山",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 郡 · **Meaning/reading:** district; グン; こおり here · **Radical/components:** 邑 in right-side 阝/おおざと form, plus 君, a historical sound element · **Role:** Encounter. Right 阝 differs from left 阜/こざとへん despite similar shape.",
+            "**Character:** 山 · **Meaning/reading:** mountain; やま, サン · **Radical/components:** 山, やま; complete mountain-derived form · **Role:** Formal review."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**郡山 / こおりやま**. Keep the long **おお** sequence in こおり; do not read it as **こりやま** or guess **ぐんさん**. The city name does not make this lesson an administrative-district lesson. We inspect the difficult character but test only the familiar whole word/component distinction."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_郡",
+            "kanji_山"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_oozato"
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c03",
+      "title": "学: Learning in Compounds",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**学生 / がくせい — student; 学校 / がっこう — school**, introduced together and explained across the next cards. 学's radical is **子**, こ, below a cover-like **冖** and three small upper strokes. Do not label that cover 宀: 宀 includes a top dot that 冖 does not."
+        },
+        {
+          "type": "text",
+          "text": "学 relates to learning/study. Its modern form helps recognition; **子** inside it does not make every student a small child. Adult students also exist. We prioritise useful compound words rather than require an isolated 学 reading as a conversational noun."
+        },
+        {
+          "type": "text",
+          "text": "**私は学生です。** わたしは がくせいです。 — I am a student. The name of the role is a noun, not the verb “study.”"
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c04",
+      "title": "校 and 学校",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**学校 / がっこう — school.** 校 has radical **木**, きへん, with **交**, a historical sound element, on the right. The tree component gives an indexing/recognition connection, not a requirement that a school building must be wooden."
+        },
+        {
+          "type": "text",
+          "text": "The compound has a small **っ**: **がっこう**, not **がくこう**. Its final **こう** has a long vowel."
+        },
+        {
+          "type": "text",
+          "text": "**学校に行きます。** がっこうに いきます。 — I go to school."
+        },
+        {
+          "type": "text",
+          "text": "**学校で本を読みます。** がっこうで ほんを よみます。 — I read a book at school."
+        },
+        {
+          "type": "text",
+          "text": "Destination に and action-place で remain different. A new compound does not change the relationships already learned in shop and station scenes."
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c05",
+      "title": "生 in Two High-Priority Words",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**学生 / がくせい — student; 先生 / せんせい — teacher**, high-priority whole words. 生 is its own radical, うまれる/いきる. Its whole shape is historically growth/life-related; do not try to derive every modern role word from a literal plant picture."
+        },
+        {
+          "type": "text",
+          "text": "生 is **せい** in both compounds. In other common words its reading changes, but we reserve 生まれる / うまれる for a later daily-life/family expansion. “Knowing 生” does not mean memorising all its possible readings immediately."
+        },
+        {
+          "type": "text",
+          "text": "**友だちは学生です。** ともだちは がくせいです。 — My friend is a student. The same role can apply to different people without changing the word's reading."
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c06",
+      "title": "先 and 先生",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**先生 / せんせい — teacher; 先 / さき — ahead/before, an orientation word.** 先 is indexed under **儿**, ひとあし. Notice its upper earth/step-like strokes and the two lower leg-shaped strokes. Those are not the same side radical as **亻** in 住."
+        },
+        {
+          "type": "text",
+          "text": "**この人は先生です。** この ひとは せんせいです。 — This person is a teacher."
+        },
+        {
+          "type": "text",
+          "text": "先生 can be used as a respectful title in appropriate contexts. Here the intended role is teacher. It is not the ordinary plural of 学生 or a special counter. **先週 / せんしゅう**, last week, is a later time-word expansion when 週 is studied."
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c07",
+      "title": "Identity Is Different from an Activity",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**私は学生です。** わたしは がくせいです。 — I am a student."
+        },
+        {
+          "type": "text",
+          "text": "**私は本を読みます。** わたしは ほんを よみます。 — I read a book."
+        },
+        {
+          "type": "text",
+          "text": "**友だちは先生です。** ともだちは せんせいです。 — My friend is a teacher."
+        },
+        {
+          "type": "text",
+          "text": "One identifies a role; another describes an action. Reading a book once does not prove someone is a student, and writing a sentence does not prove they are a teacher. Test questions use explicit role statements rather than ask the learner to infer social roles from an unrelated activity."
+        },
+        {
+          "type": "text",
+          "text": "**何を読みますか / なにをよみますか — What do you read?** contrasts with **何ですか / なんですか**. The whole phrase determines 何's useful reading."
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c08",
+      "title": "Four Polite Role Descriptions",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Meaning:** is a student · **Japanese:** 学生です · **Reading:** がくせいです",
+            "**Meaning:** is not a student · **Japanese:** 学生ではありません · **Reading:** がくせいではありません",
+            "**Meaning:** was a student · **Japanese:** 学生でした · **Reading:** がくせいでした",
+            "**Meaning:** was not a student · **Japanese:** 学生ではありませんでした · **Reading:** がくせいではありませんでした"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "These noun forms were completed in Yamagata's weather lesson. They apply to a role noun as well as a weather noun. **学生がいません** instead means there is no student present; it does not say that a particular person is not a student. Keep negative identity and negative existence separate."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_noun_past_negative"
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c09",
+      "title": "A Classroom Word with Assistance",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**教室 / きょうしつ — classroom.** 教/室 remain assisted characters; they will receive fuller formal attention later. A useful whole word can be explained before every constituent kanji is assigned mastery."
+        },
+        {
+          "type": "text",
+          "text": "**教室に先生がいます。** きょうしつに せんせいが います。 — There is a teacher in the classroom."
+        },
+        {
+          "type": "text",
+          "text": "**教室で文を書きます。** きょうしつで ぶんを かきます。 — I write a sentence in the classroom."
+        },
+        {
+          "type": "text",
+          "text": "**先生に聞きます。** せんせいに ききます。 — I ask the teacher."
+        },
+        {
+          "type": "text",
+          "text": "We now connect the asking-person pattern from Tsuruoka to a new role. The teacher's identity and the place of writing are supplied clearly."
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c10",
+      "title": "One Fictional Learning Account",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**郡山で先生に会いました。先生の名前はゆきです。** こおりやまで せんせいに あいました。せんせいの なまえは ゆきです。 — I met a teacher in Koriyama. The teacher's name is Yuki."
+        },
+        {
+          "type": "text",
+          "text": "**学校で本を読みました。そして、ノートに文を書きました。** がっこうで ほんを よみました。そして、ノートに ぶんを かきました。 — I read a book at school. Then I wrote a sentence in a notebook."
+        },
+        {
+          "type": "text",
+          "text": "The named teacher is fictional. Meeting someone uses に; the action place uses で; writing surface uses に. We reuse the same relationships with a new topic instead of expecting learners to translate particles mechanically."
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c11",
+      "title": "Practice: Roles and School Words",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 郡山, 学生, 学校 and 先生. **Answer:** こおりやま; がくせい; がっこう; せんせい.",
+            "Which radical links 学 with 字? **Answer:** 子.",
+            "What visible radical links 校 with 松? **Answer:** 木.",
+            "Make 学生です past negative. **Answer:** 学生ではありませんでした.",
+            "Complete “ask a teacher”: 先生＿聞きます。 **Answer:** に.",
+            "Does 本を読みます alone establish that the person is a student? **Answer:** No; an explicit role statement is needed."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "koriyama_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "郡山 is こおりやま. Right-side 阝 is the 邑/おおざと family in 郡. 学生/学校/先生 are がくせい/がっこう/せんせい. 学 and 字 share 子; 校 has 木. A role noun uses です/ではありません/でした/ではありませんでした. Negative role identification is different from absence of a person."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I am a student. I read a book at school.” **Model:** 私は学生です。学校で本を読みます。 Continue to Iwaki and talk about languages."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_学",
+            "kanji_校",
+            "kanji_生",
+            "kanji_先"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_郡山"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_学生"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_学校"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_先生"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Koriyama complete",
+    "nextText": "Next: Iwaki",
+    "nextChapter": "fukushima/iwaki"
+  }
+}

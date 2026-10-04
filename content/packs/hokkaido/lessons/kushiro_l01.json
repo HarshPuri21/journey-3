@@ -1,0 +1,616 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "kushiro_l01",
+  "number": 8,
+  "title": "Kushiro",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_釧",
+    "kanji_路"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Kushiro",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{釧路|くしろ}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "くしろ"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kushiro"
+        },
+        {
+          "type": "text",
+          "text": "Kushiro is an important eastern Hokkaido city and gateway to areas including Kushiro Wetland and eastern Hokkaido's lakes and nature."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "釧"
+        },
+        {
+          "type": "text",
+          "text": "a character used strongly in names"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "路"
+        },
+        {
+          "type": "text",
+          "text": "**みち / ろ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "road / route"
+        },
+        {
+          "type": "text",
+          "text": "Together:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{釧路|くしろ}"
+        },
+        {
+          "type": "text",
+          "text": "**くしろ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Kushiro"
+        }
+      ]
+    },
+    {
+      "id": "inside_kushiro",
+      "title": "Inside 釧路",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {釧路|くしろ}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_釧",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_路",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kane"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kawa"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ashi"
+        },
+        {
+          "type": "callout",
+          "text": "釧 combines 金 (metal) and 川 (river): 金 is the meaning clue, 川 hints at the sound セン. 路 carries 足 (foot). 道 and 路 both mean road, but with different clues: 辶 and 足. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "路",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "路"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ろ"
+        },
+        {
+          "type": "text",
+          "text": "**ro**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "road / route"
+        },
+        {
+          "type": "text",
+          "text": "You have already seen a related idea in:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{道|みち}"
+        },
+        {
+          "type": "text",
+          "text": "road / way"
+        },
+        {
+          "type": "text",
+          "text": "Now:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "路"
+        },
+        {
+          "type": "text",
+          "text": "road / route"
+        },
+        {
+          "type": "text",
+          "text": "This is an excellent example of connected kanji knowledge."
+        },
+        {
+          "type": "text",
+          "text": "Your knowledge graph can link:"
+        },
+        {
+          "type": "text",
+          "text": "**{道|みち} ↔ 路**"
+        },
+        {
+          "type": "text",
+          "text": "even though they are not identical."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_路",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_道",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "あります",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "あります"
+        },
+        {
+          "type": "text",
+          "text": "**arimasu**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "there is / exists"
+        },
+        {
+          "type": "text",
+          "text": "Used mainly for non-living things."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{水|みず}があります。"
+        },
+        {
+          "type": "text",
+          "text": "**みずが あります。**"
+        },
+        {
+          "type": "text",
+          "text": "**Mizu ga arimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "There is water."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_ga"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_aru"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_kushiro_water"
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "います",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "います"
+        },
+        {
+          "type": "text",
+          "text": "**imasu**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "there is / exists"
+        },
+        {
+          "type": "text",
+          "text": "Used mainly for people and animals."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{人|ひと}がいます。"
+        },
+        {
+          "type": "text",
+          "text": "**ひとが います。**"
+        },
+        {
+          "type": "text",
+          "text": "**Hito ga imasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "There is a person."
+        },
+        {
+          "type": "text",
+          "text": "This distinction is important."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Thing"
+        },
+        {
+          "type": "text",
+          "text": "あります"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Person/animal"
+        },
+        {
+          "type": "text",
+          "text": "います"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_iru"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_kushiro_person"
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "人",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{人|ひと}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ひと"
+        },
+        {
+          "type": "text",
+          "text": "**hito**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "person"
+        },
+        {
+          "type": "text",
+          "text": "It also has the reading:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "じん / にん"
+        },
+        {
+          "type": "text",
+          "text": "depending on the word."
+        },
+        {
+          "type": "text",
+          "text": "Examples:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{日本人|にほんじん}"
+        },
+        {
+          "type": "text",
+          "text": "**にほんじん**"
+        },
+        {
+          "type": "text",
+          "text": "Japanese person"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三人|さんにん}"
+        },
+        {
+          "type": "text",
+          "text": "**さんにん**"
+        },
+        {
+          "type": "text",
+          "text": "three people"
+        },
+        {
+          "type": "text",
+          "text": "We will encounter counting people more deeply later."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_人",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "Kushiro Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{釧路|くしろ}に{人|ひと}がいます。"
+        },
+        {
+          "type": "text",
+          "text": "**くしろに ひとが います。**"
+        },
+        {
+          "type": "text",
+          "text": "**Kushiro ni hito ga imasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "There are people in Kushiro."
+        },
+        {
+          "type": "text",
+          "text": "And:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{釧路|くしろ}に{川|かわ}があります。"
+        },
+        {
+          "type": "text",
+          "text": "**くしろに かわが あります。**"
+        },
+        {
+          "type": "text",
+          "text": "**Kushiro ni kawa ga arimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "There is a river in Kushiro."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_kushiro_people"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_kushiro_river"
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "Mini Question",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Which is correct for a person?"
+        },
+        {
+          "type": "text",
+          "text": "A. {人|ひと}があります。\nB. {人|ひと}がいます。"
+        },
+        {
+          "type": "text",
+          "text": "Answer:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "B — {人|ひと}がいます。"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "{釧路|くしろ} — くしろ — Kushiro"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "釧 — name character\n路 — road / route"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "{人|ひと} — ひと — person\n{川|かわ} — かわ — river\n{道|みち} — みち — road\n路 — ろ — route\nあります — exists / there is\nいます — exists / there is"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "**N が あります**"
+        },
+        {
+          "type": "text",
+          "text": "There is N."
+        },
+        {
+          "type": "text",
+          "text": "**N が います**"
+        },
+        {
+          "type": "text",
+          "text": "There is N (person/animal)."
+        }
+      ]
+    }
+  ],
+  "goal": "Learn 釧・路 Introduce あります / います Learn basic existence/location Introduce 人 Practice describing what is in a place",
+  "estimatedMinutes": 20,
+  "coreKanji": [
+    "kanji_人"
+  ],
+  "completion": {
+    "title": "Kushiro complete",
+    "nextText": "Next: Noboribetsu",
+    "nextChapter": "hokkaido/noboribetsu"
+  }
+}

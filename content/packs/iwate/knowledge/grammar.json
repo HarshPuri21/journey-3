@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_demonstrative_places",
+      "title": "Here/there/where",
+      "pattern": "ここ・そこ・あそこ・どこ",
+      "explanation": "Place words: near speaker, near listener, away from both and where. 駅はどこですか asks the station's location."
+    },
+    {
+      "id": "grammar_relative_position",
+      "title": "Positions relative to an object",
+      "pattern": "N の 上/下/中/外/左/右 に",
+      "explanation": "The reference object's の connects to the position. 駅の左に寺があります places the temple left of the station, not the reverse."
+    },
+    {
+      "id": "grammar_negative_existence",
+      "title": "No thing/person present",
+      "pattern": "ありません / いません",
+      "explanation": "Nonliving things use ありません; people/animals use いません. あそこに店はありません denies a shop's presence there, not the identity of that place."
+    },
+    {
+      "id": "grammar_na_adjective_negative",
+      "title": "Negative noun/な-description",
+      "pattern": "N / な-stem ではありません",
+      "explanation": "Quiet is 静か; its polite negative is 静かではありません, not 静かくない. あそこは店ではありません denies that place is a shop; compare existential ありません."
+    },
+    {
+      "id": "grammar_conjunctions_basic",
+      "title": "そして and でも",
+      "pattern": "sentence。 connector sentence。",
+      "explanation": "そして continues a sequence or adds a sentence; でも introduces contrast. Neither requires a new verb conjugation."
+    },
+    {
+      "id": "grammar_companion_to",
+      "title": "と for a companion",
+      "pattern": "person と destination に 行きます",
+      "explanation": "Names the travel companion, as 友だちと花巻に行きます; distinguish noun-listing と and the meeting partner に with 会う."
+    },
+    {
+      "id": "grammar_au_person_ni",
+      "title": "に for the person met",
+      "pattern": "person に 会います",
+      "explanation": "The taught 会う pattern uses に for the person met. A time に and an action-location で can occur in the same sentence."
+    }
+  ]
+}

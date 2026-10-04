@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "iwaki",
+  "name": "いわき",
+  "nameEn": "Iwaki",
+  "reading": "いわき",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "fukushima/koriyama"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "iwaki_l01",
+      "file": "lessons/iwaki_l01.json"
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_林",
+      "char": "林",
+      "meanings": [
+        "grove",
+        "woods"
+      ],
+      "onyomi": [
+        "リン"
+      ],
+      "kunyomi": [
+        "はやし"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "Two 木 shapes; learn 林 / はやし and 森林 / しんりん."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_森",
+        "kanji_木"
+      ],
+      "notes": "Two 木 shapes; learn 林 / はやし and 森林 / しんりん."
+    },
+    {
+      "id": "kanji_食",
+      "char": "食",
+      "meanings": [
+        "eat",
+        "food"
+      ],
+      "onyomi": [
+        "ショク"
+      ],
+      "kunyomi": [
+        "た"
+      ],
+      "components": [
+        {
+          "radical": "radical_shoku",
+          "role": "classifier",
+          "note": "Person-like upper shape and lower food-family form; compare the component previously met inside 館."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_館"
+      ],
+      "notes": "Person-like upper shape and lower food-family form; compare the component previously met inside 館."
+    },
+    {
+      "id": "kanji_店",
+      "char": "店",
+      "meanings": [
+        "shop"
+      ],
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": [
+        "みせ"
+      ],
+      "components": [
+        {
+          "radical": "radical_madare",
+          "role": "classifier",
+          "note": "广 above 占 (卜-like upper part and 口); selected 广."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "广 above 占 (卜-like upper part and 口); selected 广."
+    },
+    {
+      "id": "kanji_買",
+      "char": "買",
+      "meanings": [
+        "buy"
+      ],
+      "onyomi": [
+        "バイ"
+      ],
+      "kunyomi": [
+        "か"
+      ],
+      "components": [
+        {
+          "radical": "radical_kai",
+          "role": "classifier",
+          "note": "罒-like upper cover above 貝; selected 貝."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "罒-like upper cover above 貝; selected 貝."
+    },
+    {
+      "id": "kanji_弘",
+      "char": "弘",
+      "meanings": [
+        "broad",
+        "expand"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "ひろ"
+      ],
+      "components": [
+        {
+          "radical": "radical_yumi",
+          "role": "classifier",
+          "note": "弓 beside 厶; selected 弓. Whole 弘前 / ひろさき is an assisted name."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_前"
+      ],
+      "notes": "弓 beside 厶; selected 弓. Whole 弘前 / ひろさき is an assisted name."
+    },
+    {
+      "id": "kanji_前",
+      "char": "前",
+      "meanings": [
+        "before",
+        "in front"
+      ],
+      "onyomi": [
+        "ゼン"
+      ],
+      "kunyomi": [
+        "まえ"
+      ],
+      "components": [
+        {
+          "radical": "radical_katana",
+          "role": "classifier",
+          "note": "Upper 丷/一, a 月-shaped lower-left portion and right 刂; selected 刀. Whole 弘前 is exceptional."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_後"
+      ],
+      "notes": "Upper 丷/一, a 月-shaped lower-left portion and right 刂; selected 刀. Whole 弘前 is exceptional."
+    },
+    {
+      "id": "kanji_時",
+      "char": "時",
+      "meanings": [
+        "time",
+        "hour"
+      ],
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "とき"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "日 beside 寺-like material; selected 日. Four/seven/nine-o'clock readings are learned as words."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_分",
+        "kanji_半"
+      ],
+      "notes": "日 beside 寺-like material; selected 日. Four/seven/nine-o'clock readings are learned as words."
+    },
+    {
+      "id": "kanji_分",
+      "char": "分",
+      "meanings": [
+        "minute",
+        "part"
+      ],
+      "onyomi": [
+        "フン",
+        "ブン"
+      ],
+      "kunyomi": [
+        "わ"
+      ],
+      "components": [
+        {
+          "radical": "radical_katana",
+          "role": "classifier",
+          "note": "八-like upper strokes above 刀; selected 刀. Minute readings use ふん/ぷん by word."
+        },
+        {
+          "radical": "radical_hachi",
+          "role": "shape",
+          "note": "八-like upper strokes above 刀; selected 刀. Minute readings use ふん/ぷん by word."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_時"
+      ],
+      "notes": "八-like upper strokes above 刀; selected 刀. Minute readings use ふん/ぷん by word."
+    },
+    {
+      "id": "kanji_半",
+      "char": "半",
+      "meanings": [
+        "half"
+      ],
+      "onyomi": [
+        "ハン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_juu",
+          "role": "classifier",
+          "note": "Upper diverging strokes over a horizontal/vertical cross; selected 十."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_時"
+      ],
+      "notes": "Upper diverging strokes over a horizontal/vertical cross; selected 十."
+    },
+    {
+      "id": "kanji_魚",
+      "char": "魚",
+      "meanings": [
+        "fish"
+      ],
+      "onyomi": [
+        "ギョ"
+      ],
+      "kunyomi": [
+        "さかな"
+      ],
+      "components": [
+        {
+          "radical": "radical_uo",
+          "role": "classifier",
+          "note": "Fish-family whole character, with head/body and lower 灬-like strokes; indexing 魚. Living fish use います."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Fish-family whole character, with head/body and lower 灬-like strokes; indexing 魚. Living fish use います."
+    },
+    {
+      "id": "kanji_口",
+      "char": "口",
+      "meanings": [
+        "mouth",
+        "opening"
+      ],
+      "onyomi": [
+        "コウ",
+        "ク"
+      ],
+      "kunyomi": [
+        "くち"
+      ],
+      "components": [
+        {
+          "radical": "radical_kuchi",
+          "role": "classifier",
+          "note": "Whole 口 radical. くち becomes ぐち in 入り口 / 出口."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_入",
+        "kanji_出"
+      ],
+      "notes": "Whole 口 radical. くち becomes ぐち in 入り口 / 出口."
+    },
+    {
+      "id": "kanji_出",
+      "char": "出",
+      "meanings": [
+        "exit",
+        "leave"
+      ],
+      "onyomi": [
+        "シュツ"
+      ],
+      "kunyomi": [
+        "で"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukebako",
+          "role": "classifier",
+          "note": "Two stacked enclosure/mountain-like shapes joined by a vertical; selected 凵, not two separate mountains."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_入"
+      ],
+      "notes": "Two stacked enclosure/mountain-like shapes joined by a vertical; selected 凵, not two separate mountains."
+    },
+    {
+      "id": "kanji_戸",
+      "char": "戸",
+      "meanings": [
+        "door"
+      ],
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "と"
+      ],
+      "components": [
+        {
+          "radical": "radical_to",
+          "role": "classifier",
+          "note": "Whole 戸 door radical. Read 八戸 / はちのへ as a complete assisted name."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 戸 door radical. Read 八戸 / はちのへ as a complete assisted name."
+    },
+    {
+      "id": "kanji_午",
+      "char": "午",
+      "meanings": [
+        "noon"
+      ],
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_juu",
+          "role": "classifier",
+          "note": "Upper short slant and horizontals crossed by a vertical; selected 十. Supported 午前/午後."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Upper short slant and horizontals crossed by a vertical; selected 十. Supported 午前/午後."
+    },
+    {
+      "id": "kanji_公",
+      "char": "公",
+      "meanings": [
+        "public"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "おおやけ"
+      ],
+      "components": [
+        {
+          "radical": "radical_hachi",
+          "role": "classifier",
+          "note": "八-like upper strokes above 厶. Assisted in 公園."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "八-like upper strokes above 厶. Assisted in 公園."
+    },
+    {
+      "id": "kanji_園",
+      "char": "園",
+      "meanings": [
+        "garden",
+        "park"
+      ],
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": [
+        "その"
+      ],
+      "components": [
+        {
+          "radical": "radical_kunigamae",
+          "role": "classifier",
+          "note": "Large 囗 enclosure around 袁-like strokes. Assisted in 公園."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Large 囗 enclosure around 袁-like strokes. Assisted in 公園."
+    },
+    {
+      "id": "kanji_桜",
+      "char": "桜",
+      "meanings": [
+        "cherry blossom"
+      ],
+      "onyomi": [
+        "オウ"
+      ],
+      "kunyomi": [
+        "さくら"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 beside modern upper three strokes/女; selected 木. Assisted blossom word from Hirosaki."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "木 beside modern upper three strokes/女; selected 木. Assisted blossom word from Hirosaki."
+    },
+    {
+      "id": "kanji_岩",
+      "char": "岩",
+      "meanings": [
+        "rock"
+      ],
+      "onyomi": [
+        "ガン"
+      ],
+      "kunyomi": [
+        "いわ"
+      ],
+      "components": [
+        {
+          "radical": "radical_yama",
+          "role": "classifier",
+          "note": "山 above 石; selected 山. Supported prefecture name 岩手, with full breakdown in Morioka."
+        },
+        {
+          "radical": "radical_ishi",
+          "role": "shape",
+          "note": "山 above 石; selected 山. Supported prefecture name 岩手, with full breakdown in Morioka."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_山",
+        "kanji_石"
+      ],
+      "notes": "山 above 石; selected 山. Supported prefecture name 岩手, with full breakdown in Morioka."
+    },
+    {
+      "id": "kanji_手",
+      "char": "手",
+      "meanings": [
+        "hand"
+      ],
+      "onyomi": [
+        "シュ"
+      ],
+      "kunyomi": [
+        "て"
+      ],
+      "components": [
+        {
+          "radical": "radical_te",
+          "role": "classifier",
+          "note": "Whole 手 indexing character; compare side form 扌 in other words. Previewed in 岩手, formal in Morioka."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 手 indexing character; compare side form 扌 in other words. Previewed in 岩手, formal in Morioka."
+    },
+    {
+      "id": "kanji_花",
+      "char": "花",
+      "meanings": [
+        "flower"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "はな"
+      ],
+      "components": [
+        {
+          "radical": "radical_kusakanmuri",
+          "role": "classifier",
+          "note": "艹 above 化 (亻/匕); selected 艸 family. Formally promoted here after Hirosaki preview."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "艹 above 化 (亻/匕); selected 艸 family. Formally promoted here after Hirosaki preview."
+    },
+    {
+      "id": "kanji_石",
+      "char": "石",
+      "meanings": [
+        "stone"
+      ],
+      "onyomi": [
+        "セキ",
+        "シャク"
+      ],
+      "kunyomi": [
+        "いし"
+      ],
+      "components": [
+        {
+          "radical": "radical_ishi",
+          "role": "classifier",
+          "note": "Horizontal/slant above 口; selected own 石. Earlier preview in 岩 is not formal study."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Horizontal/slant above 口; selected own 石. Earlier preview in 岩 is not formal study."
+    }
+  ]
+}

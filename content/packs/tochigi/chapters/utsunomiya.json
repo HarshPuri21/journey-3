@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "utsunomiya",
+  "name": "宇都宮",
+  "nameEn": "Utsunomiya",
+  "reading": "うつのみや",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "utsunomiya_l01",
+      "file": "lessons/utsunomiya_l01.json"
+    }
+  ]
+}

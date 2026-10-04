@@ -1,0 +1,877 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_tochigi_r01_s01",
+      "jp": "{来週|らいしゅう}の{土曜日|どようび}に{宇都宮|うつのみや}に{行|い}きます。",
+      "en": "Next Saturday I will go to Utsunomiya.",
+      "tokens": [
+        {
+          "text": "来週",
+          "reading": "らいしゅう",
+          "vocab": "vocab_来週",
+          "gloss": "next week"
+        },
+        {
+          "text": "土曜日",
+          "reading": "どようび",
+          "vocab": "vocab_土曜日",
+          "gloss": "Saturday"
+        },
+        {
+          "text": "宇都宮",
+          "reading": "うつのみや",
+          "vocab": "vocab_宇都宮",
+          "gloss": "Utsunomiya, whole location name with spoken の"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_土",
+        "kanji_宇",
+        "kanji_宮",
+        "kanji_日",
+        "kanji_曜",
+        "kanji_来",
+        "kanji_行",
+        "kanji_週",
+        "kanji_都"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r01_s02",
+      "jp": "{兄|あに}と{行|い}きます。",
+      "en": "I will go with my older brother.",
+      "tokens": [
+        {
+          "text": "兄",
+          "reading": "あに",
+          "vocab": "vocab_兄",
+          "gloss": "older brother, assisted preview before formal Utsunomiya study"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_兄",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r01_s03",
+      "jp": "{兄|あに}は{学生|がくせい}です。",
+      "en": "My older brother is a student.",
+      "tokens": [
+        {
+          "text": "兄",
+          "reading": "あに",
+          "vocab": "vocab_兄",
+          "gloss": "older brother, assisted preview before formal Utsunomiya study"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "vocab": "vocab_学生",
+          "gloss": "student"
+        }
+      ],
+      "kanji": [
+        "kanji_兄",
+        "kanji_学",
+        "kanji_生"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r02_s01",
+      "jp": "{午後一時|ごごいちじ}に{妹|いもうと}に{会|あ}います。",
+      "en": "I will meet my younger sister at 1 PM.",
+      "tokens": [
+        {
+          "text": "午後一時",
+          "reading": "ごごいちじ",
+          "vocab": "vocab_午後一時",
+          "gloss": "one p.m."
+        },
+        {
+          "text": "妹",
+          "reading": "いもうと",
+          "vocab": "vocab_妹",
+          "gloss": "younger sister"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_一",
+        "kanji_会",
+        "kanji_午",
+        "kanji_妹",
+        "kanji_後",
+        "kanji_時"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r02_s02",
+      "jp": "{妹|いもうと}も{学生|がくせい}です。",
+      "en": "My younger sister is also a student.",
+      "tokens": [
+        {
+          "text": "妹",
+          "reading": "いもうと",
+          "vocab": "vocab_妹",
+          "gloss": "younger sister"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "vocab": "vocab_学生",
+          "gloss": "student"
+        }
+      ],
+      "kanji": [
+        "kanji_妹",
+        "kanji_学",
+        "kanji_生"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r02_s03",
+      "jp": "{駅|えき}で{十分|じゅっぷん}{待|ま}ちます。",
+      "en": "I will wait at the station for ten minutes.",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "十分",
+          "reading": "じゅっぷん",
+          "vocab": "vocab_十分",
+          "gloss": "ten minutes, taught variant"
+        },
+        {
+          "text": "待",
+          "reading": "ま"
+        }
+      ],
+      "kanji": [
+        "kanji_分",
+        "kanji_十",
+        "kanji_待",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r03_s01",
+      "jp": "{兄|あに}と{妹|いもうと}とご{飯|はん}を{食|た}べます。",
+      "en": "I will eat a meal with my older brother and younger sister.",
+      "tokens": [
+        {
+          "text": "兄",
+          "reading": "あに",
+          "vocab": "vocab_兄",
+          "gloss": "older brother, assisted preview before formal Utsunomiya study"
+        },
+        {
+          "text": "妹",
+          "reading": "いもうと",
+          "vocab": "vocab_妹",
+          "gloss": "younger sister"
+        },
+        {
+          "text": "飯",
+          "reading": "はん"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        }
+      ],
+      "kanji": [
+        "kanji_兄",
+        "kanji_妹",
+        "kanji_食",
+        "kanji_飯"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r03_s02",
+      "jp": "{友|とも}だちは「お{兄|にい}さんは{学生|がくせい}ですか」と{聞|き}きました。",
+      "en": "My friend asked, “Is your older brother a student?”",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "兄",
+          "reading": "にい"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "vocab": "vocab_学生",
+          "gloss": "student"
+        },
+        {
+          "text": "聞",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_兄",
+        "kanji_友",
+        "kanji_学",
+        "kanji_生",
+        "kanji_聞"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r03_s03",
+      "jp": "「はい、{兄|あに}は{学生|がくせい}です」と{言|い}いました。",
+      "en": "I said, “Yes, my older brother is a student.”",
+      "tokens": [
+        {
+          "text": "兄",
+          "reading": "あに",
+          "vocab": "vocab_兄",
+          "gloss": "older brother, assisted preview before formal Utsunomiya study"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "vocab": "vocab_学生",
+          "gloss": "student"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_兄",
+        "kanji_学",
+        "kanji_生",
+        "kanji_言"
+      ],
+      "grammar": [
+        "grammar_quotation_to"
+      ]
+    },
+    {
+      "id": "sent_tochigi_r04_s01",
+      "jp": "{日曜日|にちようび}に{日光|にっこう}に{行|い}きます。",
+      "en": "I will go to Nikko on Sunday.",
+      "tokens": [
+        {
+          "text": "日曜日",
+          "reading": "にちようび",
+          "vocab": "vocab_日曜日",
+          "gloss": "Sunday"
+        },
+        {
+          "text": "日光",
+          "reading": "にっこう",
+          "vocab": "vocab_日光",
+          "gloss": "Nikko, place name; same spelling can mean sunlight in context"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_光",
+        "kanji_日",
+        "kanji_曜",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r04_s02",
+      "jp": "この{女|おんな}の{人|ひと}は{私|わたし}の{姉|あね}です。",
+      "en": "This woman is my older sister.",
+      "tokens": [
+        {
+          "text": "女",
+          "reading": "おんな",
+          "vocab": "vocab_女",
+          "gloss": "woman; female"
+        },
+        {
+          "text": "人",
+          "reading": "ひと",
+          "vocab": "vocab_人",
+          "gloss": "person"
+        },
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "姉",
+          "reading": "あね",
+          "vocab": "vocab_姉",
+          "gloss": "older sister, own-family term in supplied context"
+        }
+      ],
+      "kanji": [
+        "kanji_人",
+        "kanji_女",
+        "kanji_姉",
+        "kanji_私"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r04_s03",
+      "jp": "{姉|あね}は{先生|せんせい}です。",
+      "en": "My older sister is a teacher.",
+      "tokens": [
+        {
+          "text": "姉",
+          "reading": "あね",
+          "vocab": "vocab_姉",
+          "gloss": "older sister, own-family term in supplied context"
+        },
+        {
+          "text": "先生",
+          "reading": "せんせい",
+          "vocab": "vocab_先生",
+          "gloss": "teacher, in the supplied role context"
+        }
+      ],
+      "kanji": [
+        "kanji_先",
+        "kanji_姉",
+        "kanji_生"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r05_s01",
+      "jp": "この{写真|しゃしん}には、{男|おとこ}の{子|こ}が{二人|ふたり}います。",
+      "en": "In this photograph there are two boys.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "男",
+          "reading": "おとこ",
+          "vocab": "vocab_男",
+          "gloss": "man; male"
+        },
+        {
+          "text": "子",
+          "reading": "こ",
+          "vocab": "vocab_子",
+          "gloss": "child, in common words"
+        },
+        {
+          "text": "二人",
+          "reading": "ふたり",
+          "vocab": "vocab_二人",
+          "gloss": "two people"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_人",
+        "kanji_写",
+        "kanji_子",
+        "kanji_男",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r05_s02",
+      "jp": "{女|おんな}の{子|こ}が{一人|ひとり}います。",
+      "en": "There is one girl.",
+      "tokens": [
+        {
+          "text": "女",
+          "reading": "おんな",
+          "vocab": "vocab_女",
+          "gloss": "woman; female"
+        },
+        {
+          "text": "子",
+          "reading": "こ",
+          "vocab": "vocab_子",
+          "gloss": "child, in common words"
+        },
+        {
+          "text": "一人",
+          "reading": "ひとり",
+          "vocab": "vocab_一人",
+          "gloss": "one person"
+        }
+      ],
+      "kanji": [
+        "kanji_一",
+        "kanji_人",
+        "kanji_女",
+        "kanji_子"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r05_s03",
+      "jp": "{子|こ}どもは{三人|さんにん}です。",
+      "en": "There are three children.",
+      "tokens": [
+        {
+          "text": "子",
+          "reading": "こ",
+          "vocab": "vocab_子",
+          "gloss": "child, in common words"
+        },
+        {
+          "text": "三人",
+          "reading": "さんにん",
+          "vocab": "vocab_三人",
+          "gloss": "three people"
+        }
+      ],
+      "kanji": [
+        "kanji_三",
+        "kanji_人",
+        "kanji_子"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r06_s01",
+      "jp": "{足利|あしかが}で{花|はな}を{見|み}ます。",
+      "en": "I will look at flowers in Ashikaga.",
+      "tokens": [
+        {
+          "text": "足利",
+          "reading": "あしかが",
+          "vocab": "vocab_足利",
+          "gloss": "Ashikaga, whole exceptional location reading"
+        },
+        {
+          "text": "花",
+          "reading": "はな",
+          "vocab": "vocab_花",
+          "gloss": "flower, preview before Hanamaki formal study"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_利",
+        "kanji_花",
+        "kanji_見",
+        "kanji_足"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r06_s02",
+      "jp": "{私|わたし}は{花|はな}が{好|す}きです。",
+      "en": "I like flowers.",
+      "tokens": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "花",
+          "reading": "はな",
+          "vocab": "vocab_花",
+          "gloss": "flower, preview before Hanamaki formal study"
+        },
+        {
+          "text": "好",
+          "reading": "す"
+        }
+      ],
+      "kanji": [
+        "kanji_好",
+        "kanji_私",
+        "kanji_花"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r06_s03",
+      "jp": "{姉|あね}も{花|はな}が{好|す}きです。",
+      "en": "My older sister also likes flowers.",
+      "tokens": [
+        {
+          "text": "姉",
+          "reading": "あね",
+          "vocab": "vocab_姉",
+          "gloss": "older sister, own-family term in supplied context"
+        },
+        {
+          "text": "花",
+          "reading": "はな",
+          "vocab": "vocab_花",
+          "gloss": "flower, preview before Hanamaki formal study"
+        },
+        {
+          "text": "好",
+          "reading": "す"
+        }
+      ],
+      "kanji": [
+        "kanji_好",
+        "kanji_姉",
+        "kanji_花"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r07_s01",
+      "jp": "{私|わたし}は{絵|え}が{好|す}きです。",
+      "en": "I like drawing.",
+      "tokens": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "絵",
+          "reading": "え",
+          "vocab": "vocab_絵",
+          "gloss": "picture; drawing, assisted"
+        },
+        {
+          "text": "好",
+          "reading": "す"
+        }
+      ],
+      "kanji": [
+        "kanji_好",
+        "kanji_私",
+        "kanji_絵"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r07_s02",
+      "jp": "でも、{絵|え}が{下手|へた}です。",
+      "en": "But I am not good at drawing.",
+      "tokens": [
+        {
+          "text": "絵",
+          "reading": "え",
+          "vocab": "vocab_絵",
+          "gloss": "picture; drawing, assisted"
+        },
+        {
+          "text": "下手",
+          "reading": "へた",
+          "vocab": "vocab_下手",
+          "gloss": "unskilled; poor at, な-adjective"
+        }
+      ],
+      "kanji": [
+        "kanji_下",
+        "kanji_手",
+        "kanji_絵"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r07_s03",
+      "jp": "{姉|あね}は{絵|え}が{上手|じょうず}です。",
+      "en": "My older sister is good at drawing.",
+      "tokens": [
+        {
+          "text": "姉",
+          "reading": "あね",
+          "vocab": "vocab_姉",
+          "gloss": "older sister, own-family term in supplied context"
+        },
+        {
+          "text": "絵",
+          "reading": "え",
+          "vocab": "vocab_絵",
+          "gloss": "picture; drawing, assisted"
+        },
+        {
+          "text": "上手",
+          "reading": "じょうず",
+          "vocab": "vocab_上手",
+          "gloss": "skilled; good at, な-adjective"
+        }
+      ],
+      "kanji": [
+        "kanji_上",
+        "kanji_姉",
+        "kanji_手",
+        "kanji_絵"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r08_s01",
+      "jp": "これは{私|わたし}の{好|す}きな{本|ほん}です。",
+      "en": "This is a book I like.",
+      "tokens": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "好",
+          "reading": "す"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        }
+      ],
+      "kanji": [
+        "kanji_好",
+        "kanji_本",
+        "kanji_私"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r08_s02",
+      "jp": "「いっしょに{読|よ}みませんか」と{言|い}いました。",
+      "en": "I said, “Would you like to read together?”",
+      "tokens": [
+        {
+          "text": "読",
+          "reading": "よ"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_言",
+        "kanji_読"
+      ],
+      "grammar": [
+        "grammar_quotation_to"
+      ]
+    },
+    {
+      "id": "sent_tochigi_r08_s03",
+      "jp": "{姉|あね}は「はい、{読|よ}みましょう」と{言|い}いました。",
+      "en": "My older sister said, “Yes, let's read.”",
+      "tokens": [
+        {
+          "text": "姉",
+          "reading": "あね",
+          "vocab": "vocab_姉",
+          "gloss": "older sister, own-family term in supplied context"
+        },
+        {
+          "text": "読",
+          "reading": "よ"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_姉",
+        "kanji_言",
+        "kanji_読"
+      ],
+      "grammar": [
+        "grammar_quotation_to"
+      ]
+    },
+    {
+      "id": "sent_tochigi_r09_s01",
+      "jp": "{那須|なす}に{来|き}ました。",
+      "en": "I came to Nasu.",
+      "tokens": [
+        {
+          "text": "那須",
+          "reading": "なす",
+          "vocab": "vocab_那須",
+          "gloss": "Nasu, whole location name; separate from eggplant word なす"
+        },
+        {
+          "text": "来",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_来",
+        "kanji_那",
+        "kanji_須"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r09_s02",
+      "jp": "この{道|みち}は{長|なが}いです。",
+      "en": "This road is long.",
+      "tokens": [
+        {
+          "text": "道",
+          "reading": "みち",
+          "vocab": "vocab_道",
+          "gloss": "road; way"
+        },
+        {
+          "text": "長",
+          "reading": "なが"
+        }
+      ],
+      "kanji": [
+        "kanji_道",
+        "kanji_長"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r09_s03",
+      "jp": "その{道|みち}は{短|みじか}いです。",
+      "en": "That road is short.",
+      "tokens": [
+        {
+          "text": "道",
+          "reading": "みち",
+          "vocab": "vocab_道",
+          "gloss": "road; way"
+        },
+        {
+          "text": "短",
+          "reading": "みじか"
+        }
+      ],
+      "kanji": [
+        "kanji_短",
+        "kanji_道"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r10_s01",
+      "jp": "{朝|あさ}は{人|ひと}が{少|すく}ないです。",
+      "en": "In the morning there are few people.",
+      "tokens": [
+        {
+          "text": "朝",
+          "reading": "あさ",
+          "vocab": "vocab_朝",
+          "gloss": "morning"
+        },
+        {
+          "text": "人",
+          "reading": "ひと",
+          "vocab": "vocab_人",
+          "gloss": "person"
+        },
+        {
+          "text": "少",
+          "reading": "すく"
+        }
+      ],
+      "kanji": [
+        "kanji_人",
+        "kanji_少",
+        "kanji_朝"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r10_s02",
+      "jp": "{水|みず}を{少|すこ}し{飲|の}みます。そして、{休|やす}みます。",
+      "en": "I drink a little water. Then I rest.",
+      "tokens": [
+        {
+          "text": "水",
+          "reading": "みず",
+          "vocab": "vocab_水",
+          "gloss": "water"
+        },
+        {
+          "text": "少",
+          "reading": "すこ"
+        },
+        {
+          "text": "飲",
+          "reading": "の"
+        },
+        {
+          "text": "休",
+          "reading": "やす"
+        }
+      ],
+      "kanji": [
+        "kanji_休",
+        "kanji_少",
+        "kanji_水",
+        "kanji_飲"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_tochigi_r10_s03",
+      "jp": "{次|つぎ}は{群馬|ぐんま}です。",
+      "en": "Next is Gunma.",
+      "tokens": [
+        {
+          "text": "次",
+          "reading": "つぎ",
+          "vocab": "vocab_次",
+          "gloss": "next"
+        },
+        {
+          "text": "群馬",
+          "reading": "ぐんま",
+          "vocab": "vocab_群馬",
+          "gloss": "Gunma, assisted next prefecture name"
+        }
+      ],
+      "kanji": [
+        "kanji_次",
+        "kanji_群",
+        "kanji_馬"
+      ],
+      "grammar": []
+    }
+  ]
+}

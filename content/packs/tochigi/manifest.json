@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "kind": "packManifest",
+  "packId": "tochigi",
+  "type": "prefecture",
+  "contentVersion": 1,
+  "engineSchemaMin": 1,
+  "title": "栃木",
+  "titleEn": "Tochigi",
+  "cover": "assets/cover.png",
+  "assets": [
+    "assets/cover.png"
+  ],
+  "dependencies": [
+    "hokkaido",
+    "aomori",
+    "iwate",
+    "miyagi",
+    "akita",
+    "yamagata",
+    "fukushima",
+    "ibaraki"
+  ],
+  "unlock": [
+    {
+      "type": "prefectureComplete",
+      "ref": "ibaraki"
+    }
+  ],
+  "completion": [
+    {
+      "type": "testPassed",
+      "ref": "tochigi/tochigi_final"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "utsunomiya",
+      "file": "chapters/utsunomiya.json",
+      "map": {
+        "x": 0.15,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "nikko",
+      "file": "chapters/nikko.json",
+      "map": {
+        "x": 0.3833333333333333,
+        "y": 0.4
+      }
+    },
+    {
+      "id": "ashikaga",
+      "file": "chapters/ashikaga.json",
+      "map": {
+        "x": 0.6166666666666666,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "nasu",
+      "file": "chapters/nasu.json",
+      "map": {
+        "x": 0.8499999999999999,
+        "y": 0.8
+      }
+    }
+  ],
+  "knowledge": {
+    "kanji": "knowledge/kanji.json",
+    "radicals": "knowledge/radicals.json",
+    "vocabulary": "knowledge/vocabulary.json",
+    "grammar": "knowledge/grammar.json",
+    "sentences": "knowledge/sentences.json"
+  },
+  "questionBank": "tests/questions.json",
+  "reading": {
+    "id": "tochigi_reading",
+    "title": "Tochigi Reading Journey",
+    "file": "reading/tochigi_reading.json",
+    "unlock": [
+      {
+        "type": "chapterComplete",
+        "ref": "tochigi/nasu"
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": "tochigi_final",
+      "title": "Tochigi Test",
+      "questionCount": 30,
+      "passRatio": 0.7,
+      "tags": [
+        "tochigi_final"
+      ],
+      "quotas": {
+        "kanji": 5,
+        "radical": 5,
+        "numbers": 5,
+        "vocabulary": 5,
+        "grammar": 5,
+        "reading": 5
+      },
+      "unlock": [
+        {
+          "type": "lessonComplete",
+          "ref": "tochigi/tochigi_reading"
+        }
+      ]
+    }
+  ],
+  "completionCriteria": [
+    "Read the location names as complete words.",
+    "Recognise the assigned core words and their sentence roles.",
+    "Retrieve the taught radicals and modern component distinctions.",
+    "Complete the location lessons and the thirty-sentence reading.",
+    "Pass the thirty-question prefecture assessment at 21/30."
+  ]
+}

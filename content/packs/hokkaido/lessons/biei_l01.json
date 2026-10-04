@@ -1,0 +1,586 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "biei_l01",
+  "number": 6,
+  "title": "Biei",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_美",
+    "kanji_瑛",
+    "kanji_町",
+    "kanji_景",
+    "kanji_色"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Biei",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{美瑛|びえい}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "びえい"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Biei"
+        },
+        {
+          "type": "text",
+          "text": "Biei is famous for its rural landscapes and is part of the Furano/Biei area of northern Hokkaido."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "美"
+        },
+        {
+          "type": "text",
+          "text": "**うつくしい / び**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "beautiful"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "瑛"
+        },
+        {
+          "type": "text",
+          "text": "a character used in names"
+        },
+        {
+          "type": "text",
+          "text": "Together:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美瑛|びえい}"
+        },
+        {
+          "type": "text",
+          "text": "**びえい**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Biei"
+        },
+        {
+          "type": "text",
+          "text": "Here again, **瑛** is primarily an encounter/place-name kanji for our beginner."
+        }
+      ]
+    },
+    {
+      "id": "inside_biei",
+      "title": "Inside 美瑛",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {美瑛|びえい}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_美",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_瑛",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_hitsuji"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tama"
+        },
+        {
+          "type": "callout",
+          "text": "美 is filed under 羊 (sheep). 瑛 carries 玉 (jewel), written 王 on the left side. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "美",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "美"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "うつくしい"
+        },
+        {
+          "type": "text",
+          "text": "**utsukushii**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "beautiful"
+        },
+        {
+          "type": "text",
+          "text": "This gives us an important adjective."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美しい|うつくしい}"
+        },
+        {
+          "type": "text",
+          "text": "**うつくしい**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "beautiful"
+        },
+        {
+          "type": "text",
+          "text": "This is an **い-adjective**."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_美しい"
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "い-Adjectives",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "An い-adjective commonly ends in:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "い"
+        },
+        {
+          "type": "text",
+          "text": "Example:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{大きい|おおきい}"
+        },
+        {
+          "type": "text",
+          "text": "**おおきい**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "big"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{小さい|ちいさい}"
+        },
+        {
+          "type": "text",
+          "text": "**ちいさい**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "small"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美しい|うつくしい}"
+        },
+        {
+          "type": "text",
+          "text": "**うつくしい**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "beautiful"
+        },
+        {
+          "type": "text",
+          "text": "These can describe things directly."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美しい|うつくしい}{景色|けしき}"
+        },
+        {
+          "type": "text",
+          "text": "**うつくしい けしき**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "beautiful scenery"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_大",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_大きい"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_i_adjective"
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "Negative Adjectives",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "For many い-adjectives:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美しい|うつくしい}"
+        },
+        {
+          "type": "text",
+          "text": "beautiful"
+        },
+        {
+          "type": "text",
+          "text": "becomes:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美しくない|うつくしくない}"
+        },
+        {
+          "type": "text",
+          "text": "not beautiful"
+        },
+        {
+          "type": "text",
+          "text": "And:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{大きい|おおきい}"
+        },
+        {
+          "type": "text",
+          "text": "big"
+        },
+        {
+          "type": "text",
+          "text": "becomes:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{大きくない|おおきくない}"
+        },
+        {
+          "type": "text",
+          "text": "not big"
+        },
+        {
+          "type": "text",
+          "text": "This pattern will become important later."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_i_adjective_negative"
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "Describe Biei",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美瑛|びえい}は{美しい|うつくしい}です。"
+        },
+        {
+          "type": "text",
+          "text": "**びえいは うつくしいです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Biei wa utsukushii desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Biei is beautiful."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown:"
+        },
+        {
+          "type": "text",
+          "text": "**{美瑛|びえい}** — Biei\n**は** — topic\n**{美しい|うつくしい}** — beautiful\n**です** — polite ending"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_biei_beautiful"
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "は introduces what we are talking about. が identifies a subject. Keep は in today’s descriptions; we will use が with existence in Kushiro."
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "Size",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Now combine two adjectives:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{北海道|ほっかいどう}は{大きい|おおきい}です。"
+        },
+        {
+          "type": "text",
+          "text": "**ほっかいどうは おおきいです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Hokkaidō wa ōkii desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Hokkaido is big."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美瑛|びえい}は{小さい|ちいさい}{町|まち}です。"
+        },
+        {
+          "type": "text",
+          "text": "**びえいは ちいさい まちです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Biei wa chiisai machi desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Biei is a small town."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_biei_size"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_biei_town"
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "A Mini Question",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Which sentence means:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "\"Hokkaido is big.\""
+        },
+        {
+          "type": "text",
+          "text": "A. {北海道|ほっかいどう}は{小さい|ちいさい}です。\nB. {北海道|ほっかいどう}は{大きい|おおきい}です。\nC. {北海道|ほっかいどう}は{美しくない|うつくしくない}です。\nD. {北海道|ほっかいどう}は{北|きた}です。"
+        },
+        {
+          "type": "text",
+          "text": "Answer:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "B"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "{美瑛|びえい} — びえい — Biei"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "美 — beautiful\n瑛 — name/place character"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "{美しい|うつくしい} — うつくしい — beautiful\n{大きい|おおきい} — おおきい — big\n{小さい|ちいさい} — ちいさい — small\n{町|まち} — まち — town\n{景色|けしき} — けしき — scenery"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "**い-adjective + です**"
+        },
+        {
+          "type": "text",
+          "text": "{美しい|うつくしい}です\nis beautiful"
+        },
+        {
+          "type": "text",
+          "text": "**い → くない**"
+        },
+        {
+          "type": "text",
+          "text": "{美しくない|うつくしくない}\nnot beautiful"
+        }
+      ]
+    }
+  ],
+  "goal": "Learn 美・瑛 Introduce い-adjectives Learn positive and negative forms Introduce は vs が lightly Describe places",
+  "estimatedMinutes": 20,
+  "coreKanji": [
+    "kanji_大"
+  ],
+  "completion": {
+    "title": "Biei complete",
+    "nextText": "Next: Furano",
+    "nextChapter": "hokkaido/furano"
+  }
+}

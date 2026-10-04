@@ -1,0 +1,383 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "yokote_l01",
+  "number": 3,
+  "title": "Yokote — 横手",
+  "goal": "Describe a routine and distinguish frequency from completion.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_朝",
+    "kanji_昼",
+    "kanji_夜",
+    "kanji_毎"
+  ],
+  "encounterKanji": [
+    "kanji_九",
+    "kanji_会",
+    "kanji_十",
+    "kanji_友",
+    "kanji_手",
+    "kanji_文",
+    "kanji_日",
+    "kanji_時",
+    "kanji_晩",
+    "kanji_書",
+    "kanji_月",
+    "kanji_木",
+    "kanji_本",
+    "kanji_横",
+    "kanji_水",
+    "kanji_行",
+    "kanji_読",
+    "kanji_車",
+    "kanji_週",
+    "kanji_電",
+    "kanji_食",
+    "kanji_飯",
+    "kanji_飲",
+    "kanji_魚"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A Day rather than a Festival Schedule",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Yokote is associated with its winter kamakura snow-hut festival. We will use an ordinary fictional day in Yokote to learn routine language. Weather and 雪 become formal study in Yamagata next; no festival timing question is required here."
+        },
+        {
+          "type": "text",
+          "text": "**横手で本を読みます。** よこてで ほんを よみます。 — I read a book in Yokote."
+        },
+        {
+          "type": "text",
+          "text": "A day can include eating, reading and meeting a friend. The same known actions become more useful when we say when and how often they happen."
+        }
+      ]
+    },
+    {
+      "id": "inside_yokote",
+      "title": "Inside 横手",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 横 · **Meaning/reading:** side; horizontal; よこ, オウ · **Radical/components:** 木, きへん, plus 黄, a historical sound element · **Role:** Encounter. The 木 connection aids shape recognition.",
+            "**Character:** 手 · **Meaning/reading:** hand; て, シュ · **Radical/components:** 手, て; whole hand-derived shape · **Role:** Review from Morioka."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**横手 / よこて** is the city name. It does not use the ordinary word reading **横手 / よこで** found in some dictionaries for a different vocabulary item. The same spelling can be read differently in a name. Learn the course location directly and do not infer a historical origin from “side + hand.”"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_横",
+            "kanji_手"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ki"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_te"
+        }
+      ]
+    },
+    {
+      "id": "yokote_c03",
+      "title": "朝: Morning",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**朝 / あさ — morning; 朝ご飯 / あさごはん — breakfast.** 朝 is indexed under **月**, つき. Recognise the left stack of 十/日-like/十 shapes and right 月; these visible pieces are not an equation for “morning.”"
+        },
+        {
+          "type": "text",
+          "text": "**朝、ご飯を食べます。** あさ、ごはんを たべます。 — In the morning, I eat a meal."
+        },
+        {
+          "type": "text",
+          "text": "**朝ご飯を食べます。** あさごはんを たべます。 — I eat breakfast."
+        },
+        {
+          "type": "text",
+          "text": "The first names a broad time of day; the second names a meal. Our model uses bare 朝 as a broad time expression, unlike a specified clock time **九時に**. Japanese has context-dependent variations; this is the taught default, not a ban on all uses of 朝に."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_daily_time"
+        }
+      ]
+    },
+    {
+      "id": "yokote_c04",
+      "title": "昼: Daytime and Lunch",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**昼 / ひる — daytime; midday; 昼ご飯 / ひるごはん — lunch.** 昼 is indexed under **日**, ひ/にち. Its modern upper 尺-like shape and lower 旦-like portion are recognition chunks; it is not the same as 尺 or 旦 as an independent character."
+        },
+        {
+          "type": "text",
+          "text": "**昼、本を読みます。** ひる、ほんを よみます。 — During the day, I read a book."
+        },
+        {
+          "type": "text",
+          "text": "**昼ご飯は魚です。** ひるごはんは さかなです。 — Lunch is fish, in our practice menu."
+        },
+        {
+          "type": "text",
+          "text": "昼 can cover daytime or the midday period depending on context. A clock gives a more precise time. We do not use 昼 to claim that every activity happens exactly at noon."
+        }
+      ]
+    },
+    {
+      "id": "yokote_c05",
+      "title": "夜: Night",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**夜 / よる — night; 夜に会います / よるにあいます — meet at night.** 夜 is indexed under **夕**, ゆうべ. Notice the top 亠-like strokes, left person-like section and lower right evening-related shape. The modern pieces guide recognition, not a guaranteed reading formula."
+        },
+        {
+          "type": "text",
+          "text": "**夜、文を書きます。** よる、ぶんを かきます。 — At night, I write a sentence."
+        },
+        {
+          "type": "text",
+          "text": "**夜ご飯 / よるごはん — evening meal**, a common expression. **晩ご飯 / ばんごはん** is another common word, encountered with help; 晩 remains unstudied. In the main model we use bare 夜 to keep the broad-time pattern clear. A clock-time sentence can still use に."
+        }
+      ]
+    },
+    {
+      "id": "yokote_c06",
+      "title": "毎: Every",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**毎日 / まいにち — every day.** 毎 is indexed in the **毋/母 radical family**, なかれ/ははのかん; modern lower strokes resemble a 母-derived section, under a small upper shape. Learn the whole repeated-time expression rather than interpreting 毎 as “mother.”"
+        },
+        {
+          "type": "text",
+          "text": "**毎日、文を読みます。** まいにち、ぶんを よみます。 — I read sentences every day."
+        },
+        {
+          "type": "text",
+          "text": "**毎朝 / まいあさ — every morning; 毎晩 / まいばん — every evening**, with 晩 assisted. 毎週/毎月 are useful future expansions; 週 will be studied later. Our ordinary frequency model has no に after 毎日. It states recurrence, not a particular date."
+        }
+      ]
+    },
+    {
+      "id": "yokote_c07",
+      "title": "いつも and 時々",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**いつも — always; usually, in an everyday habit context.** **時々 / ときどき — sometimes.** 時 is review; 々 is an iteration mark repeating the preceding character, not an independent kanji with one fixed reading. The whole word is ときどき."
+        },
+        {
+          "type": "text",
+          "text": "**いつも朝ご飯を食べます。** いつも あさごはんを たべます。 — I always eat breakfast."
+        },
+        {
+          "type": "text",
+          "text": "**時々、電車で行きます。** ときどき、でんしゃで いきます。 — Sometimes I go by train."
+        },
+        {
+          "type": "text",
+          "text": "Frequency words describe how often, while 朝/昼/夜 describe when within a day. Do not equate 毎日 and 時々. Our sentence meanings supply the intended frequency rather than relying on an exact percentage for “sometimes.”"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_frequency_basic"
+        }
+      ]
+    },
+    {
+      "id": "yokote_c08",
+      "title": "もう: Already Completed",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**もう — already**, with the completed-action pattern here."
+        },
+        {
+          "type": "text",
+          "text": "**もう昼ご飯を食べました。** もう ひるごはんを たべました。 — I have already eaten lunch."
+        },
+        {
+          "type": "text",
+          "text": "**もう本を読みました。** もう ほんを よみました。 — I have already read the book."
+        },
+        {
+          "type": "text",
+          "text": "The action uses the familiar polite past. English may use “have eaten/read,” but Japanese uses the taught ました form here. もう has additional uses in other contexts; do not define it as a universal past marker. The clear question in our meal scene is whether the action has been completed by now."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_already_past"
+        }
+      ]
+    },
+    {
+      "id": "yokote_c09",
+      "title": "まだ: Not Yet in Our Answer Pattern",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**まだ — still; not yet**, depending on the predicate. Here we learn a simple polite negative reply:"
+        },
+        {
+          "type": "text",
+          "text": "**もう昼ご飯を食べましたか。** もう ひるごはんを たべましたか。 — Have you already eaten lunch?"
+        },
+        {
+          "type": "text",
+          "text": "**いいえ、まだです。** いいえ、まだです。 — No, not yet."
+        },
+        {
+          "type": "text",
+          "text": "This avoids pretending that **まだ食べません** is the ordinary general answer “I haven't eaten yet.” The fuller completion-negative **まだ食べていません** requires grammar that will be taught later. Today's production target is **まだです**. The word alone does not provide all the grammar needed for every “still/not yet” sentence."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_not_yet_reply"
+        }
+      ]
+    },
+    {
+      "id": "yokote_c10",
+      "title": "One Fictional Routine",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**朝、朝ご飯を食べます。昼、本を読みます。夜、文を書きます。** あさ、あさごはんを たべます。ひる、ほんを よみます。よる、ぶんを かきます。 — In the morning I eat breakfast. In the day I read a book. At night I write sentences."
+        },
+        {
+          "type": "text",
+          "text": "**毎日、水を飲みます。時々、友だちに会います。** まいにち、みずを のみます。ときどき、ともだちに あいます。 — I drink water every day. I sometimes meet a friend."
+        },
+        {
+          "type": "text",
+          "text": "This is a practice routine, not a description of everyone in Yokote. Broad times, frequency and the meeting-person に each play a clear role."
+        }
+      ]
+    },
+    {
+      "id": "yokote_c11",
+      "title": "Practice: When, How Often, Already?",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 横手, 朝, 昼 and 夜. **Answer:** よこて; あさ; ひる; よる.",
+            "Read 毎日 and 時々. **Answer:** まいにち; ときどき.",
+            "Which means breakfast: 朝ご飯 or 昼ご飯? **Answer:** 朝ご飯.",
+            "In もう本を読みました, is reading completed by now? **Answer:** Yes.",
+            "Give today's taught “not yet” reply to もう食べましたか. **Answer:** いいえ、まだです.",
+            "Is 々 an independently pronounced kanji? **Answer:** No; it repeats a preceding character, while the whole word determines its reading."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yokote_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "横手 is よこて. 朝/昼/夜 are あさ/ひる/よる. 毎日 is every day; 時々 is sometimes; いつも expresses a regular/always habit in our examples. もう + polite past expresses an already completed action here. The taught not-yet reply is まだです; full ていません grammar is reserved for later."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** Give one daily action and answer whether lunch is finished. **Models:** 毎日、水を飲みます。もう食べました / いいえ、まだです。 Akita's three lessons are complete. Its reading and test come next, then Yamagata in Package 04."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_朝",
+            "kanji_昼",
+            "kanji_夜",
+            "kanji_毎"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いつ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いい"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_毎日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_横手"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_時々"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_いつも"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_もう"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_まだです"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Yokote complete",
+    "nextText": "Next: Akita Reading Journey"
+  }
+}

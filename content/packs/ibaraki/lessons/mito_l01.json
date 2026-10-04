@@ -1,0 +1,418 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "mito_l01",
+  "number": 1,
+  "title": "Mito — 水戸",
+  "goal": "Distinguish now, AM/PM and clock time from elapsed hours.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_今",
+    "kanji_午",
+    "kanji_間"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_三",
+    "kanji_九",
+    "kanji_二",
+    "kanji_人",
+    "kanji_休",
+    "kanji_会",
+    "kanji_何",
+    "kanji_先",
+    "kanji_前",
+    "kanji_十",
+    "kanji_帰",
+    "kanji_店",
+    "kanji_後",
+    "kanji_戸",
+    "kanji_日",
+    "kanji_昨",
+    "kanji_時",
+    "kanji_月",
+    "kanji_朝",
+    "kanji_本",
+    "kanji_来",
+    "kanji_水",
+    "kanji_牛",
+    "kanji_生",
+    "kanji_目",
+    "kanji_行",
+    "kanji_読",
+    "kanji_飲"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Arrival: time for a visit",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**Prefecture-name breakdown:** 茨: radical 艹/艸, くさかんむり; below is 次-shaped sound-related material. Meaning orientation: thorny shrub, いばら. 城: radical 土, つちへん; 成 is the sound component, castle, しろ/ジョウ. In 茨城 learn the whole reading いばらき: the final き is a name reading, not a general replacement for しろ. Both remain assisted encounters."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_茨",
+            "kanji_城"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Mito is Ibaraki's prefectural capital; Kairakuen is one of its well-known gardens. In this lesson we use an invented meeting plan, not an attraction timetable. The useful Japanese is about when we meet and how long we stay."
+        },
+        {
+          "type": "text",
+          "text": "**水戸に来ました。** みとに きました。 — I came to Mito."
+        },
+        {
+          "type": "text",
+          "text": "Recall 来る / くる → 来ます / きます. We already know clock hours; now we make their relationship to the day and to duration explicit."
+        }
+      ]
+    },
+    {
+      "id": "inside_mito",
+      "title": "Inside 水戸",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 水 · **Meaning and reading here:** water; み here, ordinary みず · **Radical / components:** 水, みず; whole water-derived form, not 氷 · **Status:** Formal review; name reading assisted.",
+            "**Character:** 戸 · **Meaning and reading here:** door; と · **Radical / components:** 戸, と/とだれ; whole single-door-derived shape · **Status:** Encounter; do not index it under 尸 merely because of the outline."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**水戸 / みと**. Learn the whole name: 水 alone is not normally read み in our water sentences. **水を飲みます。** みずを のみます。 — I drink water. A name reading and an everyday word can coexist without changing the kanji's identity."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_水",
+            "kanji_戸"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_to"
+        }
+      ]
+    },
+    {
+      "id": "mito_c03",
+      "title": "今: now, and the whole word 今日",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**今 / いま — now; 今日 / きょう — today; 今朝 / けさ — this morning.** 今 is indexed under 人, ひと; recognise the upper human-shaped cover and lower hooked part. 今日 and 今朝 are whole-word readings; do not produce いまにち or いまあさ."
+        },
+        {
+          "type": "text",
+          "text": "**今、何時ですか。** いま、なんじですか。 — What time is it now?"
+        },
+        {
+          "type": "text",
+          "text": "**今、九時です。** いま、くじです。 — It is nine now."
+        },
+        {
+          "type": "text",
+          "text": "Today's 今 is promoted to formal study after earlier assisted 今日 encounters. Relative time words like 今日 usually do not take the clock-time に in these elementary models."
+        }
+      ]
+    },
+    {
+      "id": "mito_c04",
+      "title": "午: AM and PM",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**午前 / ごぜん — AM/before noon; 午後 / ごご — PM/after noon.** 午 has indexing radical 十, じゅう; recognise its upper short slant and lower crossing strokes. It differs from 牛: 午's vertical does not rise above the top horizontal in the same way. This is a shape comparison, not a noon-equals-cow story."
+        },
+        {
+          "type": "text",
+          "text": "**午前九時に会います。** ごぜんくじに あいます。 — We meet at 9 AM."
+        },
+        {
+          "type": "text",
+          "text": "**午後三時に帰ります。** ごごさんじに かえります。 — We return at 3 PM."
+        },
+        {
+          "type": "text",
+          "text": "前/後 now connect spatial “front/behind” to time “before/after.” 午前十二時 is midnight; 午後十二時 is noon in this convention. A schedule can instead specify 正午 / しょうご, noon, as helped vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "mito_c05",
+      "title": "間: an interval",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**時間 / じかん — time; 二時間 / にじかん — two hours.** 間 has radical 門, もんがまえ, framing 日. The middle is 日, not 目. Learn the complete compound rather than predicting all readings from its inner sun shape."
+        },
+        {
+          "type": "text",
+          "text": "**一時間休みます。** いちじかん やすみます。 — I rest for one hour."
+        },
+        {
+          "type": "text",
+          "text": "**二時間本を読みます。** にじかん ほんを よみます。 — I read a book for two hours."
+        },
+        {
+          "type": "text",
+          "text": "二時 is 2 o'clock; 二時間 is a length of two hours. The extra 間 changes what the phrase does. It is not just a longer spelling of a clock time."
+        }
+      ]
+    },
+    {
+      "id": "mito_c06",
+      "title": "Time point versus duration",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Purpose:** Time point · **Model:** 九時に会います。 · **Reading:** くじに あいます。 · **Meaning:** Meet at nine.",
+            "**Purpose:** Duration · **Model:** 二時間休みます。 · **Reading:** にじかん やすみます。 · **Meaning:** Rest for two hours.",
+            "**Purpose:** Start/end · **Model:** 九時から十一時までです。 · **Reading:** くじから じゅういちじまでです。 · **Meaning:** From nine to eleven."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "In these models the clock-time point takes に, while the duration is placed before the verb without that time-point に. Nine to eleven gives two hours. Do not generalise this to “all phrases containing numbers need に.”"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_hours_duration"
+        }
+      ]
+    },
+    {
+      "id": "mito_c07",
+      "title": "Ask about the length",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**何時間 / なんじかん — how many hours.** We keep 何時 / なんじ for “what time?”"
+        },
+        {
+          "type": "text",
+          "text": "**何時間読みますか。** なんじかん よみますか。 — For how many hours will you read?"
+        },
+        {
+          "type": "text",
+          "text": "**一時間読みます。** いちじかん よみます。 — I will read for one hour."
+        },
+        {
+          "type": "text",
+          "text": "**何時に会いますか。** なんじに あいますか。 — At what time shall we meet?"
+        },
+        {
+          "type": "text",
+          "text": "The answer should match the question: 午前九時 answers 何時; 一時間 answers 何時間. This distinction will remain useful for later train journeys and study sessions."
+        }
+      ]
+    },
+    {
+      "id": "mito_c08",
+      "title": "A small word family",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**今月 / こんげつ — this month; 先月 / せんげつ — last month; 来月 / らいげつ — next month.** 月 has げつ in these words; ordinary calendar months use がつ. 先 was taught with 先生, and 来 with 来る. These compounds reuse existing characters instead of adding three new kanji."
+        },
+        {
+          "type": "text",
+          "text": "**来月、水戸に行きます。** らいげつ、みとに いきます。 — Next month I will go to Mito."
+        },
+        {
+          "type": "text",
+          "text": "**先月、水戸に行きました。** せんげつ、みとに いきました。 — Last month I went to Mito."
+        },
+        {
+          "type": "text",
+          "text": "Relative months provide a time frame; the verb still expresses the completed or planned action."
+        }
+      ]
+    },
+    {
+      "id": "mito_c09",
+      "title": "Four polite forms still work",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Dictionary verb:** 会う / あう · **Nonpast:** 会います / あいます · **Negative:** 会いません / あいません · **Past:** 会いました / あいました · **Past negative:** 会いませんでした / あいませんでした",
+            "**Dictionary verb:** 帰る / かえる · **Nonpast:** 帰ります / かえります · **Negative:** 帰りません / かえりません · **Past:** 帰りました / かえりました · **Past negative:** 帰りませんでした / かえりませんでした"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**昨日、午後三時に帰りました。** きのう、ごごさんじに かえりました。 — Yesterday I returned at 3 PM. 昨日 remains helped. A time expression does not alter the polite verb stem."
+        }
+      ]
+    },
+    {
+      "id": "mito_c10",
+      "title": "Meeting dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: 今、何時ですか。** いま、なんじですか。 — What time is it now?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 午前九時です。** ごぜんくじです。 — It is 9 AM."
+        },
+        {
+          "type": "text",
+          "text": "**A: 何時間休みますか。** なんじかん やすみますか。 — For how many hours will we rest?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 一時間休みます。十時に店に行きます。** いちじかん やすみます。じゅうじに みせに いきます。 — We will rest for an hour. At ten we will go to the shop."
+        },
+        {
+          "type": "text",
+          "text": "These are fictional plans. Identify the time point, duration and next action before translating word by word."
+        }
+      ]
+    },
+    {
+      "id": "mito_c11",
+      "title": "Practice: match the question",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 水戸, 今, 午前, 午後, 時間. **Answers:** みと; いま; ごぜん; ごご; じかん.",
+            "Which radical surrounds 日 in 間? **Answer:** 門.",
+            "“At 2 PM”: 午後二時＿＿会います。 **Answer:** に.",
+            "“For two hours”: 二時間＿＿休みます。 **Answer:** no time-point に is needed in this model.",
+            "Nine to eleven is how long? **Answer:** 二時間 / にじかん.",
+            "Read 今朝 and 来月. **Answers:** けさ; らいげつ."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mito_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "水戸 is みと; water remains みず. 今 is now, 今日 is きょう, 今朝 is けさ. 午前/午後 label AM/PM. 時 is a clock hour; 時間 measures hours. In our models use 九時に but 二時間休みます. Relative month words connect 今/先/来 to 月."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “We meet at 9 AM and rest for one hour.” **Model:** 午前九時に会います。一時間休みます。 ごぜんくじに あいます。いちじかん やすみます。 Continue to つくば for the calendar."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_今",
+            "kanji_午",
+            "kanji_間"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_今日"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午前"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午後"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_九時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_水戸"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_今朝"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_時間"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_一時間"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二時間"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午前九時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_つくば"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Mito complete",
+    "nextText": "Next: Tsukuba",
+    "nextChapter": "ibaraki/tsukuba"
+  }
+}

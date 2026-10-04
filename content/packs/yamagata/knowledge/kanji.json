@@ -1,0 +1,565 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_天",
+      "char": "天",
+      "meanings": [
+        "sky",
+        "heaven"
+      ],
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": [
+        "あま",
+        "あめ"
+      ],
+      "components": [
+        {
+          "radical": "radical_dai",
+          "role": "classifier",
+          "note": "大 with an extra upper stroke. 天気 / てんき is the taught weather word."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_気"
+      ],
+      "notes": "大 with an extra upper stroke. 天気 / てんき is the taught weather word."
+    },
+    {
+      "id": "kanji_気",
+      "char": "気",
+      "meanings": [
+        "spirit",
+        "air",
+        "mood"
+      ],
+      "onyomi": [
+        "キ",
+        "ケ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_kigamae",
+          "role": "classifier",
+          "note": "气 around modern メ-like lower strokes. Learn 天気 and 元気 as whole words."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_天"
+      ],
+      "notes": "气 around modern メ-like lower strokes. Learn 天気 and 元気 as whole words."
+    },
+    {
+      "id": "kanji_雨",
+      "char": "雨",
+      "meanings": [
+        "rain"
+      ],
+      "onyomi": [
+        "ウ"
+      ],
+      "kunyomi": [
+        "あめ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ame",
+          "role": "classifier",
+          "note": "Whole rain-derived radical; upper line and enclosed drop strokes. Its top form appears in 雪."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_雪"
+      ],
+      "notes": "Whole rain-derived radical; upper line and enclosed drop strokes. Its top form appears in 雪."
+    },
+    {
+      "id": "kanji_雪",
+      "char": "雪",
+      "meanings": [
+        "snow"
+      ],
+      "onyomi": [
+        "セツ"
+      ],
+      "kunyomi": [
+        "ゆき"
+      ],
+      "components": [
+        {
+          "radical": "radical_ame",
+          "role": "classifier",
+          "note": "雨 above a 彐-shaped lower section; the lower portion is a recognition shape, not a literal hand rule."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_雨"
+      ],
+      "notes": "雨 above a 彐-shaped lower section; the lower portion is a recognition shape, not a literal hand rule."
+    },
+    {
+      "id": "kanji_晴",
+      "char": "晴",
+      "meanings": [
+        "clear weather"
+      ],
+      "onyomi": [
+        "セイ"
+      ],
+      "kunyomi": [
+        "は"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "日 beside 青; assisted whole 晴れ / はれ, a weather noun, not a formal assignment."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "日 beside 青; assisted whole 晴れ / はれ, a weather noun, not a formal assignment."
+    },
+    {
+      "id": "kanji_曇",
+      "char": "曇",
+      "meanings": [
+        "cloudiness"
+      ],
+      "onyomi": [
+        "ドン"
+      ],
+      "kunyomi": [
+        "くも"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "日 above 雲; assisted 曇り / くもり, a weather noun."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "日 above 雲; assisted 曇り / くもり, a weather noun."
+    },
+    {
+      "id": "kanji_寒",
+      "char": "寒",
+      "meanings": [
+        "cold"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "さむ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukanmuri",
+          "role": "classifier",
+          "note": "宀 above the complex middle and lower strokes; assisted whole adjective 寒い / さむい."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "宀 above the complex middle and lower strokes; assisted whole adjective 寒い / さむい."
+    },
+    {
+      "id": "kanji_悪",
+      "char": "悪",
+      "meanings": [
+        "bad"
+      ],
+      "onyomi": [
+        "アク"
+      ],
+      "kunyomi": [
+        "わる"
+      ],
+      "components": [
+        {
+          "radical": "radical_kokoro",
+          "role": "classifier",
+          "note": "心 below the modern upper 亜-like section; assisted 悪い / わるい."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "心 below the modern upper 亜-like section; assisted 悪い / わるい."
+    },
+    {
+      "id": "kanji_元",
+      "char": "元",
+      "meanings": [
+        "origin",
+        "beginning"
+      ],
+      "onyomi": [
+        "ゲン",
+        "ガン"
+      ],
+      "kunyomi": [
+        "もと"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitoashi",
+          "role": "classifier",
+          "note": "Upper horizontal strokes above 儿-like lower legs. Assisted 元気 / げんき is a な-adjective."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Upper horizontal strokes above 儿-like lower legs. Assisted 元気 / げんき is a な-adjective."
+    },
+    {
+      "id": "kanji_鳥",
+      "char": "鳥",
+      "meanings": [
+        "bird"
+      ],
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "とり"
+      ],
+      "components": [
+        {
+          "radical": "radical_tori",
+          "role": "classifier",
+          "note": "Whole bird-derived form with head/body and four lower dots. Dots are not a separately spoken 火 word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole bird-derived form with head/body and four lower dots. Dots are not a separately spoken 火 word."
+    },
+    {
+      "id": "kanji_鶴",
+      "char": "鶴",
+      "meanings": [
+        "crane"
+      ],
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": [
+        "つる"
+      ],
+      "components": [
+        {
+          "radical": "radical_tori",
+          "role": "classifier",
+          "note": "鳥 on the right beside 隺, a covered 隹-like bird shape with historical sound/meaning roles. Encounter in 鶴岡, not a species claim."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_鳥"
+      ],
+      "notes": "鳥 on the right beside 隺, a covered 隹-like bird shape with historical sound/meaning roles. Encounter in 鶴岡, not a species claim."
+    },
+    {
+      "id": "kanji_目",
+      "char": "目",
+      "meanings": [
+        "eye"
+      ],
+      "onyomi": [
+        "モク",
+        "ボク"
+      ],
+      "kunyomi": [
+        "め"
+      ],
+      "components": [
+        {
+          "radical": "radical_me",
+          "role": "classifier",
+          "note": "Whole eye-derived form; compare the greater internal division with 日."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_日"
+      ],
+      "notes": "Whole eye-derived form; compare the greater internal division with 日."
+    },
+    {
+      "id": "kanji_耳",
+      "char": "耳",
+      "meanings": [
+        "ear"
+      ],
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "みみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_mimi",
+          "role": "classifier",
+          "note": "Whole ear-derived form; side strokes extend beyond inner horizontals. Contrast 目."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_目"
+      ],
+      "notes": "Whole ear-derived form; side strokes extend beyond inner horizontals. Contrast 目."
+    },
+    {
+      "id": "kanji_足",
+      "char": "足",
+      "meanings": [
+        "foot",
+        "leg"
+      ],
+      "onyomi": [
+        "ソク"
+      ],
+      "kunyomi": [
+        "あし"
+      ],
+      "components": [
+        {
+          "radical": "radical_ashi",
+          "role": "classifier",
+          "note": "Whole 足 family; top 口-like area above foot/step-related lower shape. Live bird and its body parts use different existence patterns."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 足 family; top 口-like area above foot/step-related lower shape. Live bird and its body parts use different existence patterns."
+    },
+    {
+      "id": "kanji_聞",
+      "char": "聞",
+      "meanings": [
+        "hear",
+        "listen",
+        "ask"
+      ],
+      "onyomi": [
+        "ブン",
+        "モン"
+      ],
+      "kunyomi": [
+        "き"
+      ],
+      "components": [
+        {
+          "radical": "radical_mimi",
+          "role": "classifier",
+          "note": "耳 inside 門; selected 耳. 聞く / きく means hear/listen or ask depending on the sentence."
+        },
+        {
+          "radical": "radical_mon",
+          "role": "shape",
+          "note": "耳 inside 門; selected 耳. 聞く / きく means hear/listen or ask depending on the sentence."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_耳"
+      ],
+      "notes": "耳 inside 門; selected 耳. 聞く / きく means hear/listen or ask depending on the sentence."
+    },
+    {
+      "id": "kanji_音",
+      "char": "音",
+      "meanings": [
+        "sound"
+      ],
+      "onyomi": [
+        "オン",
+        "イン"
+      ],
+      "kunyomi": [
+        "おと"
+      ],
+      "components": [
+        {
+          "radical": "radical_oto",
+          "role": "classifier",
+          "note": "Whole 音 family, with modern upper 立-like and lower 日-like sections. Assisted word 音 / おと."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 音 family, with modern upper 立-like and lower 日-like sections. Assisted word 音 / おと."
+    },
+    {
+      "id": "kanji_声",
+      "char": "声",
+      "meanings": [
+        "voice",
+        "call"
+      ],
+      "onyomi": [
+        "セイ"
+      ],
+      "kunyomi": [
+        "こえ"
+      ],
+      "components": [
+        {
+          "radical": "radical_samurai",
+          "role": "classifier",
+          "note": "士 above a lower 尸-like portion in modern 声; assisted bird-call/voice word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "士 above a lower 尸-like portion in modern 声; assisted bird-call/voice word."
+    },
+    {
+      "id": "kanji_楽",
+      "char": "楽",
+      "meanings": [
+        "music",
+        "ease"
+      ],
+      "onyomi": [
+        "ガク",
+        "ラク"
+      ],
+      "kunyomi": [
+        "たの"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 below a modern upper central 白-like section and surrounding small strokes; assisted whole 音楽 / おんがく."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_音"
+      ],
+      "notes": "木 below a modern upper central 白-like section and surrounding small strokes; assisted whole 音楽 / おんがく."
+    },
+    {
+      "id": "kanji_酒",
+      "char": "酒",
+      "meanings": [
+        "alcoholic drink"
+      ],
+      "onyomi": [
+        "シュ"
+      ],
+      "kunyomi": [
+        "さけ",
+        "さか"
+      ],
+      "components": [
+        {
+          "radical": "radical_tori_vessel",
+          "role": "classifier",
+          "note": "酉 on the right is the indexing radical; 氵 visible left. Whole 酒田 / さかた differs from ordinary 酒 / さけ."
+        },
+        {
+          "radical": "radical_sanzui",
+          "role": "shape",
+          "note": "酉 on the right is the indexing radical; 氵 visible left. Whole 酒田 / さかた differs from ordinary 酒 / さけ."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_田"
+      ],
+      "notes": "酉 on the right is the indexing radical; 氵 visible left. Whole 酒田 / さかた differs from ordinary 酒 / さけ."
+    },
+    {
+      "id": "kanji_住",
+      "char": "住",
+      "meanings": [
+        "live",
+        "reside"
+      ],
+      "onyomi": [
+        "ジュウ"
+      ],
+      "kunyomi": [
+        "す"
+      ],
+      "components": [
+        {
+          "radical": "radical_ninben",
+          "role": "classifier",
+          "note": "亻 beside 主, a historical sound component. 住む → 住んで → 住んでいます in the limited taught residence model."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "亻 beside 主, a historical sound component. 住む → 住んで → 住んでいます in the limited taught residence model."
+    },
+    {
+      "id": "kanji_家",
+      "char": "家",
+      "meanings": [
+        "house",
+        "home"
+      ],
+      "onyomi": [
+        "カ",
+        "ケ"
+      ],
+      "kunyomi": [
+        "いえ",
+        "うち"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukanmuri",
+          "role": "classifier",
+          "note": "宀 above 豕; modern roof clue does not imply every house contains a pig. House いえ and home うち are both supported."
+        },
+        {
+          "radical": "radical_inoko",
+          "role": "shape",
+          "note": "宀 above 豕; modern roof clue does not imply every house contains a pig. House いえ and home うち are both supported."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "宀 above 豕; modern roof clue does not imply every house contains a pig. House いえ and home うち are both supported."
+    },
+    {
+      "id": "kanji_帰",
+      "char": "帰",
+      "meanings": [
+        "return",
+        "go home"
+      ],
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "かえ"
+      ],
+      "components": [
+        {
+          "radical": "radical_haba",
+          "role": "classifier",
+          "note": "Left 刂-like strokes beside a 帚-related right section containing 巾. Selected 巾; 帰ります, not 帰ます."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Left 刂-like strokes beside a 帚-related right section containing 巾. Selected 巾; 帰ります, not 帰ます."
+    },
+    {
+      "id": "kanji_福",
+      "char": "福",
+      "meanings": [
+        "good fortune"
+      ],
+      "onyomi": [
+        "フク"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_shimesuhen",
+          "role": "classifier",
+          "note": "示 side form 礻 beside 畐, historical sound material containing 一/口/田-like shapes. Previewed in 福島 before the next prefecture."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "示 side form 礻 beside 畐, historical sound material containing 一/口/田-like shapes. Previewed in 福島 before the next prefecture."
+    }
+  ]
+}

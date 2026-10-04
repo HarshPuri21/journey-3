@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "biei",
+ "name": "美瑛",
+ "nameEn": "Biei",
+ "reading": "びえい",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/asahikawa"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "biei_l01",
+   "file": "lessons/biei_l01.json"
+  }
+ ]
+}

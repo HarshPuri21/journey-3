@@ -1,0 +1,17 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "sapporo",
+ "name": "札幌",
+ "nameEn": "Sapporo",
+ "reading": "さっぽろ",
+ "summary": "The capital and largest city of Hokkaido, and the start of the Journey.",
+ "unlock": [],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "sapporo_l01",
+   "file": "lessons/sapporo_l01.json"
+  }
+ ]
+}

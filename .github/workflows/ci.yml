@@ -1,0 +1,83 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # Pinned so builds are reproducible. Bump deliberately.
+  FLUTTER_VERSION: "3.35.0"
+
+jobs:
+  # 1. Content gate - no Flutter needed, runs in seconds. If the curriculum is
+  #    broken (dangling ids, missing files/assets, bad schema, dependency or
+  #    unlock cycles, stale pubspec asset list) nothing after this runs.
+  validate-content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validator self-tests
+        run: python3 -m unittest discover -s tool/tests -v
+      - name: Validate packs and journey index
+        run: python3 tool/validate_content.py --strict
+
+  # 2. Static analysis + unit/widget tests.
+  test:
+    needs: validate-content
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+      - run: flutter --version
+      - run: flutter pub get
+      - name: Analyze (errors and warnings fail the build)
+        run: flutter analyze --no-fatal-infos
+      - name: Test
+        run: flutter test
+
+  # 3. Only reached when content + analysis + tests are green.
+  build-apk:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - name: Generate android/ runner
+        run: bash tool/bootstrap_android.sh
+      # Flutter signs release builds with ~/.android/debug.keystore. Every CI
+      # runner would otherwise create a NEW key, so each APK would refuse to
+      # install over the previous one. A fixed key lets new builds update the
+      # installed app and keep its progress. (Personal-use key - for a store
+      # release, switch to a private upload key kept in GitHub secrets.)
+      - name: Use the fixed signing key
+        run: |
+          mkdir -p ~/.android
+          cp tool/debug.keystore ~/.android/debug.keystore
+      - name: Build release APK
+        run: flutter build apk --release
+      - uses: actions/upload-artifact@v4
+        with:
+          name: n5-kanji-journey-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
+          if-no-files-found: error

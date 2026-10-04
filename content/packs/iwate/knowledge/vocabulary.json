@@ -1,0 +1,472 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_盛岡",
+      "word": "盛岡",
+      "reading": "もりおか",
+      "meanings": [
+        "Morioka"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_岡",
+        "kanji_盛"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r01_s02",
+        "sent_iwate_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_石",
+      "word": "石",
+      "reading": "いし",
+      "meanings": [
+        "stone"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_石"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r03_s01",
+        "sent_iwate_r03_s02"
+      ]
+    },
+    {
+      "id": "vocab_手",
+      "word": "手",
+      "reading": "て",
+      "meanings": [
+        "hand"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_手"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r01_s01",
+        "sent_iwate_r01_s02",
+        "sent_iwate_r01_s03"
+      ]
+    },
+    {
+      "id": "vocab_上",
+      "word": "上",
+      "reading": "うえ",
+      "meanings": [
+        "above; on top"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_上"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r03_s02"
+      ]
+    },
+    {
+      "id": "vocab_下",
+      "word": "下",
+      "reading": "した",
+      "meanings": [
+        "below; underneath"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_下"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r03_s03"
+      ]
+    },
+    {
+      "id": "vocab_中",
+      "word": "中",
+      "reading": "なか",
+      "meanings": [
+        "inside; middle"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_中"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_外",
+      "word": "外",
+      "reading": "そと",
+      "meanings": [
+        "outside"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_外"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r03_s01"
+      ]
+    },
+    {
+      "id": "vocab_そこ",
+      "word": "そこ",
+      "reading": "そこ",
+      "meanings": [
+        "there near listener"
+      ],
+      "pos": "place word",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_iwate_r02_s02",
+        "sent_iwate_r06_s01",
+        "sent_iwate_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_あそこ",
+      "word": "あそこ",
+      "reading": "あそこ",
+      "meanings": [
+        "over there away from both"
+      ],
+      "pos": "place word",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_iwate_r02_s02",
+        "sent_iwate_r06_s01",
+        "sent_iwate_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_どこ",
+      "word": "どこ",
+      "reading": "どこ",
+      "meanings": [
+        "where"
+      ],
+      "pos": "question",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_iwate_r02_s01"
+      ]
+    },
+    {
+      "id": "vocab_駅",
+      "word": "駅",
+      "reading": "えき",
+      "meanings": [
+        "station, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_駅"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r02_s01",
+        "sent_iwate_r04_s02",
+        "sent_iwate_r04_s03"
+      ]
+    },
+    {
+      "id": "vocab_地図",
+      "word": "地図",
+      "reading": "ちず",
+      "meanings": [
+        "map, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_図",
+        "kanji_地"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r04_s02"
+      ]
+    },
+    {
+      "id": "vocab_いす",
+      "word": "いす",
+      "reading": "いす",
+      "meanings": [
+        "chair"
+      ],
+      "pos": "noun",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_iwate_r03_s02",
+        "sent_iwate_r03_s03"
+      ]
+    },
+    {
+      "id": "vocab_平泉",
+      "word": "平泉",
+      "reading": "ひらいずみ",
+      "meanings": [
+        "Hiraizumi"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_平",
+        "kanji_泉"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r04_s01",
+        "sent_iwate_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_左",
+      "word": "左",
+      "reading": "ひだり",
+      "meanings": [
+        "left"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_左"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r04_s02"
+      ]
+    },
+    {
+      "id": "vocab_右",
+      "word": "右",
+      "reading": "みぎ",
+      "meanings": [
+        "right"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_右"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r04_s03"
+      ]
+    },
+    {
+      "id": "vocab_寺",
+      "word": "寺",
+      "reading": "てら",
+      "meanings": [
+        "temple, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_寺"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r04_s02"
+      ]
+    },
+    {
+      "id": "vocab_本",
+      "word": "本",
+      "reading": "ほん",
+      "meanings": [
+        "book"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_本"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_休む",
+      "word": "休む",
+      "reading": "やすむ",
+      "meanings": [
+        "rest"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_休"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_読む",
+      "word": "読む",
+      "reading": "よむ",
+      "meanings": [
+        "read, assisted character"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_読"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_静か",
+      "word": "静か",
+      "reading": "しずか",
+      "meanings": [
+        "quiet, な-adjective"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_静"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r05_s03"
+      ]
+    },
+    {
+      "id": "vocab_そして",
+      "word": "そして",
+      "reading": "そして",
+      "meanings": [
+        "and then"
+      ],
+      "pos": "connector",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_iwate_r05_s02",
+        "sent_iwate_r09_s03"
+      ]
+    },
+    {
+      "id": "vocab_でも",
+      "word": "でも",
+      "reading": "でも",
+      "meanings": [
+        "but"
+      ],
+      "pos": "connector",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_iwate_r06_s03",
+        "sent_iwate_r08_s03"
+      ]
+    },
+    {
+      "id": "vocab_花巻",
+      "word": "花巻",
+      "reading": "はなまき",
+      "meanings": [
+        "Hanamaki"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_巻",
+        "kanji_花"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r07_s03",
+        "sent_iwate_r08_s01",
+        "sent_iwate_r09_s01",
+        "sent_iwate_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_花見",
+      "word": "花見",
+      "reading": "はなみ",
+      "meanings": [
+        "flower viewing"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_花",
+        "kanji_見"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_友だち",
+      "word": "友だち",
+      "reading": "ともだち",
+      "meanings": [
+        "friend"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_友"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r07_s01",
+        "sent_iwate_r07_s02",
+        "sent_iwate_r07_s03",
+        "sent_iwate_r09_s02",
+        "sent_iwate_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_私",
+      "word": "私",
+      "reading": "わたし",
+      "meanings": [
+        "I; me"
+      ],
+      "pos": "pronoun",
+      "kanji": [
+        "kanji_私"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r07_s02"
+      ]
+    },
+    {
+      "id": "vocab_私たち",
+      "word": "私たち",
+      "reading": "わたしたち",
+      "meanings": [
+        "we, assisted group expression"
+      ],
+      "pos": "pronoun",
+      "kanji": [
+        "kanji_私"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_会う",
+      "word": "会う",
+      "reading": "あう",
+      "meanings": [
+        "meet"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_会"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_誰",
+      "word": "誰",
+      "reading": "だれ",
+      "meanings": [
+        "who"
+      ],
+      "pos": "question",
+      "kanji": [
+        "kanji_誰"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_宮城",
+      "word": "宮城",
+      "reading": "みやぎ",
+      "meanings": [
+        "Miyagi, next prefecture name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_城",
+        "kanji_宮"
+      ],
+      "exampleSentences": [
+        "sent_iwate_r10_s03"
+      ]
+    }
+  ]
+}

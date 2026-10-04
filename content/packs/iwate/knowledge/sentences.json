@@ -1,0 +1,778 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_iwate_r01_s01",
+      "jp": "{青森|あおもり}から{岩手|いわて}に{行|い}きました。",
+      "en": "I went from Aomori to Iwate.",
+      "tokens": [
+        {
+          "text": "青森",
+          "reading": "あおもり",
+          "vocab": "vocab_青森",
+          "gloss": "Aomori"
+        },
+        {
+          "text": "岩手",
+          "reading": "いわて",
+          "vocab": "vocab_岩手",
+          "gloss": "Iwate, next prefecture name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_岩",
+        "kanji_手",
+        "kanji_森",
+        "kanji_行",
+        "kanji_青"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r01_s02",
+      "jp": "{盛岡|もりおか}は{岩手|いわて}の{町|まち}です。",
+      "en": "Morioka is a city in Iwate.",
+      "tokens": [
+        {
+          "text": "盛岡",
+          "reading": "もりおか",
+          "vocab": "vocab_盛岡",
+          "gloss": "Morioka"
+        },
+        {
+          "text": "岩手",
+          "reading": "いわて",
+          "vocab": "vocab_岩手",
+          "gloss": "Iwate, next prefecture name"
+        },
+        {
+          "text": "町",
+          "reading": "まち",
+          "vocab": "vocab_町",
+          "gloss": "town"
+        }
+      ],
+      "kanji": [
+        "kanji_岡",
+        "kanji_岩",
+        "kanji_手",
+        "kanji_町",
+        "kanji_盛"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r01_s03",
+      "jp": "ここから{岩手|いわて}の{旅|たび}が{始|はじ}まります。",
+      "en": "The journey through Iwate begins here.",
+      "tokens": [
+        {
+          "text": "岩手",
+          "reading": "いわて",
+          "vocab": "vocab_岩手",
+          "gloss": "Iwate, next prefecture name"
+        },
+        {
+          "text": "旅",
+          "reading": "たび",
+          "vocab": "vocab_旅",
+          "gloss": "journey"
+        },
+        {
+          "text": "始",
+          "reading": "はじ"
+        }
+      ],
+      "kanji": [
+        "kanji_始",
+        "kanji_岩",
+        "kanji_手",
+        "kanji_旅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r02_s01",
+      "jp": "「{駅|えき}はどこですか。」",
+      "en": "“Where is the station?”",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        }
+      ],
+      "kanji": [
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r02_s02",
+      "jp": "「あそこです。」",
+      "en": "“It is over there.”",
+      "tokens": [],
+      "kanji": [],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r02_s03",
+      "jp": "ここに{店|みせ}があります。",
+      "en": "There is a shop here.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r03_s01",
+      "jp": "{店|みせ}の{外|そと}に{小|ちい}さい{石|いし}があります。",
+      "en": "There is a small stone outside the shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "外",
+          "reading": "そと",
+          "vocab": "vocab_外",
+          "gloss": "outside"
+        },
+        {
+          "text": "小",
+          "reading": "ちい"
+        },
+        {
+          "text": "石",
+          "reading": "いし",
+          "vocab": "vocab_石",
+          "gloss": "stone"
+        }
+      ],
+      "kanji": [
+        "kanji_外",
+        "kanji_小",
+        "kanji_店",
+        "kanji_石"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r03_s02",
+      "jp": "いすの{上|うえ}にも{石|いし}があります。",
+      "en": "There is a stone on the chair too.",
+      "tokens": [
+        {
+          "text": "上",
+          "reading": "うえ",
+          "vocab": "vocab_上",
+          "gloss": "above; on top"
+        },
+        {
+          "text": "石",
+          "reading": "いし",
+          "vocab": "vocab_石",
+          "gloss": "stone"
+        }
+      ],
+      "kanji": [
+        "kanji_上",
+        "kanji_石"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r03_s03",
+      "jp": "いすの{下|した}に{人|ひと}はいません。",
+      "en": "There is no one under the chair.",
+      "tokens": [
+        {
+          "text": "下",
+          "reading": "した",
+          "vocab": "vocab_下",
+          "gloss": "below; underneath"
+        },
+        {
+          "text": "人",
+          "reading": "ひと",
+          "vocab": "vocab_人",
+          "gloss": "person"
+        }
+      ],
+      "kanji": [
+        "kanji_下",
+        "kanji_人"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r04_s01",
+      "jp": "{平泉|ひらいずみ}に{行|い}きました。",
+      "en": "I went to Hiraizumi.",
+      "tokens": [
+        {
+          "text": "平泉",
+          "reading": "ひらいずみ",
+          "vocab": "vocab_平泉",
+          "gloss": "Hiraizumi"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_平",
+        "kanji_泉",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r04_s02",
+      "jp": "この{地図|ちず}では、{駅|えき}の{左|ひだり}に{寺|てら}があります。",
+      "en": "On this map, there is a temple to the left of the station.",
+      "tokens": [
+        {
+          "text": "地図",
+          "reading": "ちず",
+          "vocab": "vocab_地図",
+          "gloss": "map, assisted"
+        },
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "左",
+          "reading": "ひだり",
+          "vocab": "vocab_左",
+          "gloss": "left"
+        },
+        {
+          "text": "寺",
+          "reading": "てら",
+          "vocab": "vocab_寺",
+          "gloss": "temple, assisted"
+        }
+      ],
+      "kanji": [
+        "kanji_図",
+        "kanji_地",
+        "kanji_寺",
+        "kanji_左",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r04_s03",
+      "jp": "{駅|えき}の{右|みぎ}に{店|みせ}があります。",
+      "en": "There is a shop to the right of the station.",
+      "tokens": [
+        {
+          "text": "駅",
+          "reading": "えき",
+          "vocab": "vocab_駅",
+          "gloss": "station, assisted"
+        },
+        {
+          "text": "右",
+          "reading": "みぎ",
+          "vocab": "vocab_右",
+          "gloss": "right"
+        },
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_右",
+        "kanji_店",
+        "kanji_駅"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r05_s01",
+      "jp": "{公園|こうえん}で{休|やす}みました。",
+      "en": "I rested in the park.",
+      "tokens": [
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "vocab": "vocab_公園",
+          "gloss": "park, assisted"
+        },
+        {
+          "text": "休",
+          "reading": "やす"
+        }
+      ],
+      "kanji": [
+        "kanji_休",
+        "kanji_公",
+        "kanji_園"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r05_s02",
+      "jp": "そして、{本|ほん}を{読|よ}みました。",
+      "en": "Then I read a book.",
+      "tokens": [
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "読",
+          "reading": "よ"
+        }
+      ],
+      "kanji": [
+        "kanji_本",
+        "kanji_読"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r05_s03",
+      "jp": "この{場所|ばしょ}は{静|しず}かです。",
+      "en": "This place is quiet.",
+      "tokens": [
+        {
+          "text": "場所",
+          "reading": "ばしょ",
+          "vocab": "vocab_場所",
+          "gloss": "place"
+        },
+        {
+          "text": "静",
+          "reading": "しず"
+        }
+      ],
+      "kanji": [
+        "kanji_場",
+        "kanji_所",
+        "kanji_静"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r06_s01",
+      "jp": "あそこは{店|みせ}ではありません。",
+      "en": "That place over there is not a shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r06_s02",
+      "jp": "あそこに{店|みせ}はありません。",
+      "en": "There is no shop over there.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r06_s03",
+      "jp": "でも、ここに{店|みせ}があります。",
+      "en": "But there is a shop here.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        }
+      ],
+      "kanji": [
+        "kanji_店"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r07_s01",
+      "jp": "{九時半|くじはん}に{公園|こうえん}で{友|とも}だちに{会|あ}いました。",
+      "en": "I met a friend in the park at 9:30.",
+      "tokens": [
+        {
+          "text": "九時半",
+          "reading": "くじはん",
+          "vocab": "vocab_九時半",
+          "gloss": "nine thirty"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "vocab": "vocab_公園",
+          "gloss": "park, assisted"
+        },
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_九",
+        "kanji_会",
+        "kanji_公",
+        "kanji_半",
+        "kanji_友",
+        "kanji_園",
+        "kanji_時"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r07_s02",
+      "jp": "{私|わたし}と{友|とも}だちは{二人|ふたり}です。",
+      "en": "My friend and I make two people.",
+      "tokens": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "二人",
+          "reading": "ふたり",
+          "vocab": "vocab_二人",
+          "gloss": "two people"
+        }
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_人",
+        "kanji_友",
+        "kanji_私"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r07_s03",
+      "jp": "{友|とも}だちと{花巻|はなまき}に{行|い}きました。",
+      "en": "I went to Hanamaki with a friend.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "花巻",
+          "reading": "はなまき",
+          "vocab": "vocab_花巻",
+          "gloss": "Hanamaki"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_巻",
+        "kanji_花",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r08_s01",
+      "jp": "{花巻|はなまき}の{公園|こうえん}で{花|はな}を{見|み}ました。",
+      "en": "I looked at flowers in a park in Hanamaki.",
+      "tokens": [
+        {
+          "text": "花巻",
+          "reading": "はなまき",
+          "vocab": "vocab_花巻",
+          "gloss": "Hanamaki"
+        },
+        {
+          "text": "公園",
+          "reading": "こうえん",
+          "vocab": "vocab_公園",
+          "gloss": "park, assisted"
+        },
+        {
+          "text": "花",
+          "reading": "はな",
+          "vocab": "vocab_花",
+          "gloss": "flower, preview before Hanamaki formal study"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_公",
+        "kanji_園",
+        "kanji_巻",
+        "kanji_花",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r08_s02",
+      "jp": "この{花|はな}はきれいです。",
+      "en": "This flower is beautiful.",
+      "tokens": [
+        {
+          "text": "花",
+          "reading": "はな",
+          "vocab": "vocab_花",
+          "gloss": "flower, preview before Hanamaki formal study"
+        }
+      ],
+      "kanji": [
+        "kanji_花"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r08_s03",
+      "jp": "{弘前|ひろさき}でも{花|はな}を{見|み}ました。",
+      "en": "I looked at flowers in Hirosaki too.",
+      "tokens": [
+        {
+          "text": "弘前",
+          "reading": "ひろさき",
+          "vocab": "vocab_弘前",
+          "gloss": "Hirosaki, whole place name"
+        },
+        {
+          "text": "花",
+          "reading": "はな",
+          "vocab": "vocab_花",
+          "gloss": "flower, preview before Hanamaki formal study"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_前",
+        "kanji_弘",
+        "kanji_花",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r09_s01",
+      "jp": "{花巻|はなまき}に{温泉|おんせん}があります。",
+      "en": "There are hot springs in Hanamaki.",
+      "tokens": [
+        {
+          "text": "花巻",
+          "reading": "はなまき",
+          "vocab": "vocab_花巻",
+          "gloss": "Hanamaki"
+        },
+        {
+          "text": "温泉",
+          "reading": "おんせん",
+          "vocab": "vocab_温泉",
+          "gloss": "hot spring"
+        }
+      ],
+      "kanji": [
+        "kanji_巻",
+        "kanji_泉",
+        "kanji_温",
+        "kanji_花"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r09_s02",
+      "jp": "{友|とも}だちと{温泉|おんせん}に{入|はい}りました。",
+      "en": "I entered a hot spring with a friend.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "温泉",
+          "reading": "おんせん",
+          "vocab": "vocab_温泉",
+          "gloss": "hot spring"
+        },
+        {
+          "text": "入",
+          "reading": "はい"
+        }
+      ],
+      "kanji": [
+        "kanji_入",
+        "kanji_友",
+        "kanji_泉",
+        "kanji_温"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r09_s03",
+      "jp": "そして、{休|やす}みました。",
+      "en": "Then I rested.",
+      "tokens": [
+        {
+          "text": "休",
+          "reading": "やす"
+        }
+      ],
+      "kanji": [
+        "kanji_休"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r10_s01",
+      "jp": "{盛岡|もりおか}、{平泉|ひらいずみ}、{花巻|はなまき}に{行|い}きました。",
+      "en": "I went to Morioka, Hiraizumi, and Hanamaki.",
+      "tokens": [
+        {
+          "text": "盛岡",
+          "reading": "もりおか",
+          "vocab": "vocab_盛岡",
+          "gloss": "Morioka"
+        },
+        {
+          "text": "平泉",
+          "reading": "ひらいずみ",
+          "vocab": "vocab_平泉",
+          "gloss": "Hiraizumi"
+        },
+        {
+          "text": "花巻",
+          "reading": "はなまき",
+          "vocab": "vocab_花巻",
+          "gloss": "Hanamaki"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_岡",
+        "kanji_巻",
+        "kanji_平",
+        "kanji_泉",
+        "kanji_盛",
+        "kanji_花",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r10_s02",
+      "jp": "{今日|きょう}は{友|とも}だちに{会|あ}いません。",
+      "en": "I will not meet my friend today.",
+      "tokens": [
+        {
+          "text": "今日",
+          "reading": "きょう",
+          "vocab": "vocab_今日",
+          "gloss": "today"
+        },
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_今",
+        "kanji_会",
+        "kanji_友",
+        "kanji_日"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_iwate_r10_s03",
+      "jp": "{次|つぎ}は{宮城|みやぎ}です。",
+      "en": "Next is Miyagi.",
+      "tokens": [
+        {
+          "text": "次",
+          "reading": "つぎ",
+          "vocab": "vocab_次",
+          "gloss": "next"
+        },
+        {
+          "text": "宮城",
+          "reading": "みやぎ",
+          "vocab": "vocab_宮城",
+          "gloss": "Miyagi, next prefecture name"
+        }
+      ],
+      "kanji": [
+        "kanji_城",
+        "kanji_宮",
+        "kanji_次"
+      ],
+      "grammar": []
+    }
+  ]
+}

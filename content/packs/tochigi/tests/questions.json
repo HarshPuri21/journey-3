@@ -1,0 +1,2026 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_p05_tochigi_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 兄 as the speaker's own older brother.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いもうと"
+        },
+        {
+          "id": "b",
+          "text": "おとうと"
+        },
+        {
+          "id": "c",
+          "text": "あね"
+        },
+        {
+          "id": "d",
+          "text": "あに"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_兄"
+      ],
+      "explanation": "The own-family older-brother word is あに."
+    },
+    {
+      "id": "q_p05_tochigi_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 姉 as the speaker's own older sister.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あに"
+        },
+        {
+          "id": "b",
+          "text": "いもうと"
+        },
+        {
+          "id": "c",
+          "text": "あね"
+        },
+        {
+          "id": "d",
+          "text": "はは"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_姉"
+      ],
+      "explanation": "The own-family older-sister word is あね."
+    },
+    {
+      "id": "q_p05_tochigi_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 弟.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おとうと"
+        },
+        {
+          "id": "b",
+          "text": "ちち"
+        },
+        {
+          "id": "c",
+          "text": "あに"
+        },
+        {
+          "id": "d",
+          "text": "こども"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_弟"
+      ],
+      "explanation": "弟 is younger brother, おとうと."
+    },
+    {
+      "id": "q_p05_tochigi_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 妹.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おとこ"
+        },
+        {
+          "id": "b",
+          "text": "はは"
+        },
+        {
+          "id": "c",
+          "text": "あね"
+        },
+        {
+          "id": "d",
+          "text": "いもうと"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_妹"
+      ],
+      "explanation": "妹 is younger sister, いもうと."
+    },
+    {
+      "id": "q_p05_tochigi_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 男の人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おにいさん"
+        },
+        {
+          "id": "b",
+          "text": "おんなのひと"
+        },
+        {
+          "id": "c",
+          "text": "おとこのひと"
+        },
+        {
+          "id": "d",
+          "text": "おとこのこ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_男の人"
+      ],
+      "explanation": "男の人 is the taught adult man phrase."
+    },
+    {
+      "id": "q_p05_tochigi_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 女の子.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おとこのこ"
+        },
+        {
+          "id": "b",
+          "text": "おんなのひと"
+        },
+        {
+          "id": "c",
+          "text": "おんなのこ"
+        },
+        {
+          "id": "d",
+          "text": "あね"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_女の子"
+      ],
+      "explanation": "女の子 is the girl phrase, distinct from adult/family terms."
+    },
+    {
+      "id": "q_p05_tochigi_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 好き.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ながい"
+        },
+        {
+          "id": "b",
+          "text": "じょうず"
+        },
+        {
+          "id": "c",
+          "text": "すき"
+        },
+        {
+          "id": "d",
+          "text": "すくない"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_好き"
+      ],
+      "explanation": "好き is the like/fond な-adjective word すき."
+    },
+    {
+      "id": "q_p05_tochigi_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 長い.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おおい"
+        },
+        {
+          "id": "b",
+          "text": "みじかい"
+        },
+        {
+          "id": "c",
+          "text": "くらい"
+        },
+        {
+          "id": "d",
+          "text": "ながい"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_長い"
+      ],
+      "explanation": "長い means long."
+    },
+    {
+      "id": "q_p05_tochigi_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 短い.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ちいさい"
+        },
+        {
+          "id": "b",
+          "text": "はやい"
+        },
+        {
+          "id": "c",
+          "text": "とおい"
+        },
+        {
+          "id": "d",
+          "text": "みじかい"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_短い"
+      ],
+      "explanation": "短い means short in length."
+    },
+    {
+      "id": "q_p05_tochigi_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Choose the correct pair: 多い / 少ない.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "おおい / すこし"
+        },
+        {
+          "id": "b",
+          "text": "おおい / すくない"
+        },
+        {
+          "id": "c",
+          "text": "ながい / みじかい"
+        },
+        {
+          "id": "d",
+          "text": "たかい / やすい"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_多い",
+        "vocab_少ない"
+      ],
+      "explanation": "多い is many and 少ない is few; 少し is a different word."
+    },
+    {
+      "id": "q_p05_tochigi_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on 栃's left?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "彳"
+        },
+        {
+          "id": "b",
+          "text": "氵"
+        },
+        {
+          "id": "c",
+          "text": "禾"
+        },
+        {
+          "id": "d",
+          "text": "木"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_ki",
+        "kanji_栃"
+      ],
+      "explanation": "栃 has 木; the right 厉-shaped part is recognition material."
+    },
+    {
+      "id": "q_p05_tochigi_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical tops 宇?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "艹"
+        },
+        {
+          "id": "b",
+          "text": "宀"
+        },
+        {
+          "id": "c",
+          "text": "竹"
+        },
+        {
+          "id": "d",
+          "text": "雨"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_ukanmuri",
+        "kanji_宇"
+      ],
+      "explanation": "宇 has 宀 above 于."
+    },
+    {
+      "id": "q_p05_tochigi_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "The right 阝 in 都 belongs to which radical family?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "邑 / おおざと"
+        },
+        {
+          "id": "b",
+          "text": "人 / にんべん"
+        },
+        {
+          "id": "c",
+          "text": "水 / さんずい"
+        },
+        {
+          "id": "d",
+          "text": "阜 / こざとへん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_oozato",
+        "kanji_都"
+      ],
+      "explanation": "Right 阝 in 都 is 邑, unlike the left-side 阜 form."
+    },
+    {
+      "id": "q_p05_tochigi_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical indexes 宮?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "宀"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "日"
+        },
+        {
+          "id": "d",
+          "text": "木"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_ukanmuri",
+        "kanji_宮"
+      ],
+      "explanation": "宮 is under 宀; the 呂-shaped interior is not its indexing radical."
+    },
+    {
+      "id": "q_p05_tochigi_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical links 姉 and 妹?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "女"
+        },
+        {
+          "id": "b",
+          "text": "子"
+        },
+        {
+          "id": "c",
+          "text": "田"
+        },
+        {
+          "id": "d",
+          "text": "母"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_onna",
+        "kanji_姉",
+        "kanji_妹"
+      ],
+      "explanation": "Both have 女 on the left."
+    },
+    {
+      "id": "q_p05_tochigi_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is taught for 弟?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "門"
+        },
+        {
+          "id": "b",
+          "text": "艹"
+        },
+        {
+          "id": "c",
+          "text": "竹"
+        },
+        {
+          "id": "d",
+          "text": "弓"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_yumi",
+        "kanji_弟"
+      ],
+      "explanation": "弟 is indexed under 弓 within its layered modern form."
+    },
+    {
+      "id": "q_p05_tochigi_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is taught for 光 in 日光?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "火"
+        },
+        {
+          "id": "b",
+          "text": "日"
+        },
+        {
+          "id": "c",
+          "text": "小"
+        },
+        {
+          "id": "d",
+          "text": "儿"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_hitoashi",
+        "kanji_光"
+      ],
+      "explanation": "The upper shape is fire-derived; the indexing radical is 儿."
+    },
+    {
+      "id": "q_p05_tochigi_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on 利's right?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "阝 / 邑"
+        },
+        {
+          "id": "b",
+          "text": "頁"
+        },
+        {
+          "id": "c",
+          "text": "彡"
+        },
+        {
+          "id": "d",
+          "text": "刂 / 刀"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_katana",
+        "kanji_利"
+      ],
+      "explanation": "利 has the knife-side radical 刂 beside 禾."
+    },
+    {
+      "id": "q_p05_tochigi_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which right-hand radical appears in 須?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "目"
+        },
+        {
+          "id": "b",
+          "text": "貝"
+        },
+        {
+          "id": "c",
+          "text": "頁"
+        },
+        {
+          "id": "d",
+          "text": "日"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_oogai",
+        "kanji_須"
+      ],
+      "explanation": "須 is indexed under 頁; 彡 is on its left."
+    },
+    {
+      "id": "q_p05_tochigi_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on 短's left?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "禾"
+        },
+        {
+          "id": "b",
+          "text": "木"
+        },
+        {
+          "id": "c",
+          "text": "矢"
+        },
+        {
+          "id": "d",
+          "text": "牛"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "radical_ya",
+        "kanji_短"
+      ],
+      "explanation": "短 has 矢 beside 豆."
+    },
+    {
+      "id": "q_p05_tochigi_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 四人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しにん"
+        },
+        {
+          "id": "b",
+          "text": "よんひと"
+        },
+        {
+          "id": "c",
+          "text": "よっか"
+        },
+        {
+          "id": "d",
+          "text": "よにん"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_四人"
+      ],
+      "explanation": "The people count is よにん."
+    },
+    {
+      "id": "q_p05_tochigi_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたり"
+        },
+        {
+          "id": "b",
+          "text": "ふたつ"
+        },
+        {
+          "id": "c",
+          "text": "ににん"
+        },
+        {
+          "id": "d",
+          "text": "にひと"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_二人"
+      ],
+      "explanation": "Two people uses ふたり."
+    },
+    {
+      "id": "q_p05_tochigi_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 一人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ひとり"
+        },
+        {
+          "id": "b",
+          "text": "いちじ"
+        },
+        {
+          "id": "c",
+          "text": "いちにん"
+        },
+        {
+          "id": "d",
+          "text": "ひとつ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_一人"
+      ],
+      "explanation": "One person uses ひとり."
+    },
+    {
+      "id": "q_p05_tochigi_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "みっつ"
+        },
+        {
+          "id": "b",
+          "text": "さんじ"
+        },
+        {
+          "id": "c",
+          "text": "さんにん"
+        },
+        {
+          "id": "d",
+          "text": "さんびゃく"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_三人"
+      ],
+      "explanation": "Three people is さんにん."
+    },
+    {
+      "id": "q_p05_tochigi_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "The explicit family total is 四人. How many people?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "4"
+        },
+        {
+          "id": "b",
+          "text": "2"
+        },
+        {
+          "id": "c",
+          "text": "5"
+        },
+        {
+          "id": "d",
+          "text": "3"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_四人"
+      ],
+      "explanation": "The total is four; no additional person is inferred."
+    },
+    {
+      "id": "q_p05_tochigi_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "An explicit photo contains two boys and one girl, and no other children. Total?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "三人"
+        },
+        {
+          "id": "b",
+          "text": "一人"
+        },
+        {
+          "id": "c",
+          "text": "二人"
+        },
+        {
+          "id": "d",
+          "text": "四人"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_三人"
+      ],
+      "explanation": "The stated disjoint count totals three children."
+    },
+    {
+      "id": "q_p05_tochigi_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Does 人が多い state an exact count of five?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "No; it is a qualitative quantity description."
+        },
+        {
+          "id": "b",
+          "text": "Yes; 多い always means five."
+        },
+        {
+          "id": "c",
+          "text": "Yes; it always means fifty."
+        },
+        {
+          "id": "d",
+          "text": "Yes; it always means five hundred."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_qualitative_quantity"
+      ],
+      "explanation": "多い is relative to context and gives no exact number."
+    },
+    {
+      "id": "q_p05_tochigi_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read a fictional single-book price 八百円.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "はっせんえん"
+        },
+        {
+          "id": "b",
+          "text": "はっぴゃくえん"
+        },
+        {
+          "id": "c",
+          "text": "はちじゅうえん"
+        },
+        {
+          "id": "d",
+          "text": "はちひゃくえん"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_八百円"
+      ],
+      "explanation": "八百 uses the cumulative sound change はっぴゃく."
+    },
+    {
+      "id": "q_p05_tochigi_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read the calendar date 七日, reviewed from Ibaraki.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しちじ"
+        },
+        {
+          "id": "b",
+          "text": "しちにち"
+        },
+        {
+          "id": "c",
+          "text": "なのか"
+        },
+        {
+          "id": "d",
+          "text": "ななつ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_七日"
+      ],
+      "explanation": "The seventh date is なのか."
+    },
+    {
+      "id": "q_p05_tochigi_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "A fictional meeting is 午後一時. Which time?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "1 PM"
+        },
+        {
+          "id": "b",
+          "text": "12 noon"
+        },
+        {
+          "id": "c",
+          "text": "11 PM"
+        },
+        {
+          "id": "d",
+          "text": "1 AM"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_午後一時"
+      ],
+      "explanation": "午後 establishes PM and 一時 is one o'clock."
+    },
+    {
+      "id": "q_p05_tochigi_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 宇都宮.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "うづのみや"
+        },
+        {
+          "id": "b",
+          "text": "うつのみや"
+        },
+        {
+          "id": "c",
+          "text": "うとみや"
+        },
+        {
+          "id": "d",
+          "text": "うつみや"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_宇都宮"
+      ],
+      "explanation": "The full name includes spoken の: うつのみや."
+    },
+    {
+      "id": "q_p05_tochigi_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 日光 as the place name.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "にっこう"
+        },
+        {
+          "id": "b",
+          "text": "にちこう"
+        },
+        {
+          "id": "c",
+          "text": "ひひかり"
+        },
+        {
+          "id": "d",
+          "text": "にっこ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_日光"
+      ],
+      "explanation": "Learn the doubled consonant and long final vowel in にっこう."
+    },
+    {
+      "id": "q_p05_tochigi_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 足利.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "あしかが"
+        },
+        {
+          "id": "b",
+          "text": "たりか"
+        },
+        {
+          "id": "c",
+          "text": "あしきく"
+        },
+        {
+          "id": "d",
+          "text": "あしり"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_足利"
+      ],
+      "explanation": "足利 is the full exceptional name あしかが."
+    },
+    {
+      "id": "q_p05_tochigi_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 那須.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "だしゅ"
+        },
+        {
+          "id": "b",
+          "text": "なひげ"
+        },
+        {
+          "id": "c",
+          "text": "なす"
+        },
+        {
+          "id": "d",
+          "text": "なみ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_那須"
+      ],
+      "explanation": "The place name is なす."
+    },
+    {
+      "id": "q_p05_tochigi_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Choose the polite reference to someone else's older brother.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "兄 / あに as the outsider-facing polite reference"
+        },
+        {
+          "id": "b",
+          "text": "父 / ちち"
+        },
+        {
+          "id": "c",
+          "text": "お兄さん / おにいさん"
+        },
+        {
+          "id": "d",
+          "text": "弟 / おとうと"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_お兄さん"
+      ],
+      "explanation": "The taught polite reference is お兄さん."
+    },
+    {
+      "id": "q_p05_tochigi_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which phrase means a woman, without stating a sibling relationship?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "母"
+        },
+        {
+          "id": "b",
+          "text": "女の人"
+        },
+        {
+          "id": "c",
+          "text": "姉"
+        },
+        {
+          "id": "d",
+          "text": "妹"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_女の人"
+      ],
+      "explanation": "女の人 describes a woman; the others state family relations."
+    },
+    {
+      "id": "q_p05_tochigi_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 上手 in the skill word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "へた"
+        },
+        {
+          "id": "b",
+          "text": "じょうしゅ"
+        },
+        {
+          "id": "c",
+          "text": "うえて"
+        },
+        {
+          "id": "d",
+          "text": "じょうず"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_上手"
+      ],
+      "explanation": "The skill adjective is じょうず."
+    },
+    {
+      "id": "q_p05_tochigi_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 下手 in the not-good-at word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "すき"
+        },
+        {
+          "id": "b",
+          "text": "げしゅ"
+        },
+        {
+          "id": "c",
+          "text": "したて"
+        },
+        {
+          "id": "d",
+          "text": "へた"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_下手"
+      ],
+      "explanation": "The skill adjective is へた."
+    },
+    {
+      "id": "q_p05_tochigi_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means a little as in 水を＿＿飲みます?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "少ない"
+        },
+        {
+          "id": "b",
+          "text": "少し"
+        },
+        {
+          "id": "c",
+          "text": "多い"
+        },
+        {
+          "id": "d",
+          "text": "短い"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "vocab_少し"
+      ],
+      "explanation": "少し modifies the amount of the drinking action."
+    },
+    {
+      "id": "q_p05_tochigi_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which is the taught noun phrase meaning many people?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "人を多い"
+        },
+        {
+          "id": "b",
+          "text": "多い人 as the basic many-people phrase"
+        },
+        {
+          "id": "c",
+          "text": "たくさんの人"
+        },
+        {
+          "id": "d",
+          "text": "多いな人"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_qualitative_quantity"
+      ],
+      "explanation": "たくさんの人 is the taught quantity noun phrase."
+    },
+    {
+      "id": "q_p05_tochigi_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the basic like model: 私は花＿＿好きです。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "が"
+        },
+        {
+          "id": "b",
+          "text": "で"
+        },
+        {
+          "id": "c",
+          "text": "へ"
+        },
+        {
+          "id": "d",
+          "text": "を"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_suki_ga"
+      ],
+      "explanation": "The liked thing takes が in this basic model."
+    },
+    {
+      "id": "q_p05_tochigi_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose a book I like as the taught noun phrase.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "好きい本"
+        },
+        {
+          "id": "b",
+          "text": "好きな本"
+        },
+        {
+          "id": "c",
+          "text": "好きく本"
+        },
+        {
+          "id": "d",
+          "text": "好きます本"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_na_adjective",
+        "vocab_好き"
+      ],
+      "explanation": "好き is a な-adjective and uses な before 本."
+    },
+    {
+      "id": "q_p05_tochigi_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught past-negative like description.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "好きいませんでした。"
+        },
+        {
+          "id": "b",
+          "text": "好きくなかったです。"
+        },
+        {
+          "id": "c",
+          "text": "好きでしたありません。"
+        },
+        {
+          "id": "d",
+          "text": "好きではありませんでした。"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_noun_past_negative",
+        "vocab_好き"
+      ],
+      "explanation": "The な-adjective uses the noun-like polite past negative."
+    },
+    {
+      "id": "q_p05_tochigi_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the taught skill model: 姉は絵＿＿上手です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "が"
+        },
+        {
+          "id": "b",
+          "text": "から"
+        },
+        {
+          "id": "c",
+          "text": "へ"
+        },
+        {
+          "id": "d",
+          "text": "を"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_skill_ga"
+      ],
+      "explanation": "が marks the skill area in this model."
+    },
+    {
+      "id": "q_p05_tochigi_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the past-negative long-road description.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "長いでした。"
+        },
+        {
+          "id": "b",
+          "text": "長くなかったです。"
+        },
+        {
+          "id": "c",
+          "text": "長くありませんでしたです。"
+        },
+        {
+          "id": "d",
+          "text": "長いませんでした。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_i_adjective_past_negative",
+        "vocab_長い"
+      ],
+      "explanation": "Ordinary い-adjective past negative is くなかったです."
+    },
+    {
+      "id": "q_p05_tochigi_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the negative quantity description, not many people.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "多いな人です。"
+        },
+        {
+          "id": "b",
+          "text": "人が多くないです。"
+        },
+        {
+          "id": "c",
+          "text": "人が多いません。"
+        },
+        {
+          "id": "d",
+          "text": "人を多いです。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_i_adjective_negative",
+        "vocab_多い"
+      ],
+      "explanation": "多い follows the ordinary い-adjective negative rule."
+    },
+    {
+      "id": "q_p05_tochigi_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the noun past, my sister was a student.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "姉は学生ました。"
+        },
+        {
+          "id": "b",
+          "text": "姉は学生でした。"
+        },
+        {
+          "id": "c",
+          "text": "姉は学生くないです。"
+        },
+        {
+          "id": "d",
+          "text": "姉は学生かったです。"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_noun_past"
+      ],
+      "explanation": "学生 is a noun and takes でした for the polite past."
+    },
+    {
+      "id": "q_p05_tochigi_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the companion model: 兄＿＿ご飯を食べます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "で"
+        },
+        {
+          "id": "c",
+          "text": "と"
+        },
+        {
+          "id": "d",
+          "text": "へ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_companion_to"
+      ],
+      "explanation": "と marks the companion for the shared meal."
+    },
+    {
+      "id": "q_p05_tochigi_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the invitation to read together.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いっしょに読むましょう。"
+        },
+        {
+          "id": "b",
+          "text": "いっしょに読みませんでした。"
+        },
+        {
+          "id": "c",
+          "text": "いっしょに読みませんか。"
+        },
+        {
+          "id": "d",
+          "text": "いっしょに読んでいる as the polite invitation"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_invitation_masenka"
+      ],
+      "explanation": "The invitation uses the familiar polite stem＋ませんか."
+    },
+    {
+      "id": "q_p05_tochigi_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Which correctly distinguishes preference and skill?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "好き always means ability to do."
+        },
+        {
+          "id": "b",
+          "text": "好き means liking; 上手 means skill."
+        },
+        {
+          "id": "c",
+          "text": "下手 always means liking most."
+        },
+        {
+          "id": "d",
+          "text": "上手 always means dislike."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "grammar_suki_ga",
+        "grammar_skill_ga"
+      ],
+      "explanation": "The lesson separates preference from skill and postpones productive ability forms."
+    },
+    {
+      "id": "q_p05_tochigi_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R01: Who will travel with the narrator?\n\nPassage TOCHIGI-R01:\n来週の土曜日に宇都宮に行きます。\n兄と行きます。\n兄は学生です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Older brother."
+        },
+        {
+          "id": "b",
+          "text": "Mother."
+        },
+        {
+          "id": "c",
+          "text": "Younger brother."
+        },
+        {
+          "id": "d",
+          "text": "Teacher only."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r01_s01",
+        "sent_tochigi_r01_s02",
+        "sent_tochigi_r01_s03"
+      ],
+      "explanation": "兄と states the companion."
+    },
+    {
+      "id": "q_p05_tochigi_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R02: What does 妹も学生です add?\n\nPassage TOCHIGI-R01:\n来週の土曜日に宇都宮に行きます。\n兄と行きます。\n兄は学生です。\n\nPassage TOCHIGI-R02:\n午後一時に妹に会います。\n妹も学生です。\n駅で十分待ちます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The sister used to be a teacher."
+        },
+        {
+          "id": "b",
+          "text": "The younger sister is also a student."
+        },
+        {
+          "id": "c",
+          "text": "The brother is not a student."
+        },
+        {
+          "id": "d",
+          "text": "There are no students."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r01_s01",
+        "sent_tochigi_r01_s02",
+        "sent_tochigi_r01_s03",
+        "sent_tochigi_r02_s01",
+        "sent_tochigi_r02_s02",
+        "sent_tochigi_r02_s03"
+      ],
+      "explanation": "も links her student status to the brother's stated status."
+    },
+    {
+      "id": "q_p05_tochigi_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R03: Why does the friend say お兄さん?\n\nPassage TOCHIGI-R03:\n兄と妹とご飯を食べます。\n友だちは「お兄さんは学生ですか」と聞きました。\n「はい、兄は学生です」と言いました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "It means the friend's father."
+        },
+        {
+          "id": "b",
+          "text": "Polite reference to someone else's older brother."
+        },
+        {
+          "id": "c",
+          "text": "It is the required polite verb for eating."
+        },
+        {
+          "id": "d",
+          "text": "It means no siblings exist."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r03_s01",
+        "sent_tochigi_r03_s02",
+        "sent_tochigi_r03_s03"
+      ],
+      "explanation": "Own-family 兄 and polite-reference お兄さん differ by context."
+    },
+    {
+      "id": "q_p05_tochigi_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R04: What explicitly establishes the woman's relation?\n\nPassage TOCHIGI-R04:\n日曜日に日光に行きます。\nこの女の人は私の姉です。\n姉は先生です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The city name 日光."
+        },
+        {
+          "id": "b",
+          "text": "The photograph's clothes alone."
+        },
+        {
+          "id": "c",
+          "text": "The time 日曜日 alone."
+        },
+        {
+          "id": "d",
+          "text": "私の姉 in the sentence."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r04_s01",
+        "sent_tochigi_r04_s02",
+        "sent_tochigi_r04_s03"
+      ],
+      "explanation": "The story explicitly calls her the narrator's older sister."
+    },
+    {
+      "id": "q_p05_tochigi_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R05: How many children are in the stated photograph?\n\nPassage TOCHIGI-R05:\nこの写真には、男の子が二人います。\n女の子が一人います。\n子どもは三人です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One."
+        },
+        {
+          "id": "b",
+          "text": "Two."
+        },
+        {
+          "id": "c",
+          "text": "Three."
+        },
+        {
+          "id": "d",
+          "text": "Four."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r05_s01",
+        "sent_tochigi_r05_s02",
+        "sent_tochigi_r05_s03"
+      ],
+      "explanation": "Two boys and one girl are explicitly summarised as 三人."
+    },
+    {
+      "id": "q_p05_tochigi_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R06: What do the narrator and sister both like?\n\nPassage TOCHIGI-R06:\n足利で花を見ます。\n私は花が好きです。\n姉も花が好きです。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fish."
+        },
+        {
+          "id": "b",
+          "text": "Long roads, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "Flowers."
+        },
+        {
+          "id": "d",
+          "text": "Train exits."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r06_s01",
+        "sent_tochigi_r06_s02",
+        "sent_tochigi_r06_s03"
+      ],
+      "explanation": "Both lines use 花が好き."
+    },
+    {
+      "id": "q_p05_tochigi_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R07: Who is good at drawing?\n\nPassage TOCHIGI-R07:\n私は絵が好きです。\nでも、絵が下手です。\n姉は絵が上手です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The narrator."
+        },
+        {
+          "id": "b",
+          "text": "The younger brother."
+        },
+        {
+          "id": "c",
+          "text": "Both, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "The older sister."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r07_s01",
+        "sent_tochigi_r07_s02",
+        "sent_tochigi_r07_s03"
+      ],
+      "explanation": "The sister is 上手; the narrator describes themself as 下手."
+    },
+    {
+      "id": "q_p05_tochigi_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R08: What shared action is invited?\n\nPassage TOCHIGI-R08:\nこれは私の好きな本です。\n「いっしょに読みませんか」と言いました。\n姉は「はい、読みましょう」と言いました。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Writing a date."
+        },
+        {
+          "id": "b",
+          "text": "Boarding a train."
+        },
+        {
+          "id": "c",
+          "text": "Making a plate."
+        },
+        {
+          "id": "d",
+          "text": "Reading a book."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r08_s01",
+        "sent_tochigi_r08_s02",
+        "sent_tochigi_r08_s03"
+      ],
+      "explanation": "読みませんか invites reading."
+    },
+    {
+      "id": "q_p05_tochigi_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R09: Which road is short?\n\nPassage TOCHIGI-R09:\n那須に来ました。\nこの道は長いです。\nその道は短いです。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Neither, explicitly stated."
+        },
+        {
+          "id": "b",
+          "text": "その道, that road."
+        },
+        {
+          "id": "c",
+          "text": "Both, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "この道, this road."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r09_s01",
+        "sent_tochigi_r09_s02",
+        "sent_tochigi_r09_s03"
+      ],
+      "explanation": "The third line says その道は短いです."
+    },
+    {
+      "id": "q_p05_tochigi_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "TOCHIGI-R10: What does 人が少ない tell us?\n\nPassage TOCHIGI-R10:\n朝は人が少ないです。\n水を少し飲みます。そして、休みます。\n次は群馬です。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Exactly ten children."
+        },
+        {
+          "id": "b",
+          "text": "Few people, with no exact count."
+        },
+        {
+          "id": "c",
+          "text": "No people at all."
+        },
+        {
+          "id": "d",
+          "text": "Exactly three people."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "tochigi",
+        "tochigi_final"
+      ],
+      "refs": [
+        "sent_tochigi_r10_s01",
+        "sent_tochigi_r10_s02",
+        "sent_tochigi_r10_s03"
+      ],
+      "explanation": "少ない describes relative quantity and supplies no count."
+    }
+  ]
+}

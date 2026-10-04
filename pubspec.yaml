@@ -1,0 +1,96 @@
+name: n5_kanji_journey
+description: "N5 Kanji Journey - a geographical Japanese-learning adventure."
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.2
+  shared_preferences: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/maps/japan_journey_map.png
+    # BEGIN GENERATED CONTENT ASSETS (tool/validate_content.py --sync-assets)
+    - content/
+    - content/packs/akita/
+    - content/packs/akita/assets/
+    - content/packs/akita/chapters/
+    - content/packs/akita/knowledge/
+    - content/packs/akita/lessons/
+    - content/packs/akita/reading/
+    - content/packs/akita/tests/
+    - content/packs/aomori/
+    - content/packs/aomori/assets/
+    - content/packs/aomori/chapters/
+    - content/packs/aomori/knowledge/
+    - content/packs/aomori/lessons/
+    - content/packs/aomori/reading/
+    - content/packs/aomori/tests/
+    - content/packs/fukushima/
+    - content/packs/fukushima/assets/
+    - content/packs/fukushima/chapters/
+    - content/packs/fukushima/knowledge/
+    - content/packs/fukushima/lessons/
+    - content/packs/fukushima/reading/
+    - content/packs/fukushima/tests/
+    - content/packs/gunma/
+    - content/packs/gunma/assets/
+    - content/packs/gunma/chapters/
+    - content/packs/gunma/knowledge/
+    - content/packs/gunma/lessons/
+    - content/packs/gunma/reading/
+    - content/packs/gunma/tests/
+    - content/packs/hokkaido/
+    - content/packs/hokkaido/assets/
+    - content/packs/hokkaido/chapters/
+    - content/packs/hokkaido/knowledge/
+    - content/packs/hokkaido/lessons/
+    - content/packs/hokkaido/reading/
+    - content/packs/hokkaido/tests/
+    - content/packs/ibaraki/
+    - content/packs/ibaraki/assets/
+    - content/packs/ibaraki/chapters/
+    - content/packs/ibaraki/knowledge/
+    - content/packs/ibaraki/lessons/
+    - content/packs/ibaraki/reading/
+    - content/packs/ibaraki/tests/
+    - content/packs/iwate/
+    - content/packs/iwate/assets/
+    - content/packs/iwate/chapters/
+    - content/packs/iwate/knowledge/
+    - content/packs/iwate/lessons/
+    - content/packs/iwate/reading/
+    - content/packs/iwate/tests/
+    - content/packs/miyagi/
+    - content/packs/miyagi/assets/
+    - content/packs/miyagi/chapters/
+    - content/packs/miyagi/knowledge/
+    - content/packs/miyagi/lessons/
+    - content/packs/miyagi/reading/
+    - content/packs/miyagi/tests/
+    - content/packs/tochigi/
+    - content/packs/tochigi/assets/
+    - content/packs/tochigi/chapters/
+    - content/packs/tochigi/knowledge/
+    - content/packs/tochigi/lessons/
+    - content/packs/tochigi/reading/
+    - content/packs/tochigi/tests/
+    - content/packs/yamagata/
+    - content/packs/yamagata/assets/
+    - content/packs/yamagata/chapters/
+    - content/packs/yamagata/knowledge/
+    - content/packs/yamagata/lessons/
+    - content/packs/yamagata/reading/
+    - content/packs/yamagata/tests/
+    # END GENERATED CONTENT ASSETS

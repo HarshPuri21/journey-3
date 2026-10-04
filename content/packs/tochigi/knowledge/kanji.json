@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_宇",
+      "char": "宇",
+      "meanings": [
+        "roof",
+        "space"
+      ],
+      "onyomi": [
+        "ウ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_ukanmuri",
+          "role": "classifier",
+          "note": "宀 above 于, historical sound material. Whole 宇都宮 / うつのみや includes spoken の."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "宀 above 于, historical sound material. Whole 宇都宮 / うつのみや includes spoken の."
+    },
+    {
+      "id": "kanji_都",
+      "char": "都",
+      "meanings": [
+        "capital",
+        "city"
+      ],
+      "onyomi": [
+        "ト",
+        "ツ"
+      ],
+      "kunyomi": [
+        "みやこ"
+      ],
+      "components": [
+        {
+          "radical": "radical_oozato",
+          "role": "classifier",
+          "note": "Right-side 阝, 邑 family, beside 者 as sound material; not left-side 阜."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Right-side 阝, 邑 family, beside 者 as sound material; not left-side 阜."
+    },
+    {
+      "id": "kanji_姉",
+      "char": "姉",
+      "meanings": [
+        "older sister"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "あね"
+      ],
+      "components": [
+        {
+          "radical": "radical_onna",
+          "role": "classifier",
+          "note": "女 beside 市-shaped material. Own-family 姉 / あね; polite お姉さん / おねえさん."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "女 beside 市-shaped material. Own-family 姉 / あね; polite お姉さん / おねえさん."
+    },
+    {
+      "id": "kanji_弟",
+      "char": "弟",
+      "meanings": [
+        "younger brother"
+      ],
+      "onyomi": [
+        "テイ",
+        "ダイ"
+      ],
+      "kunyomi": [
+        "おとうと"
+      ],
+      "components": [
+        {
+          "radical": "radical_yumi",
+          "role": "classifier",
+          "note": "弓 indexing within the layered modern form. Learn whole 兄弟 / きょうだい."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "弓 indexing within the layered modern form. Learn whole 兄弟 / きょうだい."
+    },
+    {
+      "id": "kanji_妹",
+      "char": "妹",
+      "meanings": [
+        "younger sister"
+      ],
+      "onyomi": [
+        "マイ"
+      ],
+      "kunyomi": [
+        "いもうと"
+      ],
+      "components": [
+        {
+          "radical": "radical_onna",
+          "role": "classifier",
+          "note": "女 beside 未-like strokes; whole younger-sister word is いもうと."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "女 beside 未-like strokes; whole younger-sister word is いもうと."
+    },
+    {
+      "id": "kanji_光",
+      "char": "光",
+      "meanings": [
+        "light"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "ひかり"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitoashi",
+          "role": "classifier",
+          "note": "儿 below a fire-derived top resembling ⺌. Whole 日光 / にっこう is the place name and can also mean sunlight."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "儿 below a fire-derived top resembling ⺌. Whole 日光 / にっこう is the place name and can also mean sunlight."
+    },
+    {
+      "id": "kanji_男",
+      "char": "男",
+      "meanings": [
+        "male",
+        "man"
+      ],
+      "onyomi": [
+        "ダン",
+        "ナン"
+      ],
+      "kunyomi": [
+        "おとこ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ta",
+          "role": "classifier",
+          "note": "田 above 力; selected 田. Historical association does not prescribe modern occupations."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "田 above 力; selected 田. Historical association does not prescribe modern occupations."
+    },
+    {
+      "id": "kanji_女",
+      "char": "女",
+      "meanings": [
+        "female",
+        "woman"
+      ],
+      "onyomi": [
+        "ジョ"
+      ],
+      "kunyomi": [
+        "おんな"
+      ],
+      "components": [
+        {
+          "radical": "radical_onna",
+          "role": "classifier",
+          "note": "Whole 女 radical. Adult/child descriptive phrases do not establish family relationships."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 女 radical. Adult/child descriptive phrases do not establish family relationships."
+    },
+    {
+      "id": "kanji_好",
+      "char": "好",
+      "meanings": [
+        "like",
+        "fond"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "す"
+      ],
+      "components": [
+        {
+          "radical": "radical_onna",
+          "role": "classifier",
+          "note": "女 beside 子; familiar shapes identify 好, not a gender rule for preferences. 好き / すき is a な-adjective."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "女 beside 子; familiar shapes identify 好, not a gender rule for preferences. 好き / すき is a な-adjective."
+    },
+    {
+      "id": "kanji_利",
+      "char": "利",
+      "meanings": [
+        "benefit",
+        "sharpness"
+      ],
+      "onyomi": [
+        "リ"
+      ],
+      "kunyomi": [
+        "き"
+      ],
+      "components": [
+        {
+          "radical": "radical_katana",
+          "role": "classifier",
+          "note": "刀 side form 刂 beside 禾. Exceptional full name 足利 / あしかが does not produce an everyday verb かがる."
+        },
+        {
+          "radical": "radical_nogihen",
+          "role": "shape",
+          "note": "刀 side form 刂 beside 禾. Exceptional full name 足利 / あしかが does not produce an everyday verb かがる."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "刀 side form 刂 beside 禾. Exceptional full name 足利 / あしかが does not produce an everyday verb かがる."
+    },
+    {
+      "id": "kanji_那",
+      "char": "那",
+      "meanings": [
+        "name element",
+        "that"
+      ],
+      "onyomi": [
+        "ナ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_oozato",
+          "role": "classifier",
+          "note": "Right-side 阝, 邑 family; left changed sound-related material is not simply 月. Whole 那須 / なす."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Right-side 阝, 邑 family; left changed sound-related material is not simply 月. Whole 那須 / なす."
+    },
+    {
+      "id": "kanji_須",
+      "char": "須",
+      "meanings": [
+        "requirement",
+        "beard orientation"
+      ],
+      "onyomi": [
+        "ス",
+        "シュ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_oogai",
+          "role": "classifier",
+          "note": "頁 beside 彡; three slants are not 川. Whole 那須 stays assisted."
+        },
+        {
+          "radical": "radical_katachi",
+          "role": "shape",
+          "note": "頁 beside 彡; three slants are not 川. Whole 那須 stays assisted."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "頁 beside 彡; three slants are not 川. Whole 那須 stays assisted."
+    },
+    {
+      "id": "kanji_長",
+      "char": "長",
+      "meanings": [
+        "long"
+      ],
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "なが"
+      ],
+      "components": [
+        {
+          "radical": "radical_nagai",
+          "role": "classifier",
+          "note": "Whole 長 family, long vertical and lower sweeping strokes; 長い / ながい describes length."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole 長 family, long vertical and lower sweeping strokes; 長い / ながい describes length."
+    },
+    {
+      "id": "kanji_多",
+      "char": "多",
+      "meanings": [
+        "many",
+        "much"
+      ],
+      "onyomi": [
+        "タ"
+      ],
+      "kunyomi": [
+        "おお"
+      ],
+      "components": [
+        {
+          "radical": "radical_yuube",
+          "role": "classifier",
+          "note": "Two 夕-shaped parts; selected 夕. 多い is a qualitative description, not an exact count."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Two 夕-shaped parts; selected 夕. 多い is a qualitative description, not an exact count."
+    },
+    {
+      "id": "kanji_少",
+      "char": "少",
+      "meanings": [
+        "few",
+        "little"
+      ],
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "すく",
+        "すこ"
+      ],
+      "components": [
+        {
+          "radical": "radical_shou",
+          "role": "classifier",
+          "note": "小-like upper strokes with a lower slant; selected 小. 少ない and 少し are different taught words."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "小-like upper strokes with a lower slant; selected 小. 少ない and 少し are different taught words."
+    },
+    {
+      "id": "kanji_嫌",
+      "char": "嫌",
+      "meanings": [
+        "dislike"
+      ],
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "きら"
+      ],
+      "components": [
+        {
+          "radical": "radical_onna",
+          "role": "classifier",
+          "note": "女 beside 兼; assisted whole 嫌い / きらい is a な-adjective, not an い-adjective."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "女 beside 兼; assisted whole 嫌い / きらい is a な-adjective, not an い-adjective."
+    },
+    {
+      "id": "kanji_絵",
+      "char": "絵",
+      "meanings": [
+        "picture",
+        "drawing"
+      ],
+      "onyomi": [
+        "カイ",
+        "エ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_itohen",
+          "role": "classifier",
+          "note": "糸 beside 会; assisted drawing word 絵 / え."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "糸 beside 会; assisted drawing word 絵 / え."
+    },
+    {
+      "id": "kanji_群",
+      "char": "群",
+      "meanings": [
+        "group",
+        "flock"
+      ],
+      "onyomi": [
+        "グン"
+      ],
+      "kunyomi": [
+        "む"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitsuji",
+          "role": "classifier",
+          "note": "羊 on the right beside 君, historical sound component. Previewed next prefecture 群馬 / ぐんま."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "羊 on the right beside 君, historical sound component. Previewed next prefecture 群馬 / ぐんま."
+    },
+    {
+      "id": "kanji_馬",
+      "char": "馬",
+      "meanings": [
+        "horse"
+      ],
+      "onyomi": [
+        "バ"
+      ],
+      "kunyomi": [
+        "うま"
+      ],
+      "components": [
+        {
+          "radical": "radical_umahen",
+          "role": "classifier",
+          "note": "Whole horse-derived form with four lower dots, already seen as a radical inside 駅. Assisted next-name 群馬."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole horse-derived form with four lower dots, already seen as a radical inside 駅. Assisted next-name 群馬."
+    }
+  ]
+}

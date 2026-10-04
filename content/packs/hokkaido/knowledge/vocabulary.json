@@ -1,0 +1,1632 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_北海道",
+      "word": "北海道",
+      "reading": "ほっかいどう",
+      "meanings": [
+        "Hokkaido"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_北",
+        "kanji_海",
+        "kanji_道"
+      ],
+      "exampleSentences": [
+        "sent_kore_wa_hokkaido_desu",
+        "sent_hokkaido_wa_nihon_desu",
+        "sent_sapporo_wa_hokkaido_desu",
+        "sent_hokkaido_hakodate_location",
+        "sent_hokkaido_chitose_location",
+        "sent_hokkaido_otaru_location",
+        "sent_hokkaido_asahikawa_location",
+        "sent_hokkaido_biei_size"
+      ]
+    },
+    {
+      "id": "vocab_札幌",
+      "word": "札幌",
+      "reading": "さっぽろ",
+      "meanings": [
+        "Sapporo"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_札",
+        "kanji_幌"
+      ],
+      "exampleSentences": [
+        "sent_sapporo_wa_hokkaido_desu"
+      ]
+    },
+    {
+      "id": "vocab_日本",
+      "word": "日本",
+      "reading": "にほん",
+      "meanings": [
+        "Japan"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_日",
+        "kanji_本"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_wa_nihon_desu"
+      ]
+    },
+    {
+      "id": "vocab_北部",
+      "word": "北部",
+      "reading": "ほくぶ",
+      "meanings": [
+        "northern part"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_北",
+        "kanji_部"
+      ]
+    },
+    {
+      "id": "vocab_北",
+      "word": "北",
+      "reading": "きた",
+      "meanings": [
+        "north"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_北"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_wa_nihon_desu",
+        "sent_hokkaido_asahikawa_location"
+      ]
+    },
+    {
+      "id": "vocab_これ",
+      "word": "これ",
+      "reading": "これ",
+      "meanings": [
+        "this"
+      ],
+      "pos": "pronoun",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_kore_wa_hokkaido_desu",
+        "sent_hokkaido_hakodate_number",
+        "sent_hokkaido_hakodate_this",
+        "sent_hokkaido_chitose_price_question",
+        "sent_hokkaido_chitose_yes_no"
+      ]
+    },
+    {
+      "id": "vocab_函館",
+      "word": "函館",
+      "reading": "はこだて",
+      "meanings": [
+        "Hakodate"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_函",
+        "kanji_館"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_hakodate_location"
+      ]
+    },
+    {
+      "id": "vocab_千歳",
+      "word": "千歳",
+      "reading": "ちとせ",
+      "meanings": [
+        "Chitose"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_千",
+        "kanji_歳"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_chitose_location"
+      ]
+    },
+    {
+      "id": "vocab_小樽",
+      "word": "小樽",
+      "reading": "おたる",
+      "meanings": [
+        "Otaru"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_小",
+        "kanji_樽"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_otaru_location",
+        "sent_hokkaido_otaru_beautiful"
+      ]
+    },
+    {
+      "id": "vocab_旭川",
+      "word": "旭川",
+      "reading": "あさひかわ",
+      "meanings": [
+        "Asahikawa"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_旭",
+        "kanji_川"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_asahikawa_location"
+      ]
+    },
+    {
+      "id": "vocab_美瑛",
+      "word": "美瑛",
+      "reading": "びえい",
+      "meanings": [
+        "Biei"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_美",
+        "kanji_瑛"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_biei_beautiful",
+        "sent_hokkaido_biei_town"
+      ]
+    },
+    {
+      "id": "vocab_富良野",
+      "word": "富良野",
+      "reading": "ふらの",
+      "meanings": [
+        "Furano"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_富",
+        "kanji_良",
+        "kanji_野"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_furano_go",
+        "sent_hokkaido_furano_photos"
+      ]
+    },
+    {
+      "id": "vocab_釧路",
+      "word": "釧路",
+      "reading": "くしろ",
+      "meanings": [
+        "Kushiro"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_釧",
+        "kanji_路"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_kushiro_people",
+        "sent_hokkaido_kushiro_river"
+      ]
+    },
+    {
+      "id": "vocab_登別",
+      "word": "登別",
+      "reading": "のぼりべつ",
+      "meanings": [
+        "Noboribetsu"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_登",
+        "kanji_別"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_noboribetsu_past",
+        "sent_hokkaido_noboribetsu_famous"
+      ]
+    },
+    {
+      "id": "vocab_千円",
+      "word": "千円",
+      "reading": "せんえん",
+      "meanings": [
+        "1,000 yen"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_千",
+        "kanji_円"
+      ]
+    },
+    {
+      "id": "vocab_百円",
+      "word": "百円",
+      "reading": "ひゃくえん",
+      "meanings": [
+        "100 yen"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_百",
+        "kanji_円"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_chitose_price",
+        "sent_hokkaido_chitose_yes_no"
+      ]
+    },
+    {
+      "id": "vocab_一万円",
+      "word": "一万円",
+      "reading": "いちまんえん",
+      "meanings": [
+        "10,000 yen"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_一",
+        "kanji_万",
+        "kanji_円"
+      ]
+    },
+    {
+      "id": "vocab_十円",
+      "word": "十円",
+      "reading": "じゅうえん",
+      "meanings": [
+        "10 yen"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_十",
+        "kanji_円"
+      ]
+    },
+    {
+      "id": "vocab_月曜日",
+      "word": "月曜日",
+      "reading": "げつようび",
+      "meanings": [
+        "Monday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_月",
+        "kanji_曜",
+        "kanji_日"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_otaru_monday"
+      ]
+    },
+    {
+      "id": "vocab_火曜日",
+      "word": "火曜日",
+      "reading": "かようび",
+      "meanings": [
+        "Tuesday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_火",
+        "kanji_曜",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_水曜日",
+      "word": "水曜日",
+      "reading": "すいようび",
+      "meanings": [
+        "Wednesday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_水",
+        "kanji_曜",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_木曜日",
+      "word": "木曜日",
+      "reading": "もくようび",
+      "meanings": [
+        "Thursday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_木",
+        "kanji_曜",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_金曜日",
+      "word": "金曜日",
+      "reading": "きんようび",
+      "meanings": [
+        "Friday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_金",
+        "kanji_曜",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_土曜日",
+      "word": "土曜日",
+      "reading": "どようび",
+      "meanings": [
+        "Saturday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_土",
+        "kanji_曜",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_日曜日",
+      "word": "日曜日",
+      "reading": "にちようび",
+      "meanings": [
+        "Sunday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_日",
+        "kanji_曜"
+      ]
+    },
+    {
+      "id": "vocab_何曜日",
+      "word": "何曜日",
+      "reading": "なんようび",
+      "meanings": [
+        "what day of the week"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_何",
+        "kanji_曜",
+        "kanji_日"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_otaru_weekday"
+      ]
+    },
+    {
+      "id": "vocab_一月",
+      "word": "一月",
+      "reading": "いちがつ",
+      "meanings": [
+        "January"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_一",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_二月",
+      "word": "二月",
+      "reading": "にがつ",
+      "meanings": [
+        "February"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_二",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_三月",
+      "word": "三月",
+      "reading": "さんがつ",
+      "meanings": [
+        "March"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_三",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_四月",
+      "word": "四月",
+      "reading": "しがつ",
+      "meanings": [
+        "April"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_四",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_五月",
+      "word": "五月",
+      "reading": "ごがつ",
+      "meanings": [
+        "May"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_五",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_六月",
+      "word": "六月",
+      "reading": "ろくがつ",
+      "meanings": [
+        "June"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_六",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_七月",
+      "word": "七月",
+      "reading": "しちがつ",
+      "meanings": [
+        "July"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_七",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_八月",
+      "word": "八月",
+      "reading": "はちがつ",
+      "meanings": [
+        "August"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_八",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_九月",
+      "word": "九月",
+      "reading": "くがつ",
+      "meanings": [
+        "September"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_九",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_十月",
+      "word": "十月",
+      "reading": "じゅうがつ",
+      "meanings": [
+        "October"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_十",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_十一月",
+      "word": "十一月",
+      "reading": "じゅういちがつ",
+      "meanings": [
+        "November"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_十",
+        "kanji_一",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_十二月",
+      "word": "十二月",
+      "reading": "じゅうにがつ",
+      "meanings": [
+        "December"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_十",
+        "kanji_二",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "vocab_一日",
+      "word": "一日",
+      "reading": "ついたち",
+      "meanings": [
+        "the first day of the month"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_一",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_二日",
+      "word": "二日",
+      "reading": "ふつか",
+      "meanings": [
+        "the 2nd (day of the month)"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_二",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_三日",
+      "word": "三日",
+      "reading": "みっか",
+      "meanings": [
+        "the 3rd (day of the month)"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_三",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_十日",
+      "word": "十日",
+      "reading": "とおか",
+      "meanings": [
+        "the 10th (day of the month)"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_十",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_二十日",
+      "word": "二十日",
+      "reading": "はつか",
+      "meanings": [
+        "the 20th (day of the month)"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_二",
+        "kanji_十",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_いつ",
+      "word": "いつ",
+      "reading": "いつ",
+      "meanings": [
+        "when"
+      ],
+      "pos": "question word",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_hokkaido_asahikawa_birthday"
+      ]
+    },
+    {
+      "id": "vocab_いくら",
+      "word": "いくら",
+      "reading": "いくら",
+      "meanings": [
+        "how much"
+      ],
+      "pos": "question word",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_hokkaido_chitose_price_question"
+      ]
+    },
+    {
+      "id": "vocab_小さい",
+      "word": "小さい",
+      "reading": "ちいさい",
+      "meanings": [
+        "small"
+      ],
+      "pos": "i-adjective",
+      "kanji": [
+        "kanji_小"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_biei_town"
+      ]
+    },
+    {
+      "id": "vocab_美しい",
+      "word": "美しい",
+      "reading": "うつくしい",
+      "meanings": [
+        "beautiful"
+      ],
+      "pos": "i-adjective",
+      "kanji": [
+        "kanji_美"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_biei_beautiful"
+      ]
+    },
+    {
+      "id": "vocab_いい",
+      "word": "いい",
+      "reading": "いい",
+      "meanings": [
+        "good"
+      ],
+      "pos": "i-adjective",
+      "kanji": []
+    },
+    {
+      "id": "vocab_きれい",
+      "word": "きれい",
+      "reading": "きれい",
+      "meanings": [
+        "beautiful",
+        "clean"
+      ],
+      "pos": "na-adjective",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_hokkaido_otaru_beautiful"
+      ]
+    },
+    {
+      "id": "vocab_行く",
+      "word": "行く",
+      "reading": "いく",
+      "meanings": [
+        "go"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_行"
+      ]
+    },
+    {
+      "id": "vocab_飲む",
+      "word": "飲む",
+      "reading": "のむ",
+      "meanings": [
+        "drink"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_飲"
+      ]
+    },
+    {
+      "id": "vocab_見る",
+      "word": "見る",
+      "reading": "みる",
+      "meanings": [
+        "see",
+        "look"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_見"
+      ]
+    },
+    {
+      "id": "vocab_人",
+      "word": "人",
+      "reading": "ひと",
+      "meanings": [
+        "person"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_人"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_kushiro_person",
+        "sent_hokkaido_kushiro_people"
+      ]
+    },
+    {
+      "id": "vocab_水",
+      "word": "水",
+      "reading": "みず",
+      "meanings": [
+        "water"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_水"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_furano_drink",
+        "sent_hokkaido_kushiro_water"
+      ]
+    },
+    {
+      "id": "vocab_温泉",
+      "word": "温泉",
+      "reading": "おんせん",
+      "meanings": [
+        "hot spring"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_温",
+        "kanji_泉"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_noboribetsu_famous"
+      ]
+    },
+    {
+      "id": "vocab_有名",
+      "word": "有名",
+      "reading": "ゆうめい",
+      "meanings": [
+        "famous"
+      ],
+      "pos": "na-adjective",
+      "kanji": [
+        "kanji_有",
+        "kanji_名"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_noboribetsu_famous"
+      ]
+    },
+    {
+      "id": "vocab_写真",
+      "word": "写真",
+      "reading": "しゃしん",
+      "meanings": [
+        "photograph"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_写",
+        "kanji_真"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_furano_photos"
+      ]
+    },
+    {
+      "id": "vocab_昨日",
+      "word": "昨日",
+      "reading": "きのう",
+      "meanings": [
+        "yesterday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_昨",
+        "kanji_日"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_noboribetsu_past"
+      ]
+    },
+    {
+      "id": "vocab_南",
+      "word": "南",
+      "reading": "みなみ",
+      "meanings": [
+        "south"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_南"
+      ]
+    },
+    {
+      "id": "vocab_東",
+      "word": "東",
+      "reading": "ひがし",
+      "meanings": [
+        "east"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_東"
+      ]
+    },
+    {
+      "id": "vocab_それ",
+      "word": "それ",
+      "reading": "それ",
+      "meanings": [
+        "that near the listener"
+      ],
+      "kanji": [],
+      "exampleSentences": [
+        "sent_hokkaido_hakodate_that"
+      ]
+    },
+    {
+      "id": "vocab_あれ",
+      "word": "あれ",
+      "reading": "あれ",
+      "meanings": [
+        "that over there"
+      ],
+      "kanji": [],
+      "exampleSentences": [
+        "sent_hokkaido_hakodate_over_there"
+      ]
+    },
+    {
+      "id": "vocab_海",
+      "word": "海",
+      "reading": "うみ",
+      "meanings": [
+        "sea"
+      ],
+      "kanji": [
+        "kanji_海"
+      ]
+    },
+    {
+      "id": "vocab_道",
+      "word": "道",
+      "reading": "みち",
+      "meanings": [
+        "road",
+        "way"
+      ],
+      "kanji": [
+        "kanji_道"
+      ]
+    },
+    {
+      "id": "vocab_川",
+      "word": "川",
+      "reading": "かわ",
+      "meanings": [
+        "river"
+      ],
+      "kanji": [
+        "kanji_川"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_kushiro_river"
+      ]
+    },
+    {
+      "id": "vocab_百",
+      "word": "百",
+      "reading": "ひゃく",
+      "meanings": [
+        "hundred"
+      ],
+      "kanji": [
+        "kanji_百"
+      ]
+    },
+    {
+      "id": "vocab_千",
+      "word": "千",
+      "reading": "せん",
+      "meanings": [
+        "thousand"
+      ],
+      "kanji": [
+        "kanji_千"
+      ]
+    },
+    {
+      "id": "vocab_万",
+      "word": "万",
+      "reading": "まん",
+      "meanings": [
+        "ten thousand"
+      ],
+      "kanji": [
+        "kanji_万"
+      ]
+    },
+    {
+      "id": "vocab_円",
+      "word": "円",
+      "reading": "えん",
+      "meanings": [
+        "yen"
+      ],
+      "kanji": [
+        "kanji_円"
+      ]
+    },
+    {
+      "id": "vocab_お金",
+      "word": "お金",
+      "reading": "おかね",
+      "meanings": [
+        "money"
+      ],
+      "kanji": [
+        "kanji_金"
+      ]
+    },
+    {
+      "id": "vocab_今日",
+      "word": "今日",
+      "reading": "きょう",
+      "meanings": [
+        "today"
+      ],
+      "kanji": [
+        "kanji_今",
+        "kanji_日"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_otaru_weekday"
+      ]
+    },
+    {
+      "id": "vocab_何",
+      "word": "何",
+      "reading": "なに / なん",
+      "meanings": [
+        "what"
+      ],
+      "kanji": [
+        "kanji_何"
+      ]
+    },
+    {
+      "id": "vocab_曜日",
+      "word": "曜日",
+      "reading": "ようび",
+      "meanings": [
+        "day of the week"
+      ],
+      "kanji": [
+        "kanji_曜",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_誕生日",
+      "word": "誕生日",
+      "reading": "たんじょうび",
+      "meanings": [
+        "birthday"
+      ],
+      "kanji": [
+        "kanji_誕",
+        "kanji_生",
+        "kanji_日"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_asahikawa_birthday"
+      ]
+    },
+    {
+      "id": "vocab_大きい",
+      "word": "大きい",
+      "reading": "おおきい",
+      "meanings": [
+        "big"
+      ],
+      "kanji": [
+        "kanji_大"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_biei_size"
+      ]
+    },
+    {
+      "id": "vocab_町",
+      "word": "町",
+      "reading": "まち",
+      "meanings": [
+        "town"
+      ],
+      "kanji": [
+        "kanji_町"
+      ],
+      "exampleSentences": [
+        "sent_sapporo_wa_hokkaido_desu",
+        "sent_hokkaido_hakodate_location",
+        "sent_hokkaido_chitose_location",
+        "sent_hokkaido_otaru_location",
+        "sent_hokkaido_biei_town"
+      ]
+    },
+    {
+      "id": "vocab_景色",
+      "word": "景色",
+      "reading": "けしき",
+      "meanings": [
+        "scenery"
+      ],
+      "kanji": [
+        "kanji_景",
+        "kanji_色"
+      ]
+    },
+    {
+      "id": "vocab_良い",
+      "word": "良い",
+      "reading": "いい / よい",
+      "meanings": [
+        "good"
+      ],
+      "kanji": [
+        "kanji_良"
+      ]
+    },
+    {
+      "id": "vocab_野菜",
+      "word": "野菜",
+      "reading": "やさい",
+      "meanings": [
+        "vegetables"
+      ],
+      "kanji": [
+        "kanji_野",
+        "kanji_菜"
+      ]
+    },
+    {
+      "id": "vocab_登る",
+      "word": "登る",
+      "reading": "のぼる",
+      "meanings": [
+        "climb"
+      ],
+      "kanji": [
+        "kanji_登"
+      ]
+    },
+    {
+      "id": "vocab_山",
+      "word": "山",
+      "reading": "やま",
+      "meanings": [
+        "mountain"
+      ],
+      "kanji": [
+        "kanji_山"
+      ],
+      "exampleSentences": [
+        "sent_hokkaido_noboribetsu_climb"
+      ]
+    },
+    {
+      "id": "vocab_別",
+      "word": "別",
+      "reading": "べつ",
+      "meanings": [
+        "different",
+        "separate"
+      ],
+      "kanji": [
+        "kanji_別"
+      ]
+    },
+    {
+      "id": "vocab_場所",
+      "word": "場所",
+      "reading": "ばしょ",
+      "meanings": [
+        "place"
+      ],
+      "kanji": [
+        "kanji_場",
+        "kanji_所"
+      ]
+    },
+    {
+      "id": "vocab_図書館",
+      "word": "図書館",
+      "reading": "としょかん",
+      "meanings": [
+        "library"
+      ],
+      "kanji": [
+        "kanji_図",
+        "kanji_書",
+        "kanji_館"
+      ]
+    },
+    {
+      "id": "vocab_映画館",
+      "word": "映画館",
+      "reading": "えいがかん",
+      "meanings": [
+        "movie theater"
+      ],
+      "kanji": [
+        "kanji_映",
+        "kanji_画",
+        "kanji_館"
+      ]
+    },
+    {
+      "id": "vocab_美術館",
+      "word": "美術館",
+      "reading": "びじゅつかん",
+      "meanings": [
+        "art museum"
+      ],
+      "kanji": [
+        "kanji_美",
+        "kanji_術",
+        "kanji_館"
+      ]
+    },
+    {
+      "id": "vocab_旅",
+      "word": "旅",
+      "reading": "たび",
+      "meanings": [
+        "journey"
+      ],
+      "kanji": [
+        "kanji_旅"
+      ]
+    },
+    {
+      "id": "vocab_ここ",
+      "word": "ここ",
+      "reading": "ここ",
+      "meanings": [
+        "here"
+      ],
+      "kanji": []
+    },
+    {
+      "id": "vocab_始まる",
+      "word": "始まる",
+      "reading": "はじまる",
+      "meanings": [
+        "begin"
+      ],
+      "kanji": [
+        "kanji_始"
+      ]
+    },
+    {
+      "id": "vocab_途中",
+      "word": "途中",
+      "reading": "とちゅう",
+      "meanings": [
+        "along the way"
+      ],
+      "kanji": [
+        "kanji_途",
+        "kanji_中"
+      ]
+    },
+    {
+      "id": "vocab_いろいろ",
+      "word": "いろいろ",
+      "reading": "いろいろ",
+      "meanings": [
+        "various"
+      ],
+      "kanji": []
+    },
+    {
+      "id": "vocab_数",
+      "word": "数",
+      "reading": "かず",
+      "meanings": [
+        "number"
+      ],
+      "kanji": [
+        "kanji_数"
+      ]
+    },
+    {
+      "id": "vocab_数える",
+      "word": "数える",
+      "reading": "かぞえる",
+      "meanings": [
+        "count"
+      ],
+      "kanji": [
+        "kanji_数"
+      ]
+    },
+    {
+      "id": "vocab_毎日",
+      "word": "毎日",
+      "reading": "まいにち",
+      "meanings": [
+        "every day"
+      ],
+      "kanji": [
+        "kanji_毎",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_間",
+      "word": "間",
+      "reading": "あいだ",
+      "meanings": [
+        "interval",
+        "during"
+      ],
+      "kanji": [
+        "kanji_間"
+      ]
+    },
+    {
+      "id": "vocab_字",
+      "word": "字",
+      "reading": "じ",
+      "meanings": [
+        "character",
+        "letter"
+      ],
+      "kanji": [
+        "kanji_字"
+      ]
+    },
+    {
+      "id": "vocab_使う",
+      "word": "使う",
+      "reading": "つかう",
+      "meanings": [
+        "use"
+      ],
+      "kanji": [
+        "kanji_使"
+      ]
+    },
+    {
+      "id": "vocab_春",
+      "word": "春",
+      "reading": "はる",
+      "meanings": [
+        "spring"
+      ],
+      "kanji": [
+        "kanji_春"
+      ]
+    },
+    {
+      "id": "vocab_夏",
+      "word": "夏",
+      "reading": "なつ",
+      "meanings": [
+        "summer"
+      ],
+      "kanji": [
+        "kanji_夏"
+      ]
+    },
+    {
+      "id": "vocab_秋",
+      "word": "秋",
+      "reading": "あき",
+      "meanings": [
+        "autumn"
+      ],
+      "kanji": [
+        "kanji_秋"
+      ]
+    },
+    {
+      "id": "vocab_冬",
+      "word": "冬",
+      "reading": "ふゆ",
+      "meanings": [
+        "winter"
+      ],
+      "kanji": [
+        "kanji_冬"
+      ]
+    },
+    {
+      "id": "vocab_変わる",
+      "word": "変わる",
+      "reading": "かわる",
+      "meanings": [
+        "change"
+      ],
+      "kanji": [
+        "kanji_変"
+      ]
+    },
+    {
+      "id": "vocab_最後",
+      "word": "最後",
+      "reading": "さいご",
+      "meanings": [
+        "last",
+        "finally"
+      ],
+      "kanji": [
+        "kanji_最",
+        "kanji_後"
+      ]
+    },
+    {
+      "id": "vocab_入る",
+      "word": "入る",
+      "reading": "はいる",
+      "meanings": [
+        "enter"
+      ],
+      "kanji": [
+        "kanji_入"
+      ]
+    },
+    {
+      "id": "vocab_疲れ",
+      "word": "疲れ",
+      "reading": "つかれ",
+      "meanings": [
+        "fatigue"
+      ],
+      "kanji": [
+        "kanji_疲"
+      ]
+    },
+    {
+      "id": "vocab_休める",
+      "word": "休める",
+      "reading": "やすめる",
+      "meanings": [
+        "rest something"
+      ],
+      "kanji": [
+        "kanji_休"
+      ]
+    },
+    {
+      "id": "vocab_終わる",
+      "word": "終わる",
+      "reading": "おわる",
+      "meanings": [
+        "end"
+      ],
+      "kanji": [
+        "kanji_終"
+      ]
+    },
+    {
+      "id": "vocab_続く",
+      "word": "続く",
+      "reading": "つづく",
+      "meanings": [
+        "continue"
+      ],
+      "kanji": [
+        "kanji_続"
+      ]
+    },
+    {
+      "id": "vocab_次",
+      "word": "次",
+      "reading": "つぎ",
+      "meanings": [
+        "next"
+      ],
+      "kanji": [
+        "kanji_次"
+      ]
+    },
+    {
+      "id": "vocab_青森",
+      "word": "青森",
+      "reading": "あおもり",
+      "meanings": [
+        "Aomori"
+      ],
+      "kanji": [
+        "kanji_青",
+        "kanji_森"
+      ]
+    },
+    {
+      "id": "vocab_四日",
+      "word": "四日",
+      "reading": "よっか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_四",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_五日",
+      "word": "五日",
+      "reading": "いつか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_五",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_六日",
+      "word": "六日",
+      "reading": "むいか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_六",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_七日",
+      "word": "七日",
+      "reading": "なのか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_七",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_八日",
+      "word": "八日",
+      "reading": "ようか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_八",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_九日",
+      "word": "九日",
+      "reading": "ここのか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_九",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_十四日",
+      "word": "十四日",
+      "reading": "じゅうよっか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_十",
+        "kanji_四",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_二十四日",
+      "word": "二十四日",
+      "reading": "にじゅうよっか",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_十",
+        "kanji_四",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_十五日",
+      "word": "十五日",
+      "reading": "じゅうごにち",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_十",
+        "kanji_五",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_二十一日",
+      "word": "二十一日",
+      "reading": "にじゅういちにち",
+      "meanings": [
+        "day of the month"
+      ],
+      "kanji": [
+        "kanji_二",
+        "kanji_十",
+        "kanji_一",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_体",
+      "word": "体",
+      "reading": "からだ",
+      "meanings": [
+        "body"
+      ],
+      "kanji": [
+        "kanji_体"
+      ]
+    },
+    {
+      "id": "vocab_十七日",
+      "word": "十七日",
+      "reading": "じゅうしちにち",
+      "meanings": [
+        "the 17th day of the month"
+      ],
+      "kanji": [
+        "kanji_十",
+        "kanji_七",
+        "kanji_日"
+      ]
+    },
+    {
+      "id": "vocab_十九日",
+      "word": "十九日",
+      "reading": "じゅうくにち",
+      "meanings": [
+        "the 19th day of the month"
+      ],
+      "kanji": [
+        "kanji_十",
+        "kanji_九",
+        "kanji_日"
+      ]
+    }
+  ]
+}

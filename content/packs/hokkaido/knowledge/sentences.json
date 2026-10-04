@@ -1,0 +1,1268 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_kore_wa_hokkaido_desu",
+      "jp": "これは{北海道|ほっかいどう}です。",
+      "en": "This is Hokkaido.",
+      "romaji": "Kore wa Hokkaidō desu.",
+      "tokens": [
+        {
+          "text": "これ",
+          "gloss": "this",
+          "vocab": "vocab_これ"
+        },
+        {
+          "text": "は",
+          "gloss": "topic marker",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "です",
+          "gloss": "is / am / are",
+          "grammar": "grammar_desu"
+        }
+      ],
+      "grammar": [
+        "grammar_a_wa_b_desu"
+      ],
+      "kanji": [
+        "kanji_北",
+        "kanji_海",
+        "kanji_道"
+      ]
+    },
+    {
+      "id": "sent_hokkaido_wa_nihon_desu",
+      "jp": "{北海道|ほっかいどう}は{日本|にほん}の{北|きた}にあります。",
+      "en": "Hokkaido is in the north of Japan.",
+      "romaji": "Hokkaidō wa Nihon no kita ni arimasu.",
+      "tokens": [
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "は",
+          "gloss": "topic",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "日本",
+          "reading": "にほん",
+          "gloss": "Japan",
+          "vocab": "vocab_日本"
+        },
+        {
+          "text": "の",
+          "gloss": "of",
+          "grammar": "grammar_particle_no"
+        },
+        {
+          "text": "北",
+          "reading": "きた",
+          "gloss": "north",
+          "vocab": "vocab_北"
+        },
+        {
+          "text": "に",
+          "gloss": "location",
+          "grammar": "grammar_particle_ni"
+        },
+        {
+          "text": "あります",
+          "gloss": "is located",
+          "grammar": "grammar_location_ni_aru"
+        }
+      ],
+      "grammar": [
+        "grammar_particle_wa",
+        "grammar_particle_no",
+        "grammar_location_ni_aru"
+      ],
+      "kanji": [
+        "kanji_北",
+        "kanji_海",
+        "kanji_道",
+        "kanji_日",
+        "kanji_本"
+      ]
+    },
+    {
+      "id": "sent_sapporo_wa_hokkaido_desu",
+      "jp": "{札幌|さっぽろ}は{北海道|ほっかいどう}の{町|まち}です。",
+      "en": "Sapporo is a city in Hokkaido.",
+      "romaji": "Sapporo wa Hokkaidō no machi desu.",
+      "tokens": [
+        {
+          "text": "札幌",
+          "reading": "さっぽろ",
+          "gloss": "Sapporo",
+          "vocab": "vocab_札幌"
+        },
+        {
+          "text": "は",
+          "gloss": "topic marker",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "の",
+          "gloss": "of / associated with",
+          "grammar": "grammar_particle_no"
+        },
+        {
+          "text": "町",
+          "reading": "まち",
+          "gloss": "town / city",
+          "vocab": "vocab_町"
+        },
+        {
+          "text": "です",
+          "gloss": "is / am / are",
+          "grammar": "grammar_desu"
+        }
+      ],
+      "grammar": [
+        "grammar_a_wa_b_desu",
+        "grammar_particle_no"
+      ],
+      "kanji": [
+        "kanji_札",
+        "kanji_幌",
+        "kanji_北",
+        "kanji_海",
+        "kanji_道",
+        "kanji_町"
+      ]
+    },
+    {
+      "id": "sent_hokkaido_hakodate_number",
+      "jp": "これは{三|さん}です。",
+      "en": "This is three.",
+      "grammar": [
+        "grammar_a_wa_b_desu"
+      ],
+      "kanji": [
+        "kanji_三"
+      ],
+      "tokens": [
+        {
+          "text": "これ",
+          "reading": "これ",
+          "gloss": "this",
+          "vocab": "vocab_これ"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "三"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_hakodate_this",
+      "jp": "これは{五|ご}です。",
+      "en": "This is five.",
+      "grammar": [
+        "grammar_a_wa_b_desu"
+      ],
+      "kanji": [
+        "kanji_五"
+      ],
+      "tokens": [
+        {
+          "text": "これ",
+          "reading": "これ",
+          "gloss": "this",
+          "vocab": "vocab_これ"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "五"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_hakodate_that",
+      "jp": "それは{六|ろく}です。",
+      "en": "That is six.",
+      "grammar": [
+        "grammar_a_wa_b_desu"
+      ],
+      "kanji": [
+        "kanji_六"
+      ],
+      "tokens": [
+        {
+          "text": "それ",
+          "reading": "それ",
+          "gloss": "that near the listener",
+          "vocab": "vocab_それ"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "六"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_hakodate_over_there",
+      "jp": "あれは{七|なな}です。",
+      "en": "That over there is seven.",
+      "grammar": [
+        "grammar_a_wa_b_desu"
+      ],
+      "kanji": [
+        "kanji_七"
+      ],
+      "tokens": [
+        {
+          "text": "あれ",
+          "reading": "あれ",
+          "gloss": "that over there",
+          "vocab": "vocab_あれ"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "七"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_hakodate_location",
+      "jp": "{函館|はこだて}は{北海道|ほっかいどう}の{町|まち}です。",
+      "en": "Hakodate is a city in Hokkaido.",
+      "grammar": [
+        "grammar_a_wa_b_desu",
+        "grammar_particle_no"
+      ],
+      "kanji": [
+        "kanji_函",
+        "kanji_館",
+        "kanji_北",
+        "kanji_海",
+        "kanji_道",
+        "kanji_町"
+      ],
+      "tokens": [
+        {
+          "text": "函館",
+          "reading": "はこだて",
+          "gloss": "Hakodate",
+          "vocab": "vocab_函館"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "の",
+          "grammar": "grammar_particle_no"
+        },
+        {
+          "text": "町",
+          "reading": "まち",
+          "gloss": "town",
+          "vocab": "vocab_町"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_chitose_price_question",
+      "jp": "これはいくらですか。",
+      "en": "How much is this?",
+      "grammar": [
+        "grammar_a_wa_b_desu",
+        "grammar_particle_ka"
+      ],
+      "kanji": [],
+      "tokens": [
+        {
+          "text": "これ",
+          "reading": "これ",
+          "gloss": "this",
+          "vocab": "vocab_これ"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "いくら",
+          "reading": "いくら",
+          "gloss": "how much",
+          "vocab": "vocab_いくら"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "か",
+          "grammar": "grammar_particle_ka"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_chitose_price",
+      "jp": "{百円|ひゃくえん}です。",
+      "en": "It is 100 yen.",
+      "grammar": [
+        "grammar_desu"
+      ],
+      "kanji": [
+        "kanji_百",
+        "kanji_円"
+      ],
+      "tokens": [
+        {
+          "text": "百円",
+          "reading": "ひゃくえん",
+          "gloss": "100 yen",
+          "vocab": "vocab_百円"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_chitose_yes_no",
+      "jp": "これは{百円|ひゃくえん}ですか。",
+      "en": "Is this 100 yen?",
+      "grammar": [
+        "grammar_particle_ka"
+      ],
+      "kanji": [
+        "kanji_百",
+        "kanji_円"
+      ],
+      "tokens": [
+        {
+          "text": "これ",
+          "reading": "これ",
+          "gloss": "this",
+          "vocab": "vocab_これ"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "百円",
+          "reading": "ひゃくえん",
+          "gloss": "100 yen",
+          "vocab": "vocab_百円"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "か",
+          "grammar": "grammar_particle_ka"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_chitose_location",
+      "jp": "{千歳|ちとせ}は{北海道|ほっかいどう}の{町|まち}です。",
+      "en": "Chitose is a city in Hokkaido.",
+      "grammar": [
+        "grammar_a_wa_b_desu",
+        "grammar_particle_no"
+      ],
+      "kanji": [
+        "kanji_千",
+        "kanji_歳",
+        "kanji_北",
+        "kanji_海",
+        "kanji_道",
+        "kanji_町"
+      ],
+      "tokens": [
+        {
+          "text": "千歳",
+          "reading": "ちとせ",
+          "gloss": "Chitose",
+          "vocab": "vocab_千歳"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "の",
+          "grammar": "grammar_particle_no"
+        },
+        {
+          "text": "町",
+          "reading": "まち",
+          "gloss": "town",
+          "vocab": "vocab_町"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_otaru_weekday",
+      "jp": "{今日|きょう}は{何曜日|なんようび}ですか。",
+      "en": "What day of the week is it today?",
+      "grammar": [
+        "grammar_particle_wa",
+        "grammar_particle_ka"
+      ],
+      "kanji": [
+        "kanji_今",
+        "kanji_日",
+        "kanji_何",
+        "kanji_曜"
+      ],
+      "tokens": [
+        {
+          "text": "今日",
+          "reading": "きょう",
+          "gloss": "today",
+          "vocab": "vocab_今日"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "何曜日",
+          "reading": "なんようび",
+          "gloss": "what day of the week",
+          "vocab": "vocab_何曜日"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "か",
+          "grammar": "grammar_particle_ka"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_otaru_monday",
+      "jp": "{月曜日|げつようび}です。",
+      "en": "It is Monday.",
+      "grammar": [
+        "grammar_desu"
+      ],
+      "kanji": [
+        "kanji_月",
+        "kanji_曜",
+        "kanji_日"
+      ],
+      "tokens": [
+        {
+          "text": "月曜日",
+          "reading": "げつようび",
+          "gloss": "Monday",
+          "vocab": "vocab_月曜日"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_otaru_location",
+      "jp": "{小樽|おたる}は{北海道|ほっかいどう}の{町|まち}です。",
+      "en": "Otaru is a city in Hokkaido.",
+      "grammar": [
+        "grammar_a_wa_b_desu",
+        "grammar_particle_no"
+      ],
+      "kanji": [
+        "kanji_小",
+        "kanji_樽",
+        "kanji_北",
+        "kanji_海",
+        "kanji_道",
+        "kanji_町"
+      ],
+      "tokens": [
+        {
+          "text": "小樽",
+          "reading": "おたる",
+          "gloss": "Otaru",
+          "vocab": "vocab_小樽"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "の",
+          "grammar": "grammar_particle_no"
+        },
+        {
+          "text": "町",
+          "reading": "まち",
+          "gloss": "town",
+          "vocab": "vocab_町"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_otaru_beautiful",
+      "jp": "{小樽|おたる}はきれいです。",
+      "en": "Otaru is beautiful.",
+      "grammar": [
+        "grammar_na_adjective"
+      ],
+      "kanji": [
+        "kanji_小",
+        "kanji_樽"
+      ],
+      "tokens": [
+        {
+          "text": "小樽",
+          "reading": "おたる",
+          "gloss": "Otaru",
+          "vocab": "vocab_小樽"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "きれい",
+          "reading": "きれい",
+          "gloss": "beautiful / clean",
+          "vocab": "vocab_きれい"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_asahikawa_birthday",
+      "jp": "{誕生日|たんじょうび}はいつですか。",
+      "en": "When is your birthday?",
+      "grammar": [
+        "grammar_particle_wa",
+        "grammar_particle_ka"
+      ],
+      "kanji": [
+        "kanji_誕",
+        "kanji_生",
+        "kanji_日"
+      ],
+      "tokens": [
+        {
+          "text": "誕生日",
+          "reading": "たんじょうび",
+          "gloss": "birthday",
+          "vocab": "vocab_誕生日"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "いつ",
+          "reading": "いつ",
+          "gloss": "when",
+          "vocab": "vocab_いつ"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "か",
+          "grammar": "grammar_particle_ka"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_asahikawa_location",
+      "jp": "{旭川|あさひかわ}は{北海道|ほっかいどう}の{北|きた}にあります。",
+      "en": "Asahikawa is in the north of Hokkaido.",
+      "grammar": [
+        "grammar_particle_no",
+        "grammar_location_ni_aru"
+      ],
+      "kanji": [
+        "kanji_旭",
+        "kanji_川",
+        "kanji_北",
+        "kanji_海",
+        "kanji_道"
+      ],
+      "tokens": [
+        {
+          "text": "旭川",
+          "reading": "あさひかわ",
+          "gloss": "Asahikawa",
+          "vocab": "vocab_旭川"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "の",
+          "grammar": "grammar_particle_no"
+        },
+        {
+          "text": "北",
+          "reading": "きた",
+          "gloss": "north",
+          "vocab": "vocab_北"
+        },
+        {
+          "text": "に",
+          "grammar": "grammar_particle_ni"
+        },
+        {
+          "text": "あります",
+          "grammar": "grammar_aru"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_biei_beautiful",
+      "jp": "{美瑛|びえい}は{美しい|うつくしい}です。",
+      "en": "Biei is beautiful.",
+      "grammar": [
+        "grammar_i_adjective"
+      ],
+      "kanji": [
+        "kanji_美",
+        "kanji_瑛"
+      ],
+      "tokens": [
+        {
+          "text": "美瑛",
+          "reading": "びえい",
+          "gloss": "Biei",
+          "vocab": "vocab_美瑛"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "美しい",
+          "reading": "うつくしい",
+          "gloss": "beautiful",
+          "vocab": "vocab_美しい"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_biei_size",
+      "jp": "{北海道|ほっかいどう}は{大きい|おおきい}です。",
+      "en": "Hokkaido is big.",
+      "grammar": [
+        "grammar_i_adjective"
+      ],
+      "kanji": [
+        "kanji_北",
+        "kanji_海",
+        "kanji_道",
+        "kanji_大"
+      ],
+      "tokens": [
+        {
+          "text": "北海道",
+          "reading": "ほっかいどう",
+          "gloss": "Hokkaido",
+          "vocab": "vocab_北海道"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "大きい",
+          "reading": "おおきい",
+          "gloss": "big",
+          "vocab": "vocab_大きい"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_biei_town",
+      "jp": "{美瑛|びえい}は{小さい|ちいさい}{町|まち}です。",
+      "en": "Biei is a small town.",
+      "grammar": [
+        "grammar_i_adjective"
+      ],
+      "kanji": [
+        "kanji_美",
+        "kanji_瑛",
+        "kanji_小",
+        "kanji_町"
+      ],
+      "tokens": [
+        {
+          "text": "美瑛",
+          "reading": "びえい",
+          "gloss": "Biei",
+          "vocab": "vocab_美瑛"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "小さい",
+          "reading": "ちいさい",
+          "gloss": "small",
+          "vocab": "vocab_小さい"
+        },
+        {
+          "text": "町",
+          "reading": "まち",
+          "gloss": "town",
+          "vocab": "vocab_町"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_furano_go",
+      "jp": "{富良野|ふらの}に{行|い}きます。",
+      "en": "I go / will go to Furano.",
+      "grammar": [
+        "grammar_particle_ni",
+        "grammar_masu"
+      ],
+      "kanji": [
+        "kanji_富",
+        "kanji_良",
+        "kanji_野",
+        "kanji_行"
+      ],
+      "tokens": [
+        {
+          "text": "富良野",
+          "reading": "ふらの",
+          "gloss": "Furano",
+          "vocab": "vocab_富良野"
+        },
+        {
+          "text": "に",
+          "grammar": "grammar_particle_ni"
+        },
+        {
+          "text": "行きます",
+          "grammar": "grammar_masu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_furano_drink",
+      "jp": "{水|みず}を{飲|の}みます。",
+      "en": "I drink water.",
+      "grammar": [
+        "grammar_particle_wo",
+        "grammar_masu"
+      ],
+      "kanji": [
+        "kanji_水",
+        "kanji_飲"
+      ],
+      "tokens": [
+        {
+          "text": "水",
+          "reading": "みず",
+          "gloss": "water",
+          "vocab": "vocab_水"
+        },
+        {
+          "text": "を",
+          "grammar": "grammar_particle_wo"
+        },
+        {
+          "text": "飲みます",
+          "grammar": "grammar_masu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_furano_photos",
+      "jp": "{富良野|ふらの}で{写真|しゃしん}を{見|み}ます。",
+      "en": "I look at photographs in Furano.",
+      "grammar": [
+        "grammar_particle_de",
+        "grammar_particle_wo",
+        "grammar_masu"
+      ],
+      "kanji": [
+        "kanji_富",
+        "kanji_良",
+        "kanji_野",
+        "kanji_写",
+        "kanji_真",
+        "kanji_見"
+      ],
+      "tokens": [
+        {
+          "text": "富良野",
+          "reading": "ふらの",
+          "gloss": "Furano",
+          "vocab": "vocab_富良野"
+        },
+        {
+          "text": "で",
+          "grammar": "grammar_particle_de"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "gloss": "photograph",
+          "vocab": "vocab_写真"
+        },
+        {
+          "text": "を",
+          "grammar": "grammar_particle_wo"
+        },
+        {
+          "text": "見ます",
+          "grammar": "grammar_masu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_kushiro_water",
+      "jp": "{水|みず}があります。",
+      "en": "There is water.",
+      "grammar": [
+        "grammar_particle_ga",
+        "grammar_aru"
+      ],
+      "kanji": [
+        "kanji_水"
+      ],
+      "tokens": [
+        {
+          "text": "水",
+          "reading": "みず",
+          "gloss": "water",
+          "vocab": "vocab_水"
+        },
+        {
+          "text": "が",
+          "grammar": "grammar_particle_ga"
+        },
+        {
+          "text": "あります",
+          "grammar": "grammar_aru"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_kushiro_person",
+      "jp": "{人|ひと}がいます。",
+      "en": "There is a person.",
+      "grammar": [
+        "grammar_particle_ga",
+        "grammar_iru"
+      ],
+      "kanji": [
+        "kanji_人"
+      ],
+      "tokens": [
+        {
+          "text": "人",
+          "reading": "ひと",
+          "gloss": "person",
+          "vocab": "vocab_人"
+        },
+        {
+          "text": "が",
+          "grammar": "grammar_particle_ga"
+        },
+        {
+          "text": "います",
+          "grammar": "grammar_iru"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_kushiro_people",
+      "jp": "{釧路|くしろ}に{人|ひと}がいます。",
+      "en": "There is a person / there are people in Kushiro.",
+      "grammar": [
+        "grammar_particle_ni",
+        "grammar_particle_ga",
+        "grammar_iru"
+      ],
+      "kanji": [
+        "kanji_釧",
+        "kanji_路",
+        "kanji_人"
+      ],
+      "tokens": [
+        {
+          "text": "釧路",
+          "reading": "くしろ",
+          "gloss": "Kushiro",
+          "vocab": "vocab_釧路"
+        },
+        {
+          "text": "に",
+          "grammar": "grammar_particle_ni"
+        },
+        {
+          "text": "人",
+          "reading": "ひと",
+          "gloss": "person",
+          "vocab": "vocab_人"
+        },
+        {
+          "text": "が",
+          "grammar": "grammar_particle_ga"
+        },
+        {
+          "text": "います",
+          "grammar": "grammar_iru"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_kushiro_river",
+      "jp": "{釧路|くしろ}に{川|かわ}があります。",
+      "en": "There is a river in Kushiro.",
+      "grammar": [
+        "grammar_particle_ni",
+        "grammar_particle_ga",
+        "grammar_aru"
+      ],
+      "kanji": [
+        "kanji_釧",
+        "kanji_路",
+        "kanji_川"
+      ],
+      "tokens": [
+        {
+          "text": "釧路",
+          "reading": "くしろ",
+          "gloss": "Kushiro",
+          "vocab": "vocab_釧路"
+        },
+        {
+          "text": "に",
+          "grammar": "grammar_particle_ni"
+        },
+        {
+          "text": "川",
+          "reading": "かわ",
+          "gloss": "river",
+          "vocab": "vocab_川"
+        },
+        {
+          "text": "が",
+          "grammar": "grammar_particle_ga"
+        },
+        {
+          "text": "あります",
+          "grammar": "grammar_aru"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_noboribetsu_climb",
+      "jp": "{山|やま}に{登|のぼ}ります。",
+      "en": "I climb a mountain.",
+      "grammar": [
+        "grammar_particle_ni",
+        "grammar_masu"
+      ],
+      "kanji": [
+        "kanji_山",
+        "kanji_登"
+      ],
+      "tokens": [
+        {
+          "text": "山",
+          "reading": "やま",
+          "gloss": "mountain",
+          "vocab": "vocab_山"
+        },
+        {
+          "text": "に",
+          "grammar": "grammar_particle_ni"
+        },
+        {
+          "text": "登ります",
+          "grammar": "grammar_masu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_noboribetsu_past",
+      "jp": "{昨日|きのう}、{登別|のぼりべつ}に{行|い}きました。",
+      "en": "Yesterday, I went to Noboribetsu.",
+      "grammar": [
+        "grammar_particle_ni",
+        "grammar_polite_past"
+      ],
+      "kanji": [
+        "kanji_昨",
+        "kanji_日",
+        "kanji_登",
+        "kanji_別",
+        "kanji_行"
+      ],
+      "tokens": [
+        {
+          "text": "昨日",
+          "reading": "きのう",
+          "gloss": "yesterday",
+          "vocab": "vocab_昨日"
+        },
+        {
+          "text": "、"
+        },
+        {
+          "text": "登別",
+          "reading": "のぼりべつ",
+          "gloss": "Noboribetsu",
+          "vocab": "vocab_登別"
+        },
+        {
+          "text": "に",
+          "grammar": "grammar_particle_ni"
+        },
+        {
+          "text": "行きました",
+          "grammar": "grammar_polite_past"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "id": "sent_hokkaido_noboribetsu_famous",
+      "jp": "{登別|のぼりべつ}の{温泉|おんせん}は{有名|ゆうめい}です。",
+      "en": "Noboribetsu’s hot springs are famous.",
+      "grammar": [
+        "grammar_particle_no",
+        "grammar_na_adjective"
+      ],
+      "kanji": [
+        "kanji_登",
+        "kanji_別",
+        "kanji_温",
+        "kanji_泉",
+        "kanji_有",
+        "kanji_名"
+      ],
+      "tokens": [
+        {
+          "text": "登別",
+          "reading": "のぼりべつ",
+          "gloss": "Noboribetsu",
+          "vocab": "vocab_登別"
+        },
+        {
+          "text": "の",
+          "grammar": "grammar_particle_no"
+        },
+        {
+          "text": "温泉",
+          "reading": "おんせん",
+          "gloss": "hot spring",
+          "vocab": "vocab_温泉"
+        },
+        {
+          "text": "は",
+          "grammar": "grammar_particle_wa"
+        },
+        {
+          "text": "有名",
+          "reading": "ゆうめい",
+          "gloss": "famous",
+          "vocab": "vocab_有名"
+        },
+        {
+          "text": "です",
+          "grammar": "grammar_desu"
+        },
+        {
+          "text": "。"
+        }
+      ]
+    }
+  ]
+}

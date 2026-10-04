@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "kusatsu_l01",
+  "number": 3,
+  "title": "Kusatsu — 草津",
+  "goal": "Distinguish early/late and current progress from not-yet-completed actions.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_早",
+    "kanji_遅"
+  ],
+  "encounterKanji": [
+    "kanji_今",
+    "kanji_会",
+    "kanji_前",
+    "kanji_十",
+    "kanji_午",
+    "kanji_名",
+    "kanji_夜",
+    "kanji_帰",
+    "kanji_待",
+    "kanji_後",
+    "kanji_日",
+    "kanji_昨",
+    "kanji_書",
+    "kanji_朝",
+    "kanji_本",
+    "kanji_来",
+    "kanji_松",
+    "kanji_毎",
+    "kanji_水",
+    "kanji_津",
+    "kanji_若",
+    "kanji_草",
+    "kanji_読",
+    "kanji_速",
+    "kanji_食",
+    "kanji_飯",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A day in a hot-spring town",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Kusatsu is known for its hot springs and Yubatake. Our fictional traveller reads, eats and waits during an imagined day. No bathing temperature, health benefit or real facility schedule is supplied."
+        },
+        {
+          "type": "text",
+          "text": "**草津に来ました。** くさつに きました。 — I came to Kusatsu."
+        },
+        {
+          "type": "text",
+          "text": "We connect early/late times to actions in progress and to whether a meal has been completed. This finally expands the earlier short **まだです** reply into a fully explained verb pattern."
+        }
+      ]
+    },
+    {
+      "id": "inside_kusatsu",
+      "title": "Inside 草津",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 草 · **Meaning/reading:** grass; くさ · **Radical/components:** 艹/艸, くさかんむり, above 早, a historical sound component · **Status:** Encounter; 早 becomes formal study below.",
+            "**Character:** 津 · **Meaning/reading:** port/ferry crossing; つ · **Radical/components:** 水 as 氵, さんずい, beside 聿-shaped shortened sound material · **Status:** Encounter review from 会津若松."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**草津 / くさつ**. Recognise the plant and water radicals without claiming the two meanings explain the location's origin. 草's visible 早 is not a sentence saying grass is early."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_草",
+            "kanji_津"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kusakanmuri"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_sanzui"
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c03",
+      "title": "早: early",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**早い / はやい — early; 早く / はやく — early**, the adjective's adverbial form in our time example. 早 has radical 日, ひ, above 十. The form is a recognition aid, not a ten-suns account of early mornings."
+        },
+        {
+          "type": "text",
+          "text": "**朝早く来ました。** あさ はやく きました。 — I came early in the morning."
+        },
+        {
+          "type": "text",
+          "text": "**今日は早いです。** きょうは はやいです。 — It is early today / We are early today, in our stated arrival scene."
+        },
+        {
+          "type": "text",
+          "text": "For speed, **速い / はやい**, fast, uses another helped spelling. The sound is the same; this lesson formally assigns 早 for earliness. Avoid using every はやい sentence as an unqualified test of speed versus clock time."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_adverbial_i"
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c04",
+      "title": "遅: late; also slow by context",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**遅い / おそい — late/slow; 遅く / おそく — late/slowly.** 遅 has movement radical 辶, しんにょう, around a modern 尸/羊-shaped interior. Treat the inner shapes as recognition material; do not invent a “slow sheep” etymology."
+        },
+        {
+          "type": "text",
+          "text": "**夜遅く帰りました。** よる おそく かえりました。 — I returned late at night."
+        },
+        {
+          "type": "text",
+          "text": "**今日は遅かったです。** きょうは おそかったです。 — It was late today / We were late today, in our arrival scene."
+        },
+        {
+          "type": "text",
+          "text": "The same 遅い can describe slow speed in another context. In this lesson explicit arrival/return times establish the late sense."
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c05",
+      "title": "Activity now versus habitual action",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**今、ご飯を食べています。** いま、ごはんを たべています。 — I am eating a meal now."
+        },
+        {
+          "type": "text",
+          "text": "**毎朝、ご飯を食べます。** まいあさ、ごはんを たべます。 — I eat a meal every morning."
+        },
+        {
+          "type": "text",
+          "text": "**毎朝 / まいあさ — every morning**, a useful compound of studied 毎/朝. 今 directs attention to the current activity; 毎朝 frames a routine. Both refer to eating, but they report different time relationships. Read the whole context before choosing an English tense mechanically."
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c06",
+      "title": "Negative and past progress",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Model:** 読んでいます。 · **Reading:** よんでいます。 · **Meaning in the activity context:** I am reading.",
+            "**Model:** 読んでいません。 · **Reading:** よんでいません。 · **Meaning in the activity context:** I am not reading.",
+            "**Model:** 読んでいました。 · **Reading:** よんでいました。 · **Meaning in the activity context:** I was reading.",
+            "**Model:** 読んでいませんでした。 · **Reading:** よんでいませんでした。 · **Meaning in the activity context:** I was not reading."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**昨日の午後、本を読んでいました。** きのうの ごご、ほんを よんでいました。 — Yesterday afternoon I was reading a book. The te-form stays 読んで; the following います part supplies the polite positive/negative/past changes."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_progress_negative_past"
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c07",
+      "title": "Still doing: まだ + positive progress",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**まだ / still; not yet**, its meaning depends on the following predicate."
+        },
+        {
+          "type": "text",
+          "text": "**まだ本を読んでいます。** まだ ほんを よんでいます。 — I am still reading the book."
+        },
+        {
+          "type": "text",
+          "text": "**まだ駅で待っています。** まだ えきで まっています。 — I am still waiting at the station."
+        },
+        {
+          "type": "text",
+          "text": "In these positive activity statements まだ says the activity continues. 待つ→待って＋います. “Still waiting” is not the same as “have not waited yet.” This contrast prepares the negative completion model in the next card."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_mada_still"
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c08",
+      "title": "Not yet: まだ Vていません",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**まだご飯を食べていません。** まだ ごはんを たべていません。 — I have not eaten my meal yet."
+        },
+        {
+          "type": "text",
+          "text": "**まだ名前を書いていません。** まだ なまえを かいていません。 — I have not written my name yet."
+        },
+        {
+          "type": "text",
+          "text": "The explicit completion context gives **まだ＋te-form＋いません** the not-yet-done reading. Compare **食べません**, do not/will not eat; **食べませんでした**, did not eat; and **食べていません**, whose sense depends on context. Do not replace the taught not-yet model with まだ食べません. We are not claiming all ていません always means an English present perfect."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_mada_not_yet_verb"
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c09",
+      "title": "Already done: もう + polite past",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**もうご飯を食べました。** もう ごはんを たべました。 — I have already eaten my meal."
+        },
+        {
+          "type": "text",
+          "text": "**もう名前を書きました。** もう なまえを かきました。 — I have already written my name."
+        },
+        {
+          "type": "text",
+          "text": "This is the Package 03 completed-action pattern, now contrasted with **まだ食べていません**. **もうご飯を食べましたか。** もう ごはんを たべましたか。 — Have you eaten your meal yet? The reply should match completion: はい、もう食べました, or いいえ、まだ食べていません."
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c10",
+      "title": "A completion dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: もうご飯を食べましたか。** もう ごはんを たべましたか。 — Have you eaten your meal yet?"
+        },
+        {
+          "type": "text",
+          "text": "**B: いいえ、まだ食べていません。** いいえ、まだ たべていません。 — No, I have not eaten yet."
+        },
+        {
+          "type": "text",
+          "text": "**A: いっしょに食べませんか。** いっしょに たべませんか。 — Would you like to eat together?"
+        },
+        {
+          "type": "text",
+          "text": "**B: はい、食べましょう。** はい、たべましょう。 — Yes, let's eat."
+        },
+        {
+          "type": "text",
+          "text": "The first question asks about completion; the later negative-looking form is an invitation. Their functions differ because the construction and conversational purpose differ."
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c11",
+      "title": "Practice: still or not yet?",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 草津, 早い, 遅い. **Answers:** くさつ; はやい; おそい.",
+            "Which radical is on 津's left? **Answer:** 氵/水.",
+            "Give the past progressive of 読んでいます. **Answer:** 読んでいました.",
+            "Translate まだ読んでいます in the current activity context. **Answer:** I am still reading.",
+            "Say “I have not eaten yet.” **Answer:** まだ食べていません。",
+            "Say “I have already eaten.” **Answer:** もう食べました。"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kusatsu_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "草津 is くさつ. 早い is early; 遅い is late/slow depending on context. The adjective's く form can modify the action in 早く来ます/遅く帰ります. Vています has negative and past forms. まだ＋positive progress means still doing; まだ＋Vていません can mean not yet done in the taught completion context. もう＋polite past marks already completed."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “I have not written my name yet.” **Model:** まだ名前を書いていません。 まだ なまえを かいていません。 Next: a final scene in みなかみ."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_早",
+            "kanji_遅"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_もう"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_名前"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_草津"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_早い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_遅い"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_みなかみ"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Kusatsu complete",
+    "nextText": "Next: Minakami",
+    "nextChapter": "gunma/minakami"
+  }
+}

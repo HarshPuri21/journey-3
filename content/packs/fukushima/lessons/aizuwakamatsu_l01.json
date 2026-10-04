@@ -1,0 +1,395 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "aizuwakamatsu_l01",
+  "number": 2,
+  "title": "Aizuwakamatsu — 会津若松",
+  "goal": "Give a simple name and identify family relationships in context.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_名",
+    "kanji_父",
+    "kanji_母",
+    "kanji_子"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_三",
+    "kanji_二",
+    "kanji_人",
+    "kanji_会",
+    "kanji_住",
+    "kanji_何",
+    "kanji_公",
+    "kanji_写",
+    "kanji_前",
+    "kanji_友",
+    "kanji_口",
+    "kanji_右",
+    "kanji_字",
+    "kanji_家",
+    "kanji_島",
+    "kanji_文",
+    "kanji_族",
+    "kanji_日",
+    "kanji_木",
+    "kanji_来",
+    "kanji_松",
+    "kanji_毎",
+    "kanji_水",
+    "kanji_津",
+    "kanji_町",
+    "kanji_白",
+    "kanji_真",
+    "kanji_私",
+    "kanji_若",
+    "kanji_行",
+    "kanji_見",
+    "kanji_親",
+    "kanji_雪",
+    "kanji_鳥"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A Familiar 会 in a Longer Name",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Aizuwakamatsu is associated with Tsuruga Castle and historical castle-town culture. We will use a fictional family photograph, not require the learner to remember clans or dates."
+        },
+        {
+          "type": "text",
+          "text": "**会津若松で家族の写真を見ました。** あいづわかまつで かぞくの しゃしんを みました。 — I looked at a family photograph in Aizuwakamatsu."
+        },
+        {
+          "type": "text",
+          "text": "**家族 / かぞく — family**, assisted whole word; 族 remains encounter. We can identify the people with basic relationship vocabulary and read the complete location name with help. 会 already has a useful meeting verb from Hanamaki."
+        }
+      ]
+    },
+    {
+      "id": "inside_aizuwakamatsu",
+      "title": "Inside 会津若松",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 会 · **Orientation meaning/reading:** meet; 会う = あう; カイ; あい here · **Radical/components:** 人, ひと; modern upper 人-like shape over 云-like section · **Role:** Formal review; do not derive modern meeting grammar from the pieces.",
+            "**Character:** 津 · **Orientation meaning/reading:** harbour; つ, シン; づ here · **Radical/components:** 水 in 氵/さんずい form + 聿, historical sound element · **Role:** Encounter. The name's づ is learned in あいづ.",
+            "**Character:** 若 · **Orientation meaning/reading:** young; 若い = わかい; ジャク · **Radical/components:** 艹, くさかんむり, above a modern 右-like section · **Role:** Encounter. Its indexing grass top is not proof that “young” means grass.",
+            "**Character:** 松 · **Orientation meaning/reading:** pine; まつ, ショウ · **Radical/components:** 木, きへん + 公, historical sound element · **Role:** Encounter review from 松島."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Whole name: **あいづわかまつ**. Spell 会津, not **あいつ** or a guessed **かいつ** reading. Repeated characters help recognition without requiring all four to become new core assignments."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_会",
+            "kanji_津",
+            "kanji_若",
+            "kanji_松"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_hachi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_hitoyane"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ki"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kusakanmuri"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_sanzui"
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c03",
+      "title": "名 and 名前",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**名前 / なまえ — name; 名 / な — name in the taught compound.** 名 is indexed under **口**, くち, below **夕**. These shapes aid recognition; a modern evening/mouth mnemonic is not a universal explanation of naming."
+        },
+        {
+          "type": "text",
+          "text": "**私の名前はゆきです。** わたしの なまえは ゆきです。 — My name is Yuki."
+        },
+        {
+          "type": "text",
+          "text": "ゆき is a fictional person's name written in kana, not the snow noun 雪 here. 名前 combines 名 with 前 from Hirosaki. 前 does not necessarily mean a physical front in every compound. Learn the familiar whole word なまえ rather than translate “name-front.”"
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c04",
+      "title": "Ask Politely for a Name",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**お名前は何ですか。** おなまえは なんですか。 — What is your name?"
+        },
+        {
+          "type": "text",
+          "text": "**名前はゆきです。** なまえは ゆきです。 — My name is Yuki."
+        },
+        {
+          "type": "text",
+          "text": "お is a polite prefix in the question. A direct name question should fit a suitable introduction context, rather than be the only way to begin every conversation. **私はゆきです。** わたしは ゆきです。 — I am Yuki, is also a simple introduction."
+        },
+        {
+          "type": "text",
+          "text": "We omit the written kanji of a person's name because its intended reading has not been taught. Kana avoids pretending that every proper name can be read from a generic kanji rule."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_polite_name_question"
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c05",
+      "title": "父: My Father in This Context",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**父 / ちち — father, commonly one's own father when speaking to someone outside the family; 父親 / ちちおや — father/parent**, assisted 親."
+        },
+        {
+          "type": "text",
+          "text": "父 is its own radical, ちち. Recognise the whole form, with upper separated strokes and lower crossing strokes; it is not the same shape as 文. The historical parent/tool image is not a rule about current family roles."
+        },
+        {
+          "type": "text",
+          "text": "**これは私の父です。** これは わたしの ちちです。 — This is my father."
+        },
+        {
+          "type": "text",
+          "text": "**お父さん / おとうさん — father/dad**, a polite/familiar term used for someone else's father or in appropriate family address. Its reading is a whole word, not **おちちさん**."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_family_terms_context"
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c06",
+      "title": "母: My Mother",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**母 / はは — mother, commonly one's own mother in an outside-family description; 母親 / ははおや — mother/parent**, assisted 親."
+        },
+        {
+          "type": "text",
+          "text": "母 is indexed in the **毋/母 family**, はは. Its inner marks help distinguish it from related modern forms such as 毎. Learn the whole mother word; the radical family does not make 毎日 mean “mother day.”"
+        },
+        {
+          "type": "text",
+          "text": "**これは私の母です。** これは わたしの ははです。 — This is my mother."
+        },
+        {
+          "type": "text",
+          "text": "**お母さん / おかあさん — mother/mum**, appropriate as a polite/familiar family term. Notice the long **かあ** vowel. 父/母 and お父さん/お母さん have social/contextual uses, not one universal replacement rule for every family conversation."
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c07",
+      "title": "子 and 子ども",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**子ども / こども — child; 子 / こ — child in common words.** 子 is its own radical, こ. Its whole child-derived form connects back to 字's lower part. The top, outstretched middle and lower hook are recognition features, not separate word meanings added together."
+        },
+        {
+          "type": "text",
+          "text": "**子どもがいます。** こどもが います。 — There is a child / someone has a child, depending on context."
+        },
+        {
+          "type": "text",
+          "text": "**この子どもはゆきです。** この こどもは ゆきです。 — This child is Yuki."
+        },
+        {
+          "type": "text",
+          "text": "We use 子ども as the ordinary taught spelling. 男の子/女の子 are useful later expansions when 男/女 become formal study; we do not silently introduce those extra assignments here."
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c08",
+      "title": "Relationships with の and と",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**父と母 / ちちとはは — father and mother.**"
+        },
+        {
+          "type": "text",
+          "text": "**父と母はこの町に住んでいます。** ちちと ははは この まちに すんでいます。 — My father and mother live in this town."
+        },
+        {
+          "type": "text",
+          "text": "**私の父 / わたしのちち — my father; 友だちのお母さん / ともだちのおかあさん — my friend's mother.** の links the relationship chain. と joins the two people in the topic; it differs from companion と in **母と行きます**, I go with my mother."
+        },
+        {
+          "type": "text",
+          "text": "The family is fictional. We do not assume every learner has the same family composition; the picture and sentence identify the intended relationships for each exercise."
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c09",
+      "title": "Count People, Not Apples",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**写真に三人います。** しゃしんに さんにん います。 — There are three people in the photograph."
+        },
+        {
+          "type": "text",
+          "text": "**父と母と子どもです。** ちちと ははと こどもです。 — They are a father, a mother and a child."
+        },
+        {
+          "type": "text",
+          "text": "The people counter is **三人 / さんにん**. **三つ / みっつ** counts general items instead. An image of people can be described using the usual person-presence wording; the exercise explicitly describes the picture's people, not claims real people physically live inside the photograph."
+        },
+        {
+          "type": "text",
+          "text": "一人/二人 are still ひとり/ふたり. Adding family vocabulary does not remove the irregular person-count forms already studied."
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c10",
+      "title": "A Family Visit Account",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**母と会津若松に行きました。父は来ませんでした。** ははと あいづわかまつに いきました。ちちは きませんでした。 — I went to Aizuwakamatsu with my mother. My father did not come."
+        },
+        {
+          "type": "text",
+          "text": "**子どもは白い鳥を見ました。** こどもは しろい とりを みました。 — The child saw a white bird."
+        },
+        {
+          "type": "text",
+          "text": "The first と marks the companion; the negative past 来ませんでした is reviewed from Sendai. The last sentence adds a previously taught nature noun. A cultural city introduction does not constrain every practice action to a famous landmark; language can describe a simple invented visit."
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c11",
+      "title": "Practice: Name and Family",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 会津若松 and 名前. **Answer:** あいづわかまつ; なまえ.",
+            "Read 父 and 母 in one's own-family description. **Answer:** ちち; はは.",
+            "Read お父さん and お母さん. **Answer:** おとうさん; おかあさん.",
+            "What radical connects 子 with 字? **Answer:** 子.",
+            "Count three people. **Answer:** 三人 / さんにん.",
+            "In 母と行きます, what does と mark? **Answer:** the mother as companion, rather than an object bought."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aizuwakamatsu_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "会津若松 is あいづわかまつ. 名前 is なまえ; 前's meaning in the compound is not a literal place description. 父/母 are ちち/はは in our own-family report. お父さん/お母さん are おとうさん/おかあさん in appropriate polite/familiar uses. 子ども is child. Use the person counter for a stated number of people."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I went with my mother. My father did not come.” **Model:** 母と行きました。父は来ませんでした。 Continue to Koriyama and identify learning roles."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_名",
+            "kanji_父",
+            "kanji_母",
+            "kanji_子"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_会津若松"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_名前"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_お父さん"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_お母さん"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_子ども"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Aizuwakamatsu complete",
+    "nextText": "Next: Koriyama",
+    "nextChapter": "fukushima/koriyama"
+  }
+}

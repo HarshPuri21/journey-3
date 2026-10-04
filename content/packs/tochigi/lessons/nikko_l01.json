@@ -1,0 +1,376 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "nikko_l01",
+  "number": 2,
+  "title": "Nikko — 日光",
+  "goal": "Understand adult/child person phrases and keep gender separate from family relations.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_男",
+    "kanji_女"
+  ],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_二",
+    "kanji_人",
+    "kanji_会",
+    "kanji_兄",
+    "kanji_先",
+    "kanji_光",
+    "kanji_写",
+    "kanji_利",
+    "kanji_四",
+    "kanji_妹",
+    "kanji_姉",
+    "kanji_子",
+    "kanji_学",
+    "kanji_寺",
+    "kanji_小",
+    "kanji_待",
+    "kanji_日",
+    "kanji_生",
+    "kanji_田",
+    "kanji_真",
+    "kanji_社",
+    "kanji_神",
+    "kanji_私",
+    "kanji_行",
+    "kanji_見",
+    "kanji_足",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "People in a Nikko story",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Nikko is known for its shrines, temples and mountain scenery. Our fictional story uses a group of travellers to practise words for people; it does not ask the learner to guess gender or family relationships from an illustration."
+        },
+        {
+          "type": "text",
+          "text": "**日光に行きます。** にっこうに いきます。 — I go to Nikko."
+        },
+        {
+          "type": "text",
+          "text": "**日光で人に会います。** にっこうで ひとに あいます。 — I meet people in Nikko."
+        },
+        {
+          "type": "text",
+          "text": "The location gives a scene; the formal kanji 男 and 女 complete useful people compounds in the supplied syllabus."
+        }
+      ]
+    },
+    {
+      "id": "inside_nikko",
+      "title": "Inside 日光",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 日 · **Meaning/reading:** sun/day; にっ in this word · **Radical/components:** 日, ひ · **Status:** Formal review; doubled consonant belongs to the whole word.",
+            "**Character:** 光 · **Meaning/reading:** light; コウ, ひかり · **Radical/components:** 儿, にんにょう, below a fire-derived upper shape now resembling ⺌ · **Status:** Assisted encounter; not indexed under 小."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**日光 / にっこう** is the place name. **日光 / にっこう** can also mean sunlight; context distinguishes them. **光 / ひかり — light** is helped vocabulary. The place name is not read にちこう in our course."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_日",
+            "kanji_光"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_hitoashi"
+        }
+      ]
+    },
+    {
+      "id": "nikko_c03",
+      "title": "男: man/male",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**男 / おとこ; 男の人 / おとこのひと — man; 男の子 / おとこのこ — boy.** 男 has radical 田, た, above 力, ちから. Its historical association with work does not prescribe modern occupations or abilities."
+        },
+        {
+          "type": "text",
+          "text": "**あの男の人は先生です。** あの おとこのひとは せんせいです。 — That man is a teacher."
+        },
+        {
+          "type": "text",
+          "text": "**男の子がいます。** おとこのこが います。 — There is a boy."
+        },
+        {
+          "type": "text",
+          "text": "人 gives an adult/person expression; 子 gives the child expression in these words. The noun phrase is not a statement of sibling relationship."
+        }
+      ]
+    },
+    {
+      "id": "nikko_c04",
+      "title": "女: woman/female",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**女 / おんな; 女の人 / おんなのひと — woman; 女の子 / おんなのこ — girl.** 女 is its own radical, おんな; learn its crossing whole shape. In 姉/妹 it appears as the narrower left component おんなへん."
+        },
+        {
+          "type": "text",
+          "text": "**あの女の人は先生です。** あの おんなのひとは せんせいです。 — That woman is a teacher."
+        },
+        {
+          "type": "text",
+          "text": "**女の子がいます。** おんなのこが います。 — There is a girl."
+        },
+        {
+          "type": "text",
+          "text": "These are dictionary meanings for explicitly described fictional people. Names, voices or clothing alone do not establish gender; a question supplies the relevant description if it assesses these words."
+        }
+      ]
+    },
+    {
+      "id": "nikko_c05",
+      "title": "A person phrase is not a family term",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**女の人** means woman; **姉** means the speaker's older sister in our introduction. A woman need not be the speaker's sister, and a boy need not be a younger brother. Likewise 男の子 is not a synonym for 子ども in every sentence; 子ども is broader."
+        },
+        {
+          "type": "text",
+          "text": "**この女の人は私の姉です。** この おんなのひとは わたしの あねです。 — This woman is my older sister."
+        },
+        {
+          "type": "text",
+          "text": "The sentence states the relationship explicitly. Without 私の姉, you know only the descriptive noun phrase. Use labels and words, not appearance, as the evidence."
+        }
+      ]
+    },
+    {
+      "id": "nikko_c06",
+      "title": "Count the described people",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**男の人が二人います。** おとこのひとが ふたり います。 — There are two men."
+        },
+        {
+          "type": "text",
+          "text": "**女の人が三人います。** おんなのひとが さんにん います。 — There are three women."
+        },
+        {
+          "type": "text",
+          "text": "**子どもが四人います。** こどもが よにん います。 — There are four children."
+        },
+        {
+          "type": "text",
+          "text": "These are three separate fictional groups, not an invitation to combine counts unless the question states they are disjoint. Count people with 人, not the general つ counter. 二人 is ふたり, and 四人 is よにん."
+        }
+      ]
+    },
+    {
+      "id": "nikko_c07",
+      "title": "Existence and the meeting action",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**駅に人がいます。** えきに ひとが います。 — There are people at the station."
+        },
+        {
+          "type": "text",
+          "text": "**駅で姉に会います。** えきで あねに あいます。 — I meet my older sister at the station."
+        },
+        {
+          "type": "text",
+          "text": "**駅で兄を待ちます。** えきで あにを まちます。 — I wait for my older brother at the station."
+        },
+        {
+          "type": "text",
+          "text": "Existence, meeting and waiting have different phrase relationships. 人が says who exists; 姉に says whom we meet; 兄を says whom we await. The course does not replace them all with a single “person particle.”"
+        }
+      ]
+    },
+    {
+      "id": "nikko_c08",
+      "title": "Useful setting words stay assisted",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**お寺 / おてら — temple; 神社 / じんじゃ — shrine; 写真 / しゃしん — photograph.** 寺/神/社/写/真 remain helped in this lesson. Spiritual or historical knowledge is not a scored prerequisite."
+        },
+        {
+          "type": "text",
+          "text": "**お寺の写真を見ます。** おてらの しゃしんを みます。 — I look at a photograph of a temple."
+        },
+        {
+          "type": "text",
+          "text": "**写真に人がいます。** しゃしんに ひとが います。 — There are people in the photograph."
+        },
+        {
+          "type": "text",
+          "text": "We use います for the depicted people in this simple scene. Later narrative styles can express what a photo shows in other ways; they are not needed to understand this model."
+        }
+      ]
+    },
+    {
+      "id": "nikko_c09",
+      "title": "Past identity versus present identity",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**姉は先生です。** あねは せんせいです。 — My older sister is a teacher."
+        },
+        {
+          "type": "text",
+          "text": "**姉は学生でした。** あねは がくせいでした。 — My older sister was a student."
+        },
+        {
+          "type": "text",
+          "text": "**姉は学生ではありません。** あねは がくせいではありません。 — My older sister is not a student."
+        },
+        {
+          "type": "text",
+          "text": "These noun descriptions reuse the four polite forms from Package 04. A past identity does not imply that the person has disappeared; it tells you which role is being described at which time."
+        }
+      ]
+    },
+    {
+      "id": "nikko_c10",
+      "title": "Who is in the picture? dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: この人はだれですか。** このひとは だれですか。 — Who is this person?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 私の兄です。** わたしの あにです。 — He is my older brother."
+        },
+        {
+          "type": "text",
+          "text": "**A: お兄さんは先生ですか。** おにいさんは せんせいですか。 — Is your older brother a teacher?"
+        },
+        {
+          "type": "text",
+          "text": "**B: いいえ、学生です。** いいえ、がくせいです。 — No, he is a student."
+        },
+        {
+          "type": "text",
+          "text": "The explicit introduction supplies the family relationship. Asking and answering can correct an assumption about a role without changing the basic person phrase."
+        }
+      ]
+    },
+    {
+      "id": "nikko_c11",
+      "title": "Practice: descriptive phrase or relationship?",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 日光, 男の人, 女の子. **Answers:** にっこう; おとこのひと; おんなのこ.",
+            "What radical is taught for 光? **Answer:** 儿.",
+            "What radical is taught for 男? **Answer:** 田.",
+            "Does 女の人 alone mean “my older sister”? **Answer:** No; 姉 expresses that relationship.",
+            "Count two people. **Answer:** 二人 / ふたり.",
+            "Make 学生です past. **Answer:** 学生でした / がくせいでした."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nikko_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "日光 is にっこう; 光 is an assisted light character indexed under 儿. 男/女 are formally studied. 男の人/女の人 describe adults; 男の子/女の子 describe children. Family relationship requires its own word or explicit statement. Use 人 to count people and います for their existence."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “There are three women at the station.” **Model:** 駅に女の人が三人います。 えきに おんなのひとが さんにん います。 Next: preferences and skills in 足利."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_男",
+            "kanji_女"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_三人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_日光"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_男の人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_男の子"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_女の人"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_女の子"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_足利"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Nikko complete",
+    "nextText": "Next: Ashikaga",
+    "nextChapter": "tochigi/ashikaga"
+  }
+}

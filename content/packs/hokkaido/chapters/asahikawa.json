@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "asahikawa",
+ "name": "旭川",
+ "nameEn": "Asahikawa",
+ "reading": "あさひかわ",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/otaru"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "asahikawa_l01",
+   "file": "lessons/asahikawa_l01.json"
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_dai",
+      "char": "大",
+      "name": "だい",
+      "nameRomaji": "dai",
+      "meanings": [
+        "big"
+      ],
+      "note": "Indexing family in 天; extra top stroke distinguishes 天 from 大.",
+      "exampleKanji": [
+        "kanji_天"
+      ]
+    },
+    {
+      "id": "radical_kigamae",
+      "char": "气",
+      "name": "きがまえ",
+      "nameRomaji": "kigamae",
+      "meanings": [
+        "air; spirit family"
+      ],
+      "note": "气 surrounds lower メ-like strokes in modern 気.",
+      "exampleKanji": [
+        "kanji_気"
+      ]
+    },
+    {
+      "id": "radical_tori",
+      "char": "鳥",
+      "name": "とり",
+      "nameRomaji": "tori",
+      "meanings": [
+        "bird"
+      ],
+      "note": "Whole 鳥 radical; also on the right of 鶴.",
+      "exampleKanji": [
+        "kanji_鳥",
+        "kanji_鶴"
+      ]
+    },
+    {
+      "id": "radical_me",
+      "char": "目",
+      "name": "め",
+      "nameRomaji": "me",
+      "meanings": [
+        "eye"
+      ],
+      "note": "Whole eye-derived character; compare its internal divisions with 日.",
+      "exampleKanji": [
+        "kanji_目"
+      ]
+    },
+    {
+      "id": "radical_mimi",
+      "char": "耳",
+      "name": "みみ",
+      "nameRomaji": "mimi",
+      "meanings": [
+        "ear"
+      ],
+      "note": "Ear radical inside 聞; the gate is a separate visible component.",
+      "exampleKanji": [
+        "kanji_耳",
+        "kanji_聞"
+      ]
+    },
+    {
+      "id": "radical_mon",
+      "char": "門",
+      "name": "もんがまえ",
+      "nameRomaji": "mon",
+      "meanings": [
+        "gate"
+      ],
+      "note": "Visible enclosure around the ear in 聞; selected indexing radical of 聞 is 耳.",
+      "exampleKanji": [
+        "kanji_聞"
+      ]
+    },
+    {
+      "id": "radical_tori_vessel",
+      "char": "酉",
+      "name": "ひよみのとり",
+      "nameRomaji": "tori_vessel",
+      "meanings": [
+        "vessel; wine family"
+      ],
+      "note": "Indexes 酒 on the right; 氵 remains a visible left component. Distinguish 酉 from 西.",
+      "exampleKanji": [
+        "kanji_酒"
+      ]
+    },
+    {
+      "id": "radical_inoko",
+      "char": "豕",
+      "name": "いのこ",
+      "nameRomaji": "inoko",
+      "meanings": [
+        "pig-shaped component"
+      ],
+      "note": "Visible historical component under the roof in 家; indexing radical is 宀.",
+      "exampleKanji": [
+        "kanji_家"
+      ]
+    },
+    {
+      "id": "radical_kokoro",
+      "char": "心",
+      "name": "こころ",
+      "nameRomaji": "kokoro",
+      "meanings": [
+        "heart family"
+      ],
+      "note": "Selected indexing family in assisted 悪; the whole word 悪い is learned with help.",
+      "exampleKanji": [
+        "kanji_悪"
+      ]
+    },
+    {
+      "id": "radical_oto",
+      "char": "音",
+      "name": "おと",
+      "nameRomaji": "oto",
+      "meanings": [
+        "sound"
+      ],
+      "note": "Whole sound radical/character; assisted in 音 and 音楽.",
+      "exampleKanji": [
+        "kanji_音"
+      ]
+    },
+    {
+      "id": "radical_samurai",
+      "char": "士",
+      "name": "さむらい",
+      "nameRomaji": "samurai",
+      "meanings": [
+        "scholar indexing family"
+      ],
+      "note": "Selected indexing family in assisted 声; distinct from 土 stroke proportions.",
+      "exampleKanji": [
+        "kanji_声"
+      ]
+    },
+    {
+      "id": "radical_shimesuhen",
+      "char": "礻",
+      "name": "しめすへん",
+      "nameRomaji": "shimesuhen",
+      "meanings": [
+        "altar; shrine family"
+      ],
+      "note": "Side form of 示 in 福, with historical sound component 畐. Distinguish clothing form 衤.",
+      "exampleKanji": [
+        "kanji_福"
+      ]
+    },
+    {
+      "id": "radical_hitoashi",
+      "char": "儿",
+      "name": "ひとあし",
+      "nameRomaji": "hitoashi",
+      "meanings": [
+        "person legs"
+      ],
+      "note": "Selected indexing family in 先; distinguish the two lower strokes from side form 亻.",
+      "exampleKanji": [
+        "kanji_元"
+      ]
+    }
+  ]
+}

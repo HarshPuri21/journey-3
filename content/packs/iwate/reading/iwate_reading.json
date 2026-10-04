@@ -1,0 +1,556 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "iwate_reading",
+  "number": 4,
+  "title": "Iwate Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_上",
+    "kanji_下",
+    "kanji_九",
+    "kanji_二",
+    "kanji_人",
+    "kanji_今",
+    "kanji_休",
+    "kanji_会",
+    "kanji_入",
+    "kanji_公",
+    "kanji_前",
+    "kanji_半",
+    "kanji_友",
+    "kanji_右",
+    "kanji_図",
+    "kanji_園",
+    "kanji_地",
+    "kanji_城",
+    "kanji_場",
+    "kanji_外",
+    "kanji_始",
+    "kanji_宮",
+    "kanji_寺",
+    "kanji_小",
+    "kanji_岡",
+    "kanji_岩",
+    "kanji_左",
+    "kanji_巻",
+    "kanji_平",
+    "kanji_店",
+    "kanji_弘",
+    "kanji_所",
+    "kanji_手",
+    "kanji_旅",
+    "kanji_日",
+    "kanji_時",
+    "kanji_本",
+    "kanji_森",
+    "kanji_次",
+    "kanji_泉",
+    "kanji_温",
+    "kanji_町",
+    "kanji_盛",
+    "kanji_石",
+    "kanji_私",
+    "kanji_花",
+    "kanji_行",
+    "kanji_見",
+    "kanji_読",
+    "kanji_青",
+    "kanji_静",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "iwate_r01",
+      "title": "A new place after Aomori",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{青森|あおもり}から{岩手|いわて}に{行|い}きました。",
+          "en": "I went from Aomori to Iwate."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あおもりからいわてにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{盛岡|もりおか}は{岩手|いわて}の{町|まち}です。",
+          "en": "Morioka is a city in Iwate."
+        },
+        {
+          "type": "text",
+          "text": "Kana: もりおかはいわてのまちです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "ここから{岩手|いわて}の{旅|たび}が{始|はじ}まります。",
+          "en": "The journey through Iwate begins here."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ここからいわてのたびがはじまります。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "旅 and 始まります are reviewed assisted words from the Hokkaido passage, not newly assigned core kanji."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r02",
+      "title": "Here and over there",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "「{駅|えき}はどこですか。」",
+          "en": "“Where is the station?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「えきはどこですか。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「あそこです。」",
+          "en": "“It is over there.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「あそこです。」"
+        },
+        {
+          "type": "readingLine",
+          "jp": "ここに{店|みせ}があります。",
+          "en": "There is a shop here."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ここにみせがあります。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "どこ = where; あそこ = over there; ここ = here. 駅 remains a usable word with encounter kanji."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r03",
+      "title": "A stone and its position",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{店|みせ}の{外|そと}に{小|ちい}さい{石|いし}があります。",
+          "en": "There is a small stone outside the shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みせのそとにちいさいいしがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "いすの{上|うえ}にも{石|いし}があります。",
+          "en": "There is a stone on the chair too."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いすのうえにもいしがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "いすの{下|した}に{人|ひと}はいません。",
+          "en": "There is no one under the chair."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いすのしたにひとはいません。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "も = too, reviewed from Hokkaido; にも adds the existence location “on the chair too.” The scene uses imagined objects."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r04",
+      "title": "Hiraizumi on a practice map",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{平泉|ひらいずみ}に{行|い}きました。",
+          "en": "I went to Hiraizumi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ひらいずみにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{地図|ちず}では、{駅|えき}の{左|ひだり}に{寺|てら}があります。",
+          "en": "On this map, there is a temple to the left of the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このちずでは、えきのひだりにてらがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{駅|えき}の{右|みぎ}に{店|みせ}があります。",
+          "en": "There is a shop to the right of the station."
+        },
+        {
+          "type": "text",
+          "text": "Kana: えきのみぎにみせがあります。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "地図 = map; 地図では is an assisted framing phrase “on/in this map’s account.” This is our fictional map, not an actual temple route."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r05",
+      "title": "Rest and a book",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{公園|こうえん}で{休|やす}みました。",
+          "en": "I rested in the park."
+        },
+        {
+          "type": "text",
+          "text": "Kana: こうえんでやすみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "そして、{本|ほん}を{読|よ}みました。",
+          "en": "Then I read a book."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そして、ほんをよみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{場所|ばしょ}は{静|しず}かです。",
+          "en": "This place is quiet."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このばしょはしずかです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "読 is an encounter spelling for the learned verb 読む; 静 is an encounter spelling for 静か. そして continues the account."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r06",
+      "title": "Do not reverse the negative",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "あそこは{店|みせ}ではありません。",
+          "en": "That place over there is not a shop."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あそこはみせではありません。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "あそこに{店|みせ}はありません。",
+          "en": "There is no shop over there."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あそこにみせはありません。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "でも、ここに{店|みせ}があります。",
+          "en": "But there is a shop here."
+        },
+        {
+          "type": "text",
+          "text": "Kana: でも、ここにみせがあります。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "ではありません describes identity; ありません describes existence. でも introduces the contrast."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r07",
+      "title": "A friend and a clock",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{九時半|くじはん}に{公園|こうえん}で{友|とも}だちに{会|あ}いました。",
+          "en": "I met a friend in the park at 9:30."
+        },
+        {
+          "type": "text",
+          "text": "Kana: くじはんにこうえんでともだちにあいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{私|わたし}と{友|とも}だちは{二人|ふたり}です。",
+          "en": "My friend and I make two people."
+        },
+        {
+          "type": "text",
+          "text": "Kana: わたしとともだちはふたりです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちと{花巻|はなまき}に{行|い}きました。",
+          "en": "I went to Hanamaki with a friend."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちとはなまきにいきました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "に marks the meeting partner with 会う; と marks a travel companion with 行く. 二人 is still ふたり."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r08",
+      "title": "Flowers return",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{花巻|はなまき}の{公園|こうえん}で{花|はな}を{見|み}ました。",
+          "en": "I looked at flowers in a park in Hanamaki."
+        },
+        {
+          "type": "text",
+          "text": "Kana: はなまきのこうえんではなをみました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{花|はな}はきれいです。",
+          "en": "This flower is beautiful."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このはなはきれいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{弘前|ひろさき}でも{花|はな}を{見|み}ました。",
+          "en": "I looked at flowers in Hirosaki too."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ひろさきでもはなをみました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "Place で + も means “at that place too.” This explicitly links the current 花 study to the earlier blossom encounter."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r09",
+      "title": "Hot springs and rest",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{花巻|はなまき}に{温泉|おんせん}があります。",
+          "en": "There are hot springs in Hanamaki."
+        },
+        {
+          "type": "text",
+          "text": "Kana: はなまきにおんせんがあります。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちと{温泉|おんせん}に{入|はい}りました。",
+          "en": "I entered a hot spring with a friend."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちとおんせんにはいりました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "そして、{休|やす}みました。",
+          "en": "Then I rested."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そして、やすみました。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "温泉 is reviewed from Noboribetsu; 入り/ました uses the 入る word formally studied in Hachinohe. The visit is fictional."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r10",
+      "title": "A journey continues",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{盛岡|もりおか}、{平泉|ひらいずみ}、{花巻|はなまき}に{行|い}きました。",
+          "en": "I went to Morioka, Hiraizumi, and Hanamaki."
+        },
+        {
+          "type": "text",
+          "text": "Kana: もりおか、ひらいずみ、はなまきにいきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{今日|きょう}は{友|とも}だちに{会|あ}いません。",
+          "en": "I will not meet my friend today."
+        },
+        {
+          "type": "text",
+          "text": "Kana: きょうはともだちにあいません。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{宮城|みやぎ}です。",
+          "en": "Next is Miyagi."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはみやぎです。"
+        },
+        {
+          "type": "callout",
+          "title": "Assistance and review",
+          "tone": "tip",
+          "text": "宮城 is a preview name, not required new character mastery. It remains the next prefecture in the supplied route."
+        }
+      ]
+    },
+    {
+      "id": "iwate_r11",
+      "title": "Assisted Reading and Rereading",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Read one story card with furigana and English assistance. Identify the location, the action, the time/count if there is one, and each particle’s job. Reread the Japanese with the English covered. Then hide or ignore furigana for words you recognise. Restore assistance for unfamiliar words. Recognising a preview kanji is optional; guessing its reading from shape is not required."
+        },
+        {
+          "type": "text",
+          "text": "**Continuous Japanese rereading:**"
+        },
+        {
+          "type": "text",
+          "text": "{青森|あおもり}から{岩手|いわて}に{行|い}きました。{盛岡|もりおか}は{岩手|いわて}の{町|まち}です。ここから{岩手|いわて}の{旅|たび}が{始|はじ}まります。"
+        },
+        {
+          "type": "text",
+          "text": "「{駅|えき}はどこですか。」「あそこです。」ここに{店|みせ}があります。"
+        },
+        {
+          "type": "text",
+          "text": "{店|みせ}の{外|そと}に{小|ちい}さい{石|いし}があります。いすの{上|うえ}にも{石|いし}があります。いすの{下|した}に{人|ひと}はいません。"
+        },
+        {
+          "type": "text",
+          "text": "{平泉|ひらいずみ}に{行|い}きました。この{地図|ちず}では、{駅|えき}の{左|ひだり}に{寺|てら}があります。{駅|えき}の{右|みぎ}に{店|みせ}があります。"
+        },
+        {
+          "type": "text",
+          "text": "{公園|こうえん}で{休|やす}みました。そして、{本|ほん}を{読|よ}みました。この{場所|ばしょ}は{静|しず}かです。"
+        },
+        {
+          "type": "text",
+          "text": "あそこは{店|みせ}ではありません。あそこに{店|みせ}はありません。でも、ここに{店|みせ}があります。"
+        },
+        {
+          "type": "text",
+          "text": "{九時半|くじはん}に{公園|こうえん}で{友|とも}だちに{会|あ}いました。{私|わたし}と{友|とも}だちは{二人|ふたり}です。{友|とも}だちと{花巻|はなまき}に{行|い}きました。"
+        },
+        {
+          "type": "text",
+          "text": "{花巻|はなまき}の{公園|こうえん}で{花|はな}を{見|み}ました。この{花|はな}はきれいです。{弘前|ひろさき}でも{花|はな}を{見|み}ました。"
+        },
+        {
+          "type": "text",
+          "text": "{花巻|はなまき}に{温泉|おんせん}があります。{友|とも}だちと{温泉|おんせん}に{入|はい}りました。そして、{休|やす}みました。"
+        },
+        {
+          "type": "text",
+          "text": "{盛岡|もりおか}、{平泉|ひらいずみ}、{花巻|はなまき}に{行|い}きました。{今日|きょう}は{友|とも}だちに{会|あ}いません。{次|つぎ}は{宮城|みやぎ}です。"
+        }
+      ]
+    },
+    {
+      "id": "iwate_r12",
+      "title": "Reading Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Locations:** 岩手/いわて; 盛岡/もりおか; 平泉/ひらいずみ; 花巻/はなまき. Aomori locations are review; 宮城/みやぎ is a preview.",
+            "**Positions:** 上/うえ; 下/した; 中/なか; 外/そと; 左/ひだり; 右/みぎ.",
+            "**Words:** 石/いし; 本/ほん; 休む/やすむ; 花/はな; 友だち/ともだち; 私/わたし; 会う/あう; 温泉/おんせん.",
+            "**Grammar:** ここ/あそこ/どこ; の chains; ありません/いません; ではありません; そして/でも; companion と; meeting-person に.",
+            "**Assisted extension:** location に + も; action-place で + も; 地図では framing. Read with the supplied meaning without adding extra required mastery.",
+            "**Check meaning:** Distinguish “not a shop” from “no shop”; distinguish “with a friend” from “meet a friend”; use the time word to recognise past vs nonpast."
+          ]
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Iwate reading complete",
+    "nextText": "Next: Iwate Test"
+  }
+}

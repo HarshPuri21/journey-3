@@ -1,0 +1,302 @@
+{
+ "schemaVersion": 1,
+ "kind": "radicalSet",
+ "items": [
+  {
+   "id": "radical_sanzui",
+   "char": "氵",
+   "name": "さんずい",
+   "nameRomaji": "sanzui",
+   "meanings": [
+    "water"
+   ],
+   "note": "A shortened form of 水. Often on the left of kanji connected with water or liquid.",
+   "exampleKanji": [
+    "kanji_海",
+    "kanji_河",
+    "kanji_池",
+    "kanji_湖"
+   ]
+  },
+  {
+   "id": "radical_shinnyou",
+   "char": "辶",
+   "name": "しんにょう",
+   "nameRomaji": "shinnyō",
+   "meanings": [
+    "movement",
+    "road"
+   ],
+   "note": "Associated with movement, roads and going from place to place.",
+   "exampleKanji": [
+    "kanji_道",
+    "kanji_近",
+    "kanji_通",
+    "kanji_遠"
+   ]
+  },
+  {
+   "id": "radical_hi",
+   "char": "匕",
+   "name": "ひ",
+   "nameRomaji": "hi",
+   "meanings": [
+    "spoon"
+   ],
+   "note": "The traditional radical of 北, but this does not mean 匕 = north.",
+   "exampleKanji": [
+    "kanji_北"
+   ]
+  },
+  {
+   "id": "radical_ki",
+   "char": "木",
+   "name": "き",
+   "nameRomaji": "ki",
+   "meanings": [
+    "tree",
+    "wood"
+   ],
+   "note": "Looks like a tree. Appears in kanji about trees and things made of wood.",
+   "exampleKanji": [
+    "kanji_札",
+    "kanji_樽",
+    "kanji_木"
+   ]
+  },
+  {
+   "id": "radical_haba",
+   "char": "巾",
+   "name": "はば",
+   "nameRomaji": "haba",
+   "meanings": [
+    "cloth",
+    "towel"
+   ],
+   "note": "A hanging cloth. Appears in kanji about cloth and fabric.",
+   "exampleKanji": [
+    "kanji_幌"
+   ]
+  },
+  {
+   "id": "radical_ukebako",
+   "char": "凵",
+   "name": "うけばこ",
+   "nameRomaji": "ukebako",
+   "meanings": [
+    "open box",
+    "container"
+   ],
+   "note": "An open container.",
+   "exampleKanji": [
+    "kanji_函"
+   ]
+  },
+  {
+   "id": "radical_shoku",
+   "char": "食",
+   "name": "しょくへん",
+   "nameRomaji": "shokuhen",
+   "meanings": [
+    "eat",
+    "food"
+   ],
+   "note": "On the left side of a kanji it is often written 飠.",
+   "exampleKanji": [
+    "kanji_館"
+   ]
+  },
+  {
+   "id": "radical_juu",
+   "char": "十",
+   "name": "じゅう",
+   "nameRomaji": "jū",
+   "meanings": [
+    "ten"
+   ],
+   "note": "The number ten.",
+   "exampleKanji": [
+    "kanji_千",
+    "kanji_十"
+   ]
+  },
+  {
+   "id": "radical_tome",
+   "char": "止",
+   "name": "とめる",
+   "nameRomaji": "tomeru",
+   "meanings": [
+    "stop",
+    "foot"
+   ],
+   "note": "Originally a picture of a foot.",
+   "exampleKanji": [
+    "kanji_歳"
+   ]
+  },
+  {
+   "id": "radical_shou",
+   "char": "小",
+   "name": "しょう",
+   "nameRomaji": "shō",
+   "meanings": [
+    "small"
+   ],
+   "note": "The component for small things.",
+   "exampleKanji": [
+    "kanji_小"
+   ]
+  },
+  {
+   "id": "radical_nichi",
+   "char": "日",
+   "name": "ひ",
+   "nameRomaji": "hi",
+   "meanings": [
+    "sun",
+    "day"
+   ],
+   "note": "A picture of the sun.",
+   "exampleKanji": [
+    "kanji_旭",
+    "kanji_日"
+   ]
+  },
+  {
+   "id": "radical_kawa",
+   "char": "川",
+   "name": "かわ",
+   "nameRomaji": "kawa",
+   "meanings": [
+    "river"
+   ],
+   "note": "Flowing water.",
+   "exampleKanji": [
+    "kanji_川",
+    "kanji_釧"
+   ]
+  },
+  {
+   "id": "radical_hitsuji",
+   "char": "羊",
+   "name": "ひつじ",
+   "nameRomaji": "hitsuji",
+   "meanings": [
+    "sheep"
+   ],
+   "note": "A sheep.",
+   "exampleKanji": [
+    "kanji_美"
+   ]
+  },
+  {
+   "id": "radical_tama",
+   "char": "玉",
+   "name": "たま",
+   "nameRomaji": "tama",
+   "meanings": [
+    "jewel"
+   ],
+   "note": "Often written 王 on the left side of a kanji.",
+   "exampleKanji": [
+    "kanji_瑛"
+   ]
+  },
+  {
+   "id": "radical_ukanmuri",
+   "char": "宀",
+   "name": "うかんむり",
+   "nameRomaji": "ukanmuri",
+   "meanings": [
+    "roof"
+   ],
+   "note": "A roof: kanji about houses and shelter.",
+   "exampleKanji": [
+    "kanji_富"
+   ]
+  },
+  {
+   "id": "radical_kon",
+   "char": "艮",
+   "name": "こん",
+   "nameRomaji": "kon",
+   "meanings": [
+    "stopping"
+   ],
+   "note": "A rare radical.",
+   "exampleKanji": [
+    "kanji_良"
+   ]
+  },
+  {
+   "id": "radical_sato",
+   "char": "里",
+   "name": "さと",
+   "nameRomaji": "sato",
+   "meanings": [
+    "village",
+    "land"
+   ],
+   "note": "Kanji about villages and land.",
+   "exampleKanji": [
+    "kanji_野"
+   ]
+  },
+  {
+   "id": "radical_kane",
+   "char": "金",
+   "name": "かねへん",
+   "nameRomaji": "kanehen",
+   "meanings": [
+    "metal",
+    "gold"
+   ],
+   "note": "On the left side of a kanji it marks metal things.",
+   "exampleKanji": [
+    "kanji_釧",
+    "kanji_金"
+   ]
+  },
+  {
+   "id": "radical_ashi",
+   "char": "足",
+   "name": "あしへん",
+   "nameRomaji": "ashihen",
+   "meanings": [
+    "foot",
+    "leg"
+   ],
+   "note": "Kanji about feet, walking and roads.",
+   "exampleKanji": [
+    "kanji_路"
+   ]
+  },
+  {
+   "id": "radical_hatsugashira",
+   "char": "癶",
+   "name": "はつがしら",
+   "nameRomaji": "hatsugashira",
+   "meanings": [
+    "footsteps"
+   ],
+   "note": "Two feet stepping out; sits at the top of 登.",
+   "exampleKanji": [
+    "kanji_登"
+   ]
+  },
+  {
+   "id": "radical_katana",
+   "char": "刀",
+   "name": "かたな",
+   "nameRomaji": "katana",
+   "meanings": [
+    "sword",
+    "knife"
+   ],
+   "note": "Written 刂 on the right side of a kanji (りっとう).",
+   "exampleKanji": [
+    "kanji_別"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_noun_past",
+      "title": "Polite noun past",
+      "pattern": "N でした",
+      "explanation": "水です becomes 水でした. Contrast い-adjective かったです and verb ました."
+    },
+    {
+      "id": "grammar_writing_surface_ni",
+      "title": "に for the writing surface",
+      "pattern": "surface に 文/字 を 書きます",
+      "explanation": "The surface receiving writing uses に; the object uses を and the activity's place uses で."
+    },
+    {
+      "id": "grammar_daily_time",
+      "title": "Broad times of day",
+      "pattern": "朝/昼/夜、action",
+      "explanation": "The main routine models use bare broad times, unlike clock time に. This is a default model, not a ban on context-dependent 朝に/夜に."
+    },
+    {
+      "id": "grammar_frequency_basic",
+      "title": "Frequency words",
+      "pattern": "毎日 / いつも / 時々 + action",
+      "explanation": "Every day, always/usually and sometimes describe recurrence. The ordinary 毎日 model has no に; 時々 is a whole word with an iteration mark."
+    },
+    {
+      "id": "grammar_already_past",
+      "title": "Already completed",
+      "pattern": "もう + polite past",
+      "explanation": "もう本を読みました states completed reading by now. It does not merely state frequency."
+    },
+    {
+      "id": "grammar_not_yet_reply",
+      "title": "Not yet: the taught reply",
+      "pattern": "もう…ましたか。→ いいえ、まだです。",
+      "explanation": "The reply means not yet for the queried action. Fuller ていません completion grammar is left for later."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "packManifest",
+  "packId": "gunma",
+  "type": "prefecture",
+  "contentVersion": 1,
+  "engineSchemaMin": 1,
+  "title": "群馬",
+  "titleEn": "Gunma",
+  "cover": "assets/cover.png",
+  "assets": [
+    "assets/cover.png"
+  ],
+  "dependencies": [
+    "hokkaido",
+    "aomori",
+    "iwate",
+    "miyagi",
+    "akita",
+    "yamagata",
+    "fukushima",
+    "ibaraki",
+    "tochigi"
+  ],
+  "unlock": [
+    {
+      "type": "prefectureComplete",
+      "ref": "tochigi"
+    }
+  ],
+  "completion": [
+    {
+      "type": "testPassed",
+      "ref": "gunma/gunma_final"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "maebashi",
+      "file": "chapters/maebashi.json",
+      "map": {
+        "x": 0.15,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "takasaki",
+      "file": "chapters/takasaki.json",
+      "map": {
+        "x": 0.3833333333333333,
+        "y": 0.4
+      }
+    },
+    {
+      "id": "kusatsu",
+      "file": "chapters/kusatsu.json",
+      "map": {
+        "x": 0.6166666666666666,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "minakami",
+      "file": "chapters/minakami.json",
+      "map": {
+        "x": 0.8499999999999999,
+        "y": 0.8
+      }
+    }
+  ],
+  "knowledge": {
+    "kanji": "knowledge/kanji.json",
+    "radicals": "knowledge/radicals.json",
+    "vocabulary": "knowledge/vocabulary.json",
+    "grammar": "knowledge/grammar.json",
+    "sentences": "knowledge/sentences.json"
+  },
+  "questionBank": "tests/questions.json",
+  "reading": {
+    "id": "gunma_reading",
+    "title": "Gunma Reading Journey",
+    "file": "reading/gunma_reading.json",
+    "unlock": [
+      {
+        "type": "chapterComplete",
+        "ref": "gunma/minakami"
+      }
+    ]
+  },
+  "tests": [
+    {
+      "id": "gunma_final",
+      "title": "Gunma Test",
+      "questionCount": 30,
+      "passRatio": 0.7,
+      "tags": [
+        "gunma_final"
+      ],
+      "quotas": {
+        "kanji": 5,
+        "radical": 5,
+        "numbers": 5,
+        "vocabulary": 5,
+        "grammar": 5,
+        "reading": 5
+      },
+      "unlock": [
+        {
+          "type": "lessonComplete",
+          "ref": "gunma/gunma_reading"
+        }
+      ]
+    }
+  ],
+  "completionCriteria": [
+    "Read the location names as complete words.",
+    "Recognise the assigned core words and their sentence roles.",
+    "Retrieve the taught radicals and modern component distinctions.",
+    "Complete the location lessons and the thirty-sentence reading.",
+    "Pass the thirty-question prefecture assessment at 21/30."
+  ]
+}

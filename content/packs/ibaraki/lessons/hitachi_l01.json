@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "hitachi_l01",
+  "number": 3,
+  "title": "Hitachi — 日立",
+  "goal": "Read compass directions and simple station-exit/map descriptions.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_東",
+    "kanji_西",
+    "kanji_南"
+  ],
+  "encounterKanji": [
+    "kanji_三",
+    "kanji_二",
+    "kanji_京",
+    "kanji_今",
+    "kanji_会",
+    "kanji_公",
+    "kanji_北",
+    "kanji_十",
+    "kanji_午",
+    "kanji_友",
+    "kanji_口",
+    "kanji_右",
+    "kanji_四",
+    "kanji_園",
+    "kanji_学",
+    "kanji_嶋",
+    "kanji_川",
+    "kanji_左",
+    "kanji_帰",
+    "kanji_店",
+    "kanji_後",
+    "kanji_日",
+    "kanji_時",
+    "kanji_木",
+    "kanji_本",
+    "kanji_来",
+    "kanji_校",
+    "kanji_町",
+    "kanji_私",
+    "kanji_立",
+    "kanji_行",
+    "kanji_見",
+    "kanji_間",
+    "kanji_駅",
+    "kanji_鹿"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A map near the coast",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Ibaraki includes a Pacific coastline. In Hitachi we use a deliberately fictional map with four station exits, shops and a park. It is a language diagram, not directions to a real facility."
+        },
+        {
+          "type": "text",
+          "text": "**日立の駅に来ました。** ひたちの えきに きました。 — I came to the station in Hitachi."
+        },
+        {
+          "type": "text",
+          "text": "We already know 左/右 and 北. A compass direction remains the same when a traveller turns around; left/right depend on orientation. The next three kanji complete the four-way compass set."
+        }
+      ]
+    },
+    {
+      "id": "inside_hitachi",
+      "title": "Inside 日立",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 日 · **Reading/meaning orientation:** sun/day; ひ here · **Radical/components:** 日, ひ; whole rectangular form with middle horizontal · **Status:** Formal review.",
+            "**Character:** 立 · **Reading/meaning orientation:** stand; たち here, verb 立つ / たつ · **Radical/components:** 立, たつ; whole standing-person-derived form · **Status:** New formal study in the next location; helped name encounter here."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**日立 / ひたち** is a whole name. The everyday verb is **立つ / たつ**, not ひたち. **日本 / にほん** shows another 日 reading; dictionary radicals and word readings answer different questions."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_日",
+            "kanji_立"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tatsu"
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c03",
+      "title": "東: east",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**東 / ひがし — east; 東口 / ひがしぐち — east exit.** 東 has radical 木, き; its modern form looks like a central 日 crossed by 木-like strokes. This is a recognition observation, not proof of the popular “sun in a tree” etymology."
+        },
+        {
+          "type": "text",
+          "text": "**東口に店があります。** ひがしぐちに みせが あります。 — There is a shop at the east exit."
+        },
+        {
+          "type": "text",
+          "text": "**東京 / とうきょう — Tokyo** is a helped future-destination word: 東 uses とう there; 京 stays an encounter until later allocation. 口 changes to ぐち in 東口, learned as a word."
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c04",
+      "title": "西: west",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**西 / にし — west; 西口 / にしぐち — west exit.** 西 belongs to the 西/襾 indexing family; learn the enclosed top-and-bottom arrangement as a whole shape. It is not 四, which means four and uses different inner strokes."
+        },
+        {
+          "type": "text",
+          "text": "**西口に友だちがいます。** にしぐちに ともだちが います。 — My friend is at the west exit."
+        },
+        {
+          "type": "text",
+          "text": "あります suits the shop in the last card; います suits the friend. A compass word does not decide which existence verb to use. The type of thing/person does."
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c05",
+      "title": "南: south, completing the compass",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**南 / みなみ — south; 南口 / みなみぐち — south exit; 北口 / きたぐち — north exit.** 南's radical is 十, じゅう; the lower framed interior is a recognition shape, not a new ordinary word. 北 was studied in Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "**南口はここです。** みなみぐちは ここです。 — The south exit is here."
+        },
+        {
+          "type": "text",
+          "text": "**北口はあそこです。** きたぐちは あそこです。 — The north exit is over there."
+        },
+        {
+          "type": "text",
+          "text": "These model exits do not describe Hitachi Station's real current layout. Pronounce each compound as taught rather than attaching the standalone くち unchanged."
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c06",
+      "title": "Compass versus left and right",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Imagine a map with **north at the top**. East is on its right, west on its left, south at the bottom. If you turn the page, the compass directions stay geographic, while the page's left and right move. In a face-to-face conversation people's left/right can differ."
+        },
+        {
+          "type": "text",
+          "text": "**店は駅の東にあります。** みせは えきの ひがしに あります。 — The shop is east of the station."
+        },
+        {
+          "type": "text",
+          "text": "**友だちは私の右にいます。** ともだちは わたしの みぎに います。 — My friend is on my right."
+        },
+        {
+          "type": "text",
+          "text": "の links the reference place/person to the direction or side. We are not teaching a “turn right” verb yet."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_compass_reference"
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c07",
+      "title": "Location and destination",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**西口にいます。** にしぐちに います。 — I am at the west exit."
+        },
+        {
+          "type": "text",
+          "text": "**西口へ行きます。** にしぐちへ いきます。 — I go toward/to the west exit."
+        },
+        {
+          "type": "text",
+          "text": "**西口で友だちに会います。** にしぐちで ともだちに あいます。 — I meet my friend at the west exit."
+        },
+        {
+          "type": "text",
+          "text": "に marks the place of existence, へ marks the direction of movement (read え), and で marks where the meeting action happens. Destination に is also possible with 行きます; the course does not treat へ as the only acceptable destination particle."
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c08",
+      "title": "A fictional map in words",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**駅の東に店があります。** えきの ひがしに みせが あります。 — There is a shop east of the station."
+        },
+        {
+          "type": "text",
+          "text": "**駅の西に学校があります。** えきの にしに がっこうが あります。 — There is a school west of the station."
+        },
+        {
+          "type": "text",
+          "text": "**駅の南に公園があります。** えきの みなみに こうえんが あります。 — There is a park south of the station."
+        },
+        {
+          "type": "text",
+          "text": "**駅の北に川があります。** えきの きたに かわが あります。 — There is a river north of the station."
+        },
+        {
+          "type": "text",
+          "text": "公園 is helped. Use all four directions, then identify the common station reference. This map is invented."
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c09",
+      "title": "Combine the time and map",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**午後二時に東口で会います。** ごごにじに ひがしぐちで あいます。 — We meet at the east exit at 2 PM."
+        },
+        {
+          "type": "text",
+          "text": "**二時間町を見ます。** にじかん まちを みます。 — We look around the town for two hours."
+        },
+        {
+          "type": "text",
+          "text": "**四時に駅に帰ります。** よじに えきに かえります。 — We return to the station at four."
+        },
+        {
+          "type": "text",
+          "text": "The time point and the activity place need not share a particle. の in 東口の店 would connect nouns; で in 東口で会います relates a place to an action."
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c10",
+      "title": "Where are you? dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: 今、どこにいますか。** いま、どこに いますか。 — Where are you now?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 西口にいます。** にしぐちに います。 — I am at the west exit."
+        },
+        {
+          "type": "text",
+          "text": "**A: 私は東口にいます。** わたしは ひがしぐちに います。 — I am at the east exit."
+        },
+        {
+          "type": "text",
+          "text": "**B: 東口に行きます。** ひがしぐちに いきます。 — I will go to the east exit."
+        },
+        {
+          "type": "text",
+          "text": "This solves a meeting mismatch with known language. Avoid assuming “opposite exit” gives a walking time; no real distance has been supplied."
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c11",
+      "title": "Practice: point to the reference",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 日立, 東, 西, 南, 北. **Answers:** ひたち; ひがし; にし; みなみ; きた.",
+            "Read 東口 and 南口. **Answers:** ひがしぐち; みなみぐち.",
+            "Which indexing radical is taught for 東? **Answer:** 木.",
+            "Complete a person's location: 西口＿＿います。 **Answer:** に.",
+            "Complete the meeting-place model: 東口＿＿会います。 **Answer:** で.",
+            "On the invented map, what is west of the station? **Answer:** 学校 / がっこう."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hitachi_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "日立 is ひたち. 東/西/南/北 are ひがし/にし/みなみ/きた. Exits combine each direction with 口 read ぐち. Compass directions and left/right are different reference systems. Existence uses に, activity location uses で; destinations can use に or へ with movement verbs."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “We meet at the south exit at 3 PM.” **Model:** 午後三時に南口で会います。 ごごさんじに みなみぐちで あいます。 Next we put standing and waiting into an action scene in 鹿嶋."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_東",
+            "kanji_西",
+            "kanji_南"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午後"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_三時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_午後三時"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_日立"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_南口"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_鹿嶋"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Hitachi complete",
+    "nextText": "Next: Kashima",
+    "nextChapter": "ibaraki/kashima"
+  }
+}

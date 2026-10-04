@@ -1,0 +1,1148 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "hakodate_l01",
+  "number": 2,
+  "title": "Hakodate",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_函",
+    "kanji_館",
+    "kanji_図",
+    "kanji_書",
+    "kanji_映",
+    "kanji_画",
+    "kanji_美",
+    "kanji_術"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Welcome to Hakodate",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{函館|はこだて}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "はこだて"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Hakodate"
+        },
+        {
+          "type": "text",
+          "text": "We travel south through Hokkaido to **Hakodate**, a historic city in southern Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "The city is famous for its port, mountain views and historic districts."
+        },
+        {
+          "type": "text",
+          "text": "Now let's look at its name."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "函"
+        },
+        {
+          "type": "text",
+          "text": "**はこ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "box / case"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "館"
+        },
+        {
+          "type": "text",
+          "text": "**かん / やかた**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "building / hall / mansion"
+        },
+        {
+          "type": "text",
+          "text": "Together:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{函館|はこだて}"
+        },
+        {
+          "type": "text",
+          "text": "**はこだて**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Hakodate"
+        },
+        {
+          "type": "text",
+          "text": "The reading of a place name does not always follow the simple reading of each kanji."
+        },
+        {
+          "type": "text",
+          "text": "That is normal."
+        },
+        {
+          "type": "text",
+          "text": "Place names are one reason Japanese learners gradually build familiarity rather than relying entirely on rules."
+        }
+      ]
+    },
+    {
+      "id": "inside_hakodate",
+      "title": "Inside 函館",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {函館|はこだて}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_函",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_館",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ukebako"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_shoku"
+        },
+        {
+          "type": "callout",
+          "text": "函 hides an open box (凵) and 館 carries the food component 食. They hint at what the kanji is about - but the reading はこだて still has to be learned as a name. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "The Kanji 館",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "館"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "かん"
+        },
+        {
+          "type": "text",
+          "text": "**kan**"
+        },
+        {
+          "type": "text",
+          "text": "One common meaning is:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "building / hall"
+        },
+        {
+          "type": "text",
+          "text": "You will see it in words such as:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{図書館|としょかん}"
+        },
+        {
+          "type": "text",
+          "text": "**としょかん**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "library"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{映画館|えいがかん}"
+        },
+        {
+          "type": "text",
+          "text": "**えいがかん**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "movie theater"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美術館|びじゅつかん}"
+        },
+        {
+          "type": "text",
+          "text": "**びじゅつかん**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "art museum"
+        },
+        {
+          "type": "text",
+          "text": "So when you see:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "館"
+        },
+        {
+          "type": "text",
+          "text": "you can begin thinking:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "\"A building or facility.\""
+        },
+        {
+          "type": "text",
+          "text": "This is a useful kanji because it will appear again and again."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_図書館"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_映画館"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_美術館"
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "Our First Counting Kanji",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Now we need one of the most important sets of kanji in Japanese."
+        },
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{一|いち} {二|に} {三|さん}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一|いち}"
+        },
+        {
+          "type": "text",
+          "text": "**いち**\none"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二|に}"
+        },
+        {
+          "type": "text",
+          "text": "**に**\ntwo"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三|さん}"
+        },
+        {
+          "type": "text",
+          "text": "**さん**\nthree"
+        },
+        {
+          "type": "text",
+          "text": "These are among the simplest kanji to recognize because their shapes reflect the numbers they represent."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一|いち}"
+        },
+        {
+          "type": "text",
+          "text": "one line"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二|に}"
+        },
+        {
+          "type": "text",
+          "text": "two lines"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三|さん}"
+        },
+        {
+          "type": "text",
+          "text": "three lines"
+        },
+        {
+          "type": "text",
+          "text": "This is a good example of how the shape of a kanji can sometimes help you remember it."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_一",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_二",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_三",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "Four to Six",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{四|よん} {五|ご} {六|ろく}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{四|よん}"
+        },
+        {
+          "type": "text",
+          "text": "**よん / し**\nfour"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{五|ご}"
+        },
+        {
+          "type": "text",
+          "text": "**ご**\nfive"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{六|ろく}"
+        },
+        {
+          "type": "text",
+          "text": "**ろく**\nsix"
+        },
+        {
+          "type": "text",
+          "text": "For beginners:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "4"
+        },
+        {
+          "type": "text",
+          "text": "Usually learn:"
+        },
+        {
+          "type": "text",
+          "text": "**よん**"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "5"
+        },
+        {
+          "type": "text",
+          "text": "**ご**"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "6"
+        },
+        {
+          "type": "text",
+          "text": "**ろく**"
+        },
+        {
+          "type": "text",
+          "text": "Some numbers have multiple readings. We will learn which forms are useful in different situations."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_四",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_五",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_六",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "Seven to Ten",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{七|なな} {八|はち} {九|きゅう} {十|じゅう}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{七|なな}"
+        },
+        {
+          "type": "text",
+          "text": "**なな / しち**\nseven"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{八|はち}"
+        },
+        {
+          "type": "text",
+          "text": "**はち**\neight"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{九|きゅう}"
+        },
+        {
+          "type": "text",
+          "text": "**きゅう / く**\nnine"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十|じゅう}"
+        },
+        {
+          "type": "text",
+          "text": "**じゅう**\nten"
+        },
+        {
+          "type": "text",
+          "text": "So our first number set is:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "1 — {一|いち} — いち",
+            "2 — {二|に} — に",
+            "3 — {三|さん} — さん",
+            "4 — {四|よん} — よん",
+            "5 — {五|ご} — ご",
+            "6 — {六|ろく} — ろく",
+            "7 — {七|なな} — なな",
+            "8 — {八|はち} — はち",
+            "9 — {九|きゅう} — きゅう",
+            "10 — {十|じゅう} — じゅう"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "You will use these constantly."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_七",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_八",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_九",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_十",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "Numbers Become Words",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Japanese numbers can combine."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十|じゅう}"
+        },
+        {
+          "type": "text",
+          "text": "**じゅう**"
+        },
+        {
+          "type": "text",
+          "text": "10"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十一|じゅういち}"
+        },
+        {
+          "type": "text",
+          "text": "**じゅういち**"
+        },
+        {
+          "type": "text",
+          "text": "11"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{十二|じゅうに}"
+        },
+        {
+          "type": "text",
+          "text": "**じゅうに**"
+        },
+        {
+          "type": "text",
+          "text": "12"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二十|にじゅう}"
+        },
+        {
+          "type": "text",
+          "text": "**にじゅう**"
+        },
+        {
+          "type": "text",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二十一|にじゅういち}"
+        },
+        {
+          "type": "text",
+          "text": "**にじゅういち**"
+        },
+        {
+          "type": "text",
+          "text": "21"
+        },
+        {
+          "type": "text",
+          "text": "The structure is logical:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "20 + 1 = 21"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二十|にじゅう}"
+        },
+        {
+          "type": "text",
+          "text": "20"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{一|いち}"
+        },
+        {
+          "type": "text",
+          "text": "1"
+        },
+        {
+          "type": "text",
+          "text": "→"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{二十一|にじゅういち}"
+        },
+        {
+          "type": "text",
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "Simple Sentences",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Let's use numbers."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "これは{三|さん}です。"
+        },
+        {
+          "type": "text",
+          "text": "**これは さんです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Kore wa san desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "This is three."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "これ"
+        },
+        {
+          "type": "text",
+          "text": "this"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "は"
+        },
+        {
+          "type": "text",
+          "text": "topic marker"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{三|さん}"
+        },
+        {
+          "type": "text",
+          "text": "three"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "です"
+        },
+        {
+          "type": "text",
+          "text": "is"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "text",
+          "text": "Now:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{四|よん}は{四|よん}です。"
+        },
+        {
+          "type": "text",
+          "text": "**よんは よんです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Yon wa yon desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Four is four."
+        },
+        {
+          "type": "text",
+          "text": "This sounds silly, but it teaches an important sentence structure:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "**A は B です。**"
+        },
+        {
+          "type": "text",
+          "text": "A is B."
+        },
+        {
+          "type": "text",
+          "text": "You will use this structure constantly."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_hakodate_number"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_a_wa_b_desu"
+        }
+      ]
+    },
+    {
+      "id": "card_08",
+      "title": "これ / それ / あれ",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Japanese has three useful demonstratives."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "これ"
+        },
+        {
+          "type": "text",
+          "text": "**kore**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "this"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "それ"
+        },
+        {
+          "type": "text",
+          "text": "**sore**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "that"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "あれ"
+        },
+        {
+          "type": "text",
+          "text": "**are**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "that over there"
+        },
+        {
+          "type": "text",
+          "text": "Example:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "これは{五|ご}です。"
+        },
+        {
+          "type": "text",
+          "text": "**これは ごです。**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "This is five."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "それは{六|ろく}です。"
+        },
+        {
+          "type": "text",
+          "text": "**それは ろくです。**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "That is six."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "あれは{七|なな}です。"
+        },
+        {
+          "type": "text",
+          "text": "**あれは ななです。**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "That over there is seven."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_それ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_あれ"
+        }
+      ]
+    },
+    {
+      "id": "card_09",
+      "title": "Hakodate in a Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{函館|はこだて}は{北海道|ほっかいどう}の{町|まち}です。"
+        },
+        {
+          "type": "text",
+          "text": "**はこだては ほっかいどうの まちです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Hakodate wa Hokkaidō no machi desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Hakodate is a city in Hokkaido."
+        },
+        {
+          "type": "text",
+          "text": "Breakdown:"
+        },
+        {
+          "type": "text",
+          "text": "**{函館|はこだて}** — Hakodate\n**は** — topic\n**{北海道|ほっかいどう}** — Hokkaido\n**です** — is"
+        },
+        {
+          "type": "text",
+          "text": "Notice that we are reusing knowledge from Lesson 1."
+        },
+        {
+          "type": "text",
+          "text": "This is deliberate."
+        },
+        {
+          "type": "text",
+          "text": "Learning isn't a series of disconnected lessons."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_hakodate_location"
+        }
+      ]
+    },
+    {
+      "id": "card_10",
+      "title": "Mini Question",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "You don't have to answer. Just think."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Which means \"three\"?"
+        },
+        {
+          "type": "text",
+          "text": "**A. {二|に}**\n**B. {三|さん}**\n**C. {五|ご}**\n**D. {七|なな}**"
+        },
+        {
+          "type": "text",
+          "text": "Answer:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "B — {三|さん}"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "**{函館|はこだて}**\nはこだて\nHakodate"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "**函** — box / case"
+        },
+        {
+          "type": "text",
+          "text": "**館** — building / hall"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Numbers"
+        },
+        {
+          "type": "text",
+          "text": "{一|いち} — いち — 1\n{二|に} — に — 2\n{三|さん} — さん — 3\n{四|よん} — よん — 4\n{五|ご} — ご — 5\n{六|ろく} — ろく — 6\n{七|なな} — なな — 7\n{八|はち} — はち — 8\n{九|きゅう} — きゅう — 9\n{十|じゅう} — じゅう — 10"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "**A は B です。**"
+        },
+        {
+          "type": "text",
+          "text": "A is B."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "これ — this\nそれ — that\nあれ — that over there\n{日本|にほん} — Japan\n{北海道|ほっかいどう} — Hokkaido\n{函館|はこだて} — Hakodate"
+        }
+      ]
+    }
+  ],
+  "goal": "Learn the kanji 函・館 Learn the numbers 一〜十 Understand basic counting Learn basic 「〜です」 sentences Introduce これ / それ / あれ Begin using numbers in real situations",
+  "estimatedMinutes": 20,
+  "coreKanji": [
+    "kanji_一",
+    "kanji_二",
+    "kanji_三",
+    "kanji_四",
+    "kanji_五",
+    "kanji_六",
+    "kanji_七",
+    "kanji_八",
+    "kanji_九",
+    "kanji_十"
+  ],
+  "completion": {
+    "title": "Hakodate complete",
+    "nextText": "Next: Chitose",
+    "nextChapter": "hokkaido/chitose"
+  }
+}

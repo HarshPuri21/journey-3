@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "shiroishi",
+  "name": "白石",
+  "nameEn": "Shiroishi",
+  "reading": "しろいし",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "miyagi/ishinomaki"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "shiroishi_l01",
+      "file": "lessons/shiroishi_l01.json"
+    }
+  ]
+}

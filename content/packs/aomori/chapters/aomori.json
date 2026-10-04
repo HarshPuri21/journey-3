@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "aomori",
+  "name": "青森",
+  "nameEn": "Aomori City",
+  "reading": "あおもり",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "aomori_l01",
+      "file": "lessons/aomori_l01.json"
+    }
+  ]
+}

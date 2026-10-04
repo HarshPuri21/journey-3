@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_siblings_context",
+      "title": "Sibling relationships and polite terms",
+      "pattern": "兄/姉/弟/妹 versus polite reference words",
+      "explanation": "Own-family and someone else's/familiar reference terms vary by context. Learn お兄さん/お姉さん as whole words; do not infer a family relationship from a photograph or person phrase."
+    },
+    {
+      "id": "grammar_suki_ga",
+      "title": "The liked thing with が",
+      "pattern": "person は thing が 好きです",
+      "explanation": "好き is a な-adjective despite its final kana き. The basic model marks the liked item with が; 好きな本 uses な before the noun."
+    },
+    {
+      "id": "grammar_skill_ga",
+      "title": "A skill area with が",
+      "pattern": "絵 が 上手/下手 です",
+      "explanation": "The activity/area takes が in the supplied model. 上手 and 下手 describe skill, while 好き and 嫌い describe preference; none substitutes for a productive ability construction."
+    },
+    {
+      "id": "grammar_qualitative_quantity",
+      "title": "Qualitative amount versus exact count",
+      "pattern": "人が多い / 少ない / たくさんの人 / 少し飲みます",
+      "explanation": "Many/few do not give an exact count. Use the supplied noun-quantity model, avoiding mechanical 多い人 conversion; 少し describes a small amount of the action."
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_水戸",
+      "word": "水戸",
+      "reading": "みと",
+      "meanings": [
+        "Mito, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_戸",
+        "kanji_水"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r01_s01"
+      ]
+    },
+    {
+      "id": "vocab_今",
+      "word": "今",
+      "reading": "いま",
+      "meanings": [
+        "now"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_今"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r01_s01",
+        "sent_ibaraki_r03_s02"
+      ]
+    },
+    {
+      "id": "vocab_今朝",
+      "word": "今朝",
+      "reading": "けさ",
+      "meanings": [
+        "this morning, whole word"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_今",
+        "kanji_朝"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_今月",
+      "word": "今月",
+      "reading": "こんげつ",
+      "meanings": [
+        "this month"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_今",
+        "kanji_月"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_今週",
+      "word": "今週",
+      "reading": "こんしゅう",
+      "meanings": [
+        "this week"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_今",
+        "kanji_週"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r01_s01"
+      ]
+    },
+    {
+      "id": "vocab_今年",
+      "word": "今年",
+      "reading": "ことし",
+      "meanings": [
+        "this year, whole word"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_今",
+        "kanji_年"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r03_s02"
+      ]
+    },
+    {
+      "id": "vocab_時間",
+      "word": "時間",
+      "reading": "じかん",
+      "meanings": [
+        "time; duration in hours"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_時",
+        "kanji_間"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r02_s01",
+        "sent_ibaraki_r04_s03",
+        "sent_ibaraki_r09_s03"
+      ]
+    },
+    {
+      "id": "vocab_一時間",
+      "word": "一時間",
+      "reading": "いちじかん",
+      "meanings": [
+        "one hour"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_一",
+        "kanji_時",
+        "kanji_間"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r02_s01"
+      ]
+    },
+    {
+      "id": "vocab_二時間",
+      "word": "二時間",
+      "reading": "にじかん",
+      "meanings": [
+        "two hours"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_二",
+        "kanji_時",
+        "kanji_間"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r04_s03",
+        "sent_ibaraki_r09_s03"
+      ]
+    },
+    {
+      "id": "vocab_三時間",
+      "word": "三時間",
+      "reading": "さんじかん",
+      "meanings": [
+        "three hours"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_三",
+        "kanji_時",
+        "kanji_間"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_何時間",
+      "word": "何時間",
+      "reading": "なんじかん",
+      "meanings": [
+        "how many hours"
+      ],
+      "pos": "question",
+      "kanji": [
+        "kanji_何",
+        "kanji_時",
+        "kanji_間"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_どのくらい",
+      "word": "どのくらい",
+      "reading": "どのくらい",
+      "meanings": [
+        "how long; about how much"
+      ],
+      "pos": "question",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_午前九時",
+      "word": "午前九時",
+      "reading": "ごぜんくじ",
+      "meanings": [
+        "nine a.m."
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_九",
+        "kanji_前",
+        "kanji_午",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r01_s02"
+      ]
+    },
+    {
+      "id": "vocab_午前十時",
+      "word": "午前十時",
+      "reading": "ごぜんじゅうじ",
+      "meanings": [
+        "ten a.m."
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_前",
+        "kanji_十",
+        "kanji_午",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r02_s03",
+        "sent_ibaraki_r04_s02"
+      ]
+    },
+    {
+      "id": "vocab_午後二時",
+      "word": "午後二時",
+      "reading": "ごごにじ",
+      "meanings": [
+        "two p.m."
+      ],
+      "pos": "time",
+      "kanji": [
+        "kanji_二",
+        "kanji_午",
+        "kanji_後",
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r08_s03"
+      ]
+    },
+    {
+      "id": "vocab_つくば",
+      "word": "つくば",
+      "reading": "つくば",
+      "meanings": [
+        "Tsukuba, current hiragana city label"
+      ],
+      "pos": "proper noun",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_ibaraki_r03_s01",
+        "sent_ibaraki_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_つくば市",
+      "word": "つくば市",
+      "reading": "つくばし",
+      "meanings": [
+        "Tsukuba City, modern label"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_市"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_筑波",
+      "word": "筑波",
+      "reading": "つくば",
+      "meanings": [
+        "related Tsukuba spelling, not replacement of current city label"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_波",
+        "kanji_筑"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_筑波山",
+      "word": "筑波山",
+      "reading": "つくばさん",
+      "meanings": [
+        "Mount Tsukuba, assisted related place word"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_山",
+        "kanji_波",
+        "kanji_筑"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_年",
+      "word": "年",
+      "reading": "とし",
+      "meanings": [
+        "year; counter reading ネン in specified words"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_年"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r03_s02"
+      ]
+    },
+    {
+      "id": "vocab_去年",
+      "word": "去年",
+      "reading": "きょねん",
+      "meanings": [
+        "last year"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_去",
+        "kanji_年"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_来年",
+      "word": "来年",
+      "reading": "らいねん",
+      "meanings": [
+        "next year"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_年",
+        "kanji_来"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_先週",
+      "word": "先週",
+      "reading": "せんしゅう",
+      "meanings": [
+        "last week"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_先",
+        "kanji_週"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_来週",
+      "word": "来週",
+      "reading": "らいしゅう",
+      "meanings": [
+        "next week"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_来",
+        "kanji_週"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_毎週",
+      "word": "毎週",
+      "reading": "まいしゅう",
+      "meanings": [
+        "every week"
+      ],
+      "pos": "frequency",
+      "kanji": [
+        "kanji_毎",
+        "kanji_週"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r03_s03"
+      ]
+    },
+    {
+      "id": "vocab_先月",
+      "word": "先月",
+      "reading": "せんげつ",
+      "meanings": [
+        "last month"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_先",
+        "kanji_月"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_来月",
+      "word": "来月",
+      "reading": "らいげつ",
+      "meanings": [
+        "next month"
+      ],
+      "pos": "time word",
+      "kanji": [
+        "kanji_月",
+        "kanji_来"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_毎月",
+      "word": "毎月",
+      "reading": "まいつき",
+      "meanings": [
+        "every month"
+      ],
+      "pos": "frequency",
+      "kanji": [
+        "kanji_月",
+        "kanji_毎"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_また",
+      "word": "また",
+      "reading": "また",
+      "meanings": [
+        "again"
+      ],
+      "pos": "adverb",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_ibaraki_r04_s01"
+      ]
+    },
+    {
+      "id": "vocab_日立",
+      "word": "日立",
+      "reading": "ひたち",
+      "meanings": [
+        "Hitachi, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_日",
+        "kanji_立"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r05_s01"
+      ]
+    },
+    {
+      "id": "vocab_西",
+      "word": "西",
+      "reading": "にし",
+      "meanings": [
+        "west"
+      ],
+      "pos": "direction",
+      "kanji": [
+        "kanji_西"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r06_s01"
+      ]
+    },
+    {
+      "id": "vocab_東口",
+      "word": "東口",
+      "reading": "ひがしぐち",
+      "meanings": [
+        "east exit"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_口",
+        "kanji_東"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r06_s02",
+        "sent_ibaraki_r06_s03"
+      ]
+    },
+    {
+      "id": "vocab_西口",
+      "word": "西口",
+      "reading": "にしぐち",
+      "meanings": [
+        "west exit"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_口",
+        "kanji_西"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r06_s01"
+      ]
+    },
+    {
+      "id": "vocab_南口",
+      "word": "南口",
+      "reading": "みなみぐち",
+      "meanings": [
+        "south exit"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_南",
+        "kanji_口"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_北口",
+      "word": "北口",
+      "reading": "きたぐち",
+      "meanings": [
+        "north exit"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_北",
+        "kanji_口"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_東京",
+      "word": "東京",
+      "reading": "とうきょう",
+      "meanings": [
+        "Tokyo, assisted word"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_京",
+        "kanji_東"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_鹿嶋",
+      "word": "鹿嶋",
+      "reading": "かしま",
+      "meanings": [
+        "Kashima, Ibaraki city spelling"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_嶋",
+        "kanji_鹿"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r07_s01"
+      ]
+    },
+    {
+      "id": "vocab_鹿嶋市",
+      "word": "鹿嶋市",
+      "reading": "かしまし",
+      "meanings": [
+        "Kashima City, modern spelling"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_嶋",
+        "kanji_市",
+        "kanji_鹿"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_鹿島神宮",
+      "word": "鹿島神宮",
+      "reading": "かしまじんぐう",
+      "meanings": [
+        "Kashima Jingu shrine; related 島 spelling distinct from city 嶋"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_宮",
+        "kanji_島",
+        "kanji_神",
+        "kanji_鹿"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_立つ",
+      "word": "立つ",
+      "reading": "たつ",
+      "meanings": [
+        "stand"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_立"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_待つ",
+      "word": "待つ",
+      "reading": "まつ",
+      "meanings": [
+        "wait"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_待"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_いっしょに",
+      "word": "いっしょに",
+      "reading": "いっしょに",
+      "meanings": [
+        "together"
+      ],
+      "pos": "adverb",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_ibaraki_r08_s01"
+      ]
+    },
+    {
+      "id": "vocab_笠間",
+      "word": "笠間",
+      "reading": "かさま",
+      "meanings": [
+        "Kasama, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_笠",
+        "kanji_間"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_笠",
+      "word": "笠",
+      "reading": "かさ",
+      "meanings": [
+        "woven hat, assisted contrast"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_笠"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_傘",
+      "word": "傘",
+      "reading": "かさ",
+      "meanings": [
+        "umbrella, assisted contrast"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_傘"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_作る",
+      "word": "作る",
+      "reading": "つくる",
+      "meanings": [
+        "make"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_作"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_作文",
+      "word": "作文",
+      "reading": "さくぶん",
+      "meanings": [
+        "composition; written essay"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_作",
+        "kanji_文"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_使い方",
+      "word": "使い方",
+      "reading": "つかいかた",
+      "meanings": [
+        "way of using, assisted whole word"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_使",
+        "kanji_方"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_皿",
+      "word": "皿",
+      "reading": "さら",
+      "meanings": [
+        "plate; dish"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_皿"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r09_s02",
+        "sent_ibaraki_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_お皿",
+      "word": "お皿",
+      "reading": "おさら",
+      "meanings": [
+        "plate with common polite prefix"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_皿"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r09_s02",
+        "sent_ibaraki_r10_s01"
+      ]
+    },
+    {
+      "id": "vocab_茶碗",
+      "word": "茶碗",
+      "reading": "ちゃわん",
+      "meanings": [
+        "rice/tea bowl, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_碗",
+        "kanji_茶"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_兄",
+      "word": "兄",
+      "reading": "あに",
+      "meanings": [
+        "older brother, assisted preview before formal Utsunomiya study"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_兄"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_栃木",
+      "word": "栃木",
+      "reading": "とちぎ",
+      "meanings": [
+        "Tochigi, assisted next prefecture name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_木",
+        "kanji_栃"
+      ],
+      "exampleSentences": [
+        "sent_ibaraki_r10_s03"
+      ]
+    },
+    {
+      "id": "vocab_一日_duration",
+      "word": "一日",
+      "reading": "いちにち",
+      "meanings": [
+        "one whole day, duration; differs from first calendar date ついたち"
+      ],
+      "pos": "duration",
+      "kanji": [
+        "kanji_一",
+        "kanji_日"
+      ],
+      "exampleSentences": []
+    }
+  ]
+}

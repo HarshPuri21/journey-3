@@ -1,0 +1,954 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "hokkaido_reading",
+  "number": 10,
+  "title": "Hokkaido Reading Journey",
+  "goal": "Move from isolated lesson examples into actual Japanese reading, with decreasing furigana assistance.",
+  "encounterKanji": [
+    "kanji_南",
+    "kanji_東",
+    "kanji_春",
+    "kanji_夏",
+    "kanji_秋",
+    "kanji_冬",
+    "kanji_旅",
+    "kanji_字",
+    "kanji_使",
+    "kanji_変",
+    "kanji_最",
+    "kanji_後",
+    "kanji_温",
+    "kanji_泉",
+    "kanji_始",
+    "kanji_数",
+    "kanji_途",
+    "kanji_中",
+    "kanji_毎",
+    "kanji_間",
+    "kanji_入",
+    "kanji_疲",
+    "kanji_休",
+    "kanji_終",
+    "kanji_続",
+    "kanji_次",
+    "kanji_青",
+    "kanji_森",
+    "kanji_体"
+  ],
+  "cards": [
+    {
+      "id": "foundation_core_numbers",
+      "title": "Core Numbers",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "{一|いち}〜{十|じゅう}"
+        },
+        {
+          "type": "text",
+          "text": "{一|いち} — いち — 1\n{二|に} — に — 2\n{三|さん} — さん — 3\n{四|よん} — よん / し — 4\n{五|ご} — ご — 5\n{六|ろく} — ろく — 6\n{七|なな} — なな / しち — 7\n{八|はち} — はち — 8\n{九|きゅう} — きゅう / く — 9\n{十|じゅう} — じゅう — 10"
+        }
+      ]
+    },
+    {
+      "id": "foundation_large_numbers",
+      "title": "Large Numbers",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "{百|ひゃく} — ひゃく — 100\n{千|せん} — せん — 1,000\n{万|まん} — まん — 10,000\n{円|えん} — えん — yen"
+        },
+        {
+          "type": "text",
+          "text": "Important sound changes:"
+        },
+        {
+          "type": "text",
+          "text": "{三百|さんびゃく} — さんびゃく\n{六百|ろっぴゃく} — ろっぴゃく\n{八百|はっぴゃく} — はっぴゃく"
+        },
+        {
+          "type": "text",
+          "text": "{三千|さんぜん} — さんぜん\n{八千|はっせん} — はっせん"
+        }
+      ]
+    },
+    {
+      "id": "foundation_weekdays",
+      "title": "Weekdays",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "{月曜日|げつようび} — げつようび — Monday\n{火曜日|かようび} — かようび — Tuesday\n{水曜日|すいようび} — すいようび — Wednesday\n{木曜日|もくようび} — もくようび — Thursday\n{金曜日|きんようび} — きんようび — Friday\n{土曜日|どようび} — どようび — Saturday\n{日曜日|にちようび} — にちようび — Sunday"
+        },
+        {
+          "type": "text",
+          "text": "Core kanji:"
+        },
+        {
+          "type": "text",
+          "text": "{月|つき} — moon/month\n{火|ひ} — fire\n{水|みず} — water\n{木|き} — tree/wood\n{金|かね} — gold/metal\n{土|つち} — earth\n{日|ひ} — sun/day"
+        }
+      ]
+    },
+    {
+      "id": "foundation_months",
+      "title": "Months",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "{一月|いちがつ} — いちがつ — January\n{二月|にがつ} — にがつ — February\n{三月|さんがつ} — さんがつ — March\n{四月|しがつ} — しがつ — April\n{五月|ごがつ} — ごがつ — May\n{六月|ろくがつ} — ろくがつ — June\n{七月|しちがつ} — しちがつ — July\n{八月|はちがつ} — はちがつ — August\n{九月|くがつ} — くがつ — September\n{十月|じゅうがつ} — じゅうがつ — October\n{十一月|じゅういちがつ} — じゅういちがつ — November\n{十二月|じゅうにがつ} — じゅうにがつ — December"
+        }
+      ]
+    },
+    {
+      "id": "foundation_basic_date_readings",
+      "title": "Basic Date Readings",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "{一日|ついたち} — ついたち\n{二日|ふつか} — ふつか\n{三日|みっか} — みっか\n{四日|よっか} — よっか\n{五日|いつか} — いつか\n{六日|むいか} — むいか\n{七日|なのか} — なのか\n{八日|ようか} — ようか\n{九日|ここのか} — ここのか\n{十日|とおか} — とおか"
+        },
+        {
+          "type": "text",
+          "text": "{十四日|じゅうよっか} — じゅうよっか\n{二十日|はつか} — はつか\n{二十四日|にじゅうよっか} — にじゅうよっか"
+        }
+      ]
+    },
+    {
+      "id": "foundation_core_question_words",
+      "title": "Core Question Words",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "{何|なに} — なに / なん — what"
+        },
+        {
+          "type": "text",
+          "text": "いつ — when"
+        },
+        {
+          "type": "text",
+          "text": "いくら — how much"
+        },
+        {
+          "type": "text",
+          "text": "これ — this"
+        },
+        {
+          "type": "text",
+          "text": "それ — that"
+        },
+        {
+          "type": "text",
+          "text": "あれ — that over there"
+        }
+      ]
+    },
+    {
+      "id": "foundation_core_particles",
+      "title": "Core Particles",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "は"
+        },
+        {
+          "type": "text",
+          "text": "topic"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "が"
+        },
+        {
+          "type": "text",
+          "text": "subject / existence"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "を"
+        },
+        {
+          "type": "text",
+          "text": "object"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "に"
+        },
+        {
+          "type": "text",
+          "text": "destination / point in time / location"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "で"
+        },
+        {
+          "type": "text",
+          "text": "place where an action occurs"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "の"
+        },
+        {
+          "type": "text",
+          "text": "relationship / possession"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "も"
+        },
+        {
+          "type": "text",
+          "text": "also / too"
+        },
+        {
+          "type": "text",
+          "text": "These are not all the possible uses of these particles."
+        },
+        {
+          "type": "text",
+          "text": "They are the **first useful meanings** the learner needs."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_mo"
+        }
+      ]
+    },
+    {
+      "id": "foundation_core_verbs",
+      "title": "Core Verbs",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "{行く|いく} — いく — go\n{見る|みる} — みる — see/watch\n{飲む|のむ} — のむ — drink\nあります — exists / there is\nいます — exists / there is\n{登る|のぼる} — のぼる — climb"
+        },
+        {
+          "type": "text",
+          "text": "Basic polite forms:"
+        },
+        {
+          "type": "text",
+          "text": "{行きます|いきます} — go\n{行きません|いきません} — don't/won't go\n{行きました|いきました} — went\n{行きませんでした|いきませんでした} — didn't go"
+        }
+      ]
+    },
+    {
+      "id": "foundation_core_sentence_patterns",
+      "title": "Core Sentence Patterns",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A は B です。"
+        },
+        {
+          "type": "text",
+          "text": "A is B."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "A は B ですか。"
+        },
+        {
+          "type": "text",
+          "text": "Is A B?"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "N1 の N2"
+        },
+        {
+          "type": "text",
+          "text": "N2 of N1 / N2 associated with N1"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "N に {行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "Go to N."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "N で Vます。"
+        },
+        {
+          "type": "text",
+          "text": "Do V at N."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "N を Vます。"
+        },
+        {
+          "type": "text",
+          "text": "Do V to/on N."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "N が あります。"
+        },
+        {
+          "type": "text",
+          "text": "There is N."
+        },
+        {
+          "type": "text",
+          "text": "For things."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "N が います。"
+        },
+        {
+          "type": "text",
+          "text": "There is N."
+        },
+        {
+          "type": "text",
+          "text": "For people/animals."
+        }
+      ]
+    },
+    {
+      "id": "foundation_hokkaido_place_vocabulary",
+      "title": "Hokkaido Place Vocabulary",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{北海道|ほっかいどう}"
+        },
+        {
+          "type": "text",
+          "text": "ほっかいどう\nHokkaido"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{札幌|さっぽろ}"
+        },
+        {
+          "type": "text",
+          "text": "さっぽろ\nSapporo"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{函館|はこだて}"
+        },
+        {
+          "type": "text",
+          "text": "はこだて\nHakodate"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{千歳|ちとせ}"
+        },
+        {
+          "type": "text",
+          "text": "ちとせ\nChitose"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{小樽|おたる}"
+        },
+        {
+          "type": "text",
+          "text": "おたる\nOtaru"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{旭川|あさひかわ}"
+        },
+        {
+          "type": "text",
+          "text": "あさひかわ\nAsahikawa"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{美瑛|びえい}"
+        },
+        {
+          "type": "text",
+          "text": "びえい\nBiei"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{富良野|ふらの}"
+        },
+        {
+          "type": "text",
+          "text": "ふらの\nFurano"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{釧路|くしろ}"
+        },
+        {
+          "type": "text",
+          "text": "くしろ\nKushiro"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{登別|のぼりべつ}"
+        },
+        {
+          "type": "text",
+          "text": "のぼりべつ\nNoboribetsu"
+        }
+      ]
+    },
+    {
+      "id": "r01_journey_to_hokkaido",
+      "title": "北海道への旅",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "callout",
+          "tone": "info",
+          "text": "Reading preview: some words and grammar are new. Use the supplied readings and English; these are encounters, not a demand to master everything now."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{北海道|ほっかいどう}への{旅|たび}",
+          "en": "A journey to Hokkaido"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{北海道|ほっかいどう}は{日本|にほん}の{北|きた}にあります。",
+          "en": "Hokkaido is in the north of Japan."
+        },
+        {
+          "type": "heading",
+          "text": "Assisted vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "ここ — here",
+            "旅（たび）— journey",
+            "へ — toward / to"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r02_from_sapporo",
+      "title": "札幌から",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{札幌|さっぽろ}は{北海道|ほっかいどう}の{大|おお}きな{町|まち}です。",
+          "en": "Sapporo is a large city in Hokkaido."
+        },
+        {
+          "type": "readingLine",
+          "jp": "ここから{旅|たび}が{始|はじ}まります。",
+          "en": "The journey begins here."
+        },
+        {
+          "type": "heading",
+          "text": "New vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "始まる（はじまる）— begin"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r03_south",
+      "title": "南へ",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{札幌|さっぽろ}から{函館|はこだて}へ{行|い}きました。",
+          "en": "I went from Sapporo to Hakodate."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{函館|はこだて}は{北海道|ほっかいどう}の{南|みなみ}にあります。",
+          "en": "Hakodate is in the south of Hokkaido."
+        },
+        {
+          "type": "heading",
+          "text": "New vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "南（みなみ）— south"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r04_counting",
+      "title": "数える",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{旅|たび}の{途中|とちゅう}で、いろいろな{数|かず}を{見|み}ました。",
+          "en": "During the journey, I saw various numbers."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{一|いち}、{二|に}、{三|さん}、{四|よん}、{五|ご}。",
+          "en": "One, two, three, four, five."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{六|ろく}、{七|なな}、{八|はち}、{九|きゅう}、{十|じゅう}。",
+          "en": "Six, seven, eight, nine, ten."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{百円|ひゃくえん}、{千円|せんえん}、{一万円|いちまんえん}。",
+          "en": "100 yen, 1,000 yen, 10,000 yen."
+        },
+        {
+          "type": "heading",
+          "text": "Assisted vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "途中（とちゅう）— along the way",
+            "いろいろ — various",
+            "数（かず）— number"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r05_weekdays",
+      "title": "曜日",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{月曜日|げつようび}には{札幌|さっぽろ}。",
+          "en": "Monday — Sapporo."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{火曜日|かようび}には{函館|はこだて}。",
+          "en": "Tuesday — Hakodate."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{水曜日|すいようび}には{小樽|おたる}。",
+          "en": "Wednesday — Otaru."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{毎日|まいにち}いろいろなことをしました。",
+          "en": "I did various things every day."
+        },
+        {
+          "type": "heading",
+          "text": "Vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "毎日（まいにち）— every day",
+            "間（あいだ）— during / while"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r06_otaru_asahikawa",
+      "title": "小樽と旭川",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{小樽|おたる}はきれいな{町|まち}です。",
+          "en": "Otaru is a beautiful town."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{旭川|あさひかわ}は{北海道|ほっかいどう}の{北|きた}にあります。",
+          "en": "Asahikawa is in the north of Hokkaido."
+        },
+        {
+          "type": "heading",
+          "text": "Preview vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "字（じ）— character / letter",
+            "使う（つかう）— use"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r07_biei_furano",
+      "title": "美瑛と富良野",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{美瑛|びえい}は{美|うつく}しいです。",
+          "en": "Biei is beautiful."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{富良野|ふらの}も{美|うつく}しいです。",
+          "en": "Furano is beautiful too."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{春|はる}、{夏|なつ}、{秋|あき}、{冬|ふゆ}、{北海道|ほっかいどう}の{景色|けしき}は{変|か}わります。",
+          "en": "In spring, summer, autumn and winter, Hokkaido's scenery changes."
+        },
+        {
+          "type": "heading",
+          "text": "New vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "春（はる）— spring",
+            "夏（なつ）— summer",
+            "秋（あき）— autumn",
+            "冬（ふゆ）— winter",
+            "景色（けしき）— scenery",
+            "変わる（かわる）— change"
+          ]
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_mo"
+        }
+      ]
+    },
+    {
+      "id": "r08_kushiro",
+      "title": "Kushiro",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{東|ひがし}へ{行|い}くと、{釧路|くしろ}があります。",
+          "en": "If you go east, there is Kushiro."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{釧路|くしろ}には{川|かわ}があります。",
+          "en": "There is a river in Kushiro."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{人|ひと}もいます。",
+          "en": "There are people too."
+        },
+        {
+          "type": "heading",
+          "text": "Vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "東（ひがし）— east",
+            "も — also / too"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r09_noboribetsu",
+      "title": "登別",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{最後|さいご}に、{登別|のぼりべつ}へ{行|い}きました。",
+          "en": "Finally, I went to Noboribetsu."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{登別|のぼりべつ}には{温泉|おんせん}があります。",
+          "en": "There are hot springs in Noboribetsu."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{温泉|おんせん}に{入|はい}って、{疲|つか}れた{体|からだ}を{休|やす}めました。",
+          "en": "I entered the hot spring and rested my tired body."
+        },
+        {
+          "type": "heading",
+          "text": "New vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "最後（さいご）— finally / last",
+            "入る（はいる）— enter",
+            "疲れ（つかれ）— fatigue",
+            "休める（やすめる）— rest"
+          ]
+        },
+        {
+          "type": "callout",
+          "tone": "info",
+          "text": "Assisted preview: 入って connects “enter” to the next action. 疲れた体 means a tired body. Read for meaning; these forms will receive fuller study later."
+        }
+      ]
+    },
+    {
+      "id": "r10_end",
+      "title": "End",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{北海道|ほっかいどう}の{旅|たび}は{終|お}わりました。",
+          "en": "The journey through Hokkaido has ended."
+        },
+        {
+          "type": "readingLine",
+          "jp": "でも、{日本|にほん}の{旅|たび}はまだ{続|つづ}きます。",
+          "en": "But the journey through Japan continues."
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{青森|あおもり}です。",
+          "en": "Next is Aomori."
+        },
+        {
+          "type": "heading",
+          "text": "New vocabulary",
+          "level": 3
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "終わる（おわる）— end",
+            "続く（つづく）— continue",
+            "次（つぎ）— next"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "r11_assisted_reading",
+      "title": "Assisted Reading Mode",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Recommended interaction:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Start with furigana ON.",
+            "Read once for meaning.",
+            "Turn furigana OFF.",
+            "Tap only unfamiliar kanji.",
+            "Return to the sentence.",
+            "Read the sentence again.",
+            "Repeat."
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "The goal is not to permanently depend on furigana. The goal is to gradually reduce assistance.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "r12_things_to_remember",
+      "title": "Reading Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Places",
+          "level": 2
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "{北海道|ほっかいどう}",
+            "{札幌|さっぽろ}",
+            "{函館|はこだて}",
+            "{千歳|ちとせ}",
+            "{小樽|おたる}",
+            "{旭川|あさひかわ}",
+            "{美瑛|びえい}",
+            "{富良野|ふらの}",
+            "{釧路|くしろ}",
+            "{登別|のぼりべつ}"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Directions",
+          "level": 2
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "北 — north",
+            "南 — south",
+            "東 — east"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Reading Vocabulary",
+          "level": 2
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "旅 — journey",
+            "途中 — along the way",
+            "最後 — finally / last",
+            "次 — next",
+            "景色 — scenery",
+            "毎日 — every day"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Preview / Encounter Kanji",
+          "level": 2
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_南",
+            "kanji_東",
+            "kanji_春",
+            "kanji_夏",
+            "kanji_秋",
+            "kanji_冬",
+            "kanji_旅",
+            "kanji_字",
+            "kanji_使",
+            "kanji_変",
+            "kanji_最",
+            "kanji_後",
+            "kanji_温",
+            "kanji_泉"
+          ]
+        },
+        {
+          "type": "callout",
+          "text": "These do not all need to become fully mastered N5 kanji immediately. They are deliberately introduced as future familiarity, following the Journey philosophy of gradually exposing learners to more advanced kanji.",
+          "tone": "info"
+        }
+      ]
+    }
+  ],
+  "completion": {
+    "title": "Reading complete",
+    "nextText": "Next: the Hokkaido Test"
+  },
+  "status": "final",
+  "estimatedMinutes": 25
+}

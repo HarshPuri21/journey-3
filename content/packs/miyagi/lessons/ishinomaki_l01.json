@@ -1,0 +1,329 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "ishinomaki_l01",
+  "number": 3,
+  "title": "Ishinomaki — 石巻",
+  "goal": "Describe a place and distinguish a place category from its name.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_町",
+    "kanji_市",
+    "kanji_村",
+    "kanji_新",
+    "kanji_古"
+  ],
+  "encounterKanji": [
+    "kanji_仙",
+    "kanji_写",
+    "kanji_十",
+    "kanji_口",
+    "kanji_台",
+    "kanji_城",
+    "kanji_宮",
+    "kanji_川",
+    "kanji_巻",
+    "kanji_店",
+    "kanji_木",
+    "kanji_本",
+    "kanji_松",
+    "kanji_田",
+    "kanji_真",
+    "kanji_石",
+    "kanji_花",
+    "kanji_見",
+    "kanji_買"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Looking at a Place through Pictures",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Ishinomaki is a coastal city associated with Ishinomori Manga Museum. Our practice scene uses two fictional photographs and a book. You do not need the museum's difficult name spelling to learn today's Japanese."
+        },
+        {
+          "type": "text",
+          "text": "**石巻で写真を見ました。** いしのまきで しゃしんを みました。 — I looked at photographs in Ishinomaki."
+        },
+        {
+          "type": "text",
+          "text": "Rather than repeat the first lesson on kanji, use the skills you already have: recognise a familiar component, learn the whole location reading, and connect a new description to a noun. Keep cultural context separate from the details of our imaginary pictures."
+        }
+      ]
+    },
+    {
+      "id": "inside_ishinomaki",
+      "title": "Inside 石巻",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 石 · **Useful meaning/reading:** stone; いし, セキ/シャク · **Radical and visible parts:** 石, いし; upper strokes and lower 口-like section · **Role:** Formal review from Morioka.",
+            "**Character:** 巻 · **Useful meaning/reading:** roll/wind; まく/まき, カン · **Radical and visible parts:** Historical 卩/㔾 indexing family; some dictionaries use 己 for modern 巻. Upper 龹-like section and lower curl · **Role:** Encounter review from 花巻."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**石巻 / いしのまき** includes a spoken **の** that is not a separate written の in the name. Do not insert the noun-connecting particle into the spelling. Hanamaki and Ishinomaki share 巻, but their complete readings and locations differ. Indexing variation does not affect the required whole-name reading."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_石",
+            "kanji_巻"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_fushizukuri"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ishi"
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c03",
+      "title": "町: The Word We Have Used Already",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**町 / まち — town; neighbourhood.** Radical **田**, た, with **丁** on the right. 丁 belongs to the character's historical sound structure. The field-like left is a recognition clue, not proof that every modern town is farmland."
+        },
+        {
+          "type": "text",
+          "text": "**この町はきれいです。** この まちは きれいです。 — This town is beautiful."
+        },
+        {
+          "type": "text",
+          "text": "まち can describe an urban area in ordinary speech without making a legal claim about municipal status. Today's formal attention is to the spelling. **町の店 / まちのみせ**, a shop in the town, reuses の. Do not treat every earlier use of 町 as having already taught all its readings."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c04",
+      "title": "市 and a Named City",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**市 / し — city in names and administrative labels; 仙台市 / せんだいし — Sendai City; 石巻市 / いしのまきし — Ishinomaki City.** 市 is indexed under **巾**, はば; notice the lower cloth-shaped component beneath the upper strokes. Its historical market/city connection is orientation, not a required etymology exercise."
+        },
+        {
+          "type": "text",
+          "text": "**石巻市は宮城にあります。** いしのまきしは みやぎに あります。 — Ishinomaki City is in Miyagi."
+        },
+        {
+          "type": "text",
+          "text": "In the proper name 石巻市, the suffix 市 is し. Do not read it as まち just because both concern places. A word and its context determine the reading."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c05",
+      "title": "村: Another Place Category",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**村 / むら — village.** Radical **木**, きへん, with **寸** on the right. 寸 is associated with historical sound structure. A modern village is not defined by “tree + measure”; that would be an invented meaning formula."
+        },
+        {
+          "type": "text",
+          "text": "**あの村に川があります。** あの むらに かわが あります。 — There is a river in that village."
+        },
+        {
+          "type": "text",
+          "text": "This is a fictional village in a practice picture, not another location chapter. Compare 町 / まち, 市 / し in city names, and 村 / むら. Learn the useful word in its setting. The whole Journey will later add additional place-name suffixes and administrative vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c06",
+      "title": "新: New",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**新しい / あたらしい — new; 新しい本 / あたらしいほん — a new book.** 新 has indexing radical **斤**, おのづくり, on the right. The modern left contains 立-like and 木-like sections. These help you recognise a complex character; do not add their everyday meanings and claim that the sum explains “new.”"
+        },
+        {
+          "type": "text",
+          "text": "**これは新しい本です。** これは あたらしい ほんです。 — This is a new book."
+        },
+        {
+          "type": "text",
+          "text": "新しい has several kana after 新. Okurigana preserve the whole adjective's reading and inflection. Notice that the kanji supplies **あたら** in this word, not a fixed one-syllable sound."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c07",
+      "title": "古: Old, for Things",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**古い / ふるい — old; 古い写真 / ふるいしゃしん — an old photograph.** 古 is indexed under **口**, くち; the modern shape has 十 above 口. That is a useful recognition pattern, not a calculation “ten mouths = old.”"
+        },
+        {
+          "type": "text",
+          "text": "**これは古い写真です。** これは ふるい しゃしんです。 — This is an old photograph."
+        },
+        {
+          "type": "text",
+          "text": "For now use 古い for things such as pictures, books and buildings. It is not our word for an elderly person. **新しい本** and **古い本** make an opposite pair. “Old photograph” refers to its age; it does not necessarily mean the photographed object is old."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c08",
+      "title": "Read a Short Contrast",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**この本は新しいです。その本は古いです。** この ほんは あたらしいです。その ほんは ふるいです。 — This book is new. That book is old."
+        },
+        {
+          "type": "text",
+          "text": "Both use an い-adjective at the end of the sentence. **この本は新しくないです。** この ほんは あたらしくないです。 — This book is not new."
+        },
+        {
+          "type": "text",
+          "text": "The negative replaces final い with くない, following the adjective pattern you already met. 新しくない does not mean 古い in every possible context: a book can be neither recently new nor very old. Grammar negates a description; it does not automatically substitute its opposite."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c09",
+      "title": "A Name, a Category, a Description",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**石巻は宮城の市です。** いしのまきは みやぎの しです。 — Ishinomaki is a city in Miyagi."
+        },
+        {
+          "type": "text",
+          "text": "**この写真は町の写真です。** この しゃしんは まちの しゃしんです。 — This photograph is a photograph of a town."
+        },
+        {
+          "type": "text",
+          "text": "**その写真は村の写真です。** その しゃしんは むらの しゃしんです。 — That photograph is a photograph of a village."
+        },
+        {
+          "type": "text",
+          "text": "The first identifies a real location's category; the next two describe fictional images. の connects nouns. A description need not contain every new kanji: sentences are useful because they are natural and understandable, not because they maximise the number of new characters per line."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c10",
+      "title": "Put the Description in a Past Account",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**石巻で新しい本を買いました。** いしのまきで あたらしい ほんを かいました。 — I bought a new book in Ishinomaki."
+        },
+        {
+          "type": "text",
+          "text": "**店で古い写真を見ました。** みせで ふるい しゃしんを みました。 — I looked at old photographs at a shop."
+        },
+        {
+          "type": "text",
+          "text": "Past tense is on the action verb 買いました/見ました. The adjective before the noun stays 新しい/古い. This differs from saying “The book was new,” where the description itself is past; we will practise that distinction in Shiroishi. Read the ending that carries the time information."
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c11",
+      "title": "Practice: Places and Age",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 石巻市. **Answer:** いしのまきし.",
+            "Which word means village: 村 / 市 / 新? **Answer:** 村 / むら.",
+            "Which component links 村 to 松? **Answer:** 木.",
+            "Translate 新しい本. **Answer:** a new book.",
+            "Make 新しいです negative in the taught polite style. **Answer:** 新しくないです.",
+            "Does 古い写真 require that the photographed building itself is old? **Answer:** No; it describes the photograph unless context supplies more information."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ishinomaki_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "石巻 is いしのまき; the spoken の is part of the name. 石 is review; 巻 remains an assisted encounter. 町 is まち; 市 is し in our city labels; 村 is むら. 新しい and 古い describe things. い-adjectives retain their ending before a noun and use くない for the taught negative."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I bought a new book in Ishinomaki.” **Model:** 石巻で新しい本を買いました。 Continue to Shiroishi and add distance and price descriptions."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_町",
+            "kanji_市",
+            "kanji_村",
+            "kanji_新",
+            "kanji_古"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_石巻"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_新しい"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_古い"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Ishinomaki complete",
+    "nextText": "Next: Shiroishi",
+    "nextChapter": "miyagi/shiroishi"
+  }
+}

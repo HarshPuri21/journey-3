@@ -1,0 +1,399 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "maebashi_l01",
+  "number": 1,
+  "title": "Maebashi — 前橋",
+  "goal": "Understand verb groups, common te-form changes and current actions.",
+  "estimatedMinutes": 30,
+  "coreKanji": [
+    "kanji_持",
+    "kanji_服"
+  ],
+  "encounterKanji": [
+    "kanji_今",
+    "kanji_休",
+    "kanji_会",
+    "kanji_住",
+    "kanji_何",
+    "kanji_作",
+    "kanji_使",
+    "kanji_兄",
+    "kanji_入",
+    "kanji_出",
+    "kanji_前",
+    "kanji_勉",
+    "kanji_和",
+    "kanji_寺",
+    "kanji_帰",
+    "kanji_強",
+    "kanji_待",
+    "kanji_手",
+    "kanji_日",
+    "kanji_月",
+    "kanji_木",
+    "kanji_本",
+    "kanji_来",
+    "kanji_橋",
+    "kanji_死",
+    "kanji_毎",
+    "kanji_洋",
+    "kanji_皿",
+    "kanji_着",
+    "kanji_立",
+    "kanji_見",
+    "kanji_語",
+    "kanji_読",
+    "kanji_買",
+    "kanji_遊",
+    "kanji_食",
+    "kanji_飲",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "From places to current actions",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**Prefecture-name breakdown:** 群: radical 羊, ひつじ, on the right; 君 on the left provides historical sound. Meaning: group/flock. 馬: its own horse radical, うま; a whole animal-derived form with four lower dots in modern writing. It was encountered inside 駅. 群馬 is ぐんま, not a literal instruction to translate two animal/group glosses. These prefecture-name characters remain assisted."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_群",
+            "kanji_馬"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Maebashi is Gunma's prefectural capital. We create an imaginary station-and-shop scene. Rather than adding another set of map basics, we now explain why **住んでいます** worked in Sakata and how other verbs build the same grammatical ending."
+        },
+        {
+          "type": "text",
+          "text": "**前橋に来ました。** まえばしに きました。 — I came to Maebashi."
+        },
+        {
+          "type": "text",
+          "text": "This lesson starts the general **て-form** sequence. It is intentionally followed by Takasaki's remaining sound changes; the full table will then be available for review."
+        }
+      ]
+    },
+    {
+      "id": "inside_maebashi",
+      "title": "Inside 前橋",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 前 · **Meaning/reading:** front/before; まえ · **Radical/components:** 刀 as 刂 on the right, りっとう; upper/lower left shapes aid recognition · **Status:** Formal review; indexing radical is 刀.",
+            "**Character:** 橋 · **Meaning/reading:** bridge; ばし here, ordinary はし · **Radical/components:** 木, きへん, with 喬 as sound component · **Status:** Encounter; sound change belongs to the learned name."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**前橋 / まえばし**. **橋 / はし**, bridge, is useful helped vocabulary. A bridge and 前 as “before” do not prove a literal origin story for the city's name. **駅前 / えきまえ**, in front of the station, reuses 前."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_前",
+            "kanji_橋"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_katana"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ki"
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c03",
+      "title": "持: hold/carry/have",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**持つ / もつ — hold/carry/have; 持ちます / もちます.** 持 has 手 as 扌, てへん, beside 寺, a historical sound component. Compare **待**, 彳＋寺: changing the radical creates a different word and character."
+        },
+        {
+          "type": "text",
+          "text": "**かばんを持ちます。** かばんを もちます。 — I carry/hold a bag."
+        },
+        {
+          "type": "text",
+          "text": "**かばんを持っています。** かばんを もっています。 — I am holding/carrying a bag."
+        },
+        {
+          "type": "text",
+          "text": "かばん, bag, is kana vocabulary. We explain 持つ→持って in card 6. Context can also make 持っています mean possession; it is not always the physical action of raising a bag."
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c04",
+      "title": "服: clothes and the word 着る",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**服 / ふく — clothes; 洋服 / ようふく — Western-style clothes; 和服 / わふく — Japanese-style clothes**, the latter two helped compounds. 服's indexing radical is 月, つき; the modern right is a bent upper shape above 又. Its historical left is boat-related, so do not invent a moon-clothing derivation."
+        },
+        {
+          "type": "text",
+          "text": "**服を買います。** ふくを かいます。 — I buy clothes."
+        },
+        {
+          "type": "text",
+          "text": "**服を着ます。** ふくを きます。 — I put on clothes."
+        },
+        {
+          "type": "text",
+          "text": "**着る / きる → 着ます / きます**, a Group 2 verb. 着 remains a helped character. 着ます and 来ます sound alike but mean different things; object/context distinguishes them."
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c05",
+      "title": "Three groups, not one rule for all る verbs",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**Group 1 (godan):** the last dictionary-form syllable changes before endings: 買う→買います, 待つ→待ちます, 作る→作ります. **Group 2 (ichidan):** remove final る before the ending: 食べる→食べます, 見る→見ます, 着る→着ます, 出る→出ます. **Group 3:** irregular する→します and 来る / くる→来ます / きます."
+        },
+        {
+          "type": "text",
+          "text": "**食べる→食べて; 見る→見て; 着る→着て; 出る→出て**: Group 2 replaces る with て. Learn each verb's group; final る alone is insufficient. **帰る/入る/作る** are Group 1, even though they end in る."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_verb_groups"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_group2"
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c06",
+      "title": "Group 1: う・つ・る become って",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Dictionary / reading:** 買う / かう · **Te-form / reading:** 買って / かって",
+            "**Dictionary / reading:** 会う / あう · **Te-form / reading:** 会って / あって",
+            "**Dictionary / reading:** 使う / つかう · **Te-form / reading:** 使って / つかって",
+            "**Dictionary / reading:** 待つ / まつ · **Te-form / reading:** 待って / まって",
+            "**Dictionary / reading:** 持つ / もつ · **Te-form / reading:** 持って / もって",
+            "**Dictionary / reading:** 立つ / たつ · **Te-form / reading:** 立って / たって",
+            "**Dictionary / reading:** 帰る / かえる · **Te-form / reading:** 帰って / かえって",
+            "**Dictionary / reading:** 作る / つくる · **Te-form / reading:** 作って / つくって"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Small **っ** marks the doubled consonant. A Group 1 る verb uses って; Group 2 見る uses 見て. The **て-form by itself is not a past tense**. Its following construction determines its function."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_u_tsu_ru"
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c07",
+      "title": "Group 1: む・ぶ・ぬ become んで",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**読む / よむ→読んで / よんで; 飲む / のむ→飲んで / のんで; 休む / やすむ→休んで / やすんで; 住む / すむ→住んで / すんで.** To complete the sound-change family, helped words **遊ぶ / あそぶ — play→遊んで / あそんで**, and **死ぬ / しぬ — die→死んで / しんで** are reference examples. 遊/死 stay encounters; the latter is not a city story or scored cultural claim."
+        },
+        {
+          "type": "text",
+          "text": "The ending is **で**, not て, after this sound change. Sakata's 住んでいます now follows the general む→んで rule. Do not produce 読むて or 飲みて."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_mu_bu_nu"
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c08",
+      "title": "Irregular verbs",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**する→して; 来る / くる→来て / きて.** The 来る reading changes across forms; compare くる, きます, きて. **勉強する / べんきょうする — study** is useful helped vocabulary, with 勉/強 remaining encounters."
+        },
+        {
+          "type": "text",
+          "text": "**日本語を勉強しています。** にほんごを べんきょうしています。 — I am studying Japanese."
+        },
+        {
+          "type": "text",
+          "text": "**今、何をしていますか。** いま、なにを していますか。 — What are you doing now?"
+        },
+        {
+          "type": "text",
+          "text": "The irregular する part supplies して in 勉強して. We have not yet explained all Group 1 endings; those ending in く/ぐ/す are next in Takasaki."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_te_irregular"
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c09",
+      "title": "Current action: te-form + います",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**今、本を読んでいます。** いま、ほんを よんでいます。 — I am reading a book now."
+        },
+        {
+          "type": "text",
+          "text": "**今、お皿を作っています。** いま、おさらを つくっています。 — I am making a plate now."
+        },
+        {
+          "type": "text",
+          "text": "Add います after the te-form: 読んで＋います, 作って＋います. This is **Vています**; it is not a second standalone location sentence. **毎日本を読みます** describes the habitual action in our earlier model; **今読んでいます** focuses on activity happening now. The construction also has state/habit uses, so do not translate every ています mechanically as an English progressive."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_progress_teiru"
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c10",
+      "title": "Current action and state dialogue",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**A: 今、何をしていますか。** いま、なにを していますか。 — What are you doing now?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 本を読んでいます。** ほんを よんでいます。 — I am reading a book."
+        },
+        {
+          "type": "text",
+          "text": "**A: お兄さんはどこに住んでいますか。** おにいさんは どこに すんでいますか。 — Where does your older brother live?"
+        },
+        {
+          "type": "text",
+          "text": "**B: 前橋に住んでいます。** まえばしに すんでいます。 — He lives in Maebashi."
+        },
+        {
+          "type": "text",
+          "text": "Reading is the current activity; residence is a continuing state. Same visible ending, different sense selected by the verb and context. Both were taught before the questions ask about them."
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c11",
+      "title": "Practice: use the group",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 前橋, 持つ, 服. **Answers:** まえばし; もつ; ふく.",
+            "Which radical distinguishes 持 from 待? **Answer:** 扌/手 versus 彳.",
+            "Give 食べる, 見る, 着る te-forms. **Answers:** 食べて; 見て; 着て.",
+            "Give 持つ, 作る, 読む te-forms. **Answers:** 持って; 作って; 読んで.",
+            "Give する and 来る te-forms/readings. **Answers:** して; 来て / きて.",
+            "Is 帰る Group 2 merely because it ends in る? **Answer:** No; it is Group 1, 帰って."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "maebashi_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "前橋 is まえばし; 橋 has 木＋喬. 持 has 扌, 待 has 彳. 服 is ふく; 着る is a helped Group 2 word. Group 2 replaces る with て; Group 1 う/つ/る→って and む/ぶ/ぬ→んで. Irregular する→して and 来る→来て/きて. ています can express current activity or a continuing state."
+        },
+        {
+          "type": "text",
+          "text": "**Recall:** “I am reading a book now.” **Model:** 今、本を読んでいます。 いま、ほんを よんでいます。 Continue to Takasaki before treating the te-form table as complete."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_持",
+            "kanji_服"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_来る"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_前橋"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_着る"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_する"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Maebashi complete",
+    "nextText": "Next: Takasaki",
+    "nextChapter": "gunma/takasaki"
+  }
+}

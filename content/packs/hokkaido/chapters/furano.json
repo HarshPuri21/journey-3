@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "furano",
+ "name": "富良野",
+ "nameEn": "Furano",
+ "reading": "ふらの",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/biei"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "furano_l01",
+   "file": "lessons/furano_l01.json"
+  }
+ ]
+}

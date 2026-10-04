@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_means_de",
+      "title": "で for means of travel",
+      "pattern": "transport で destination に/へ 行きます",
+      "explanation": "A transport noun with で gives the means of travel. Distinguish familiar action-place で by the noun's relationship."
+    },
+    {
+      "id": "grammar_direction_he",
+      "title": "へ for direction",
+      "pattern": "place へ 行きます",
+      "explanation": "The particle へ is pronounced え. In simple movement に and へ can identify destination; へ does not replace existence-location に."
+    },
+    {
+      "id": "grammar_kuru_polite",
+      "title": "Irregular 来る in polite forms",
+      "pattern": "来る → 来ます / 来ません / 来ました / 来ませんでした",
+      "explanation": "Read くる in the dictionary form and き in these polite forms. Movement toward the established speaker/meeting point uses 来ます."
+    },
+    {
+      "id": "grammar_near_ni",
+      "title": "に with 近い",
+      "pattern": "reference に 近いです",
+      "explanation": "The reference point follows に in the taught 駅に近い pattern."
+    },
+    {
+      "id": "grammar_far_kara",
+      "title": "から with 遠い",
+      "pattern": "reference から 遠いです",
+      "explanation": "The reference point follows から in the taught 駅から遠い pattern."
+    },
+    {
+      "id": "grammar_i_adjective_past",
+      "title": "Polite past い-adjectives",
+      "pattern": "い → かったです",
+      "explanation": "安いです becomes 安かったです. Contrast action past ました and noun past でした."
+    },
+    {
+      "id": "grammar_i_adjective_past_negative",
+      "title": "Polite past-negative い-adjectives",
+      "pattern": "い → くなかったです",
+      "explanation": "高いです becomes 高くなかったです. This is a description, not denial of existence or buying."
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "furano_l01",
+  "number": 7,
+  "title": "Furano",
+  "status": "final",
+  "encounterKanji": [
+    "kanji_富",
+    "kanji_良",
+    "kanji_野",
+    "kanji_菜",
+    "kanji_写",
+    "kanji_真"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Furano",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{富良野|ふらの}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "ふらの"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Furano"
+        },
+        {
+          "type": "text",
+          "text": "Furano is known for its rural landscapes and seasonal scenery, especially lavender. It is officially grouped with the Biei area as a major northern Hokkaido destination."
+        },
+        {
+          "type": "text",
+          "text": "The name contains:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "富"
+        },
+        {
+          "type": "text",
+          "text": "**とみ / ふ**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "wealth"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "良"
+        },
+        {
+          "type": "text",
+          "text": "**よい / りょう**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "good"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "野"
+        },
+        {
+          "type": "text",
+          "text": "**の / や**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "field / plain"
+        },
+        {
+          "type": "text",
+          "text": "Together:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{富良野|ふらの}"
+        },
+        {
+          "type": "text",
+          "text": "**ふらの**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Furano"
+        }
+      ]
+    },
+    {
+      "id": "inside_furano",
+      "title": "Inside 富良野",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Look inside the name of {富良野|ふらの}. Each kanji can be broken into parts - and parts are clues."
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_富",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_良",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_野",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ukanmuri"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kon"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_sato"
+        },
+        {
+          "type": "callout",
+          "text": "富 sits under the roof component 宀. 良 is filed under 艮. 野 carries 里 (village, land) - a clue for fields and plains. Components are clues, not magic definitions.",
+          "tone": "tip"
+        }
+      ]
+    },
+    {
+      "id": "card_02",
+      "title": "良",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{良い|いい}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "いい / よい"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "good"
+        },
+        {
+          "type": "text",
+          "text": "This is a very important adjective."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{今日|きょう}はいいです。"
+        },
+        {
+          "type": "text",
+          "text": "**きょうは いいです。**"
+        },
+        {
+          "type": "text",
+          "text": "**Kyō wa ii desu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "Today is good."
+        },
+        {
+          "type": "text",
+          "text": "The form **いい** is extremely common."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_良い"
+        },
+        {
+          "type": "callout",
+          "tone": "tip",
+          "text": "いい means good. Its negative is よくない, not いくない."
+        }
+      ]
+    },
+    {
+      "id": "card_03",
+      "title": "野",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "野"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "の"
+        },
+        {
+          "type": "text",
+          "text": "**no**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "field / plain"
+        },
+        {
+          "type": "text",
+          "text": "This is another useful location kanji."
+        },
+        {
+          "type": "text",
+          "text": "You may later see:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{野菜|やさい}"
+        },
+        {
+          "type": "text",
+          "text": "**やさい**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "vegetables"
+        },
+        {
+          "type": "text",
+          "text": "Here 野 contributes the idea of fields."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_野菜"
+        }
+      ]
+    },
+    {
+      "id": "card_04",
+      "title": "行く",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 1,
+          "text": "{行く|いく}"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "いく"
+        },
+        {
+          "type": "text",
+          "text": "**iku**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "to go"
+        },
+        {
+          "type": "text",
+          "text": "This is an extremely important N5 verb."
+        },
+        {
+          "type": "text",
+          "text": "Example:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{北海道|ほっかいどう}に{行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "**ほっかいどうに いきます。**"
+        },
+        {
+          "type": "text",
+          "text": "**Hokkaidō ni ikimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "I go / will go to Hokkaido."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_行",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_行く"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_masu"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_polite_negative"
+        }
+      ]
+    },
+    {
+      "id": "card_05",
+      "title": "に for Destination",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "In:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{北海道|ほっかいどう}に{行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "**に** marks the destination."
+        },
+        {
+          "type": "text",
+          "text": "Think:"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "go **to** a place"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{札幌|さっぽろ}に{行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "I go to Sapporo."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{函館|はこだて}に{行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "I go to Hakodate."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{富良野|ふらの}に{行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "I go to Furano."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_ni"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_furano_go"
+        }
+      ]
+    },
+    {
+      "id": "card_06",
+      "title": "を",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Now introduce the object particle."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{水|みず}を{飲みます|のみます}。"
+        },
+        {
+          "type": "text",
+          "text": "**みずを のみます。**"
+        },
+        {
+          "type": "text",
+          "text": "**Mizu o nomimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "I drink water."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "を"
+        },
+        {
+          "type": "text",
+          "text": "marks the thing being acted upon."
+        },
+        {
+          "type": "text",
+          "text": "Water = thing being drunk."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_wo"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_飲む"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_furano_drink"
+        }
+      ]
+    },
+    {
+      "id": "card_07",
+      "title": "Furano Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{富良野|ふらの}に{行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "**ふらのに いきます。**"
+        },
+        {
+          "type": "text",
+          "text": "**Furano ni ikimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "I am going to Furano."
+        },
+        {
+          "type": "text",
+          "text": "Now:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{富良野|ふらの}で{写真|しゃしん}を{見ます|みます}。"
+        },
+        {
+          "type": "text",
+          "text": "**ふらので しゃしんを みます。**"
+        },
+        {
+          "type": "text",
+          "text": "**Furano de shashin o mimasu.**"
+        },
+        {
+          "type": "callout",
+          "tone": "quote",
+          "text": "I look at photos in Furano."
+        },
+        {
+          "type": "text",
+          "text": "This introduces:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "で"
+        },
+        {
+          "type": "text",
+          "text": "the place where an action occurs."
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "kanjiRef",
+          "id": "kanji_見",
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_写真"
+        },
+        {
+          "type": "sentenceRef",
+          "id": "sent_hokkaido_furano_photos"
+        }
+      ]
+    },
+    {
+      "id": "card_08",
+      "title": "に vs で",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{富良野|ふらの}に{行きます|いきます}。"
+        },
+        {
+          "type": "text",
+          "text": "I go **to** Furano."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "{富良野|ふらの}で{写真|しゃしん}を{見ます|みます}。"
+        },
+        {
+          "type": "text",
+          "text": "I look at photos **in** Furano."
+        },
+        {
+          "type": "text",
+          "text": "A useful beginner distinction:"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "に"
+        },
+        {
+          "type": "text",
+          "text": "destination / point"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "で"
+        },
+        {
+          "type": "text",
+          "text": "place where an action happens"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Connected knowledge"
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_particle_de"
+        }
+      ]
+    },
+    {
+      "id": "things_to_remember",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Place"
+        },
+        {
+          "type": "text",
+          "text": "{富良野|ふらの} — ふらの — Furano"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Kanji"
+        },
+        {
+          "type": "text",
+          "text": "富 — wealth\n良 — good\n野 — field"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Vocabulary"
+        },
+        {
+          "type": "text",
+          "text": "いい / {良い|いい} — good\n{行く|いく} — いく — go\n{見る|みる} — みる — see/watch\n{写真|しゃしん} — しゃしん — photograph\n{水|みず} — みず — water"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "text": "Grammar"
+        },
+        {
+          "type": "text",
+          "text": "**N に {行きます|いきます}**"
+        },
+        {
+          "type": "text",
+          "text": "go to N"
+        },
+        {
+          "type": "text",
+          "text": "**N で V**"
+        },
+        {
+          "type": "text",
+          "text": "do an action at N"
+        },
+        {
+          "type": "text",
+          "text": "**N を V**"
+        },
+        {
+          "type": "text",
+          "text": "do V to/on N"
+        }
+      ]
+    }
+  ],
+  "goal": "Learn 富・良・野 Introduce positive/negative basic verb forms Introduce 行く Introduce を and に Use travel/location sentences",
+  "estimatedMinutes": 20,
+  "coreKanji": [
+    "kanji_行",
+    "kanji_見",
+    "kanji_飲"
+  ],
+  "completion": {
+    "title": "Furano complete",
+    "nextText": "Next: Kushiro",
+    "nextChapter": "hokkaido/kushiro"
+  }
+}

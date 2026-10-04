@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_kome",
+      "char": "米",
+      "name": "こめ",
+      "nameRomaji": "kome",
+      "meanings": [
+        "rice grain"
+      ],
+      "note": "Whole 米 indexing family; こめ is the uncooked-rice word.",
+      "exampleKanji": [
+        "kanji_米"
+      ]
+    },
+    {
+      "id": "radical_ushi",
+      "char": "牛",
+      "name": "うしへん",
+      "nameRomaji": "ushi",
+      "meanings": [
+        "cow; ox"
+      ],
+      "note": "Left form 牜 in 物; do not confuse it with 扌.",
+      "exampleKanji": [
+        "kanji_物"
+      ]
+    },
+    {
+      "id": "radical_tsuno",
+      "char": "角",
+      "name": "つの",
+      "nameRomaji": "tsuno",
+      "meanings": [
+        "horn"
+      ],
+      "note": "Whole horn-family form in 角; its interior is not simply 月.",
+      "exampleKanji": [
+        "kanji_角"
+      ]
+    },
+    {
+      "id": "radical_hirabi",
+      "char": "曰",
+      "name": "ひらび・いわく",
+      "nameRomaji": "hirabi",
+      "meanings": [
+        "say; broad sun-like shape"
+      ],
+      "note": "Selected indexing for 書; source distinguishes 曰 from the 日-like lower shape.",
+      "exampleKanji": [
+        "kanji_書"
+      ]
+    },
+    {
+      "id": "radical_bun",
+      "char": "文",
+      "name": "ぶん",
+      "nameRomaji": "bun",
+      "meanings": [
+        "writing; pattern"
+      ],
+      "note": "Whole 文 character and indexing family.",
+      "exampleKanji": [
+        "kanji_文"
+      ]
+    },
+    {
+      "id": "radical_ko",
+      "char": "子",
+      "name": "こ",
+      "nameRomaji": "ko",
+      "meanings": [
+        "child"
+      ],
+      "note": "子 below 宀 in 字, supplied for the existing character's lesson breakdown.",
+      "exampleKanji": [
+        "kanji_字"
+      ]
+    },
+    {
+      "id": "radical_itohen",
+      "char": "糸",
+      "name": "いとへん",
+      "nameRomaji": "itohen",
+      "meanings": [
+        "thread"
+      ],
+      "note": "糸 on the left of assisted 紙.",
+      "exampleKanji": [
+        "kanji_紙"
+      ]
+    },
+    {
+      "id": "radical_katachi",
+      "char": "彡",
+      "name": "さんづくり",
+      "nameRomaji": "katachi",
+      "meanings": [
+        "three strokes; shape"
+      ],
+      "note": "Selected 彡 indexing family in next-name 形 / 山形.",
+      "exampleKanji": [
+        "kanji_形"
+      ]
+    },
+    {
+      "id": "radical_haha",
+      "char": "毋",
+      "name": "なかれ・ははのかん",
+      "nameRomaji": "haha",
+      "meanings": [
+        "mother-family indexing"
+      ],
+      "note": "Selected 毋/母 family in 毎; lower 母-derived strokes do not mean mother in 毎日.",
+      "exampleKanji": [
+        "kanji_毎"
+      ]
+    },
+    {
+      "id": "radical_tsuki",
+      "char": "月",
+      "name": "つき",
+      "nameRomaji": "tsuki",
+      "meanings": [
+        "moon; month family"
+      ],
+      "note": "Selected indexing family; other visible shapes are recognition aids.",
+      "exampleKanji": [
+        "kanji_朝"
+      ]
+    },
+    {
+      "id": "radical_ya",
+      "char": "矢",
+      "name": "や",
+      "nameRomaji": "ya",
+      "meanings": [
+        "arrow"
+      ],
+      "note": "Selected indexing family; other visible shapes are recognition aids.",
+      "exampleKanji": [
+        "kanji_短"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2020 @@
+{
+  "schemaVersion": 1,
+  "kind": "questionBank",
+  "items": [
+    {
+      "id": "q_miyagi_001",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 駅, station.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "くるま"
+        },
+        {
+          "id": "b",
+          "text": "みせ"
+        },
+        {
+          "id": "c",
+          "text": "えき"
+        },
+        {
+          "id": "d",
+          "text": "そら"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "kanji_駅"
+      ],
+      "explanation": "駅 is the station word えき, promoted from earlier assisted map use."
+    },
+    {
+      "id": "q_miyagi_002",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read standalone 車 meaning car.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しゃ"
+        },
+        {
+          "id": "b",
+          "text": "でん"
+        },
+        {
+          "id": "c",
+          "text": "くるま"
+        },
+        {
+          "id": "d",
+          "text": "きます"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_車"
+      ],
+      "explanation": "The standalone car word is くるま; 電車 uses しゃ in the compound."
+    },
+    {
+      "id": "q_miyagi_003",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which character supplies the electricity connection in 電車?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "車"
+        },
+        {
+          "id": "b",
+          "text": "駅"
+        },
+        {
+          "id": "c",
+          "text": "来"
+        },
+        {
+          "id": "d",
+          "text": "電"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "kanji_電"
+      ],
+      "explanation": "電 is the electricity character; 電車 is the whole train word でんしゃ."
+    },
+    {
+      "id": "q_miyagi_004",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read the dictionary verb 来る.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "きる"
+        },
+        {
+          "id": "b",
+          "text": "いく"
+        },
+        {
+          "id": "c",
+          "text": "かえる"
+        },
+        {
+          "id": "d",
+          "text": "くる"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_来る"
+      ],
+      "explanation": "来る is くる, while its taught polite form 来ます is きます."
+    },
+    {
+      "id": "q_miyagi_005",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 山 as the ordinary mountain word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しま"
+        },
+        {
+          "id": "b",
+          "text": "まち"
+        },
+        {
+          "id": "c",
+          "text": "そら"
+        },
+        {
+          "id": "d",
+          "text": "やま"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_山"
+      ],
+      "explanation": "The standalone mountain word is やま."
+    },
+    {
+      "id": "q_miyagi_006",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 空 meaning sky in our scenery sentence.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "そら"
+        },
+        {
+          "id": "b",
+          "text": "あな"
+        },
+        {
+          "id": "c",
+          "text": "くう"
+        },
+        {
+          "id": "d",
+          "text": "しろ"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_空"
+      ],
+      "explanation": "Today's sky word is そら; component and other readings do not replace it."
+    },
+    {
+      "id": "q_miyagi_007",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which word means white?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "青い"
+        },
+        {
+          "id": "b",
+          "text": "白い"
+        },
+        {
+          "id": "c",
+          "text": "新しい"
+        },
+        {
+          "id": "d",
+          "text": "古い"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_白い"
+      ],
+      "explanation": "白い is しろい, white."
+    },
+    {
+      "id": "q_miyagi_008",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 町 as the ordinary town/neighbourhood word.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "まち"
+        },
+        {
+          "id": "b",
+          "text": "し"
+        },
+        {
+          "id": "c",
+          "text": "むら"
+        },
+        {
+          "id": "d",
+          "text": "えき"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_町"
+      ],
+      "explanation": "町 is まち in the taught independent word."
+    },
+    {
+      "id": "q_miyagi_009",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Which word means village?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "村"
+        },
+        {
+          "id": "b",
+          "text": "市"
+        },
+        {
+          "id": "c",
+          "text": "駅"
+        },
+        {
+          "id": "d",
+          "text": "本"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_村"
+      ],
+      "explanation": "村 is むら; 市 is し in the taught named-city suffixes."
+    },
+    {
+      "id": "q_miyagi_010",
+      "type": "multipleChoice",
+      "category": "kanji",
+      "prompt": "Read 新しい.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふるい"
+        },
+        {
+          "id": "b",
+          "text": "あたらしい"
+        },
+        {
+          "id": "c",
+          "text": "ちかい"
+        },
+        {
+          "id": "d",
+          "text": "とおい"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_新しい"
+      ],
+      "explanation": "新しい is the whole adjective あたらしい, new."
+    },
+    {
+      "id": "q_miyagi_011",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which person radical form appears on the left of 仙?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵"
+        },
+        {
+          "id": "b",
+          "text": "艹"
+        },
+        {
+          "id": "c",
+          "text": "亻"
+        },
+        {
+          "id": "d",
+          "text": "刂"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_ninben",
+        "kanji_仙"
+      ],
+      "explanation": "亻 is the side form of 人, already seen in 休."
+    },
+    {
+      "id": "q_miyagi_012",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing radical is the lower component of 台?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "雨"
+        },
+        {
+          "id": "d",
+          "text": "馬"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_kuchi",
+        "kanji_台"
+      ],
+      "explanation": "台 is indexed under 口; its upper 厶-like part is a recognition shape."
+    },
+    {
+      "id": "q_miyagi_013",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical connects 松 with 林 and 森?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "月"
+        },
+        {
+          "id": "c",
+          "text": "口"
+        },
+        {
+          "id": "d",
+          "text": "刀"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_ki",
+        "kanji_松"
+      ],
+      "explanation": "松 has the tree radical 木; 公 contributes historical sound structure."
+    },
+    {
+      "id": "q_miyagi_014",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which mountain radical appears within 島?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "水"
+        },
+        {
+          "id": "b",
+          "text": "田"
+        },
+        {
+          "id": "c",
+          "text": "火"
+        },
+        {
+          "id": "d",
+          "text": "山"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_yama",
+        "kanji_島"
+      ],
+      "explanation": "島 is indexed under 山; the upper bird-related shape does not supply a guaranteed name reading."
+    },
+    {
+      "id": "q_miyagi_015",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which radical is on the left of 駅?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "馬"
+        },
+        {
+          "id": "b",
+          "text": "魚"
+        },
+        {
+          "id": "c",
+          "text": "貝"
+        },
+        {
+          "id": "d",
+          "text": "耳"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_umahen",
+        "kanji_駅"
+      ],
+      "explanation": "馬 is the horse radical, with a historical transport connection."
+    },
+    {
+      "id": "q_miyagi_016",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which weather-related radical is at the top of 電?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "木"
+        },
+        {
+          "id": "b",
+          "text": "艹"
+        },
+        {
+          "id": "c",
+          "text": "雨"
+        },
+        {
+          "id": "d",
+          "text": "宀"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_ame",
+        "kanji_電"
+      ],
+      "explanation": "電 is indexed under 雨, reflecting its historical lightning connection."
+    },
+    {
+      "id": "q_miyagi_017",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which indexing component on the right helps identify 新?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "斤"
+        },
+        {
+          "id": "b",
+          "text": "口"
+        },
+        {
+          "id": "c",
+          "text": "食"
+        },
+        {
+          "id": "d",
+          "text": "山"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_kin",
+        "kanji_新"
+      ],
+      "explanation": "新 is indexed under 斤; the modern left shapes aid recognition."
+    },
+    {
+      "id": "q_miyagi_018",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which familiar radical is below 十 in 古?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "日"
+        },
+        {
+          "id": "b",
+          "text": "貝"
+        },
+        {
+          "id": "c",
+          "text": "口"
+        },
+        {
+          "id": "d",
+          "text": "耳"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_kuchi",
+        "kanji_古"
+      ],
+      "explanation": "古 is indexed under 口; ten-mouth glosses are not required history."
+    },
+    {
+      "id": "q_miyagi_019",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "What radical family do 近 and 遠 share?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "氵 / さんずい"
+        },
+        {
+          "id": "b",
+          "text": "亻 / にんべん"
+        },
+        {
+          "id": "c",
+          "text": "艹 / くさかんむり"
+        },
+        {
+          "id": "d",
+          "text": "辶 / しんにょう"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "radical_shinnyou",
+        "kanji_近",
+        "kanji_遠"
+      ],
+      "explanation": "Both have the movement-related 辶 radical around different inner components."
+    },
+    {
+      "id": "q_miyagi_020",
+      "type": "multipleChoice",
+      "category": "radical",
+      "prompt": "Which statement distinguishes 白 from 日?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "They are the same character."
+        },
+        {
+          "id": "b",
+          "text": "日 is always read しろい."
+        },
+        {
+          "id": "c",
+          "text": "白 always means a calendar date."
+        },
+        {
+          "id": "d",
+          "text": "白 has the short extra upper stroke."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "kanji_白",
+        "kanji_日"
+      ],
+      "explanation": "The upper short stroke helps recognise 白 as a distinct character."
+    },
+    {
+      "id": "q_miyagi_021",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 三百円.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "さんびゃくえん"
+        },
+        {
+          "id": "b",
+          "text": "さんひゃくえん"
+        },
+        {
+          "id": "c",
+          "text": "さんぜんえん"
+        },
+        {
+          "id": "d",
+          "text": "さんじゅうえん"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_三百円"
+      ],
+      "explanation": "三百 uses the taught sound change さんびゃく; 円 is えん."
+    },
+    {
+      "id": "q_miyagi_022",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "千二百円 is how much?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "120 yen"
+        },
+        {
+          "id": "b",
+          "text": "12,000 yen"
+        },
+        {
+          "id": "c",
+          "text": "1,020 yen"
+        },
+        {
+          "id": "d",
+          "text": "1,200 yen"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_千二百円"
+      ],
+      "explanation": "千 is 1,000 and 二百 is 200, giving 1,200."
+    },
+    {
+      "id": "q_miyagi_023",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 九時半.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "きゅうじはん"
+        },
+        {
+          "id": "b",
+          "text": "くがつはん"
+        },
+        {
+          "id": "c",
+          "text": "ここのかはん"
+        },
+        {
+          "id": "d",
+          "text": "くじはん"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_九時半"
+      ],
+      "explanation": "九時 is くじ and 半 adds half an hour."
+    },
+    {
+      "id": "q_miyagi_024",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 四時, reviewed clock time.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "よんじ"
+        },
+        {
+          "id": "b",
+          "text": "しがつ"
+        },
+        {
+          "id": "c",
+          "text": "よじ"
+        },
+        {
+          "id": "d",
+          "text": "よっか"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_四時"
+      ],
+      "explanation": "The taught four-o'clock reading is よじ."
+    },
+    {
+      "id": "q_miyagi_025",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 七時 in the taught course form.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ななじ"
+        },
+        {
+          "id": "b",
+          "text": "なのか"
+        },
+        {
+          "id": "c",
+          "text": "しちじ"
+        },
+        {
+          "id": "d",
+          "text": "しちがつ"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_七時"
+      ],
+      "explanation": "The course clock-hour model uses しちじ."
+    },
+    {
+      "id": "q_miyagi_026",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 五分 as five minutes.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ごぷん"
+        },
+        {
+          "id": "b",
+          "text": "ごふん"
+        },
+        {
+          "id": "c",
+          "text": "ごじ"
+        },
+        {
+          "id": "d",
+          "text": "いつつ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_五分"
+      ],
+      "explanation": "Five minutes is ごふん, distinct from five items or five o'clock."
+    },
+    {
+      "id": "q_miyagi_027",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二人.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたつ"
+        },
+        {
+          "id": "b",
+          "text": "ににん"
+        },
+        {
+          "id": "c",
+          "text": "ふたり"
+        },
+        {
+          "id": "d",
+          "text": "にひと"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_二人"
+      ],
+      "explanation": "Two people uses the special form ふたり."
+    },
+    {
+      "id": "q_miyagi_028",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "Read 二つ.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "ふたり"
+        },
+        {
+          "id": "b",
+          "text": "ふたつ"
+        },
+        {
+          "id": "c",
+          "text": "につ"
+        },
+        {
+          "id": "d",
+          "text": "にじ"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_二つ"
+      ],
+      "explanation": "Two ordinary items is ふたつ."
+    },
+    {
+      "id": "q_miyagi_029",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "The plan is 九時半から十時まで. What is the endpoint?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "10:00"
+        },
+        {
+          "id": "b",
+          "text": "9:00"
+        },
+        {
+          "id": "c",
+          "text": "9:30"
+        },
+        {
+          "id": "d",
+          "text": "10:30"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_kara_made",
+        "vocab_十時"
+      ],
+      "explanation": "The endpoint follows まで, here 十時."
+    },
+    {
+      "id": "q_miyagi_030",
+      "type": "multipleChoice",
+      "category": "numbers",
+      "prompt": "A fictional single book costs 三百円. What is that book's price?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "3,000 yen"
+        },
+        {
+          "id": "b",
+          "text": "300 yen"
+        },
+        {
+          "id": "c",
+          "text": "30 yen"
+        },
+        {
+          "id": "d",
+          "text": "100 yen"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_三百円"
+      ],
+      "explanation": "The question states one book and 三百円, avoiding any unit/total ambiguity."
+    },
+    {
+      "id": "q_miyagi_031",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read the city name 仙台.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "せんたい"
+        },
+        {
+          "id": "b",
+          "text": "せんだい"
+        },
+        {
+          "id": "c",
+          "text": "やまだい"
+        },
+        {
+          "id": "d",
+          "text": "ひとだい"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_仙台"
+      ],
+      "explanation": "Learn 仙台 as the whole location name せんだい."
+    },
+    {
+      "id": "q_miyagi_032",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 松島.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "まつしま"
+        },
+        {
+          "id": "b",
+          "text": "もりしま"
+        },
+        {
+          "id": "c",
+          "text": "まつやま"
+        },
+        {
+          "id": "d",
+          "text": "こうとう"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_松島"
+      ],
+      "explanation": "松島 is the whole name まつしま."
+    },
+    {
+      "id": "q_miyagi_033",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 石巻.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "いしまき"
+        },
+        {
+          "id": "b",
+          "text": "いしのまき"
+        },
+        {
+          "id": "c",
+          "text": "せきかん"
+        },
+        {
+          "id": "d",
+          "text": "いしのはな"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_石巻"
+      ],
+      "explanation": "The spoken の belongs to the full name reading いしのまき."
+    },
+    {
+      "id": "q_miyagi_034",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read the place name 白石.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "しろいいし"
+        },
+        {
+          "id": "b",
+          "text": "しろいし"
+        },
+        {
+          "id": "c",
+          "text": "はくせき"
+        },
+        {
+          "id": "d",
+          "text": "しろしま"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_白石"
+      ],
+      "explanation": "白石 is しろいし; 白い石 is the ordinary white-stone phrase."
+    },
+    {
+      "id": "q_miyagi_035",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means near?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "遠い"
+        },
+        {
+          "id": "b",
+          "text": "古い"
+        },
+        {
+          "id": "c",
+          "text": "近い"
+        },
+        {
+          "id": "d",
+          "text": "高い"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_近い"
+      ],
+      "explanation": "近い is ちかい; it requires a reference point in our examples."
+    },
+    {
+      "id": "q_miyagi_036",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means far?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "安い"
+        },
+        {
+          "id": "b",
+          "text": "遠い"
+        },
+        {
+          "id": "c",
+          "text": "白い"
+        },
+        {
+          "id": "d",
+          "text": "新しい"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_遠い"
+      ],
+      "explanation": "遠い is とおい."
+    },
+    {
+      "id": "q_miyagi_037",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "In この本は高いです, what does 高い describe in the shop-price scene?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The book is old."
+        },
+        {
+          "id": "b",
+          "text": "The book is a village."
+        },
+        {
+          "id": "c",
+          "text": "The book is expensive."
+        },
+        {
+          "id": "d",
+          "text": "The book is a station."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_高い"
+      ],
+      "explanation": "With a book and an explicit shop-price setting, 高い describes expense."
+    },
+    {
+      "id": "q_miyagi_038",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which means inexpensive in the taught price context?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "安い"
+        },
+        {
+          "id": "b",
+          "text": "近い"
+        },
+        {
+          "id": "c",
+          "text": "古い"
+        },
+        {
+          "id": "d",
+          "text": "青い"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_安い"
+      ],
+      "explanation": "安い is やすい, inexpensive."
+    },
+    {
+      "id": "q_miyagi_039",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Read 電車.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "でんくるま"
+        },
+        {
+          "id": "b",
+          "text": "えきしゃ"
+        },
+        {
+          "id": "c",
+          "text": "でんしゃ"
+        },
+        {
+          "id": "d",
+          "text": "でんは"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_電車"
+      ],
+      "explanation": "電車 is the whole train word でんしゃ."
+    },
+    {
+      "id": "q_miyagi_040",
+      "type": "multipleChoice",
+      "category": "vocabulary",
+      "prompt": "Which word means old, for the taught book/photo descriptions?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "新しい"
+        },
+        {
+          "id": "b",
+          "text": "近い"
+        },
+        {
+          "id": "c",
+          "text": "白い"
+        },
+        {
+          "id": "d",
+          "text": "古い"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "vocab_古い"
+      ],
+      "explanation": "古い is ふるい; it is not our label for an elderly person."
+    },
+    {
+      "id": "q_miyagi_041",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "How is destination particle へ pronounced in 仙台へ行きます?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "え"
+        },
+        {
+          "id": "b",
+          "text": "へ"
+        },
+        {
+          "id": "c",
+          "text": "わ"
+        },
+        {
+          "id": "d",
+          "text": "に"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_direction_he"
+      ],
+      "explanation": "The particle's spelling remains へ but its pronunciation is え."
+    },
+    {
+      "id": "q_miyagi_042",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “go by train”: 電車＿＿行きます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "の"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "と"
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_means_de"
+      ],
+      "explanation": "で marks the means of movement after the transport noun."
+    },
+    {
+      "id": "q_miyagi_043",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught past-negative form of 来ます.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "来ませんでした。"
+        },
+        {
+          "id": "b",
+          "text": "来ました。"
+        },
+        {
+          "id": "c",
+          "text": "来ません。"
+        },
+        {
+          "id": "d",
+          "text": "くます。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_kuru_polite"
+      ],
+      "explanation": "来ませんでした is きませんでした, did not come."
+    },
+    {
+      "id": "q_miyagi_044",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “people are at the station”: 駅＿＿人がいます。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "へ"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "を"
+        },
+        {
+          "id": "d",
+          "text": "から"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_iru",
+        "grammar_particle_ni"
+      ],
+      "explanation": "Existence uses location に in this pattern; direction へ does not replace it."
+    },
+    {
+      "id": "q_miyagi_045",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “I bought a new book.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "新しい本を買いました。"
+        },
+        {
+          "id": "b",
+          "text": "新しかった本を買いません。"
+        },
+        {
+          "id": "c",
+          "text": "新しい本に行きました。"
+        },
+        {
+          "id": "d",
+          "text": "新しい本を来ました。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_i_adjective",
+        "grammar_polite_past"
+      ],
+      "explanation": "The adjective modifies the book; 買いました makes the buying action past."
+    },
+    {
+      "id": "q_miyagi_046",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose the taught “was not expensive.”",
+      "choices": [
+        {
+          "id": "a",
+          "text": "高くなかったです。"
+        },
+        {
+          "id": "b",
+          "text": "高いでした。"
+        },
+        {
+          "id": "c",
+          "text": "高くないです。"
+        },
+        {
+          "id": "d",
+          "text": "高いませんでした。"
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_i_adjective_past_negative"
+      ],
+      "explanation": "Remove final い and use くなかったです for the adjective past negative."
+    },
+    {
+      "id": "q_miyagi_047",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete the near-station model: この店は駅＿＿近いです。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "に"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "と"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_near_ni"
+      ],
+      "explanation": "In the taught relation 駅に近い, に gives the reference point."
+    },
+    {
+      "id": "q_miyagi_048",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Complete “far from the station”: 駅＿＿遠いです。",
+      "choices": [
+        {
+          "id": "a",
+          "text": "を"
+        },
+        {
+          "id": "b",
+          "text": "から"
+        },
+        {
+          "id": "c",
+          "text": "で"
+        },
+        {
+          "id": "d",
+          "text": "と"
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_far_kara"
+      ],
+      "explanation": "から supplies the reference point from which it is far."
+    },
+    {
+      "id": "q_miyagi_049",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "In 海と山を見ました, what does と do?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Marks the destination."
+        },
+        {
+          "id": "b",
+          "text": "Joins the two things seen."
+        },
+        {
+          "id": "c",
+          "text": "Makes the action negative."
+        },
+        {
+          "id": "d",
+          "text": "Marks an exact clock time."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_noun_to"
+      ],
+      "explanation": "と joins 海 and 山; を marks the list as the object."
+    },
+    {
+      "id": "q_miyagi_050",
+      "type": "multipleChoice",
+      "category": "grammar",
+      "prompt": "Choose “this shop” as a noun phrase.",
+      "choices": [
+        {
+          "id": "a",
+          "text": "これ店"
+        },
+        {
+          "id": "b",
+          "text": "ここ店"
+        },
+        {
+          "id": "c",
+          "text": "店この"
+        },
+        {
+          "id": "d",
+          "text": "この店"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "grammar_demonstrative_noun"
+      ],
+      "explanation": "この directly modifies 店; これ stands alone and ここ names a place."
+    },
+    {
+      "id": "q_miyagi_051",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R01: 電車で行きました。 How did the narrator travel?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "By car."
+        },
+        {
+          "id": "b",
+          "text": "By walking, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "By train."
+        },
+        {
+          "id": "d",
+          "text": "By plane."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r01_s01",
+        "sent_miyagi_r01_s02",
+        "sent_miyagi_r01_s03"
+      ],
+      "explanation": "電車で gives the means in the story."
+    },
+    {
+      "id": "q_miyagi_052",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R02: 友だちは九時半に駅に来ました。 When did the friend arrive?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "9:00"
+        },
+        {
+          "id": "b",
+          "text": "3:30"
+        },
+        {
+          "id": "c",
+          "text": "10:05"
+        },
+        {
+          "id": "d",
+          "text": "9:30"
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r02_s01",
+        "sent_miyagi_r02_s02",
+        "sent_miyagi_r02_s03"
+      ],
+      "explanation": "九時半 is half past nine."
+    },
+    {
+      "id": "q_miyagi_053",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R03: 駅の前に店があります。 Where is the shop?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Behind the station."
+        },
+        {
+          "id": "b",
+          "text": "Inside the train."
+        },
+        {
+          "id": "c",
+          "text": "On top of the mountain."
+        },
+        {
+          "id": "d",
+          "text": "In front of the station."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r03_s01",
+        "sent_miyagi_r03_s02",
+        "sent_miyagi_r03_s03"
+      ],
+      "explanation": "駅の前 identifies the front of the station."
+    },
+    {
+      "id": "q_miyagi_054",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R04: あの雲は白いです。 What is white?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The sky."
+        },
+        {
+          "id": "b",
+          "text": "The train."
+        },
+        {
+          "id": "c",
+          "text": "The book."
+        },
+        {
+          "id": "d",
+          "text": "The cloud."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r04_s01",
+        "sent_miyagi_r04_s02",
+        "sent_miyagi_r04_s03"
+      ],
+      "explanation": "雲 is the stated topic and 白い its description."
+    },
+    {
+      "id": "q_miyagi_055",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R05: あの山は高いです。 What does 高い mean here?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Expensive in price."
+        },
+        {
+          "id": "b",
+          "text": "Old."
+        },
+        {
+          "id": "c",
+          "text": "High in height."
+        },
+        {
+          "id": "d",
+          "text": "Far from the station."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r05_s01",
+        "sent_miyagi_r05_s02",
+        "sent_miyagi_r05_s03"
+      ],
+      "explanation": "The topic is a mountain in the stated nature view, so height is intended."
+    },
+    {
+      "id": "q_miyagi_056",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R06: この本は新しいです。その本は古いです。 Which book is new?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "その本, that book."
+        },
+        {
+          "id": "b",
+          "text": "Neither book, explicitly stated."
+        },
+        {
+          "id": "c",
+          "text": "Both books, explicitly stated."
+        },
+        {
+          "id": "d",
+          "text": "この本, this book."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r06_s01",
+        "sent_miyagi_r06_s02",
+        "sent_miyagi_r06_s03"
+      ],
+      "explanation": "The first sentence describes この本 as 新しい."
+    },
+    {
+      "id": "q_miyagi_057",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R07: その写真は村の写真です。 What does that photograph depict?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A station clock."
+        },
+        {
+          "id": "b",
+          "text": "A meal."
+        },
+        {
+          "id": "c",
+          "text": "A friend's hand."
+        },
+        {
+          "id": "d",
+          "text": "A village."
+        }
+      ],
+      "answer": "d",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r07_s01",
+        "sent_miyagi_r07_s02",
+        "sent_miyagi_r07_s03"
+      ],
+      "explanation": "村の写真 means a photograph of a village."
+    },
+    {
+      "id": "q_miyagi_058",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R08: この店は駅に近いです。 What is the distance reference?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The sea."
+        },
+        {
+          "id": "b",
+          "text": "The book."
+        },
+        {
+          "id": "c",
+          "text": "The station."
+        },
+        {
+          "id": "d",
+          "text": "The friend's home."
+        }
+      ],
+      "answer": "c",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r08_s01",
+        "sent_miyagi_r08_s02",
+        "sent_miyagi_r08_s03"
+      ],
+      "explanation": "駅に supplies the reference point for 近い."
+    },
+    {
+      "id": "q_miyagi_059",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R09: その本は高くなかったです。 What does it state?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The book is expensive now."
+        },
+        {
+          "id": "b",
+          "text": "The book was not expensive."
+        },
+        {
+          "id": "c",
+          "text": "No book existed."
+        },
+        {
+          "id": "d",
+          "text": "No purchase happened."
+        }
+      ],
+      "answer": "b",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r09_s01",
+        "sent_miyagi_r09_s02",
+        "sent_miyagi_r09_s03"
+      ],
+      "explanation": "高くなかったです is a past-negative price description, not an existence/purchase denial."
+    },
+    {
+      "id": "q_miyagi_060",
+      "type": "multipleChoice",
+      "category": "reading",
+      "prompt": "MIYAGI-R10: 次は秋田です。 What is next?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Akita."
+        },
+        {
+          "id": "b",
+          "text": "Iwate."
+        },
+        {
+          "id": "c",
+          "text": "Miyagi."
+        },
+        {
+          "id": "d",
+          "text": "Fukushima."
+        }
+      ],
+      "answer": "a",
+      "tags": [
+        "miyagi",
+        "miyagi_final"
+      ],
+      "refs": [
+        "sent_miyagi_r10_s01",
+        "sent_miyagi_r10_s02",
+        "sent_miyagi_r10_s03"
+      ],
+      "explanation": "秋田 is the helped next-destination name あきた."
+    }
+  ]
+}

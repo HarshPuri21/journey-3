@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "yamagata",
+  "name": "山形",
+  "nameEn": "Yamagata City",
+  "reading": "やまがた",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "yamagata_l01",
+      "file": "lessons/yamagata_l01.json"
+    }
+  ]
+}

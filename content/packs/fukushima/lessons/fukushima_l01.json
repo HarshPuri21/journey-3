@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "fukushima_l01",
+  "number": 1,
+  "title": "Fukushima — 福島",
+  "goal": "Expand food compounds and make a clear noun request.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_茶",
+    "kanji_肉",
+    "kanji_牛",
+    "kanji_果"
+  ],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_三",
+    "kanji_二",
+    "kanji_人",
+    "kanji_円",
+    "kanji_口",
+    "kanji_山",
+    "kanji_島",
+    "kanji_月",
+    "kanji_木",
+    "kanji_松",
+    "kanji_林",
+    "kanji_物",
+    "kanji_田",
+    "kanji_百",
+    "kanji_福",
+    "kanji_米",
+    "kanji_菜",
+    "kanji_買",
+    "kanji_野",
+    "kanji_食",
+    "kanji_飯",
+    "kanji_飲",
+    "kanji_魚",
+    "kanji_鳥",
+    "kanji_鶏"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "A Familiar Shopping Scene, More Useful Words",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Fukushima is both a prefecture and its capital city. The city's surrounding orchard/fruit context appears in the official prefectural travel material. We will use an invented menu and shop conversation; no seasonal availability or real price is implied."
+        },
+        {
+          "type": "text",
+          "text": "**福島で果物を買います。** ふくしまで くだものを かいます。 — I buy fruit in Fukushima."
+        },
+        {
+          "type": "text",
+          "text": "果物 is introduced as a whole word now and unpacked below. This is not a predictable reading produced by adding standalone kanji sounds. Shopping and eating grammar are already available, so new nouns can quickly become useful."
+        }
+      ]
+    },
+    {
+      "id": "inside_fukushima",
+      "title": "Inside 福島",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 福 · **Meaning/reading:** good fortune; フク · **Radical/components:** 示 in 礻/しめすへん form, beside 畐, a historical sound component; 畐 visibly includes 一/口/田-like sections · **Role:** Encounter. The right pieces do not simply sum to good fortune.",
+            "**Character:** 島 · **Meaning/reading:** island; しま, トウ · **Radical/components:** 山, やま; abbreviated bird-related upper shape · **Role:** Encounter review from 松島."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**福島 / ふくしま**. A name containing 島 does not make the city a separate island. Compare 松島 and 福島 to recognise the shared character while keeping different locations. The shrine-related 礻 differs from clothing radical 衤: the extra stroke can matter in another character family."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_福",
+            "kanji_島"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_shimesuhen"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_yama"
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c03",
+      "title": "茶 and お茶",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**茶 / ちゃ — tea; お茶 / おちゃ — tea with a common polite prefix.** Radical **艹**, くさかんむり, above a person-like middle and tree-like lower section. The plant top is useful; the lower strokes are recognition shapes rather than a formula “person plus tree = tea.”"
+        },
+        {
+          "type": "text",
+          "text": "**お茶を飲みます。** おちゃを のみます。 — I drink tea."
+        },
+        {
+          "type": "text",
+          "text": "**お茶は飲み物です。** おちゃは のみものです。 — Tea is a drink."
+        },
+        {
+          "type": "text",
+          "text": "お茶 and 茶 share the same central word. Do not count the prefix as a separate new kanji reading. This word directly enriches 飲む and 飲み物 from earlier packages."
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c04",
+      "title": "肉: Meat",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**肉 / にく — meat; 牛肉 / ぎゅうにく — beef, explained next.** 肉 is its own radical, にく. Its modern enclosed shape has inner strokes; compare carefully with **内** rather than assume that every enclosed 人-like form is the same character. In other characters a flesh-related side component often resembles 月, but that wider family is a later recognition connection."
+        },
+        {
+          "type": "text",
+          "text": "**肉を食べます。** にくを たべます。 — I eat meat."
+        },
+        {
+          "type": "text",
+          "text": "**この肉は食べ物です。** この にくは たべものです。 — This meat is food."
+        },
+        {
+          "type": "text",
+          "text": "These are category/action examples. The lesson does not require any learner to eat a particular food; other taught food nouns can occupy the same pattern."
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c05",
+      "title": "牛 and 牛肉",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**牛 / うし — cow/cattle; 牛肉 / ぎゅうにく — beef.** 牛 is its own radical, うし. The whole horn/head-derived shape becomes **牜**, うしへん, at the left of 物, which you already studied in Akita."
+        },
+        {
+          "type": "text",
+          "text": "**これは牛です。** これは うしです。 — This is a cow, in a labelled illustration."
+        },
+        {
+          "type": "text",
+          "text": "**牛肉を食べました。** ぎゅうにくを たべました。 — I ate beef."
+        },
+        {
+          "type": "text",
+          "text": "The standalone animal is うし; the compound uses ぎゅう. Do not construct **うしにく** as the required ordinary beef word. The word 牛肉 names meat, not a live cow; a living cow in an existence scene uses います."
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c06",
+      "title": "果 and 果物",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**果物 / くだもの — fruit.** 果 is indexed under **木**, き. Its modern upper 田-like section above 木 helps recognition and relates to a fruit/tree image; do not interpret it as a rice paddy growing on a tree."
+        },
+        {
+          "type": "text",
+          "text": "**りんごは果物です。** りんごは くだものです。 — Apples are fruit."
+        },
+        {
+          "type": "text",
+          "text": "**果物を二つ買いました。** くだものを ふたつ かいました。 — I bought two pieces/items of fruit, in a scene with whole fruits."
+        },
+        {
+          "type": "text",
+          "text": "果 contributes **くだ** in this whole word; 物 is もの. Learn くだもの directly. It differs from 食べ物 / たべもの and 飲み物 / のみもの, whose verb stems are visible."
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c07",
+      "title": "A Small Menu with Help",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Word:** ご飯 · **Reading:** ごはん · **Role/meaning:** review: rice/meal",
+            "**Word:** 魚 · **Reading:** さかな · **Role/meaning:** review: fish",
+            "**Word:** 牛肉 · **Reading:** ぎゅうにく · **Role/meaning:** core new word: beef",
+            "**Word:** 鶏肉 · **Reading:** とりにく · **Role/meaning:** assisted chicken-meat word; 鶏 remains encounter",
+            "**Word:** 野菜 · **Reading:** やさい · **Role/meaning:** assisted vegetable word; 野/菜 remain encounters",
+            "**Word:** 果物 · **Reading:** くだもの · **Role/meaning:** core new word: fruit",
+            "**Word:** お茶 · **Reading:** おちゃ · **Role/meaning:** core new word: tea"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "鳥 / とり is bird; **鶏肉** uses a different first kanji for chicken. Do not teach **鳥肉** as the default spelling of the syllabus chicken word. The menu broadens usable vocabulary while formal kanji assignments stay limited."
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c08",
+      "title": "ください after a Noun",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**お茶をください。** おちゃを ください。 — Tea, please / Please give me tea."
+        },
+        {
+          "type": "text",
+          "text": "**りんごを二つください。** りんごを ふたつ ください。 — Two apples, please."
+        },
+        {
+          "type": "text",
+          "text": "The taught pattern is **noun を (count) ください**, a polite request for an item. This is not yet **verb て-form + ください** for asking someone to perform an action. No new verb-conjugation rule is needed for the noun request."
+        },
+        {
+          "type": "text",
+          "text": "We preserve を, which marks the requested item. A contextually supplied serving of tea can be requested without introducing a special cup counter. Use the existing general counter for stated whole apples."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_noun_request_kudasai"
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c09",
+      "title": "A Shop Conversation with a Total",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**すみません。りんごを二つください。** すみません。りんごを ふたつ ください。 — Excuse me. Two apples, please."
+        },
+        {
+          "type": "text",
+          "text": "**三百円です。** さんびゃくえんです。 — It is 300 yen, the stated total for both apples."
+        },
+        {
+          "type": "text",
+          "text": "**ありがとうございます。** ありがとうございます。 — Thank you."
+        },
+        {
+          "type": "text",
+          "text": "**食べ物と飲み物を買いました。** たべものと のみものを かいました。 — I bought food and drinks."
+        },
+        {
+          "type": "text",
+          "text": "The scene also includes a drink, named in the accompanying practice menu. A total-price statement should not be confused with a per-item label. Questions later explicitly identify which quantity they ask about."
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c10",
+      "title": "Four Useful Categories",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**米を買います。ご飯を食べます。お茶を飲みます。果物を買います。** こめを かいます。ごはんを たべます。おちゃを のみます。くだものを かいます。 — I buy uncooked rice. I eat cooked rice/a meal. I drink tea. I buy fruit."
+        },
+        {
+          "type": "text",
+          "text": "These short sentences reuse the same object particle with different natural actions. The kanji graph connects **食 → 飯/食べ物**, **飲 → 飲み物**, **物 → 果物**, and **牛 → 牜 in 物**. A useful connection need not imply that every shared component has the same role in every word."
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c11",
+      "title": "Practice: Menu and Request",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 福島, お茶, 牛肉 and 果物. **Answer:** ふくしま; おちゃ; ぎゅうにく; くだもの.",
+            "What radical links 果 with 林? **Answer:** 木.",
+            "Which is the ordinary standalone cow word? **Answer:** 牛 / うし.",
+            "Ask for two apples in the taught pattern. **Answer:** りんごを二つください。",
+            "Is お茶 a food noun or an action verb? **Answer:** a drink/item noun; 飲む is the action.",
+            "What first kanji is used in the assisted chicken-meat word? **Answer:** 鶏 in 鶏肉, rather than treating 鳥 as the default spelling."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fukushima_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "福島 is ふくしま; its 島 does not classify the city as an island. お茶 is tea; 肉 is meat; 牛 is うし and 牛肉 is ぎゅうにく. 果物 is くだもの. Request an item with **Nをください**, or a stated general count with **Nを二つください**. Keep menu encounters assisted."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “Tea, please.” **Model:** お茶をください。 Continue to Aizuwakamatsu and identify the people in a family story."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_茶",
+            "kanji_肉",
+            "kanji_牛",
+            "kanji_果"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_二つ"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_福島"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_お茶"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_牛肉"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_果物"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_ください"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Fukushima complete",
+    "nextText": "Next: Aizuwakamatsu",
+    "nextChapter": "fukushima/aizuwakamatsu"
+  }
+}

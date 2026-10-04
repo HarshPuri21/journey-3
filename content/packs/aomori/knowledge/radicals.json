@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_ao",
+      "char": "青",
+      "name": "あお",
+      "nameRomaji": "ao",
+      "meanings": [
+        "blue/green family"
+      ],
+      "note": "Whole 青 indexing family; the lower modern shape is not a moon-meaning claim.",
+      "exampleKanji": [
+        "kanji_青"
+      ]
+    },
+    {
+      "id": "radical_kai",
+      "char": "貝",
+      "name": "かい",
+      "nameRomaji": "kai",
+      "meanings": [
+        "shell; money/value family"
+      ],
+      "note": "Indexes 買; upper 罒 is a separate recognition shape.",
+      "exampleKanji": [
+        "kanji_買"
+      ]
+    },
+    {
+      "id": "radical_yumi",
+      "char": "弓",
+      "name": "ゆみ",
+      "nameRomaji": "yumi",
+      "meanings": [
+        "bow"
+      ],
+      "note": "Indexes 弘; 厶 is the separate right-hand recognition component.",
+      "exampleKanji": [
+        "kanji_弘"
+      ]
+    },
+    {
+      "id": "radical_to",
+      "char": "戸",
+      "name": "と",
+      "nameRomaji": "to",
+      "meanings": [
+        "door"
+      ],
+      "note": "戸 is a door character/radical in 八戸.",
+      "exampleKanji": [
+        "kanji_戸"
+      ]
+    },
+    {
+      "id": "radical_madare",
+      "char": "广",
+      "name": "まだれ",
+      "nameRomaji": "madare",
+      "meanings": [
+        "shelter/roof family"
+      ],
+      "note": "Indexes 店; 占 is the other visible component.",
+      "exampleKanji": [
+        "kanji_店"
+      ]
+    },
+    {
+      "id": "radical_uo",
+      "char": "魚",
+      "name": "うお",
+      "nameRomaji": "uo",
+      "meanings": [
+        "fish"
+      ],
+      "note": "Whole 魚 indexing family.",
+      "exampleKanji": [
+        "kanji_魚"
+      ]
+    },
+    {
+      "id": "radical_kuchi",
+      "char": "口",
+      "name": "くち",
+      "nameRomaji": "kuchi",
+      "meanings": [
+        "mouth/opening"
+      ],
+      "note": "Indexes 口; also a recognition part in later words.",
+      "exampleKanji": [
+        "kanji_口"
+      ]
+    },
+    {
+      "id": "radical_nyuu",
+      "char": "入",
+      "name": "にゅう",
+      "nameRomaji": "nyuu",
+      "meanings": [
+        "enter"
+      ],
+      "note": "Whole 入 indexing family.",
+      "exampleKanji": [
+        "kanji_入"
+      ]
+    },
+    {
+      "id": "radical_hachi",
+      "char": "八",
+      "name": "はち",
+      "nameRomaji": "hachi",
+      "meanings": [
+        "eight; split strokes"
+      ],
+      "note": "八 is visible above 刀 in 分.",
+      "exampleKanji": [
+        "kanji_分"
+      ]
+    },
+    {
+      "id": "radical_yama",
+      "char": "山",
+      "name": "やま",
+      "nameRomaji": "yama",
+      "meanings": [
+        "mountain"
+      ],
+      "note": "Terrain indexing family; 岩 is previewed at Aomori's end and 岡 is introduced in Iwate.",
+      "exampleKanji": [
+        "kanji_山",
+        "kanji_岩"
+      ]
+    },
+    {
+      "id": "radical_ishi",
+      "char": "石",
+      "name": "いし",
+      "nameRomaji": "ishi",
+      "meanings": [
+        "stone"
+      ],
+      "note": "Whole 石 family; visible below 山 in 岩.",
+      "exampleKanji": [
+        "kanji_石",
+        "kanji_岩"
+      ]
+    },
+    {
+      "id": "radical_te",
+      "char": "手",
+      "name": "て",
+      "nameRomaji": "te",
+      "meanings": [
+        "hand"
+      ],
+      "note": "Whole 手 family; side form 扌 is てへん.",
+      "exampleKanji": [
+        "kanji_手"
+      ]
+    },
+    {
+      "id": "radical_kunigamae",
+      "char": "囗",
+      "name": "くにがまえ",
+      "nameRomaji": "kunigamae",
+      "meanings": [
+        "large enclosure"
+      ],
+      "note": "Selected enclosure family in 園; distinguish it from standalone 口.",
+      "exampleKanji": [
+        "kanji_園"
+      ]
+    },
+    {
+      "id": "radical_kusakanmuri",
+      "char": "艹",
+      "name": "くさかんむり",
+      "nameRomaji": "kusakanmuri",
+      "meanings": [
+        "plant/grass"
+      ],
+      "note": "Displayed plant top indexes under 艸; used in 花.",
+      "exampleKanji": [
+        "kanji_花"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "hitachi",
+  "name": "日立",
+  "nameEn": "Hitachi",
+  "reading": "ひたち",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "ibaraki/tsukuba"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "hitachi_l01",
+      "file": "lessons/hitachi_l01.json"
+    }
+  ]
+}

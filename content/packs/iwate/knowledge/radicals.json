@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "kind": "radicalSet",
+  "items": [
+    {
+      "id": "radical_sara",
+      "char": "皿",
+      "name": "さら",
+      "nameRomaji": "sara",
+      "meanings": [
+        "dish"
+      ],
+      "note": "Indexes 盛; upper 成 is explained as historical sound material.",
+      "exampleKanji": [
+        "kanji_盛"
+      ]
+    },
+    {
+      "id": "radical_naru",
+      "char": "成",
+      "name": "なる",
+      "nameRomaji": "naru",
+      "meanings": [
+        "become; sound component here"
+      ],
+      "note": "Recognition/sound component inside 盛, not its dictionary indexing radical.",
+      "exampleKanji": [
+        "kanji_盛"
+      ]
+    },
+    {
+      "id": "radical_mizu",
+      "char": "水",
+      "name": "みず",
+      "nameRomaji": "mizu",
+      "meanings": [
+        "water"
+      ],
+      "note": "Whole 水 indexing family in 泉; compare the left-side 氵 form learned in Hokkaido.",
+      "exampleKanji": [
+        "kanji_泉"
+      ]
+    },
+    {
+      "id": "radical_takumi",
+      "char": "工",
+      "name": "たくみ",
+      "nameRomaji": "takumi",
+      "meanings": [
+        "work/craft family"
+      ],
+      "note": "Indexes 左 and distinguishes its lower component from 右.",
+      "exampleKanji": [
+        "kanji_左"
+      ]
+    },
+    {
+      "id": "radical_ninben",
+      "char": "亻",
+      "name": "にんべん",
+      "nameRomaji": "ninben",
+      "meanings": [
+        "person side component"
+      ],
+      "note": "Shortened 人 on the left of 休; recognition bridge to earlier 木.",
+      "exampleKanji": [
+        "kanji_休"
+      ]
+    },
+    {
+      "id": "radical_ichi",
+      "char": "一",
+      "name": "いち",
+      "nameRomaji": "ichi",
+      "meanings": [
+        "one; horizontal baseline"
+      ],
+      "note": "Selected indexing family for 上 and 下.",
+      "exampleKanji": [
+        "kanji_上",
+        "kanji_下",
+        "kanji_平"
+      ]
+    },
+    {
+      "id": "radical_bou",
+      "char": "丨",
+      "name": "ぼう",
+      "nameRomaji": "bou",
+      "meanings": [
+        "vertical stroke"
+      ],
+      "note": "Selected indexing family for 中, with an enclosure crossed by a line.",
+      "exampleKanji": [
+        "kanji_中"
+      ]
+    },
+    {
+      "id": "radical_yuube",
+      "char": "夕",
+      "name": "ゆうべ",
+      "nameRomaji": "yuube",
+      "meanings": [
+        "evening"
+      ],
+      "note": "Selected indexing family for 外; its other visible piece is 卜.",
+      "exampleKanji": [
+        "kanji_外"
+      ]
+    },
+    {
+      "id": "radical_boku",
+      "char": "卜",
+      "name": "ぼく",
+      "nameRomaji": "boku",
+      "meanings": [
+        "divination shape"
+      ],
+      "note": "Recognition component on the right of 外; not a claim about the word's literal meaning.",
+      "exampleKanji": [
+        "kanji_外"
+      ]
+    },
+    {
+      "id": "radical_fushizukuri",
+      "char": "卩",
+      "name": "ふしづくり",
+      "nameRomaji": "fushizukuri",
+      "meanings": [
+        "seal/indexing family"
+      ],
+      "note": "巻 belongs to 卩 indexing in the selected reference; recognise its modern upper/lower shapes separately.",
+      "exampleKanji": [
+        "kanji_巻"
+      ]
+    },
+    {
+      "id": "radical_nogihen",
+      "char": "禾",
+      "name": "のぎへん",
+      "nameRomaji": "nogihen",
+      "meanings": [
+        "grain"
+      ],
+      "note": "Selected indexing family for 私, next to 厶; learn わたし as a word.",
+      "exampleKanji": [
+        "kanji_私"
+      ]
+    },
+    {
+      "id": "radical_hitoyane",
+      "char": "人",
+      "name": "ひとやね",
+      "nameRomaji": "hitoyane",
+      "meanings": [
+        "person/top component"
+      ],
+      "note": "Selected 人 family for 会, with an upper cover above 云-like material.",
+      "exampleKanji": [
+        "kanji_会"
+      ]
+    },
+    {
+      "id": "radical_tsuchi",
+      "char": "土",
+      "name": "つち",
+      "nameRomaji": "tsuchi",
+      "meanings": [
+        "earth"
+      ],
+      "note": "Indexes 地 in supported 地図; 池's 氵 is a different left component.",
+      "exampleKanji": [
+        "kanji_地"
+      ]
+    },
+    {
+      "id": "radical_sun",
+      "char": "寸",
+      "name": "すん",
+      "nameRomaji": "sun",
+      "meanings": [
+        "small measure/indexing family"
+      ],
+      "note": "Selected indexing for 寺, 土-like upper shape above 寸.",
+      "exampleKanji": [
+        "kanji_寺"
+      ]
+    },
+    {
+      "id": "radical_umahen",
+      "char": "馬",
+      "name": "うまへん",
+      "nameRomaji": "umahen",
+      "meanings": [
+        "horse/transport family"
+      ],
+      "note": "Selected indexing family of 駅, with 尺 on the right.",
+      "exampleKanji": [
+        "kanji_駅"
+      ]
+    },
+    {
+      "id": "radical_gonben",
+      "char": "言",
+      "name": "ごんべん",
+      "nameRomaji": "gonben",
+      "meanings": [
+        "speech family"
+      ],
+      "note": "Selected indexing family; other modern pieces are recognition aids.",
+      "exampleKanji": [
+        "kanji_読"
+      ]
+    },
+    {
+      "id": "radical_mata",
+      "char": "又",
+      "name": "また",
+      "nameRomaji": "mata",
+      "meanings": [
+        "right-hand family"
+      ],
+      "note": "Selected indexing family; other modern pieces are recognition aids.",
+      "exampleKanji": [
+        "kanji_友"
+      ]
+    }
+  ]
+}

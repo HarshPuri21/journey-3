@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "tsuruoka_l01",
+  "number": 2,
+  "title": "Tsuruoka — 鶴岡",
+  "goal": "Connect a difficult bird name with common bird/body words and listening.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_鳥",
+    "kanji_目",
+    "kanji_耳",
+    "kanji_足",
+    "kanji_聞"
+  ],
+  "encounterKanji": [
+    "kanji_二",
+    "kanji_写",
+    "kanji_友",
+    "kanji_口",
+    "kanji_場",
+    "kanji_声",
+    "kanji_山",
+    "kanji_岡",
+    "kanji_所",
+    "kanji_文",
+    "kanji_日",
+    "kanji_楽",
+    "kanji_火",
+    "kanji_白",
+    "kanji_盛",
+    "kanji_真",
+    "kanji_行",
+    "kanji_見",
+    "kanji_読",
+    "kanji_車",
+    "kanji_電",
+    "kanji_音",
+    "kanji_駅",
+    "kanji_鶴"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "Observe Rather than Memorise a Difficult Name",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Tsuruoka has a rich food culture and includes Kamo Aquarium. We will borrow an imaginary nature photograph and an audio scene, without implying that cranes are guaranteed at any attraction."
+        },
+        {
+          "type": "text",
+          "text": "**鶴岡で写真を見ます。** つるおかで しゃしんを みます。 — I look at photographs in Tsuruoka."
+        },
+        {
+          "type": "text",
+          "text": "Today we formally study a common bird character and a few body words. The difficult crane character stays assisted. The learner should be able to understand a city name without being tested on every rare reading of its spelling."
+        }
+      ]
+    },
+    {
+      "id": "inside_tsuruoka",
+      "title": "Inside 鶴岡",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 鶴 · **Meaning/reading:** crane; つる, カク · **Radical/components:** 鳥, とり, on the right; 隺 on the left, containing a cover-like top over a 隹-like bird form · **Role:** Encounter. 隺 contributes to historical sound/meaning structure; it is not a new required word.",
+            "**Character:** 岡 · **Meaning/reading:** hill; おか, コウ · **Radical/components:** 山, やま, within a framed modern structure · **Role:** Encounter review from 盛岡."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**鶴岡 / つるおか**. The bird radical gives a relevant clue, while the word and city reading remain learned forms. Compare **盛岡 / もりおか**: both share 岡. The same tail of a name helps recognition, not geographic identification of the entire place."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_鶴",
+            "kanji_岡"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tori"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_yama"
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c03",
+      "title": "鳥: A Common Bird Word",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**鳥 / とり — bird.** 鳥 is its own radical, とり. Its complete bird-derived shape has a head/body area and four lower dot strokes. Recognise it as a whole. The dots are not automatically an independent 火 word just because some other radicals have a similar bottom form."
+        },
+        {
+          "type": "text",
+          "text": "**鳥がいます。** とりが います。 — There is a bird."
+        },
+        {
+          "type": "text",
+          "text": "**あの鳥は白いです。** あの とりは しろいです。 — That bird over there is white."
+        },
+        {
+          "type": "text",
+          "text": "A live bird uses います. The animal word 鳥 differs from **鶏肉 / とりにく**, chicken meat, which will be assisted food vocabulary later. Do not assume every bird mentioned is a food item."
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c04",
+      "title": "目: An Eye",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**目 / め — eye; 目が二つ / めがふたつ — two eyes, in a simple count phrase.** 目 is its own radical, め. Its enclosed structure has more internal horizontal division than 日. Whole-shape recognition prevents confusing an eye with a day."
+        },
+        {
+          "type": "text",
+          "text": "**目で見ます。** めで みます。 — I see with my eyes."
+        },
+        {
+          "type": "text",
+          "text": "で can mark the means/instrument, extending the transport example **電車で行きます**. This statement is a simple body-word model, not a medical lesson. The phrase count uses the general item counter already learned in Hachinohe; we do not introduce a specialist body-part counter."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_instrument_de"
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c05",
+      "title": "耳: An Ear",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**耳 / みみ — ear.** 耳 is its own radical, みみ. The whole ear-derived shape has side strokes extending beyond the interior horizontal lines. Notice how its outline differs from 目."
+        },
+        {
+          "type": "text",
+          "text": "**これは耳です。** これは みみです。 — This is an ear, in an illustrated label exercise."
+        },
+        {
+          "type": "text",
+          "text": "**耳で聞きます。** みみで ききます。 — I listen with my ears."
+        },
+        {
+          "type": "text",
+          "text": "聞く is introduced with its reading now and explained next. Body labels should point clearly to a drawing. We avoid vague guessing between 目 and 耳 when no image or meaning cue is supplied. Both words can be recognised independently even before wider body vocabulary is studied."
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c06",
+      "title": "足: A Foot or Leg",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**足 / あし — foot; leg.** 足 is its own radical, あし. Notice a top 口-like section above a lower foot/step-related shape. These recognition pieces do not mean “mouth below.”"
+        },
+        {
+          "type": "text",
+          "text": "**鳥の足 / とりのあし — a bird's feet/legs.**"
+        },
+        {
+          "type": "text",
+          "text": "**あの鳥には足が二つあります。** あの とりには あしが ふたつ あります。 — That bird has two legs, in our illustration."
+        },
+        {
+          "type": "text",
+          "text": "The body parts use あります in this sentence; the living bird itself uses います. Grammar can express possession/parts. An animal's being alive does not force every noun associated with it to take います. This example makes that distinction explicit."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_body_parts_aru"
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c07",
+      "title": "聞: Hear, Listen, Ask",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**聞く / きく — hear; listen; ask.** Radical **耳**, みみ, inside **門**, もんがまえ, a gate-shaped enclosure. Hearing is a useful meaning connection; the visible gate is not a promise that listening only occurs at a gate."
+        },
+        {
+          "type": "text",
+          "text": "**音を聞きます。** おとを ききます。 — I listen to a sound."
+        },
+        {
+          "type": "text",
+          "text": "**音 / おと — sound**, assisted 音. **声 / こえ — voice**, assisted 声. **鳥の声を聞きます。** とりの こえを ききます。 — I listen to a bird's voice/call."
+        },
+        {
+          "type": "text",
+          "text": "The noun before を tells us what is heard. The verb keeps 聞 in 聞きます/聞きました. Do not confuse it with 見る, seeing."
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c08",
+      "title": "Asking Someone",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**友だちに聞きます。** ともだちに ききます。 — I ask a friend."
+        },
+        {
+          "type": "text",
+          "text": "**友だちに駅の場所を聞きます。** ともだちに えきの ばしょを ききます。 — I ask a friend about the station's location."
+        },
+        {
+          "type": "text",
+          "text": "場所 / ばしょ is reviewed as an assisted word from earlier place lessons. に identifies the person asked in this pattern; を identifies the requested information. In **鳥の声を聞きます**, 聞く means listen; in our person/information scene it means ask. Learn the whole sentence relationship rather than give every occurrence one rigid English translation."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_kiku_person_ni"
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c09",
+      "title": "Reading Is Not Listening",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**文を読みます。** ぶんを よみます。 — I read a sentence."
+        },
+        {
+          "type": "text",
+          "text": "**友だちの声を聞きます。** ともだちの こえを ききます。 — I listen to my friend's voice."
+        },
+        {
+          "type": "text",
+          "text": "**写真を見ます。** しゃしんを みます。 — I look at a photograph."
+        },
+        {
+          "type": "text",
+          "text": "Reading, listening and seeing are different actions that can all use を for their object. The choice of verb depends on the activity. **音楽 / おんがく — music**, an assisted whole word; 音/楽 stay encounters. **音楽を聞きました。** おんがくを ききました。 — I listened to music. The new action reuses a familiar past ending."
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c10",
+      "title": "A Short Nature Account",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**鶴岡で白い鳥を見ました。鳥の声を聞きました。** つるおかで しろい とりを みました。とりの こえを ききました。 — I saw a white bird in Tsuruoka. I listened to its call."
+        },
+        {
+          "type": "text",
+          "text": "**その鳥には足が二つあります。** その とりには あしが ふたつ あります。 — That bird has two legs."
+        },
+        {
+          "type": "text",
+          "text": "This is a fictional observation. It does not identify the species as a crane just because the city name includes 鶴. The words and grammar provide evidence; a name gloss cannot supply an unstated detail about the actual bird."
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c11",
+      "title": "Practice: Shapes and Actions",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 鶴岡, 鳥, 目, 耳 and 足. **Answer:** つるおか; とり; め; みみ; あし.",
+            "Which radical is inside 聞? **Answer:** 耳.",
+            "Choose the live-bird verb: 鳥がいます / 鳥があります. **Answer:** 鳥がいます, for the stated live bird.",
+            "Which noun means an eye? **Answer:** 目.",
+            "Complete “ask a friend”: 友だち＿聞きます。 **Answer:** に.",
+            "Is the white bird automatically a crane because the city is Tsuruoka? **Answer:** No; the observation has not identified its species."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tsuruoka_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "鶴岡 is つるおか. 鶴 remains assisted, while 鳥 becomes formal study. 目/耳/足 are め/みみ/あし. A live animal uses います; a stated body part can use あります. 聞く can mean hear/listen or ask; the object and person pattern clarify it. Read is 読む; see is 見る."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** “I ask a friend about the station's location.” **Model:** 友だちに駅の場所を聞きます。 Continue to Sakata and describe a home rather than only a temporary visit."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_鳥",
+            "kanji_目",
+            "kanji_耳",
+            "kanji_足",
+            "kanji_聞"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_見る"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_場所"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_読む"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_友だち"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_鶴岡"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_聞く"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Tsuruoka complete",
+    "nextText": "Next: Sakata",
+    "nextChapter": "yamagata/sakata"
+  }
+}

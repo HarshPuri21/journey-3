@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "nikko",
+  "name": "日光",
+  "nameEn": "Nikko",
+  "reading": "にっこう",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [
+    {
+      "type": "chapterComplete",
+      "ref": "tochigi/utsunomiya"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "nikko_l01",
+      "file": "lessons/nikko_l01.json"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "kind": "journeyIndex",
+  "journeyId": "n5",
+  "title": "N5 Kanji Journey",
+  "contentVersion": 1,
+  "route": [
+    {
+      "prefectureId": "hokkaido",
+      "number": 1,
+      "name": "北海道",
+      "nameEn": "Hokkaido",
+      "nameReading": "ほっかいどう",
+      "map": {
+        "x": 0.78,
+        "y": 0.195
+      }
+    },
+    {
+      "prefectureId": "aomori",
+      "number": 2,
+      "name": "青森",
+      "nameEn": "Aomori",
+      "nameReading": "あおもり",
+      "map": {
+        "x": 0.692,
+        "y": 0.288
+      }
+    },
+    {
+      "prefectureId": "iwate",
+      "number": 3,
+      "name": "岩手",
+      "nameEn": "Iwate",
+      "nameReading": "いわて",
+      "map": {
+        "x": 0.815,
+        "y": 0.35
+      }
+    },
+    {
+      "prefectureId": "miyagi",
+      "number": 4,
+      "name": "宮城",
+      "nameEn": "Miyagi",
+      "nameReading": "みやぎ",
+      "map": {
+        "x": 0.805,
+        "y": 0.409
+      }
+    },
+    {
+      "prefectureId": "akita",
+      "number": 5,
+      "name": "秋田",
+      "nameEn": "Akita",
+      "nameReading": "あきた",
+      "map": {
+        "x": 0.664,
+        "y": 0.385
+      }
+    },
+    {
+      "prefectureId": "yamagata",
+      "number": 6,
+      "name": "山形",
+      "nameEn": "Yamagata",
+      "nameReading": "やまがた",
+      "map": {
+        "x": 0.654,
+        "y": 0.45
+      }
+    },
+    {
+      "prefectureId": "fukushima",
+      "number": 7,
+      "name": "福島",
+      "nameEn": "Fukushima",
+      "nameReading": "ふくしま",
+      "map": {
+        "x": 0.774,
+        "y": 0.471
+      }
+    },
+    {
+      "prefectureId": "ibaraki",
+      "number": 8,
+      "name": "茨城",
+      "nameEn": "Ibaraki",
+      "nameReading": "いばらき",
+      "map": {
+        "x": 0.831,
+        "y": 0.566
+      }
+    },
+    {
+      "prefectureId": "tochigi",
+      "number": 9,
+      "name": "栃木",
+      "nameEn": "Tochigi",
+      "nameReading": "とちぎ",
+      "map": {
+        "x": 0.745,
+        "y": 0.529
+      }
+    },
+    {
+      "prefectureId": "gunma",
+      "number": 10,
+      "name": "群馬",
+      "nameEn": "Gunma",
+      "nameReading": "ぐんま",
+      "map": {
+        "x": 0.68,
+        "y": 0.506
+      }
+    }
+  ]
+}

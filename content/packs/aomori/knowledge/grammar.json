@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "grammarSet",
+  "items": [
+    {
+      "id": "grammar_demonstrative_noun",
+      "title": "この・その・あの + noun",
+      "pattern": "この N / その N / あの N",
+      "explanation": "These modifiers need a following noun. この points near the speaker, その near the listener, あの away from both; compare standalone これ/それ/あれ."
+    },
+    {
+      "id": "grammar_noun_to",
+      "title": "と joining nouns",
+      "pattern": "N と N",
+      "explanation": "Joins the named nouns, as in りんごと水. Later companion と has a different role."
+    },
+    {
+      "id": "grammar_time_ni",
+      "title": "に for a clock time",
+      "pattern": "time に action",
+      "explanation": "Marks a specified clock time, as 九時に行きます. Destination に may also occur in the same sentence; identify each noun's role."
+    },
+    {
+      "id": "grammar_kara_made",
+      "title": "から・まで: from/until",
+      "pattern": "start から end まで",
+      "explanation": "Marks the start and endpoint of the stated range. 九時半から十時まで is nine thirty until ten; an endpoint is not a duration number by itself."
+    },
+    {
+      "id": "grammar_counter_tsutsu",
+      "title": "General item counter つ",
+      "pattern": "一つ…九つ; 十",
+      "explanation": "Use ひとつ, ふたつ, みっつ, よっつ, いつつ, むっつ, ななつ, やっつ, ここのつ, とお. Do not construct じゅうつ. いくつ asks the quantity."
+    },
+    {
+      "id": "grammar_counter_people",
+      "title": "People counter 人",
+      "pattern": "一人・二人・三人",
+      "explanation": "The first two are ひとり and ふたり; 三人 is さんにん. Things counted with 二つ differ from people counted with 二人."
+    },
+    {
+      "id": "grammar_demonstrative_which",
+      "title": "どれ versus どの",
+      "pattern": "どれ / どの N",
+      "explanation": "どれ stands alone as which one; どの modifies a noun. Do not put a noun directly after どれ."
+    },
+    {
+      "id": "grammar_enter_leave",
+      "title": "Entering and leaving",
+      "pattern": "店に入ります / 店を出ます",
+      "explanation": "に marks the entered destination with 入る; を marks the place left with 出る, distinct from an ordinary consumed object."
+    }
+  ]
+}

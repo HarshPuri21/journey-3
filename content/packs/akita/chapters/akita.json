@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "chapter",
+  "id": "akita",
+  "name": "秋田",
+  "nameEn": "Akita City",
+  "reading": "あきた",
+  "summary": "One complete Journey Location lesson, with whole-name and radical/component support.",
+  "lessonOrder": "sequential",
+  "unlock": [],
+  "lessons": [
+    {
+      "id": "akita_l01",
+      "file": "lessons/akita_l01.json"
+    }
+  ]
+}

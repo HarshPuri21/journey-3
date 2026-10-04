@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "sendai_l01",
+  "number": 1,
+  "title": "Sendai — 仙台",
+  "goal": "Reach a new prefecture using familiar travel grammar and four new transport characters.",
+  "estimatedMinutes": 25,
+  "coreKanji": [
+    "kanji_駅",
+    "kanji_電",
+    "kanji_車",
+    "kanji_来"
+  ],
+  "encounterKanji": [
+    "kanji_九",
+    "kanji_人",
+    "kanji_仙",
+    "kanji_会",
+    "kanji_何",
+    "kanji_前",
+    "kanji_半",
+    "kanji_友",
+    "kanji_口",
+    "kanji_台",
+    "kanji_土",
+    "kanji_城",
+    "kanji_宮",
+    "kanji_山",
+    "kanji_店",
+    "kanji_時",
+    "kanji_木",
+    "kanji_田",
+    "kanji_私",
+    "kanji_行",
+    "kanji_話",
+    "kanji_食"
+  ],
+  "cards": [
+    {
+      "id": "arrival",
+      "title": "From Iwate to Miyagi",
+      "kind": "intro",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Miyagi was the next destination at the end of Iwate. Sendai is its capital and is associated with the Tanabata Festival's colourful decorations. We will use a station meeting, without memorising festival dates."
+        },
+        {
+          "type": "text",
+          "text": "Inspect the prefecture name first:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 宮 · **Orientation meaning/reading:** shrine/palace; みや, キュウ/グウ · **Radical and visible parts:** 宀, うかんむり; 呂-shaped interior. The roof gives a building clue; the interior belongs to a historical sound structure.",
+            "**Character:** 城 · **Orientation meaning/reading:** castle; しろ, ジョウ; ぎ in this name · **Radical and visible parts:** 土, つちへん, plus 成, a historical sound element."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**宮城 / みやぎ** is the prefecture name. **城 / しろ** remains a usable assisted word for later castle scenes. Knowing a radical does not let us predict the name's ぎ reading."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_宮",
+            "kanji_城"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_tsuchi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ukanmuri"
+        }
+      ]
+    },
+    {
+      "id": "inside_sendai",
+      "title": "Inside 仙台",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Character:** 仙 · **Meaning/reading for orientation:** immortal/sage; セン · **Radical and components:** 人 in its 亻/にんべん side form + 山 · **Role:** Encounter. Recognise the familiar person and mountain shapes.",
+            "**Character:** 台 · **Meaning/reading for orientation:** stand/platform; ダイ/タイ · **Radical and components:** 口, くち, below 厶-shaped upper strokes · **Role:** Encounter. Modern shape analysis is not the full history of older 臺."
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The whole city name is **仙台 / せんだい**. Contrast 台 with 私: both show a 厶-like part, but neither the whole meaning nor reading is forced to match. Do not replace 仙台 with a made-up English name such as “sage platform.”"
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_仙",
+            "kanji_台"
+          ],
+          "show": [
+            "meaning",
+            "readings",
+            "components"
+          ]
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_kuchi"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_ninben"
+        },
+        {
+          "type": "radicalRef",
+          "id": "radical_yama"
+        }
+      ]
+    },
+    {
+      "id": "sendai_c03",
+      "title": "駅: The Place Already in Our Maps",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**駅 / えき — station; 駅前 / えきまえ — the area in front of a station.** You used 駅 with help in Iwate; it now becomes formal study. Its radical is **馬**, うま/うまへん, with **尺** on the right. The historical horse/transport connection helps recognition; 尺 is associated with sound structure, not a modern train rule."
+        },
+        {
+          "type": "text",
+          "text": "**駅の前に店があります。** えきの まえに みせが あります。 — There is a shop in front of the station."
+        },
+        {
+          "type": "text",
+          "text": "駅前 is a compact word for a familiar noun relationship. The station's left, right, inside and outside can still be described with the Iwate patterns. Formal study changes the learner's attention to the spelling, not the word's meaning."
+        }
+      ]
+    },
+    {
+      "id": "sendai_c04",
+      "title": "車 and 電 Become 電車",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "**Word:** 車 · **Reading:** くるま · **Meaning:** car; vehicle",
+            "**Word:** 電車 · **Reading:** でんしゃ · **Meaning:** electric train; ordinary train word in our examples",
+            "**Word:** 電話 · **Reading:** でんわ · **Meaning:** telephone, an assisted whole word; 話 is studied later"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "**車** is its own radical, くるま. Recognise the complete vehicle-derived shape. **電** is indexed under **雨**, あめかんむり, above a lower section ending in a curved stroke. The rain top reflects a historical lightning connection, not a statement that trains need rain."
+        },
+        {
+          "type": "text",
+          "text": "電 is でん in 電車; 車 is しゃ there, but くるま as the standalone car word. Learn the words together. The final curved stroke distinguishes 電 from an ordinary 田 shape."
+        }
+      ]
+    },
+    {
+      "id": "sendai_c05",
+      "title": "で Can Mark the Means of Travel",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**電車で仙台に行きます。** でんしゃで せんだいに いきます。 — I go to Sendai by train."
+        },
+        {
+          "type": "text",
+          "text": "**車で行きます。** くるまで いきます。 — I go by car."
+        },
+        {
+          "type": "text",
+          "text": "You already know **店で食べます**, where で marks the action's place. Here a transport noun before で tells **how** the traveller goes. Ask which relationship the noun expresses, rather than translating every で as “at.”"
+        },
+        {
+          "type": "text",
+          "text": "In 電車で仙台に行きます, 電車で = by train; 仙台に = to Sendai; 行きます = go/will go. The transport choice is fictional practice, not a claim about a particular route or timetable."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_means_de"
+        }
+      ]
+    },
+    {
+      "id": "sendai_c06",
+      "title": "へ Is Written へ but Read え",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**仙台へ行きます。** せんだいえ いきます。 — I go toward/to Sendai."
+        },
+        {
+          "type": "text",
+          "text": "In this simple movement pattern, **に** and **へ** can both identify the destination. へ highlights the direction. As a particle it is pronounced **え**, although its spelling remains へ."
+        },
+        {
+          "type": "text",
+          "text": "**友だちと電車で仙台へ行きます。** ともだちと でんしゃで せんだいえ いきます。 — I go to Sendai by train with a friend."
+        },
+        {
+          "type": "text",
+          "text": "Keep the jobs distinct: companion と; means で; direction へ. Do not substitute へ for every location に: our existence example remains 駅に人がいます. There is no movement toward the station in that statement."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_direction_he"
+        }
+      ]
+    },
+    {
+      "id": "sendai_c07",
+      "title": "来る Changes Its Reading",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**来る / くる — come.** Radical **木**, き, in traditional indexing; recognise the modern whole shape. Its historical forms are not a picture of a person “coming to a tree.”"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "**Form:** 来る · **Reading:** くる · **Meaning:** come, dictionary form",
+            "**Form:** 来ます · **Reading:** きます · **Meaning:** come / will come, polite",
+            "**Form:** 来ません · **Reading:** きません · **Meaning:** do not / will not come",
+            "**Form:** 来ました · **Reading:** きました · **Meaning:** came",
+            "**Form:** 来ませんでした · **Reading:** きませんでした · **Meaning:** did not come"
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The kanji stays 来, but the spoken part is く in くる and き in きます. This is an irregular verb. Do not construct **くます**. These polite endings are already familiar from 行く and 会う."
+        },
+        {
+          "type": "grammarRef",
+          "id": "grammar_kuru_polite"
+        }
+      ]
+    },
+    {
+      "id": "sendai_c08",
+      "title": "Come to Whose Location?",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**友だちは九時半に駅に来ます。** ともだちは くじはんに えきに きます。 — My friend comes to the station at 9:30."
+        },
+        {
+          "type": "text",
+          "text": "Imagine the speaker is at the station waiting for the friend. 来ます describes movement toward this meeting point. **私は九時半に駅に行きます。** わたしは くじはんに えきに いきます。 — I go to the station at 9:30."
+        },
+        {
+          "type": "text",
+          "text": "The second sentence describes my movement there from elsewhere. English “come/go” also depends on perspective, so a scene must establish the reference point. 九時半に is a time; 駅に is a destination. Two に particles can express different relationships in one sentence."
+        }
+      ]
+    },
+    {
+      "id": "sendai_c09",
+      "title": "A Small Meeting Conversation",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "At the station, one person asks about a friend's planned arrival:"
+        },
+        {
+          "type": "text",
+          "text": "**友だちは何時に来ますか。** ともだちは なんじに きますか。 — What time does your friend come?"
+        },
+        {
+          "type": "text",
+          "text": "**九時半に来ます。** くじはんに きます。 — They come at 9:30."
+        },
+        {
+          "type": "text",
+          "text": "**電車で来ますか。** でんしゃで きますか。 — Do they come by train?"
+        },
+        {
+          "type": "text",
+          "text": "**はい、電車で来ます。** はい、でんしゃで きます。 — Yes, by train."
+        },
+        {
+          "type": "text",
+          "text": "The reply may omit 友だちは once the topic is understood. はい confirms this question; it is not part of the transport noun. We can now interpret a clock, identify means, and choose a movement verb without introducing another tense."
+        }
+      ]
+    },
+    {
+      "id": "sendai_c10",
+      "title": "Read the Whole Sentence",
+      "kind": "content",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "**私は友だちと電車で仙台へ行きました。** わたしは ともだちと でんしゃで せんだいえ いきました。 — I went to Sendai by train with a friend."
+        },
+        {
+          "type": "text",
+          "text": "Read in groups: 私は / 友だちと / 電車で / 仙台へ / 行きました. The verb tells us this is past. The particles tell us the relationships. Changing 電車 to 車 changes the means, while changing 行きました to 行きませんでした changes whether the trip occurred."
+        },
+        {
+          "type": "text",
+          "text": "Contrast **仙台駅 / せんだいえき**, Sendai Station, with **仙台の駅 / せんだいのえき**, a station in Sendai. Learn the named station as a compound; the ordinary noun relationship still uses の."
+        }
+      ]
+    },
+    {
+      "id": "sendai_c11",
+      "title": "Practice: Journey and Meeting",
+      "kind": "practice",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "bullets",
+          "items": [
+            "Read 電車 and standalone 車. **Answer:** でんしゃ; くるま.",
+            "Complete “by train”: 電車＿行きます。 **Answer:** で.",
+            "Read the destination particle in 仙台へ. **Answer:** え; spelling stays へ.",
+            "Make 来ます past negative. **Answer:** 来ませんでした / きませんでした.",
+            "Explain the two に in 九時半に駅に来ます. **Answer:** clock time; destination.",
+            "At a station meeting, your friend approaches your position. Which taught verb fits? **Answer:** 来ます. A perspective is supplied so the question has one intended answer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sendai_c12",
+      "title": "Things to Remember",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "仙台 is せんだい; 宮城 is みやぎ. City-name components aid recognition, not name prediction. 駅 is えき; 電車 is でんしゃ; 車 is くるま. Means で differs from action-place で. Direction へ is read え and does not replace existence に. 来る is くる, but 来ます is きます."
+        },
+        {
+          "type": "text",
+          "text": "**Recall task:** Say “I went to Sendai by train with a friend.” **Model:** 友だちと電車で仙台へ行きました。 Keep に as an equally valid simple destination alternative. Continue to Matsushima."
+        },
+        {
+          "type": "kanjiRow",
+          "ids": [
+            "kanji_駅",
+            "kanji_電",
+            "kanji_車",
+            "kanji_来"
+          ],
+          "show": [
+            "meaning",
+            "readings"
+          ]
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_友だち"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_宮城"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_仙台"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_電車"
+        },
+        {
+          "type": "vocabRef",
+          "id": "vocab_来る"
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Sendai complete",
+    "nextText": "Next: Matsushima",
+    "nextChapter": "miyagi/matsushima"
+  }
+}

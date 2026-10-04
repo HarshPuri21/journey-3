@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 1,
+  "kind": "sentenceSet",
+  "items": [
+    {
+      "id": "sent_fukushima_r01_s01",
+      "jp": "{福島|ふくしま}に{行|い}きました。",
+      "en": "I went to Fukushima.",
+      "tokens": [
+        {
+          "text": "福島",
+          "reading": "ふくしま",
+          "vocab": "vocab_福島",
+          "gloss": "Fukushima, assisted next prefecture/city name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_島",
+        "kanji_福",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r01_s02",
+      "jp": "{店|みせ}で{果物|くだもの}を{買|か}いました。",
+      "en": "I bought fruit at a shop.",
+      "tokens": [
+        {
+          "text": "店",
+          "reading": "みせ",
+          "vocab": "vocab_店",
+          "gloss": "shop"
+        },
+        {
+          "text": "果物",
+          "reading": "くだもの",
+          "vocab": "vocab_果物",
+          "gloss": "fruit, whole word"
+        },
+        {
+          "text": "買",
+          "reading": "か"
+        }
+      ],
+      "kanji": [
+        "kanji_店",
+        "kanji_果",
+        "kanji_物",
+        "kanji_買"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r01_s03",
+      "jp": "りんごは{果物|くだもの}です。",
+      "en": "Apples are fruit.",
+      "tokens": [
+        {
+          "text": "果物",
+          "reading": "くだもの",
+          "vocab": "vocab_果物",
+          "gloss": "fruit, whole word"
+        }
+      ],
+      "kanji": [
+        "kanji_果",
+        "kanji_物"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r02_s01",
+      "jp": "「りんごを{二|ふた}つください。」",
+      "en": "“Two apples, please.”",
+      "tokens": [
+        {
+          "text": "二",
+          "reading": "ふた"
+        }
+      ],
+      "kanji": [
+        "kanji_二"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r02_s02",
+      "jp": "「{三百円|さんびゃくえん}です。」",
+      "en": "“It is 300 yen.”",
+      "tokens": [
+        {
+          "text": "三百円",
+          "reading": "さんびゃくえん",
+          "vocab": "vocab_三百円",
+          "gloss": "three hundred yen"
+        }
+      ],
+      "kanji": [
+        "kanji_三",
+        "kanji_円",
+        "kanji_百"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r02_s03",
+      "jp": "「ありがとうございます。」",
+      "en": "“Thank you.”",
+      "tokens": [],
+      "kanji": [],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r03_s01",
+      "jp": "{牛肉|ぎゅうにく}とご{飯|はん}を{食|た}べました。",
+      "en": "I ate beef and rice.",
+      "tokens": [
+        {
+          "text": "牛肉",
+          "reading": "ぎゅうにく",
+          "vocab": "vocab_牛肉",
+          "gloss": "beef"
+        },
+        {
+          "text": "飯",
+          "reading": "はん"
+        },
+        {
+          "text": "食",
+          "reading": "た"
+        }
+      ],
+      "kanji": [
+        "kanji_牛",
+        "kanji_肉",
+        "kanji_食",
+        "kanji_飯"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r03_s02",
+      "jp": "お{茶|ちゃ}も{飲|の}みました。",
+      "en": "I also drank tea.",
+      "tokens": [
+        {
+          "text": "茶",
+          "reading": "ちゃ",
+          "vocab": "vocab_茶",
+          "gloss": "tea"
+        },
+        {
+          "text": "飲",
+          "reading": "の"
+        }
+      ],
+      "kanji": [
+        "kanji_茶",
+        "kanji_飲"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r03_s03",
+      "jp": "お{茶|ちゃ}は{飲|の}み{物|もの}です。",
+      "en": "Tea is a drink.",
+      "tokens": [
+        {
+          "text": "茶",
+          "reading": "ちゃ",
+          "vocab": "vocab_茶",
+          "gloss": "tea"
+        },
+        {
+          "text": "飲",
+          "reading": "の"
+        },
+        {
+          "text": "物",
+          "reading": "もの",
+          "vocab": "vocab_物",
+          "gloss": "thing"
+        }
+      ],
+      "kanji": [
+        "kanji_物",
+        "kanji_茶",
+        "kanji_飲"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r04_s01",
+      "jp": "{母|はは}と{会津若松|あいづわかまつ}に{行|い}きました。",
+      "en": "I went to Aizuwakamatsu with my mother.",
+      "tokens": [
+        {
+          "text": "母",
+          "reading": "はは",
+          "vocab": "vocab_母",
+          "gloss": "mother, commonly one's own in outside-family description"
+        },
+        {
+          "text": "会津若松",
+          "reading": "あいづわかまつ",
+          "vocab": "vocab_会津若松",
+          "gloss": "Aizuwakamatsu, whole location name"
+        },
+        {
+          "text": "行",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_会",
+        "kanji_松",
+        "kanji_母",
+        "kanji_津",
+        "kanji_若",
+        "kanji_行"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r04_s02",
+      "jp": "{父|ちち}は{来|き}ませんでした。",
+      "en": "My father did not come.",
+      "tokens": [
+        {
+          "text": "父",
+          "reading": "ちち",
+          "vocab": "vocab_父",
+          "gloss": "father, commonly one's own in outside-family description"
+        },
+        {
+          "text": "来",
+          "reading": "き"
+        }
+      ],
+      "kanji": [
+        "kanji_来",
+        "kanji_父"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r04_s03",
+      "jp": "{家族|かぞく}の{写真|しゃしん}を{見|み}ました。",
+      "en": "I looked at a family photograph.",
+      "tokens": [
+        {
+          "text": "家族",
+          "reading": "かぞく",
+          "vocab": "vocab_家族",
+          "gloss": "family, assisted whole word"
+        },
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "見",
+          "reading": "み"
+        }
+      ],
+      "kanji": [
+        "kanji_写",
+        "kanji_家",
+        "kanji_族",
+        "kanji_真",
+        "kanji_見"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r05_s01",
+      "jp": "{写真|しゃしん}に{三人|さんにん}います。",
+      "en": "There are three people in the photograph.",
+      "tokens": [
+        {
+          "text": "写真",
+          "reading": "しゃしん",
+          "vocab": "vocab_写真",
+          "gloss": "photograph"
+        },
+        {
+          "text": "三人",
+          "reading": "さんにん",
+          "vocab": "vocab_三人",
+          "gloss": "three people"
+        }
+      ],
+      "kanji": [
+        "kanji_三",
+        "kanji_人",
+        "kanji_写",
+        "kanji_真"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r05_s02",
+      "jp": "{父|ちち}と{母|はは}と{子|こ}どもです。",
+      "en": "They are a father, a mother and a child.",
+      "tokens": [
+        {
+          "text": "父",
+          "reading": "ちち",
+          "vocab": "vocab_父",
+          "gloss": "father, commonly one's own in outside-family description"
+        },
+        {
+          "text": "母",
+          "reading": "はは",
+          "vocab": "vocab_母",
+          "gloss": "mother, commonly one's own in outside-family description"
+        },
+        {
+          "text": "子",
+          "reading": "こ",
+          "vocab": "vocab_子",
+          "gloss": "child, in common words"
+        }
+      ],
+      "kanji": [
+        "kanji_子",
+        "kanji_母",
+        "kanji_父"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r05_s03",
+      "jp": "この{子|こ}どもの{名前|なまえ}はゆきです。",
+      "en": "This child’s name is Yuki.",
+      "tokens": [
+        {
+          "text": "子",
+          "reading": "こ",
+          "vocab": "vocab_子",
+          "gloss": "child, in common words"
+        },
+        {
+          "text": "名前",
+          "reading": "なまえ",
+          "vocab": "vocab_名前",
+          "gloss": "name"
+        }
+      ],
+      "kanji": [
+        "kanji_前",
+        "kanji_名",
+        "kanji_子"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r06_s01",
+      "jp": "{郡山|こおりやま}で{先生|せんせい}に{会|あ}いました。",
+      "en": "I met a teacher in Koriyama.",
+      "tokens": [
+        {
+          "text": "郡山",
+          "reading": "こおりやま",
+          "vocab": "vocab_郡山",
+          "gloss": "Koriyama, whole location name"
+        },
+        {
+          "text": "先生",
+          "reading": "せんせい",
+          "vocab": "vocab_先生",
+          "gloss": "teacher, in the supplied role context"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_会",
+        "kanji_先",
+        "kanji_山",
+        "kanji_生",
+        "kanji_郡"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r06_s02",
+      "jp": "この{人|ひと}は{先生|せんせい}です。",
+      "en": "This person is a teacher.",
+      "tokens": [
+        {
+          "text": "人",
+          "reading": "ひと",
+          "vocab": "vocab_人",
+          "gloss": "person"
+        },
+        {
+          "text": "先生",
+          "reading": "せんせい",
+          "vocab": "vocab_先生",
+          "gloss": "teacher, in the supplied role context"
+        }
+      ],
+      "kanji": [
+        "kanji_人",
+        "kanji_先",
+        "kanji_生"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r06_s03",
+      "jp": "{先生|せんせい}の{名前|なまえ}はゆきです。",
+      "en": "The teacher’s name is Yuki.",
+      "tokens": [
+        {
+          "text": "先生",
+          "reading": "せんせい",
+          "vocab": "vocab_先生",
+          "gloss": "teacher, in the supplied role context"
+        },
+        {
+          "text": "名前",
+          "reading": "なまえ",
+          "vocab": "vocab_名前",
+          "gloss": "name"
+        }
+      ],
+      "kanji": [
+        "kanji_先",
+        "kanji_前",
+        "kanji_名",
+        "kanji_生"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r07_s01",
+      "jp": "{私|わたし}は{学生|がくせい}です。",
+      "en": "I am a student.",
+      "tokens": [
+        {
+          "text": "私",
+          "reading": "わたし",
+          "vocab": "vocab_私",
+          "gloss": "I; me"
+        },
+        {
+          "text": "学生",
+          "reading": "がくせい",
+          "vocab": "vocab_学生",
+          "gloss": "student"
+        }
+      ],
+      "kanji": [
+        "kanji_学",
+        "kanji_生",
+        "kanji_私"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r07_s02",
+      "jp": "{学校|がっこう}で{本|ほん}を{読|よ}みました。",
+      "en": "I read a book at school.",
+      "tokens": [
+        {
+          "text": "学校",
+          "reading": "がっこう",
+          "vocab": "vocab_学校",
+          "gloss": "school; small っ and long こう"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        },
+        {
+          "text": "読",
+          "reading": "よ"
+        }
+      ],
+      "kanji": [
+        "kanji_学",
+        "kanji_本",
+        "kanji_校",
+        "kanji_読"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r07_s03",
+      "jp": "ノートに{文|ぶん}を{書|か}きました。",
+      "en": "I wrote a sentence in a notebook.",
+      "tokens": [
+        {
+          "text": "文",
+          "reading": "ぶん",
+          "vocab": "vocab_文",
+          "gloss": "sentence"
+        },
+        {
+          "text": "書",
+          "reading": "か"
+        }
+      ],
+      "kanji": [
+        "kanji_文",
+        "kanji_書"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r08_s01",
+      "jp": "いわきで{友|とも}だちに{会|あ}いました。",
+      "en": "I met a friend in Iwaki.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "会",
+          "reading": "あ"
+        }
+      ],
+      "kanji": [
+        "kanji_会",
+        "kanji_友"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r08_s02",
+      "jp": "{友|とも}だちに「こんにちは」と{言|い}いました。",
+      "en": "I said “hello” to my friend.",
+      "tokens": [
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "言",
+          "reading": "い"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_言"
+      ],
+      "grammar": [
+        "grammar_quotation_to"
+      ]
+    },
+    {
+      "id": "sent_fukushima_r08_s03",
+      "jp": "{日本語|にほんご}で{話|はな}しました。",
+      "en": "I talked in Japanese.",
+      "tokens": [
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "vocab": "vocab_日本語",
+          "gloss": "Japanese language"
+        },
+        {
+          "text": "話",
+          "reading": "はな"
+        }
+      ],
+      "kanji": [
+        "kanji_日",
+        "kanji_本",
+        "kanji_話",
+        "kanji_語"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r09_s01",
+      "jp": "{電話|でんわ}で{友|とも}だちと{話|はな}します。",
+      "en": "I talk with a friend on the phone.",
+      "tokens": [
+        {
+          "text": "電話",
+          "reading": "でんわ",
+          "vocab": "vocab_電話",
+          "gloss": "telephone, assisted whole word"
+        },
+        {
+          "text": "友",
+          "reading": "とも"
+        },
+        {
+          "text": "話",
+          "reading": "はな"
+        }
+      ],
+      "kanji": [
+        "kanji_友",
+        "kanji_話",
+        "kanji_電"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r09_s02",
+      "jp": "{時々|ときどき}、{日本語|にほんご}を{話|はな}します。",
+      "en": "I sometimes speak Japanese.",
+      "tokens": [
+        {
+          "text": "時々",
+          "reading": "ときどき",
+          "vocab": "vocab_時々",
+          "gloss": "sometimes; 々 repeats the previous character"
+        },
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "vocab": "vocab_日本語",
+          "gloss": "Japanese language"
+        },
+        {
+          "text": "話",
+          "reading": "はな"
+        }
+      ],
+      "kanji": [
+        "kanji_日",
+        "kanji_時",
+        "kanji_本",
+        "kanji_話",
+        "kanji_語"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r09_s03",
+      "jp": "{英語|えいご}は{全然|ぜんぜん}{話|はな}しません。",
+      "en": "I do not speak English at all.",
+      "tokens": [
+        {
+          "text": "英語",
+          "reading": "えいご",
+          "vocab": "vocab_英語",
+          "gloss": "English language, assisted 英"
+        },
+        {
+          "text": "全然",
+          "reading": "ぜんぜん",
+          "vocab": "vocab_全然",
+          "gloss": "not at all, with a negative in the taught beginner pattern"
+        },
+        {
+          "text": "話",
+          "reading": "はな"
+        }
+      ],
+      "kanji": [
+        "kanji_全",
+        "kanji_然",
+        "kanji_英",
+        "kanji_話",
+        "kanji_語"
+      ],
+      "grammar": [
+        "grammar_zenzen_negative"
+      ]
+    },
+    {
+      "id": "sent_fukushima_r10_s01",
+      "jp": "{日本|にほん}は{国|くに}です。",
+      "en": "Japan is a country.",
+      "tokens": [
+        {
+          "text": "日本",
+          "reading": "にほん",
+          "vocab": "vocab_日本",
+          "gloss": "Japan"
+        },
+        {
+          "text": "国",
+          "reading": "くに",
+          "vocab": "vocab_国",
+          "gloss": "country"
+        }
+      ],
+      "kanji": [
+        "kanji_国",
+        "kanji_日",
+        "kanji_本"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r10_s02",
+      "jp": "これは{日本語|にほんご}の{本|ほん}です。",
+      "en": "This is a Japanese-language learning book.",
+      "tokens": [
+        {
+          "text": "日本語",
+          "reading": "にほんご",
+          "vocab": "vocab_日本語",
+          "gloss": "Japanese language"
+        },
+        {
+          "text": "本",
+          "reading": "ほん",
+          "vocab": "vocab_本",
+          "gloss": "book"
+        }
+      ],
+      "kanji": [
+        "kanji_日",
+        "kanji_本",
+        "kanji_語"
+      ],
+      "grammar": []
+    },
+    {
+      "id": "sent_fukushima_r10_s03",
+      "jp": "{次|つぎ}は{茨城|いばらき}です。",
+      "en": "Next is Ibaraki.",
+      "tokens": [
+        {
+          "text": "次",
+          "reading": "つぎ",
+          "vocab": "vocab_次",
+          "gloss": "next"
+        },
+        {
+          "text": "茨城",
+          "reading": "いばらき",
+          "vocab": "vocab_茨城",
+          "gloss": "Ibaraki, assisted next prefecture name"
+        }
+      ],
+      "kanji": [
+        "kanji_城",
+        "kanji_次",
+        "kanji_茨"
+      ],
+      "grammar": []
+    }
+  ]
+}

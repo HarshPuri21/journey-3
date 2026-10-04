@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "kind": "packManifest",
+  "packId": "hokkaido",
+  "type": "prefecture",
+  "contentVersion": 3,
+  "engineSchemaMin": 1,
+  "title": "北海道",
+  "titleEn": "Hokkaido",
+  "cover": "assets/cover.png",
+  "dependencies": [],
+  "unlock": [],
+  "completion": [
+    {
+      "type": "testPassed",
+      "ref": "hokkaido/hokkaido_final"
+    }
+  ],
+  "completionCriteria": [
+    "Explain the basic purpose of kanji.",
+    "Distinguish kanji from kana.",
+    "Explain the basic idea of radicals/components.",
+    "Understand that radicals/components are clues, not guaranteed meanings.",
+    "Understand on'yomi and kun'yomi.",
+    "Recognize all Hokkaido locations in this package.",
+    "Count 1–10.",
+    "Recognize 100, 1,000, 10,000 and yen.",
+    "Recognize the weekdays.",
+    "Recognize the months.",
+    "Recognize important irregular date readings.",
+    "Ask what, when and how much.",
+    "Use は / が / を / に / で / の at beginner level.",
+    "Use です / ます.",
+    "Use basic adjective sentences.",
+    "Use あります / います.",
+    "Use basic destination/location sentences.",
+    "Recognize basic polite past tense.",
+    "Read the Hokkaido passage with decreasing furigana assistance.",
+    "Recognize the major vocabulary introduced throughout the package.",
+    "Understand that the same kanji may have multiple readings.",
+    "Recognize kanji inside actual vocabulary rather than only as isolated characters.",
+    "Recognize that some advanced/place-name kanji are being introduced for familiarity rather than immediate mastery."
+  ],
+  "chapters": [
+    {
+      "id": "sapporo",
+      "file": "chapters/sapporo.json",
+      "map": {
+        "x": 0.45,
+        "y": 0.38
+      }
+    },
+    {
+      "id": "hakodate",
+      "file": "chapters/hakodate.json",
+      "map": {
+        "x": 0.14,
+        "y": 0.92
+      }
+    },
+    {
+      "id": "chitose",
+      "file": "chapters/chitose.json",
+      "map": {
+        "x": 0.5,
+        "y": 0.6
+      }
+    },
+    {
+      "id": "otaru",
+      "file": "chapters/otaru.json",
+      "map": {
+        "x": 0.16,
+        "y": 0.3
+      }
+    },
+    {
+      "id": "asahikawa",
+      "file": "chapters/asahikawa.json",
+      "map": {
+        "x": 0.45,
+        "y": 0.12
+      }
+    },
+    {
+      "id": "biei",
+      "file": "chapters/biei.json",
+      "map": {
+        "x": 0.82,
+        "y": 0.2
+      }
+    },
+    {
+      "id": "furano",
+      "file": "chapters/furano.json",
+      "map": {
+        "x": 0.82,
+        "y": 0.42
+      }
+    },
+    {
+      "id": "kushiro",
+      "file": "chapters/kushiro.json",
+      "map": {
+        "x": 0.84,
+        "y": 0.66
+      }
+    },
+    {
+      "id": "noboribetsu",
+      "file": "chapters/noboribetsu.json",
+      "map": {
+        "x": 0.46,
+        "y": 0.8
+      }
+    }
+  ],
+  "reading": {
+    "id": "hokkaido_reading",
+    "title": "Hokkaido Reading Journey",
+    "file": "reading/hokkaido_reading.json",
+    "unlock": [
+      {
+        "type": "chapterComplete",
+        "ref": "hokkaido/noboribetsu"
+      }
+    ]
+  },
+  "knowledge": {
+    "kanji": "knowledge/kanji.json",
+    "radicals": "knowledge/radicals.json",
+    "vocabulary": "knowledge/vocabulary.json",
+    "grammar": "knowledge/grammar.json",
+    "sentences": "knowledge/sentences.json"
+  },
+  "questionBank": "tests/questions.json",
+  "tests": [
+    {
+      "id": "hokkaido_final",
+      "title": "Hokkaido Test",
+      "questionCount": 30,
+      "passRatio": 0.7,
+      "quotas": {
+        "kanji": 5,
+        "radical": 5,
+        "numbers": 5,
+        "vocabulary": 5,
+        "grammar": 5,
+        "reading": 5
+      },
+      "unlock": [
+        {
+          "type": "lessonComplete",
+          "ref": "hokkaido/hokkaido_reading"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    "assets/cover.png"
+  ]
+}

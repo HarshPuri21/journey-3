@@ -1,0 +1,1694 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_北",
+      "char": "北",
+      "meanings": [
+        "north"
+      ],
+      "onyomi": [
+        "ホク"
+      ],
+      "kunyomi": [
+        "きた"
+      ],
+      "components": [
+        {
+          "radical": "radical_hi",
+          "role": "classifier",
+          "note": "Traditional radical only - it does not mean 'north'."
+        }
+      ],
+      "notes": "The ancient form showed two people back to back."
+    },
+    {
+      "id": "kanji_海",
+      "char": "海",
+      "meanings": [
+        "sea"
+      ],
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "うみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "meaning",
+          "note": "Water clue."
+        }
+      ]
+    },
+    {
+      "id": "kanji_道",
+      "char": "道",
+      "meanings": [
+        "road",
+        "way"
+      ],
+      "onyomi": [
+        "ドウ"
+      ],
+      "kunyomi": [
+        "みち"
+      ],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "meaning",
+          "note": "Movement / road clue."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_路"
+      ]
+    },
+    {
+      "id": "kanji_札",
+      "char": "札",
+      "meanings": [
+        "tag",
+        "bill"
+      ],
+      "onyomi": [
+        "サツ"
+      ],
+      "kunyomi": [
+        "ふだ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "meaning",
+          "note": "Wood clue: tags and plates were once made of wood."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_樽"
+      ],
+      "notes": "Part of 札幌 (Sapporo)."
+    },
+    {
+      "id": "kanji_幌",
+      "char": "幌",
+      "meanings": [
+        "awning",
+        "hood"
+      ],
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "ほろ"
+      ],
+      "components": [
+        {
+          "radical": "radical_haba",
+          "role": "meaning",
+          "note": "Cloth clue: a 幌 is a cloth cover or hood."
+        }
+      ],
+      "notes": "Part of 札幌 (Sapporo)."
+    },
+    {
+      "id": "kanji_河",
+      "char": "河",
+      "meanings": [
+        "river"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "かわ"
+      ],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "meaning"
+        }
+      ]
+    },
+    {
+      "id": "kanji_池",
+      "char": "池",
+      "meanings": [
+        "pond"
+      ],
+      "onyomi": [
+        "チ"
+      ],
+      "kunyomi": [
+        "いけ"
+      ],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "meaning"
+        }
+      ]
+    },
+    {
+      "id": "kanji_湖",
+      "char": "湖",
+      "meanings": [
+        "lake"
+      ],
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "みずうみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "meaning"
+        }
+      ]
+    },
+    {
+      "id": "kanji_近",
+      "char": "近",
+      "meanings": [
+        "near"
+      ],
+      "onyomi": [
+        "キン"
+      ],
+      "kunyomi": [
+        "ちかい"
+      ],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "meaning"
+        }
+      ]
+    },
+    {
+      "id": "kanji_通",
+      "char": "通",
+      "meanings": [
+        "pass",
+        "go through"
+      ],
+      "onyomi": [
+        "ツウ"
+      ],
+      "kunyomi": [
+        "とおる",
+        "かよう"
+      ],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "meaning"
+        }
+      ]
+    },
+    {
+      "id": "kanji_遠",
+      "char": "遠",
+      "meanings": [
+        "far"
+      ],
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": [
+        "とおい"
+      ],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "meaning"
+        }
+      ]
+    },
+    {
+      "id": "kanji_日",
+      "char": "日",
+      "meanings": [
+        "sun",
+        "day"
+      ],
+      "onyomi": [
+        "ニチ",
+        "ジツ"
+      ],
+      "kunyomi": [
+        "ひ",
+        "か"
+      ],
+      "relatedKanji": [
+        "kanji_旭",
+        "kanji_曜"
+      ]
+    },
+    {
+      "id": "kanji_本",
+      "char": "本",
+      "meanings": [
+        "book",
+        "origin"
+      ],
+      "onyomi": [
+        "ホン"
+      ],
+      "kunyomi": [
+        "もと"
+      ]
+    },
+    {
+      "id": "kanji_部",
+      "char": "部",
+      "meanings": [
+        "part",
+        "section"
+      ],
+      "onyomi": [
+        "ブ"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_函",
+      "char": "函",
+      "meanings": [
+        "box",
+        "case"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "はこ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukebako",
+          "role": "meaning",
+          "note": "Container clue: an open box."
+        }
+      ],
+      "notes": "Part of 函館 (Hakodate)."
+    },
+    {
+      "id": "kanji_館",
+      "char": "館",
+      "meanings": [
+        "building",
+        "hall"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "やかた"
+      ],
+      "components": [
+        {
+          "radical": "radical_shoku",
+          "role": "meaning",
+          "note": "Food clue: such buildings once offered meals and lodging."
+        }
+      ],
+      "notes": "Part of 函館 (Hakodate)."
+    },
+    {
+      "id": "kanji_千",
+      "char": "千",
+      "meanings": [
+        "thousand"
+      ],
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "ち"
+      ],
+      "components": [
+        {
+          "radical": "radical_juu",
+          "role": "classifier",
+          "note": "Filed under 十 (ten): at most a number-family hint."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_万"
+      ],
+      "notes": "Part of 千歳 (Chitose)."
+    },
+    {
+      "id": "kanji_歳",
+      "char": "歳",
+      "meanings": [
+        "years old",
+        "age"
+      ],
+      "onyomi": [
+        "サイ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "とし"
+      ],
+      "components": [
+        {
+          "radical": "radical_tome",
+          "role": "classifier",
+          "note": "Filed under 止 (stop), but it gives no clear clue to \"age\"."
+        }
+      ],
+      "notes": "Part of 千歳 (Chitose)."
+    },
+    {
+      "id": "kanji_小",
+      "char": "小",
+      "meanings": [
+        "small"
+      ],
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "ちい",
+        "こ",
+        "お"
+      ],
+      "components": [
+        {
+          "radical": "radical_shou",
+          "role": "classifier",
+          "note": "小 is its own radical."
+        }
+      ],
+      "notes": "Part of 小樽 (Otaru)."
+    },
+    {
+      "id": "kanji_樽",
+      "char": "樽",
+      "meanings": [
+        "barrel"
+      ],
+      "onyomi": [
+        "ソン"
+      ],
+      "kunyomi": [
+        "たる"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "meaning",
+          "note": "Wood clue: barrels were made of wood."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_札"
+      ],
+      "notes": "Part of 小樽 (Otaru)."
+    },
+    {
+      "id": "kanji_旭",
+      "char": "旭",
+      "meanings": [
+        "rising sun",
+        "morning sun"
+      ],
+      "onyomi": [
+        "キョク"
+      ],
+      "kunyomi": [
+        "あさひ"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "meaning",
+          "note": "Sun clue."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_日"
+      ],
+      "notes": "Part of 旭川 (Asahikawa)."
+    },
+    {
+      "id": "kanji_川",
+      "char": "川",
+      "meanings": [
+        "river"
+      ],
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "かわ"
+      ],
+      "components": [
+        {
+          "radical": "radical_kawa",
+          "role": "classifier",
+          "note": "川 is its own radical: a picture of flowing water."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_釧"
+      ],
+      "notes": "Part of 旭川 (Asahikawa); you will meet it again inside 釧路."
+    },
+    {
+      "id": "kanji_美",
+      "char": "美",
+      "meanings": [
+        "beautiful"
+      ],
+      "onyomi": [
+        "ビ"
+      ],
+      "kunyomi": [
+        "うつく"
+      ],
+      "components": [
+        {
+          "radical": "radical_hitsuji",
+          "role": "classifier",
+          "note": "Filed under 羊 (sheep)."
+        }
+      ],
+      "notes": "Part of 美瑛 (Biei)."
+    },
+    {
+      "id": "kanji_瑛",
+      "char": "瑛",
+      "meanings": [
+        "crystal",
+        "lustre of a jewel"
+      ],
+      "onyomi": [
+        "エイ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_tama",
+          "role": "meaning",
+          "note": "Jewel clue (written 王 on the left side)."
+        }
+      ],
+      "notes": "Part of 美瑛 (Biei)."
+    },
+    {
+      "id": "kanji_富",
+      "char": "富",
+      "meanings": [
+        "wealth",
+        "rich"
+      ],
+      "onyomi": [
+        "フ",
+        "フウ"
+      ],
+      "kunyomi": [
+        "と(む)",
+        "とみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ukanmuri",
+          "role": "classifier",
+          "note": "Roof clue: a house."
+        }
+      ],
+      "notes": "Part of 富良野 (Furano)."
+    },
+    {
+      "id": "kanji_良",
+      "char": "良",
+      "meanings": [
+        "good"
+      ],
+      "onyomi": [
+        "リョウ"
+      ],
+      "kunyomi": [
+        "よ",
+        "い"
+      ],
+      "components": [
+        {
+          "radical": "radical_kon",
+          "role": "classifier",
+          "note": "Filed under 艮; it gives no useful clue here."
+        }
+      ],
+      "notes": "Part of 富良野 (Furano)."
+    },
+    {
+      "id": "kanji_野",
+      "char": "野",
+      "meanings": [
+        "field",
+        "plain"
+      ],
+      "onyomi": [
+        "ヤ"
+      ],
+      "kunyomi": [
+        "の"
+      ],
+      "components": [
+        {
+          "radical": "radical_sato",
+          "role": "meaning",
+          "note": "Land clue: village and fields."
+        }
+      ],
+      "notes": "Part of 富良野 (Furano)."
+    },
+    {
+      "id": "kanji_釧",
+      "char": "釧",
+      "meanings": [
+        "bracelet"
+      ],
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_kane",
+          "role": "meaning",
+          "note": "Metal clue: a bracelet is metal."
+        },
+        {
+          "radical": "radical_kawa",
+          "role": "sound",
+          "note": "川 (セン) also hints at the sound."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_川"
+      ],
+      "notes": "Part of 釧路 (Kushiro)."
+    },
+    {
+      "id": "kanji_路",
+      "char": "路",
+      "meanings": [
+        "road",
+        "path"
+      ],
+      "onyomi": [
+        "ロ"
+      ],
+      "kunyomi": [
+        "じ",
+        "みち"
+      ],
+      "components": [
+        {
+          "radical": "radical_ashi",
+          "role": "meaning",
+          "note": "Foot clue: roads are walked on."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_道"
+      ],
+      "notes": "Part of 釧路 (Kushiro). Like 道, it means road."
+    },
+    {
+      "id": "kanji_登",
+      "char": "登",
+      "meanings": [
+        "climb"
+      ],
+      "onyomi": [
+        "ト",
+        "トウ"
+      ],
+      "kunyomi": [
+        "のぼ"
+      ],
+      "components": [
+        {
+          "radical": "radical_hatsugashira",
+          "role": "classifier",
+          "note": "Filed under 癶 (footsteps): climbing is done on foot."
+        }
+      ],
+      "notes": "Part of 登別 (Noboribetsu)."
+    },
+    {
+      "id": "kanji_別",
+      "char": "別",
+      "meanings": [
+        "separate",
+        "different"
+      ],
+      "onyomi": [
+        "ベツ"
+      ],
+      "kunyomi": [
+        "わか(れる)"
+      ],
+      "components": [
+        {
+          "radical": "radical_katana",
+          "role": "meaning",
+          "note": "Blade clue: to cut apart."
+        }
+      ],
+      "notes": "Part of 登別 (Noboribetsu)."
+    },
+    {
+      "id": "kanji_一",
+      "char": "一",
+      "meanings": [
+        "one"
+      ],
+      "onyomi": [
+        "イチ",
+        "イツ"
+      ],
+      "kunyomi": [
+        "ひと(つ)"
+      ]
+    },
+    {
+      "id": "kanji_二",
+      "char": "二",
+      "meanings": [
+        "two"
+      ],
+      "onyomi": [
+        "ニ"
+      ],
+      "kunyomi": [
+        "ふた(つ)"
+      ]
+    },
+    {
+      "id": "kanji_三",
+      "char": "三",
+      "meanings": [
+        "three"
+      ],
+      "onyomi": [
+        "サン"
+      ],
+      "kunyomi": [
+        "みっ(つ)"
+      ]
+    },
+    {
+      "id": "kanji_四",
+      "char": "四",
+      "meanings": [
+        "four"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "よん",
+        "よ(つ)"
+      ]
+    },
+    {
+      "id": "kanji_五",
+      "char": "五",
+      "meanings": [
+        "five"
+      ],
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "いつ(つ)"
+      ]
+    },
+    {
+      "id": "kanji_六",
+      "char": "六",
+      "meanings": [
+        "six"
+      ],
+      "onyomi": [
+        "ロク"
+      ],
+      "kunyomi": [
+        "むっ(つ)"
+      ]
+    },
+    {
+      "id": "kanji_七",
+      "char": "七",
+      "meanings": [
+        "seven"
+      ],
+      "onyomi": [
+        "シチ"
+      ],
+      "kunyomi": [
+        "なな(つ)"
+      ]
+    },
+    {
+      "id": "kanji_八",
+      "char": "八",
+      "meanings": [
+        "eight"
+      ],
+      "onyomi": [
+        "ハチ"
+      ],
+      "kunyomi": [
+        "やっ(つ)"
+      ]
+    },
+    {
+      "id": "kanji_九",
+      "char": "九",
+      "meanings": [
+        "nine"
+      ],
+      "onyomi": [
+        "キュウ",
+        "ク"
+      ],
+      "kunyomi": [
+        "ここの(つ)"
+      ]
+    },
+    {
+      "id": "kanji_十",
+      "char": "十",
+      "meanings": [
+        "ten"
+      ],
+      "onyomi": [
+        "ジュウ"
+      ],
+      "kunyomi": [
+        "とお"
+      ],
+      "relatedKanji": [
+        "kanji_百"
+      ]
+    },
+    {
+      "id": "kanji_百",
+      "char": "百",
+      "meanings": [
+        "hundred"
+      ],
+      "onyomi": [
+        "ヒャク"
+      ],
+      "kunyomi": [],
+      "relatedKanji": [
+        "kanji_千"
+      ]
+    },
+    {
+      "id": "kanji_万",
+      "char": "万",
+      "meanings": [
+        "ten thousand"
+      ],
+      "onyomi": [
+        "マン"
+      ],
+      "kunyomi": [],
+      "relatedKanji": [
+        "kanji_円"
+      ]
+    },
+    {
+      "id": "kanji_円",
+      "char": "円",
+      "meanings": [
+        "yen"
+      ],
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_月",
+      "char": "月",
+      "meanings": [
+        "moon",
+        "month"
+      ],
+      "onyomi": [
+        "ゲツ",
+        "ガツ"
+      ],
+      "kunyomi": [
+        "つき"
+      ],
+      "relatedKanji": [
+        "kanji_曜"
+      ]
+    },
+    {
+      "id": "kanji_火",
+      "char": "火",
+      "meanings": [
+        "fire"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "ひ"
+      ]
+    },
+    {
+      "id": "kanji_水",
+      "char": "水",
+      "meanings": [
+        "water"
+      ],
+      "onyomi": [
+        "スイ"
+      ],
+      "kunyomi": [
+        "みず"
+      ]
+    },
+    {
+      "id": "kanji_木",
+      "char": "木",
+      "meanings": [
+        "tree",
+        "wood"
+      ],
+      "onyomi": [
+        "モク",
+        "ボク"
+      ],
+      "kunyomi": [
+        "き"
+      ]
+    },
+    {
+      "id": "kanji_金",
+      "char": "金",
+      "meanings": [
+        "gold",
+        "money"
+      ],
+      "onyomi": [
+        "キン"
+      ],
+      "kunyomi": [
+        "かね"
+      ]
+    },
+    {
+      "id": "kanji_土",
+      "char": "土",
+      "meanings": [
+        "earth",
+        "soil"
+      ],
+      "onyomi": [
+        "ド",
+        "ト"
+      ],
+      "kunyomi": [
+        "つち"
+      ]
+    },
+    {
+      "id": "kanji_曜",
+      "char": "曜",
+      "meanings": [
+        "day of the week"
+      ],
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [],
+      "relatedKanji": [
+        "kanji_日",
+        "kanji_月"
+      ]
+    },
+    {
+      "id": "kanji_行",
+      "char": "行",
+      "meanings": [
+        "go"
+      ],
+      "onyomi": [
+        "コウ",
+        "ギョウ"
+      ],
+      "kunyomi": [
+        "い(く)",
+        "ゆ(く)",
+        "おこな(う)"
+      ]
+    },
+    {
+      "id": "kanji_飲",
+      "char": "飲",
+      "meanings": [
+        "drink"
+      ],
+      "onyomi": [
+        "イン"
+      ],
+      "kunyomi": [
+        "の(む)"
+      ]
+    },
+    {
+      "id": "kanji_人",
+      "char": "人",
+      "meanings": [
+        "person"
+      ],
+      "onyomi": [
+        "ジン",
+        "ニン"
+      ],
+      "kunyomi": [
+        "ひと"
+      ]
+    },
+    {
+      "id": "kanji_有",
+      "char": "有",
+      "meanings": [
+        "have",
+        "exist"
+      ],
+      "onyomi": [
+        "ユウ",
+        "ウ"
+      ],
+      "kunyomi": [
+        "あ(る)"
+      ]
+    },
+    {
+      "id": "kanji_名",
+      "char": "名",
+      "meanings": [
+        "name",
+        "famous"
+      ],
+      "onyomi": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kunyomi": [
+        "な"
+      ]
+    },
+    {
+      "id": "kanji_写",
+      "char": "写",
+      "meanings": [
+        "copy",
+        "photograph"
+      ],
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "うつ(す)"
+      ]
+    },
+    {
+      "id": "kanji_真",
+      "char": "真",
+      "meanings": [
+        "true"
+      ],
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "ま"
+      ]
+    },
+    {
+      "id": "kanji_見",
+      "char": "見",
+      "meanings": [
+        "see"
+      ],
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "み(る)"
+      ]
+    },
+    {
+      "id": "kanji_昨",
+      "char": "昨",
+      "meanings": [
+        "previous",
+        "yesterday"
+      ],
+      "onyomi": [
+        "サク"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_南",
+      "char": "南",
+      "meanings": [
+        "south"
+      ],
+      "onyomi": [
+        "ナン"
+      ],
+      "kunyomi": [
+        "みなみ"
+      ]
+    },
+    {
+      "id": "kanji_東",
+      "char": "東",
+      "meanings": [
+        "east"
+      ],
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "ひがし"
+      ]
+    },
+    {
+      "id": "kanji_春",
+      "char": "春",
+      "meanings": [
+        "spring"
+      ],
+      "onyomi": [
+        "シュン"
+      ],
+      "kunyomi": [
+        "はる"
+      ]
+    },
+    {
+      "id": "kanji_夏",
+      "char": "夏",
+      "meanings": [
+        "summer"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "なつ"
+      ]
+    },
+    {
+      "id": "kanji_秋",
+      "char": "秋",
+      "meanings": [
+        "autumn"
+      ],
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "あき"
+      ]
+    },
+    {
+      "id": "kanji_冬",
+      "char": "冬",
+      "meanings": [
+        "winter"
+      ],
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "ふゆ"
+      ]
+    },
+    {
+      "id": "kanji_旅",
+      "char": "旅",
+      "meanings": [
+        "journey",
+        "trip"
+      ],
+      "onyomi": [
+        "リョ"
+      ],
+      "kunyomi": [
+        "たび"
+      ]
+    },
+    {
+      "id": "kanji_字",
+      "char": "字",
+      "meanings": [
+        "character",
+        "letter"
+      ],
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": [
+        "あざ"
+      ]
+    },
+    {
+      "id": "kanji_使",
+      "char": "使",
+      "meanings": [
+        "use"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "つか(う)"
+      ]
+    },
+    {
+      "id": "kanji_変",
+      "char": "変",
+      "meanings": [
+        "change",
+        "strange"
+      ],
+      "onyomi": [
+        "ヘン"
+      ],
+      "kunyomi": [
+        "か(わる)"
+      ]
+    },
+    {
+      "id": "kanji_最",
+      "char": "最",
+      "meanings": [
+        "most",
+        "extreme"
+      ],
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "もっと(も)"
+      ]
+    },
+    {
+      "id": "kanji_後",
+      "char": "後",
+      "meanings": [
+        "after",
+        "behind"
+      ],
+      "onyomi": [
+        "ゴ",
+        "コウ"
+      ],
+      "kunyomi": [
+        "のち",
+        "うし(ろ)",
+        "あと"
+      ]
+    },
+    {
+      "id": "kanji_温",
+      "char": "温",
+      "meanings": [
+        "warm"
+      ],
+      "onyomi": [
+        "オン"
+      ],
+      "kunyomi": [
+        "あたた(かい)"
+      ]
+    },
+    {
+      "id": "kanji_泉",
+      "char": "泉",
+      "meanings": [
+        "spring",
+        "fountain"
+      ],
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "いずみ"
+      ]
+    },
+    {
+      "id": "kanji_何",
+      "char": "何",
+      "meanings": [
+        "what"
+      ],
+      "onyomi": [
+        "カ"
+      ],
+      "kunyomi": [
+        "なに",
+        "なん"
+      ]
+    },
+    {
+      "id": "kanji_大",
+      "char": "大",
+      "meanings": [
+        "big"
+      ],
+      "onyomi": [
+        "ダイ",
+        "タイ"
+      ],
+      "kunyomi": [
+        "おお"
+      ]
+    },
+    {
+      "id": "kanji_町",
+      "char": "町",
+      "meanings": [
+        "town"
+      ],
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "まち"
+      ]
+    },
+    {
+      "id": "kanji_山",
+      "char": "山",
+      "meanings": [
+        "mountain"
+      ],
+      "onyomi": [
+        "サン"
+      ],
+      "kunyomi": [
+        "やま"
+      ]
+    },
+    {
+      "id": "kanji_図",
+      "char": "図",
+      "meanings": [
+        "diagram"
+      ],
+      "onyomi": [
+        "ズ",
+        "ト"
+      ],
+      "kunyomi": [
+        "はか"
+      ]
+    },
+    {
+      "id": "kanji_書",
+      "char": "書",
+      "meanings": [
+        "write"
+      ],
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "か"
+      ]
+    },
+    {
+      "id": "kanji_映",
+      "char": "映",
+      "meanings": [
+        "reflect",
+        "project"
+      ],
+      "onyomi": [
+        "エイ"
+      ],
+      "kunyomi": [
+        "うつ"
+      ]
+    },
+    {
+      "id": "kanji_画",
+      "char": "画",
+      "meanings": [
+        "picture"
+      ],
+      "onyomi": [
+        "ガ",
+        "カク"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_術",
+      "char": "術",
+      "meanings": [
+        "art",
+        "technique"
+      ],
+      "onyomi": [
+        "ジュツ"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_菜",
+      "char": "菜",
+      "meanings": [
+        "vegetable"
+      ],
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "な"
+      ]
+    },
+    {
+      "id": "kanji_誕",
+      "char": "誕",
+      "meanings": [
+        "birth"
+      ],
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_生",
+      "char": "生",
+      "meanings": [
+        "life",
+        "birth"
+      ],
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "い",
+        "う",
+        "なま"
+      ]
+    },
+    {
+      "id": "kanji_場",
+      "char": "場",
+      "meanings": [
+        "place"
+      ],
+      "onyomi": [
+        "ジョウ"
+      ],
+      "kunyomi": [
+        "ば"
+      ]
+    },
+    {
+      "id": "kanji_所",
+      "char": "所",
+      "meanings": [
+        "place"
+      ],
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "ところ"
+      ]
+    },
+    {
+      "id": "kanji_始",
+      "char": "始",
+      "meanings": [
+        "begin"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "はじ"
+      ]
+    },
+    {
+      "id": "kanji_数",
+      "char": "数",
+      "meanings": [
+        "number",
+        "count"
+      ],
+      "onyomi": [
+        "スウ"
+      ],
+      "kunyomi": [
+        "かず",
+        "かぞ"
+      ]
+    },
+    {
+      "id": "kanji_途",
+      "char": "途",
+      "meanings": [
+        "way",
+        "route"
+      ],
+      "onyomi": [
+        "ト"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_中",
+      "char": "中",
+      "meanings": [
+        "middle"
+      ],
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [
+        "なか"
+      ]
+    },
+    {
+      "id": "kanji_毎",
+      "char": "毎",
+      "meanings": [
+        "every"
+      ],
+      "onyomi": [
+        "マイ"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_間",
+      "char": "間",
+      "meanings": [
+        "interval"
+      ],
+      "onyomi": [
+        "カン",
+        "ケン"
+      ],
+      "kunyomi": [
+        "あいだ",
+        "ま"
+      ]
+    },
+    {
+      "id": "kanji_入",
+      "char": "入",
+      "meanings": [
+        "enter"
+      ],
+      "onyomi": [
+        "ニュウ"
+      ],
+      "kunyomi": [
+        "はい",
+        "い"
+      ]
+    },
+    {
+      "id": "kanji_疲",
+      "char": "疲",
+      "meanings": [
+        "tired"
+      ],
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "つか"
+      ]
+    },
+    {
+      "id": "kanji_休",
+      "char": "休",
+      "meanings": [
+        "rest"
+      ],
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "やす"
+      ]
+    },
+    {
+      "id": "kanji_終",
+      "char": "終",
+      "meanings": [
+        "end"
+      ],
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "お",
+        "つい"
+      ]
+    },
+    {
+      "id": "kanji_続",
+      "char": "続",
+      "meanings": [
+        "continue"
+      ],
+      "onyomi": [
+        "ゾク"
+      ],
+      "kunyomi": [
+        "つづ"
+      ]
+    },
+    {
+      "id": "kanji_次",
+      "char": "次",
+      "meanings": [
+        "next"
+      ],
+      "onyomi": [
+        "ジ",
+        "シ"
+      ],
+      "kunyomi": [
+        "つぎ",
+        "つ"
+      ]
+    },
+    {
+      "id": "kanji_青",
+      "char": "青",
+      "meanings": [
+        "blue",
+        "green"
+      ],
+      "onyomi": [
+        "セイ",
+        "ショウ"
+      ],
+      "kunyomi": [
+        "あお"
+      ]
+    },
+    {
+      "id": "kanji_森",
+      "char": "森",
+      "meanings": [
+        "forest"
+      ],
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "もり"
+      ]
+    },
+    {
+      "id": "kanji_体",
+      "char": "体",
+      "meanings": [
+        "body"
+      ],
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "からだ"
+      ]
+    },
+    {
+      "id": "kanji_今",
+      "char": "今",
+      "meanings": [
+        "now"
+      ],
+      "onyomi": [
+        "コン",
+        "キン"
+      ],
+      "kunyomi": [
+        "いま"
+      ]
+    },
+    {
+      "id": "kanji_景",
+      "char": "景",
+      "meanings": [
+        "scenery"
+      ],
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": []
+    },
+    {
+      "id": "kanji_色",
+      "char": "色",
+      "meanings": [
+        "color"
+      ],
+      "onyomi": [
+        "ショク",
+        "シキ"
+      ],
+      "kunyomi": [
+        "いろ"
+      ]
+    }
+  ]
+}

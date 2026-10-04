@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "kind": "lesson",
+  "id": "tochigi_reading",
+  "number": 5,
+  "title": "Tochigi Reading Journey",
+  "goal": "Read the complete thirty-sentence story with support, then reread and retrieve the connected words.",
+  "estimatedMinutes": 25,
+  "coreKanji": [],
+  "encounterKanji": [
+    "kanji_一",
+    "kanji_三",
+    "kanji_上",
+    "kanji_下",
+    "kanji_二",
+    "kanji_人",
+    "kanji_休",
+    "kanji_会",
+    "kanji_兄",
+    "kanji_先",
+    "kanji_光",
+    "kanji_写",
+    "kanji_分",
+    "kanji_利",
+    "kanji_十",
+    "kanji_午",
+    "kanji_友",
+    "kanji_土",
+    "kanji_女",
+    "kanji_好",
+    "kanji_妹",
+    "kanji_姉",
+    "kanji_子",
+    "kanji_学",
+    "kanji_宇",
+    "kanji_宮",
+    "kanji_少",
+    "kanji_待",
+    "kanji_後",
+    "kanji_手",
+    "kanji_日",
+    "kanji_時",
+    "kanji_曜",
+    "kanji_朝",
+    "kanji_本",
+    "kanji_来",
+    "kanji_次",
+    "kanji_水",
+    "kanji_生",
+    "kanji_男",
+    "kanji_真",
+    "kanji_短",
+    "kanji_私",
+    "kanji_絵",
+    "kanji_群",
+    "kanji_聞",
+    "kanji_花",
+    "kanji_行",
+    "kanji_見",
+    "kanji_言",
+    "kanji_読",
+    "kanji_足",
+    "kanji_週",
+    "kanji_道",
+    "kanji_那",
+    "kanji_都",
+    "kanji_長",
+    "kanji_須",
+    "kanji_食",
+    "kanji_飯",
+    "kanji_飲",
+    "kanji_馬",
+    "kanji_駅"
+  ],
+  "cards": [
+    {
+      "id": "tochigi_r01",
+      "title": "Utsunomiya: the older brother",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{来週|らいしゅう}の{土曜日|どようび}に{宇都宮|うつのみや}に{行|い}きます。",
+          "en": "Next Saturday I will go to Utsunomiya."
+        },
+        {
+          "type": "text",
+          "text": "Kana: らいしゅうのどようびにうつのみやにいきます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{兄|あに}と{行|い}きます。",
+          "en": "I will go with my older brother."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あにといきます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{兄|あに}は{学生|がくせい}です。",
+          "en": "My older brother is a student."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あにはがくせいです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Who will go with the narrator?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** The narrator's older brother; 兄."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r02",
+      "title": "Utsunomiya: the younger sister",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{午後一時|ごごいちじ}に{妹|いもうと}に{会|あ}います。",
+          "en": "I will meet my younger sister at 1 PM."
+        },
+        {
+          "type": "text",
+          "text": "Kana: ごごいちじにいもうとにあいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{妹|いもうと}も{学生|がくせい}です。",
+          "en": "My younger sister is also a student."
+        },
+        {
+          "type": "text",
+          "text": "Kana: いもうともがくせいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{駅|えき}で{十分|じゅっぷん}{待|ま}ちます。",
+          "en": "I will wait at the station for ten minutes."
+        },
+        {
+          "type": "text",
+          "text": "Kana: えきでじゅっぷんまちます。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What does も add in the second line?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** The younger sister is also a student, like the brother in R01."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r03",
+      "title": "Utsunomiya: food and a family term",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{兄|あに}と{妹|いもうと}とご{飯|はん}を{食|た}べます。",
+          "en": "I will eat a meal with my older brother and younger sister."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あにといもうととごはんをたべます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{友|とも}だちは「お{兄|にい}さんは{学生|がくせい}ですか」と{聞|き}きました。",
+          "en": "My friend asked, “Is your older brother a student?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: ともだちは「おにいさんはがくせいですか」とききました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「はい、{兄|あに}は{学生|がくせい}です」と{言|い}いました。",
+          "en": "I said, “Yes, my older brother is a student.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「はい、あにはがくせいです」といいました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Why does the friend use お兄さん?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** It is a polite reference to somebody else's older brother, while the narrator says 兄."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r04",
+      "title": "Nikko: an explicit introduction",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{日曜日|にちようび}に{日光|にっこう}に{行|い}きます。",
+          "en": "I will go to Nikko on Sunday."
+        },
+        {
+          "type": "text",
+          "text": "Kana: にちようびににっこうにいきます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{女|おんな}の{人|ひと}は{私|わたし}の{姉|あね}です。",
+          "en": "This woman is my older sister."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このおんなのひとはわたしのあねです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{姉|あね}は{先生|せんせい}です。",
+          "en": "My older sister is a teacher."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あねはせんせいです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** How do we know the woman is the narrator's sister?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** The sentence explicitly says 私の姉; appearance is not the evidence."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r05",
+      "title": "Nikko: people in a fictional photograph",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "この{写真|しゃしん}には、{男|おとこ}の{子|こ}が{二人|ふたり}います。",
+          "en": "In this photograph there are two boys."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このしゃしんには、おとこのこがふたりいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{女|おんな}の{子|こ}が{一人|ひとり}います。",
+          "en": "There is one girl."
+        },
+        {
+          "type": "text",
+          "text": "Kana: おんなのこがひとりいます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{子|こ}どもは{三人|さんにん}です。",
+          "en": "There are three children."
+        },
+        {
+          "type": "text",
+          "text": "Kana: こどもはさんにんです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** How many children are explicitly in this photograph?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Three: two boys and one girl in this stated, disjoint count."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r06",
+      "title": "Ashikaga: a preference",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{足利|あしかが}で{花|はな}を{見|み}ます。",
+          "en": "I will look at flowers in Ashikaga."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あしかがではなをみます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{私|わたし}は{花|はな}が{好|す}きです。",
+          "en": "I like flowers."
+        },
+        {
+          "type": "text",
+          "text": "Kana: わたしははながすきです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{姉|あね}も{花|はな}が{好|す}きです。",
+          "en": "My older sister also likes flowers."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あねもはながすきです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What do both the narrator and the sister like?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Flowers."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r07",
+      "title": "Ashikaga: enjoyment and skill",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{私|わたし}は{絵|え}が{好|す}きです。",
+          "en": "I like drawing."
+        },
+        {
+          "type": "text",
+          "text": "Kana: わたしはえがすきです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "でも、{絵|え}が{下手|へた}です。",
+          "en": "But I am not good at drawing."
+        },
+        {
+          "type": "text",
+          "text": "Kana: でも、えがへたです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{姉|あね}は{絵|え}が{上手|じょうず}です。",
+          "en": "My older sister is good at drawing."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あねはえがじょうずです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Who is good at drawing?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** The sister. The narrator likes it but says they are not good at it."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r08",
+      "title": "Ashikaga: a book invitation",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "これは{私|わたし}の{好|す}きな{本|ほん}です。",
+          "en": "This is a book I like."
+        },
+        {
+          "type": "text",
+          "text": "Kana: これはわたしのすきなほんです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "「いっしょに{読|よ}みませんか」と{言|い}いました。",
+          "en": "I said, “Would you like to read together?”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: 「いっしょによみませんか」といいました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{姉|あね}は「はい、{読|よ}みましょう」と{言|い}いました。",
+          "en": "My older sister said, “Yes, let's read.”"
+        },
+        {
+          "type": "text",
+          "text": "Kana: あねは「はい、よみましょう」といいました。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** What shared action is invited?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** Reading the book together."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r09",
+      "title": "Nasu: two road descriptions",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{那須|なす}に{来|き}ました。",
+          "en": "I came to Nasu."
+        },
+        {
+          "type": "text",
+          "text": "Kana: なすにきました。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "この{道|みち}は{長|なが}いです。",
+          "en": "This road is long."
+        },
+        {
+          "type": "text",
+          "text": "Kana: このみちはながいです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "その{道|みち}は{短|みじか}いです。",
+          "en": "That road is short."
+        },
+        {
+          "type": "text",
+          "text": "Kana: そのみちはみじかいです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Which road is described as short?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** その道, that road. No distance in kilometres is stated."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r10",
+      "title": "Nasu: quantity and rest",
+      "kind": "story",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "readingLine",
+          "jp": "{朝|あさ}は{人|ひと}が{少|すく}ないです。",
+          "en": "In the morning there are few people."
+        },
+        {
+          "type": "text",
+          "text": "Kana: あさはひとがすくないです。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{水|みず}を{少|すこ}し{飲|の}みます。そして、{休|やす}みます。",
+          "en": "I drink a little water. Then I rest."
+        },
+        {
+          "type": "text",
+          "text": "Kana: みずをすこしのみます。そして、やすみます。"
+        },
+        {
+          "type": "readingLine",
+          "jp": "{次|つぎ}は{群馬|ぐんま}です。",
+          "en": "Next is Gunma."
+        },
+        {
+          "type": "text",
+          "text": "Kana: つぎはぐんまです。"
+        },
+        {
+          "type": "text",
+          "text": "**Checkpoint:** Does 人が少ない give an exact count?"
+        },
+        {
+          "type": "text",
+          "text": "**Answer/review:** No, it says few. 少し modifies the amount of water drunk; そして connects the following rest."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r11",
+      "title": "Two complete rereadings",
+      "kind": "review",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "First reread all ten story cards using furigana, keeping each three-line scene together. Say the place/time, person or thing, and predicate before translating. Then use the continuous Japanese pass below. If a helped character blocks comprehension, return to its full word rather than trying every dictionary reading."
+        },
+        {
+          "type": "text",
+          "text": "来週の土曜日に宇都宮に行きます。兄と行きます。兄は学生です。"
+        },
+        {
+          "type": "text",
+          "text": "午後一時に妹に会います。妹も学生です。駅で十分待ちます。"
+        },
+        {
+          "type": "text",
+          "text": "兄と妹とご飯を食べます。友だちは「お兄さんは学生ですか」と聞きました。「はい、兄は学生です」と言いました。"
+        },
+        {
+          "type": "text",
+          "text": "日曜日に日光に行きます。この女の人は私の姉です。姉は先生です。"
+        },
+        {
+          "type": "text",
+          "text": "この写真には、男の子が二人います。女の子が一人います。子どもは三人です。"
+        },
+        {
+          "type": "text",
+          "text": "足利で花を見ます。私は花が好きです。姉も花が好きです。"
+        },
+        {
+          "type": "text",
+          "text": "私は絵が好きです。でも、絵が下手です。姉は絵が上手です。"
+        },
+        {
+          "type": "text",
+          "text": "これは私の好きな本です。「いっしょに読みませんか」と言いました。姉は「はい、読みましょう」と言いました。"
+        },
+        {
+          "type": "text",
+          "text": "那須に来ました。この道は長いです。その道は短いです。"
+        },
+        {
+          "type": "text",
+          "text": "朝は人が少ないです。水を少し飲みます。そして、休みます。次は群馬です。"
+        },
+        {
+          "type": "text",
+          "text": "The continuous pass is the same complete story, with no extra unintroduced sentences. Use it for an optional reduced-assistance reading after the fully assisted version."
+        }
+      ]
+    },
+    {
+      "id": "tochigi_r12",
+      "title": "Retell and recall",
+      "kind": "summary",
+      "scroll": true,
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Retell who the relatives are, which descriptions are explicit, and which people counts are exact. Contrast liking drawing with being good at it. Describe the two roads, then explain why 少ない alone does not give a number."
+        },
+        {
+          "type": "text",
+          "text": "**Model anchors:** 兄は学生です。 / あには がくせいです。 — My older brother is a student. 姉は絵が上手です。 / あねは えが じょうずです。 — My older sister is good at drawing. 人が少ないです。 / ひとが すくないです。 — There are few people."
+        },
+        {
+          "type": "text",
+          "text": "**Completion:** Finish the reading and its checkpoints, then take the prefecture test. Revisit a mistaken line using the review targets in the answer key. A reading completion mark records an attempted study pass, not permanent mastery of every assisted character."
+        }
+      ]
+    }
+  ],
+  "status": "final",
+  "completion": {
+    "title": "Tochigi reading complete",
+    "nextText": "Next: Tochigi Test"
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "schemaVersion": 1,
+  "kind": "vocabularySet",
+  "items": [
+    {
+      "id": "vocab_田",
+      "word": "田",
+      "reading": "た",
+      "meanings": [
+        "cultivated field; paddy"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_田"
+      ],
+      "exampleSentences": [
+        "sent_akita_r01_s01",
+        "sent_akita_r01_s02",
+        "sent_akita_r01_s03",
+        "sent_akita_r02_s02",
+        "sent_akita_r06_s02"
+      ]
+    },
+    {
+      "id": "vocab_田んぼ",
+      "word": "田んぼ",
+      "reading": "たんぼ",
+      "meanings": [
+        "rice paddy"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_田"
+      ],
+      "exampleSentences": [
+        "sent_akita_r01_s02",
+        "sent_akita_r01_s03"
+      ]
+    },
+    {
+      "id": "vocab_米",
+      "word": "米",
+      "reading": "こめ",
+      "meanings": [
+        "uncooked rice"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_米"
+      ],
+      "exampleSentences": [
+        "sent_akita_r02_s01"
+      ]
+    },
+    {
+      "id": "vocab_ご飯",
+      "word": "ご飯",
+      "reading": "ごはん",
+      "meanings": [
+        "cooked rice; meal"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_飯"
+      ],
+      "exampleSentences": [
+        "sent_akita_r02_s02",
+        "sent_akita_r06_s02",
+        "sent_akita_r08_s02",
+        "sent_akita_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_物",
+      "word": "物",
+      "reading": "もの",
+      "meanings": [
+        "thing"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_物"
+      ],
+      "exampleSentences": [
+        "sent_akita_r03_s01",
+        "sent_akita_r03_s02",
+        "sent_akita_r03_s03",
+        "sent_akita_r04_s03"
+      ]
+    },
+    {
+      "id": "vocab_食べ物",
+      "word": "食べ物",
+      "reading": "たべもの",
+      "meanings": [
+        "food, noun"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_物",
+        "kanji_食"
+      ],
+      "exampleSentences": [
+        "sent_akita_r03_s01",
+        "sent_akita_r04_s03"
+      ]
+    },
+    {
+      "id": "vocab_飲み物",
+      "word": "飲み物",
+      "reading": "のみもの",
+      "meanings": [
+        "beverage; drink, noun"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_物",
+        "kanji_飲"
+      ],
+      "exampleSentences": [
+        "sent_akita_r03_s02",
+        "sent_akita_r03_s03"
+      ]
+    },
+    {
+      "id": "vocab_角館",
+      "word": "角館",
+      "reading": "かくのだて",
+      "meanings": [
+        "Kakunodate, whole location name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_角",
+        "kanji_館"
+      ],
+      "exampleSentences": [
+        "sent_akita_r05_s01",
+        "sent_akita_r05_s02"
+      ]
+    },
+    {
+      "id": "vocab_書く",
+      "word": "書く",
+      "reading": "かく",
+      "meanings": [
+        "write"
+      ],
+      "pos": "verb",
+      "kanji": [
+        "kanji_書"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_文",
+      "word": "文",
+      "reading": "ぶん",
+      "meanings": [
+        "sentence"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_文"
+      ],
+      "exampleSentences": [
+        "sent_akita_r06_s01",
+        "sent_akita_r06_s03",
+        "sent_akita_r08_s03"
+      ]
+    },
+    {
+      "id": "vocab_文字",
+      "word": "文字",
+      "reading": "もじ",
+      "meanings": [
+        "characters; letters, whole compound"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_字",
+        "kanji_文"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_漢字",
+      "word": "漢字",
+      "reading": "かんじ",
+      "meanings": [
+        "kanji; Chinese-derived characters"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_字",
+        "kanji_漢"
+      ],
+      "exampleSentences": [
+        "sent_akita_r07_s03"
+      ]
+    },
+    {
+      "id": "vocab_読書",
+      "word": "読書",
+      "reading": "どくしょ",
+      "meanings": [
+        "reading books"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_書",
+        "kanji_読"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_紙",
+      "word": "紙",
+      "reading": "かみ",
+      "meanings": [
+        "paper, assisted"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_紙"
+      ],
+      "exampleSentences": [
+        "sent_akita_r07_s01"
+      ]
+    },
+    {
+      "id": "vocab_ノート",
+      "word": "ノート",
+      "reading": "のーと",
+      "meanings": [
+        "notebook"
+      ],
+      "pos": "noun",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_akita_r06_s01"
+      ]
+    },
+    {
+      "id": "vocab_短い",
+      "word": "短い",
+      "reading": "みじかい",
+      "meanings": [
+        "short, assisted"
+      ],
+      "pos": "adjective",
+      "kanji": [
+        "kanji_短"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_横手",
+      "word": "横手",
+      "reading": "よこて",
+      "meanings": [
+        "Yokote, course city name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_手",
+        "kanji_横"
+      ],
+      "exampleSentences": [
+        "sent_akita_r08_s01"
+      ]
+    },
+    {
+      "id": "vocab_朝",
+      "word": "朝",
+      "reading": "あさ",
+      "meanings": [
+        "morning"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_朝"
+      ],
+      "exampleSentences": [
+        "sent_akita_r08_s02"
+      ]
+    },
+    {
+      "id": "vocab_昼",
+      "word": "昼",
+      "reading": "ひる",
+      "meanings": [
+        "daytime; midday"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_昼"
+      ],
+      "exampleSentences": [
+        "sent_akita_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_夜",
+      "word": "夜",
+      "reading": "よる",
+      "meanings": [
+        "night"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_夜"
+      ],
+      "exampleSentences": [
+        "sent_akita_r08_s03"
+      ]
+    },
+    {
+      "id": "vocab_朝ご飯",
+      "word": "朝ご飯",
+      "reading": "あさごはん",
+      "meanings": [
+        "breakfast"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_朝",
+        "kanji_飯"
+      ],
+      "exampleSentences": [
+        "sent_akita_r08_s02"
+      ]
+    },
+    {
+      "id": "vocab_昼ご飯",
+      "word": "昼ご飯",
+      "reading": "ひるごはん",
+      "meanings": [
+        "lunch"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_昼",
+        "kanji_飯"
+      ],
+      "exampleSentences": [
+        "sent_akita_r09_s01"
+      ]
+    },
+    {
+      "id": "vocab_夜ご飯",
+      "word": "夜ご飯",
+      "reading": "よるごはん",
+      "meanings": [
+        "evening meal"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_夜",
+        "kanji_飯"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_晩ご飯",
+      "word": "晩ご飯",
+      "reading": "ばんごはん",
+      "meanings": [
+        "evening meal, assisted 晩"
+      ],
+      "pos": "noun",
+      "kanji": [
+        "kanji_晩",
+        "kanji_飯"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_毎朝",
+      "word": "毎朝",
+      "reading": "まいあさ",
+      "meanings": [
+        "every morning"
+      ],
+      "pos": "frequency",
+      "kanji": [
+        "kanji_朝",
+        "kanji_毎"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_毎晩",
+      "word": "毎晩",
+      "reading": "まいばん",
+      "meanings": [
+        "every evening, assisted 晩"
+      ],
+      "pos": "frequency",
+      "kanji": [
+        "kanji_晩",
+        "kanji_毎"
+      ],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_時々",
+      "word": "時々",
+      "reading": "ときどき",
+      "meanings": [
+        "sometimes; 々 repeats the previous character"
+      ],
+      "pos": "frequency",
+      "kanji": [
+        "kanji_時"
+      ],
+      "exampleSentences": [
+        "sent_akita_r10_s02"
+      ]
+    },
+    {
+      "id": "vocab_いつも",
+      "word": "いつも",
+      "reading": "いつも",
+      "meanings": [
+        "always; usually in everyday habit context"
+      ],
+      "pos": "frequency",
+      "kanji": [],
+      "exampleSentences": []
+    },
+    {
+      "id": "vocab_もう",
+      "word": "もう",
+      "reading": "もう",
+      "meanings": [
+        "already in the taught completed-action pattern"
+      ],
+      "pos": "adverb",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_akita_r09_s01",
+        "sent_akita_r09_s03"
+      ]
+    },
+    {
+      "id": "vocab_まだです",
+      "word": "まだです",
+      "reading": "まだです",
+      "meanings": [
+        "not yet, taught reply"
+      ],
+      "pos": "phrase",
+      "kanji": [],
+      "exampleSentences": [
+        "sent_akita_r09_s02"
+      ]
+    },
+    {
+      "id": "vocab_山形",
+      "word": "山形",
+      "reading": "やまがた",
+      "meanings": [
+        "Yamagata, assisted next prefecture name"
+      ],
+      "pos": "proper noun",
+      "kanji": [
+        "kanji_山",
+        "kanji_形"
+      ],
+      "exampleSentences": [
+        "sent_akita_r10_s03"
+      ]
+    }
+  ]
+}

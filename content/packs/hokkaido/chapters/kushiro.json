@@ -1,0 +1,21 @@
+{
+ "schemaVersion": 1,
+ "kind": "chapter",
+ "id": "kushiro",
+ "name": "釧路",
+ "nameEn": "Kushiro",
+ "reading": "くしろ",
+ "unlock": [
+  {
+   "type": "chapterComplete",
+   "ref": "hokkaido/furano"
+  }
+ ],
+ "lessonOrder": "sequential",
+ "lessons": [
+  {
+   "id": "kushiro_l01",
+   "file": "lessons/kushiro_l01.json"
+  }
+ ]
+}

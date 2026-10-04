@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "kind": "kanjiSet",
+  "items": [
+    {
+      "id": "kanji_米",
+      "char": "米",
+      "meanings": [
+        "uncooked rice"
+      ],
+      "onyomi": [
+        "ベイ",
+        "マイ"
+      ],
+      "kunyomi": [
+        "こめ"
+      ],
+      "components": [
+        {
+          "radical": "radical_kome",
+          "role": "classifier",
+          "note": "Whole grain-derived 米 form; independent rice word is こめ."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole grain-derived 米 form; independent rice word is こめ."
+    },
+    {
+      "id": "kanji_飯",
+      "char": "飯",
+      "meanings": [
+        "cooked rice",
+        "meal"
+      ],
+      "onyomi": [
+        "ハン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_shoku",
+          "role": "classifier",
+          "note": "食 side form 飠 beside 反; selected 食 family. ご飯 / ごはん means cooked rice or a meal."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_食"
+      ],
+      "notes": "食 side form 飠 beside 反; selected 食 family. ご飯 / ごはん means cooked rice or a meal."
+    },
+    {
+      "id": "kanji_物",
+      "char": "物",
+      "meanings": [
+        "thing"
+      ],
+      "onyomi": [
+        "ブツ",
+        "モツ"
+      ],
+      "kunyomi": [
+        "もの"
+      ],
+      "components": [
+        {
+          "radical": "radical_ushi",
+          "role": "classifier",
+          "note": "牛 side form 牜 beside 勿; selected 牛. Food/drink compounds end in もの."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "牛 side form 牜 beside 勿; selected 牛. Food/drink compounds end in もの."
+    },
+    {
+      "id": "kanji_角",
+      "char": "角",
+      "meanings": [
+        "horn",
+        "angle"
+      ],
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": [
+        "かど",
+        "つの"
+      ],
+      "components": [
+        {
+          "radical": "radical_tsuno",
+          "role": "classifier",
+          "note": "Whole horn-related indexing form, not 月 plus a reading rule. Whole name 角館 / かくのだて."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Whole horn-related indexing form, not 月 plus a reading rule. Whole name 角館 / かくのだて."
+    },
+    {
+      "id": "kanji_紙",
+      "char": "紙",
+      "meanings": [
+        "paper"
+      ],
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "かみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_itohen",
+          "role": "classifier",
+          "note": "糸 beside 氏, a historical sound component; assisted writing-surface word."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "糸 beside 氏, a historical sound component; assisted writing-surface word."
+    },
+    {
+      "id": "kanji_漢",
+      "char": "漢",
+      "meanings": [
+        "Chinese",
+        "Chinese-script"
+      ],
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_sanzui",
+          "role": "classifier",
+          "note": "氵 beside complex right-hand material; supported whole 漢字 / かんじ. Character remains assisted."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "氵 beside complex right-hand material; supported whole 漢字 / かんじ. Character remains assisted."
+    },
+    {
+      "id": "kanji_横",
+      "char": "横",
+      "meanings": [
+        "horizontal",
+        "side"
+      ],
+      "onyomi": [
+        "オウ"
+      ],
+      "kunyomi": [
+        "よこ"
+      ],
+      "components": [
+        {
+          "radical": "radical_ki",
+          "role": "classifier",
+          "note": "木 beside 黄, a historical sound element. Course city 横手 is よこて, not vocabulary よこで."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_手"
+      ],
+      "notes": "木 beside 黄, a historical sound element. Course city 横手 is よこて, not vocabulary よこで."
+    },
+    {
+      "id": "kanji_文",
+      "char": "文",
+      "meanings": [
+        "sentence",
+        "writing"
+      ],
+      "onyomi": [
+        "ブン",
+        "モン"
+      ],
+      "kunyomi": [
+        "ふみ"
+      ],
+      "components": [
+        {
+          "radical": "radical_bun",
+          "role": "classifier",
+          "note": "Whole 文 indexing family; crossed middle strokes below the top aid recognition. Taught sentence word is ぶん."
+        }
+      ],
+      "relatedKanji": [
+        "kanji_字"
+      ],
+      "notes": "Whole 文 indexing family; crossed middle strokes below the top aid recognition. Taught sentence word is ぶん."
+    },
+    {
+      "id": "kanji_朝",
+      "char": "朝",
+      "meanings": [
+        "morning"
+      ],
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "あさ"
+      ],
+      "components": [
+        {
+          "radical": "radical_tsuki",
+          "role": "classifier",
+          "note": "Left 十/日-like/十 stack beside 月; selected 月. These pieces are not a literal equation for morning."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Left 十/日-like/十 stack beside 月; selected 月. These pieces are not a literal equation for morning."
+    },
+    {
+      "id": "kanji_昼",
+      "char": "昼",
+      "meanings": [
+        "daytime",
+        "midday"
+      ],
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": [
+        "ひる"
+      ],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "Modern upper 尺-like section above a 旦-like part; selected 日. Context gives daytime or midday."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Modern upper 尺-like section above a 旦-like part; selected 日. Context gives daytime or midday."
+    },
+    {
+      "id": "kanji_夜",
+      "char": "夜",
+      "meanings": [
+        "night"
+      ],
+      "onyomi": [
+        "ヤ"
+      ],
+      "kunyomi": [
+        "よる"
+      ],
+      "components": [
+        {
+          "radical": "radical_yuube",
+          "role": "classifier",
+          "note": "Upper 亠-like strokes, left person-like section and lower-right evening-related shape; selected 夕."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "Upper 亠-like strokes, left person-like section and lower-right evening-related shape; selected 夕."
+    },
+    {
+      "id": "kanji_晩",
+      "char": "晩",
+      "meanings": [
+        "evening"
+      ],
+      "onyomi": [
+        "バン"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_nichi",
+          "role": "classifier",
+          "note": "日 on the left beside 免; assisted in 晩ご飯/毎晩, not formal mastery."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "日 on the left beside 免; assisted in 晩ご飯/毎晩, not formal mastery."
+    },
+    {
+      "id": "kanji_週",
+      "char": "週",
+      "meanings": [
+        "week"
+      ],
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [],
+      "components": [
+        {
+          "radical": "radical_shinnyou",
+          "role": "classifier",
+          "note": "辶 around 周; assisted future frequency expansion, not formal mastery."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "辶 around 周; assisted future frequency expansion, not formal mastery."
+    },
+    {
+      "id": "kanji_短",
+      "char": "短",
+      "meanings": [
+        "short"
+      ],
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": [
+        "みじか"
+      ],
+      "components": [
+        {
+          "radical": "radical_ya",
+          "role": "classifier",
+          "note": "矢 beside 豆; selected 矢. Assisted modifier 短い in the reading/writing lesson."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "矢 beside 豆; selected 矢. Assisted modifier 短い in the reading/writing lesson."
+    },
+    {
+      "id": "kanji_形",
+      "char": "形",
+      "meanings": [
+        "shape"
+      ],
+      "onyomi": [
+        "ケイ",
+        "ギョウ"
+      ],
+      "kunyomi": [
+        "かたち"
+      ],
+      "components": [
+        {
+          "radical": "radical_katachi",
+          "role": "classifier",
+          "note": "开-like left strokes and 彡 on the right; selected 彡. Next-name 山形 / やまがた stays assisted."
+        }
+      ],
+      "relatedKanji": [],
+      "notes": "开-like left strokes and 彡 on the right; selected 彡. Next-name 山形 / やまがた stays assisted."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+pubspec.lock
+*.iml
+.idea/
+.vscode/
+# Generated in CI by tool/bootstrap_android.sh (never hand-edited)
+/android/
+/ios/
+.metadata
+# Python
+__pycache__/
+*.pyc
+# Secrets
+*.jks
+*.keystore
+!tool/debug.keystore
+key.properties
